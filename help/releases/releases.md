@@ -1,7 +1,7 @@
 ---
 description: Verklaart de ononderbroken strategie van de eigenschapversie voor de Modelleur van de Adobe Mix
 title: Adobe Mix Modeler-releases
-source-git-commit: 827c25486bb56c80c52e663f391d60083e094f83
+source-git-commit: afe12371a1d5ac24377d67f4941ee14c8defd683
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
@@ -11,7 +11,6 @@ ht-degree: 0%
 # Adobe Mix Modeler-releases
 
 De versies van de Modelleur van de Mengeling van de Adobe werken op een ononderbroken leveringsmodel dat voor een scalable, gefaseerde benadering van eigenschapplaatsing toestaat.
-
 
 <!--
 ## Release strategy

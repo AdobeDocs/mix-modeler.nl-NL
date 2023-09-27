@@ -2,9 +2,9 @@
 title: Adobe Mix Modeler gebruiksgevallen
 description: Adobe Mix Modeler gebruikt gevallen.
 feature: Schemas, Datasets, Conversions, Harmonized Data, Marketing Touch Points, Models, Plans
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 5d86d07562deeb200d418000a73390616c916d7e
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '629'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Met dit gebruiksscenario kunt u de impact van marketing meten voor alle betaalka
 
 ### Uitdagingen
 
-De uitdagingen die deze gebruiksgeval richt zijn:
+De uitdagingen die deze gebruiksgevaladressen hebben zijn:
 
 * Moeilijk om incrementele prestaties te meten van de gegevens van de klantenreis, signaalverlies, en afgezette tuinen.
 * Inconsistentie in inzichten van gescheiden MMM - en MTA - methodologieën, waardoor het vertrouwen in de resultaten afneemt.
@@ -30,13 +30,13 @@ De uitdagingen die deze gebruiksgeval richt zijn:
 
 ### Benadering
 
-De op stap gebaseerde benadering voor dit gebruiksgeval:
+De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/>Gebruik bestaande investeringen in Adobe Analytics of Customer Journey Analytics om de implementatie te versnellen. |
-| Configureren | Vorm flexibele modellen gebruikend AI-as-a-Service kader voor uw specifieke bedrijfsdoelstellingen<br/>Zorg automatisch voor consistentie tussen aanraakpunt en overzichtsniveau met bidirectionele overdrachtstraining. |
-| Analyseren | Duidelijk inzicht in ROI van algemene marketing en individuele kanalen/subkanalen.<br/>Begrijp duidelijk welke aanraakpunten de beste aandrijvingsstijgende omzettingen zijn. |
+| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/>Pas bestaande investeringen in Adobe Analytics of Customer Journey Analytics toe op snelle implementatie. |
+| Configureren | Vorm flexibele modellen gebruikend een AI-as-a-Dienst kader voor uw specifieke bedrijfsdoelstellingen<br/>Zorg automatisch voor consistentie tussen aanraakpunt en overzichtsniveau met bidirectionele overdrachtstraining. |
+| Analyseren | Duidelijk begrijpen de ROI van algemene marketing en individuele kanalen/subkanalen.<br/>Begrijp duidelijk welke aanraakpunten de beste aandrijvingsstijgende omzettingen zijn. |
 
 {style="table-layout:auto"}
 
@@ -46,21 +46,21 @@ De op stap gebaseerde benadering voor dit gebruiksgeval:
 De succesvolle implementatie van dit gebruik kan de volgende gevolgen hebben:
 
 * Neem geaggregeerde gegevens, aanraakpuntgegevens en exogene variabelen op om de rijkste weergave van metingen te krijgen.
-* Gebruik de AI-as-a-Service-oplossing om snel modellen te maken voor het stimuleren van succes met toegang tot modeltransparantie voor het betrouwbaarheidsniveau.
-* Vergroten van het vertrouwen in strategische en tactische besluitvorming door de resultaten op overzichtsniveau en op aanraakpuntniveau op elkaar af te stemmen.
+* Gebruik een AI-as-a-Service-oplossing om snel modellen te maken voor het stimuleren van succes met toegang tot modeltransparantie voor het betrouwbaarheidsniveau.
+* Vergroten van het vertrouwen in strategische en tactische besluitvorming door middel van afstemming van resultaten op overzichtsniveau en op aanraakniveau.
 
 +++
 
 
 ## Marketing-plannen maken die rendement op investeringen optimaliseren
 
-Dit gebruiksgeval maakt gebruik van gebruiksvriendelijke, voor AI geschikte optimalisatie- en scenario-planningtools om het rendement van investeringen te maximaliseren.
+Dit gebruiksgeval gebruikt gebruikersvriendelijke, AI-Toegelaten optimalisering &amp; scenario planningshulpmiddelen om ROI te maximaliseren.
 
 +++ Details
 
 ### Uitdagingen
 
-De uitdagingen die deze gebruiksgeval richt zijn:
+De uitdagingen die deze gebruiksgevaladressen hebben zijn:
 
 * Gegevensgestuurde investeringsplannen voor marketingdoeleinden maken op basis van efficiëntiecurves, niet op basis van het gevoel van darmen.
 * Maximaliseer resultaten over veelvoudige geografische gebieden, lijnen van zaken, en kanalen gelijktijdig.
@@ -69,7 +69,7 @@ De uitdagingen die deze gebruiksgeval richt zijn:
 
 ### Benadering
 
-De op stap gebaseerde benadering voor dit gebruiksgeval:
+De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
@@ -90,44 +90,47 @@ De succesvolle implementatie van dit gebruik kan de volgende gevolgen hebben:
 
 +++
 
+<!-- This use case is not supported with initial release
 
-## Gegevensgestuurde inflight-optimalisaties maken
+## Make data-driven inflight optimizations
 
-Met dit gebruiksgeval kunt u uw ROI wekelijks verbeteren door werkelijke en voorspelde prestaties te beoordelen en zo verbeteringen in de belichting aan te brengen.
+This use case helps you to improve ROI weekly by assessing actual and forecasted performance to make inflight improvements.
 
 +++ Details
 
-### Uitdagingen
+### Challenges
 
-De uitdagingen die deze gebruiksgeval richt zijn:
+The challenges this use case addresses are:
 
-* De campagneresultaten zijn vaak traag of het ontbreekt aan granulariteit om vol vertrouwen te optimaliseren.
-* Berichten, niet-gestandaardiseerde gegevens over tientallen kanalen en bronnen zorgen voor een langzame tijd om inzicht te krijgen.
-* Geen gedemocratiseerde toegang tot hulpmiddelen en te grote afhankelijkheid van bepaalde experts of externe leveranciers, waardoor de doorlooptijd langer wordt.
+* Campaign performance is often slow, or lacks granularity need to confidently optimize.
+* Messy, non-standardized data across dozens of channels and sources drives slow time to insight.
+* No democratized access to tools and overreliance on select experts or external vendors, increasing turnaround times.
 
 
 
-### Benadering
+### Approach
 
-De op stap gebaseerde benadering voor dit gebruiksgeval:
+The step based approach for this use case:
 
-| Stap | Details |
+| Step | Details |
 |---|---|
-| Ingest | Vervang gegevens in gemeenschappelijke schema&#39;s voor gemakkelijke modelverfrissingen en herbruikbaarheid over de toepassingen van het Experience Platform.<br/>Stroomlijn de gegevenspijpleiding, schoonmaak &amp; QA met geautomatiseerde harmonisatiehulpmiddelen. |
-| Vernieuwen | Ontwerp en vernieuw AI/ML modellen gebruikend een gebruikersvriendelijk, zelfbedieningsplatform.<br/>Krijg nieuwe resultaten, met inbegrip van historische en voorspelde ROIs per kanaal, op een wekelijkse of maandelijkse basis. |
-| Optimaliseren | Maak snelle oplichtoptimalisaties door de uitgaven over kanalen te verschuiven op basis van gemeten prestaties. |
+| Ingest | Ingest data in common schemas for easy model refreshes and reusability across Experience Platform applications.<br/>Streamline data piping, cleaning & QA with automated harmonization tools. |
+| Refresh | Build and refresh AI/ML  models using a user-friendly, self-service platform.<br/>Get new results, including historic and forecasted ROIs by channel, on a weekly or monthly basis. |
+| Optimize | Make rapid inflight optimizations by shifting spend across channels based on measured performance. |
 
 {style="table-layout:auto"}
 
 
-### Gevolgen
+### Impact 
 
-De succesvolle implementatie van dit gebruik kan de volgende gevolgen hebben:
+Successful implementation of this use can have the following impact:
 
-* Maximaliseer snelheid, scalability, en bruikbaarheid over meting &amp; analytische gebruiksgevallen met gestandaardiseerde gegevensschema&#39;s en gemeenschappelijke gegevensstichting.
-* Maak snel wekelijkse of maandelijkse optimalisaties voor de belichting en maximaliseer de ROI met gegevensgestuurde uitgavenverschuivingen die de best voorspelde ROI&#39;s weerspiegelen.
+* Maximize speed, scalability, and usability across measurement & analytic use cases with standardized data schemas and common data foundation.
+* Rapidly make weekly or monthly inflight optimizations and maximize ROI with data-driven spend shifts that reflect best forecasted ROIs.
 
 +++
+
+-->
 
 ## Tactische inzichten in Adobe toepassingen activeren
 
@@ -137,20 +140,20 @@ Met dit gebruiksgeval krijgt u strategische incrementele inzichten van klantsegm
 
 ### Uitdagingen
 
-De uitdagingen die deze gebruiksgeval richt zijn:
+De uitdagingen die deze gebruiksgevaladressen hebben zijn:
 
 * Top-down oplossingen alleen kunnen bij het identificeren van korrelige zeer belangrijke optimalisatiemogelijkheden missen.
-* De output van metingsmodellen is overweldigend, te beschrijvend, en leidt niet gemakkelijk tot inzichten of acties.
+* De uitvoer van meetmodellen is overweldigend, te beschrijvend en leidt niet gemakkelijk tot inzichten of acties.
 * Kan geen ad-hocanalyses uitvoeren om inzichten te verkrijgen, omdat de modellen niet transparant zijn en er geen granulaire scores beschikbaar zijn.
 
 
 ### Benadering
 
-De op stap gebaseerde benadering voor dit gebruiksgeval:
+De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Model | Configureer en trainen het AI/ML-model om consistente MTA-aanraakpuntscores en MMM-aggregaatresultaten te verkrijgen. |
+| Model | Configureer en trainen een AI/ML-model om consistente MTA-aanraakpuntscores en MMM-aggregaatresultaten te verkrijgen. |
 | Analyseren | Exporteer incrementele aanraakpuntscores naar Customer Journey Analytics- of externe BI-gereedschappen.<br/>Voer korrelige analyse uit en bouw geavanceerde dashboards gebruikend touchpoint scores. |
 | Handeling | Maak en activeer lookalikes naar de meest gebruikte consumentensegmenten met Real-time Customer Data Platform.<br/>Ontwikkelen van gegevensgestuurde marketingstrategieën door klantsegmenten voor toekomstige campagnes. |
 
