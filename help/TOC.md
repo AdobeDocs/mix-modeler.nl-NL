@@ -2,7 +2,7 @@
 user-guide-title: Gemengd model
 breadcrumb-title: Gemengd model
 user-guide-description: Leer hoe u Gemengde modellen gebruikt.
-source-git-commit: afe12371a1d5ac24377d67f4941ee14c8defd683
+source-git-commit: 625ab651b676e50505f386cf70abb27f57f6c8f1
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 19%
@@ -57,7 +57,7 @@ ht-degree: 19%
 -->
 
 
-+ Uitstoot {#releaes}
++ Uitstoot {#releases}
    + [Meest recente release](releases/latest.md)
    + [2023 releases](releases/2023.md)
    + [Releaseproces](releases/releases.md)
