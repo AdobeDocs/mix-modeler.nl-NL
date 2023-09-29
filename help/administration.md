@@ -1,10 +1,10 @@
 ---
-title: Abonnementen vergelijken
-description: Leer hoe u plannen kunt vergelijken in Adobe Mix Modeler.
-source-git-commit: 1eaebc6f6178270a9e8aebb6b250e0b0a6289f52
+title: Beheer
+description: Leer hoe u Adobe Mix Modeler kunt beheren.
+source-git-commit: 4a6cbda1ff0a779ebf8a38a4de3f797ed9e54b00
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 6%
+source-wordcount: '158'
+ht-degree: 7%
 
 ---
 
@@ -17,11 +17,11 @@ Adobe Mix Modeler werkt alleen correct als u de juiste machtigingen instelt.
 
 In de gebruikersinterface van Adobe Experience Cloud:
 
-1. Selecteren **[!UICONTROL Permissions]** van de linkse spoorwegonderneming **[!UICONTROL ADMINISTRATION]**.
+1. Selecteren **[!UICONTROL Permissions]** van de linkerspoorstaaf, onder **[!UICONTROL ADMINISTRATION]**.
 
 1. Selecteren ![Persoon](assets/icons/User.svg) **[!UICONTROL Roles]** in het linkerdeelvenster.
 
-1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]**. Als u een bestaande rol hebt geselecteerd, selecteert u ![Bewerken](assets/icons/Edit.svg) **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
+1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]**. Als u een bestaande rol selecteert, selecteert u ![Bewerken](assets/icons/Edit.svg) **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
 
 1. Zorg ervoor dat u de volgende machtigingen voor de rol selecteert:
 

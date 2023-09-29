@@ -1,8 +1,8 @@
 ---
 title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in te voeren in de Modelleur van de Adobe.
-feature: Datasets
-source-git-commit: abbfc78e9fa774a240d000131f35d3dc257c15ea
+feature: Schemas
+source-git-commit: 4a6cbda1ff0a779ebf8a38a4de3f797ed9e54b00
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 1%
