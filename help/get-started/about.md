@@ -1,28 +1,28 @@
 ---
-title: Overzicht van Adobe mengen in model
-description: Bekijk een overzicht van de functionaliteit en mogelijkheden van Adobe Mix Modeler.
+title: Overzicht van Mix Modeler
+description: Bekijk een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 
-# Overzicht van Adobe mengen in model
+# Overzicht van Mix Modeler
 
-Met Adobe Mix Modeler, aangedreven door Adobe Sensei, kunnen marketers campagnes meten en de planning op alle kanalen holistisch optimaliseren: betaald, verdiend en in eigendom. De uniforme methodologie van de Commissie meet incrementeel op zowel marketingpunten als geaggregeerde niveaus, en zorgt voor volledig consistente resultaten.
+Met Mix Modeler, aangedreven door Adobe Sensei, kunnen marketers campagnes meten en de planning op alle kanalen holistisch optimaliseren: betaald, verdiend en bezeten. De uniforme methodologie van de Commissie meet incrementeel op zowel marketingpunten als geaggregeerde niveaus, en zorgt voor volledig consistente resultaten.
 
-Adobe Mix Modeler biedt het incrementele effect van alle marketingactiviteiten op zakelijke en campagneresultaten via een holistische (end-to-end) meettoepassing voor digitale en off-line marketing.
+Mix Modeler biedt het incrementele effect van alle marketingactiviteiten op de resultaten van bedrijven en campagnes via een holistische (end-to-end) meettoepassing voor digitale en off-line marketing.
 
-De Modelleur van de Mengeling van de Adobe verstrekt de volgende types van geoptimaliseerde en actionable inzichten op strategisch en tactisch niveau, zodat kunt u beter begrijpen:
+Mix Modeler biedt de volgende soorten geoptimaliseerde en activeerbare inzichten op strategisch en tactisch niveau, zodat u beter kunt begrijpen:
 
 * marketinguitgaven en de daaruit voortvloeiende prestaties langs verschillende kanalen, en
 * aanbevolen investeringsniveaus om toekomstige bedrijfsdoelstellingen te verwezenlijken.
 
 
-Voor deze functionaliteit combineert Adobe Mix Modeler:
+Voor deze functionaliteit combineert Mix Modeler:
 
 * bottom-up (event-level) gegevens en top-down (aggregeniveau) gegevens;
 * externe marktfactoren en interne factoren, en
@@ -35,7 +35,7 @@ Het bidirectionele overdrachtleren van AI/ML verenigt marketing mixmodellering (
 
 ## Mogelijkheden
 
-Adobe Mix Modeler biedt de volgende mogelijkheden:
+Mix Modeler biedt de volgende mogelijkheden:
 
 | Capaciteit | Beschrijving |
 |---|---|

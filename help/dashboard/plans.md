@@ -1,10 +1,10 @@
 ---
 title: Overzicht van plannen
-description: Leer hoe te om het planoverzicht in de Modelleur van de Adobe te gebruiken Mix.
+description: Leer hoe u het overzicht van de abonnementen in de Mix Modeler gebruikt.
 feature: Dashboard, Plans, Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >[!BADGE Alfa]{type=Informative}
 
 
-Het lusje van Abonnementen in het Overzicht van de Modellen van de Mengeling van de Adobe toont widgets voor [!UICONTROL Budget], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL KPI].
+Het tabblad Plannen in Overzicht van Mixxen Modeler toont widgets voor [!UICONTROL Budget], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL KPI].
 
 De gegevens die voor widgets worden weergegeven, worden bepaald door:
 

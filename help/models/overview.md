@@ -1,10 +1,10 @@
 ---
 title: Modellen
-description: Leer hoe te om modellen in de Modelleur van de Adobe te vormen en te gebruiken.
+description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Modellen
 
-De modelfunctionaliteit in de Modelleur van de Mengeling van de Adobe staat u toe om, AI/ML modellen te vormen op te leiden en te scoren specifiek voor uw bedrijfsdoelstellingen en gesteund door AI-gedreven overdrachtsstudie tussen multitouch attributie en marketing mixmodellering.
+De modelfunctionaliteit in Mix Modeler staat u toe om, AI/ML modellen te vormen op te leiden en te scoren specifiek voor uw bedrijfsdoelstellingen en gesteund door AI-gedreven overdrachtsstudie tussen multitouch attributie en marketing mixmodellering.
 
-De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de toepassingsworkflow van de Adobe Mix Modeler.
+De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de workflow van de Mix Modeler-toepassing.
 
 Om een model tot stand te brengen, gebruik de reeks-door-stap geleide modelconfiguratiestroom van het Modelmodel van de Mengeling beschikbaar wanneer u selecteert **[!UICONTROL Guide me]**. Zie [Een model maken](create.md) voor meer informatie .
 
 ## Modellen beheren
 
-Om een lijst van uw huidige modellen, in de interface van de Modelleur van de Adobe te bekijken:
+Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te bekijken:
 
 1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
@@ -64,14 +64,14 @@ Meer details van een model bekijken:
 
 >[!NOTE]
 >
->Deze selectie is alleen beschikbaar voor geslaagde getrainde modellen (modellen met de status Laatste uitvoering als geslaagd).
+>Deze selectie is alleen beschikbaar voor geslaagde getrainde modellen.
 >
 
-Om inzichten van een model, in de interface van de Modelleur van de Adobe te bekijken:
+Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 
 1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
-1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** table
+1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
 
 1. Selecteer in het contextmenu de optie **[!UICONTROL Model Insights]**. U wordt omgeleid naar [Modelinzichten](insights.md).
 

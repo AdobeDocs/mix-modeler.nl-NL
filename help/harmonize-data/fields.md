@@ -1,10 +1,10 @@
 ---
 title: Geharmoniseerde velden
-description: Leer hoe u velden definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Adobe Mix Modeler.
-feature: Harmonized Data
-source-git-commit: abbfc78e9fa774a240d000131f35d3dc257c15ea
+description: Leer hoe u velden definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
+feature: Harmonized Data, Harmonized Fields
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Met geharmoniseerde velden kunt u de velden definiëren die u wilt gebruiken als
 
 ## Globale harmonisatievelden
 
-De standaard beschikbare globale harmonisatievelden in de Modelleur van de Mengeling van de Adobe zijn:
+De standaard beschikbare globale harmonisatievelden in Mix Modeler zijn:
 
 
 | Veldnaam | Weergavenaam | Categorie | Gegevenstype | Opmerking |
@@ -53,7 +53,7 @@ U kunt uw eigen geharmoniseerde velden toevoegen, bewerken of verwijderen boven 
 
 ## Geharmoniseerde velden beheren
 
-Om een lijst van de beschikbare geharmoniseerde gebieden te zien, in de interface van de Modelleur van de Adobe:
+Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mix Modeler zien:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
 
@@ -81,7 +81,7 @@ Om een lijst van de beschikbare geharmoniseerde gebieden te zien, in de interfac
 
 ### Een geharmoniseerd veld toevoegen
 
-Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Modelleur van de Mengeling van de Adobe:
+Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg)Veld toevoegen.
 
@@ -107,7 +107,7 @@ Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataChec
 
 U kunt alleen geharmoniseerde velden bewerken die u eerder hebt gemaakt. U kunt een geharmoniseerd veld niet bewerken.
 
-Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Modelleur van de Mengeling van de Adobe:
+Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer het geharmoniseerde veld dat u wilt bewerken. Bijvoorbeeld, **[!UICONTROL Region]**.
 
@@ -121,7 +121,7 @@ Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](../assets
 
 U kunt alleen geharmoniseerde velden verwijderen die u eerder hebt gemaakt. U kunt een geharmoniseerd veld niet verwijderen.
 
-Als u een geharmoniseerd veld wilt verwijderen, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Modelleur van de Mengeling van de Adobe:
+Als u een geharmoniseerd veld wilt verwijderen, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer bijvoorbeeld het geharmoniseerde veld dat u wilt verwijderen **[!UICONTROL Region]**.
 

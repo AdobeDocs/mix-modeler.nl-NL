@@ -1,10 +1,10 @@
 ---
 title: Geharmoniseerd gegevensoverzicht dashboard
-description: Leer hoe u het dashboard voor een geharmoniseerd gegevensoverzicht kunt gebruiken in Adobe Mix Modeler.
+description: Leer hoe u het dashboard met geharmoniseerde gegevensoverzichten in Mix Modeler gebruikt.
 feature: Dashboard, Harmonized Data
-source-git-commit: abbfc78e9fa774a240d000131f35d3dc257c15ea
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overzicht van geharmoniseerde gegevens
 
-Het Geharmoniseerde lusje van Gegevens in het Overzicht van de Modelleur van de MENU van de Adobe verstrekt inzichten in de geharmoniseerde gegevens u om als deel van de opgenomen gegevens en de geharmoniseerde gegevensopstelling hebt gevormd te worden gebruikt.
+Het Geharmoniseerde lusje van Gegevens in het Overzicht van de Mix Modeler verstrekt inzichten in de geharmoniseerde gegevens u om als deel van de opgenomen gegevens en geharmoniseerde gegevensopstelling hebt gevormd te worden gebruikt.
 
 In het overzicht worden vier KPI-statuskaartwidgets (bovenste rij) en zes andere configureerbare widgets weergegeven.
 

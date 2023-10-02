@@ -1,10 +1,10 @@
 ---
 title: Gegevens harmoniseren
-description: Leer hoe u gegevens kunt harmoniseren in Adobe Mix Modeler.
+description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '798'
 ht-degree: 10%
 
 ---
@@ -12,16 +12,16 @@ ht-degree: 10%
 
 # Gegevens harmoniseren
 
-De gegevens in Adobe Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
+De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
 
-* geaggregeerde gegevens, bijvoorbeeld verzameld op basis van gegevens over de afgevuurde tuin;
+* geaggregeerde gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die zijn verzameld (zoals uitgaven) bij het uitvoeren van een reclamecampagne, een evenement of een fysieke advertentiecampagne;
 * gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via de Adobe Experience Platform Web, Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
 
-De harmonisatiedienst van de Modelleur van de Adobe van de Mengsel assimileert de gezamenlijke en gebeurtenisgegevens in een verenigbare gegevensmening. Deze gegevensmening is de bron voor de plannen en de modellen in de Modelleur van de Mengeling van de Adobe.
+De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensmening is de bron voor de plannen en de modellen in Mix Modeler.
 
 ## Een voorbeeld van geharmoniseerde gegevens
 
-Stel dat u over de volgende datasets beschikt voor Adobe Mix Modeler.
+Stel dat u de volgende datasets beschikbaar hebt voor Mix Modeler.
 
 **Dataset 1**
 
@@ -114,7 +114,7 @@ Om een geharmoniseerde dataset te bouwen, zoals in vereenvoudigde [voorbeeld](#a
 
 ## Geharmoniseerde gegevens weergeven
 
-Om uw geharmoniseerde gegevens te zien, in de interface van de Modelleur van de Adobe:
+Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van de linkerspoorstaaf.
 

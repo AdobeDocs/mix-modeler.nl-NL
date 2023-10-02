@@ -1,10 +1,10 @@
 ---
 title: Een model maken
-description: Leer hoe u een model maakt in Adobe Mix Modeler.
+description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Een model maken
 
-Om een model te creëren, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Adobe Mix Modeler, selecteer **[!UICONTROL Guide me]**.
+Om een model te creëren, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler, selecteert u **[!UICONTROL Guide me]**.
 
 Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-voor-stap geleide modelconfiguratiestroom.
 
 1. In de **[!UICONTROL Setup]** stap:
 
-   1. Voer uw model in **[!UICONTROL Name]** bijvoorbeeld `Demo model`. Voer een **[!UICONTROL Description]** bijvoorbeeld `Demo model to explore AI featues of Adobe Mix Modeler`.
+   1. Voer uw model in **[!UICONTROL Name]** bijvoorbeeld `Demo model`. Voer een **[!UICONTROL Description]** bijvoorbeeld `Demo model to explore AI featues of Mix Modeler`.
 
       ![Modelnaam en -beschrijving](../assets/model-name-description.png)
 
@@ -113,7 +113,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
    1. In de **[!UICONTROL Define training window]** sectie selecteert u tussen
 
-      * **[!UICONTROL Have Adobe Mix Modeler select a helpful training window]** en
+      * **[!UICONTROL Have Mix Modeler select a helpful training window]** en
 
       * **[!UICONTROL Manually input a training window]**. Indien geselecteerd, bepaal het aantal jaren in **[!UICONTROL Include events the following years prior to a conversion]**.
 

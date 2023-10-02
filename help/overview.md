@@ -1,19 +1,20 @@
 ---
-title: Overzicht van Adobe mengen in model
-description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Adobe Mix Modeler.
-source-git-commit: 9e89d9820c28021e151ad31874ac3bcbaa008f9c
+title: Overzicht van Mix Modeler
+description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Mix Modeler.
+feature: Harmonized Data, Models, Plans
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 3%
 
 ---
 
 
-# Handleiding Adobe mengen in model
+# AdobeMix Modeler-handleiding
 
 ![Banner](assets/mix-modeler-banner.png)
 
-Deze handleiding voor technische documentatie biedt zelfhulp voor **Adobe Mix Modeler**. Adobe Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning op alle kanalen horizontaal optimaliseert: betaald, verdiend en bezeten. Adobe Mix Modeler is gebouwd op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
+Deze handleiding voor technische documentatie biedt zelfhulp voor **Adobe Mix Modeler**. Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning horizontaal optimaliseert op alle kanalen: betaald, verdiend en eigendom. Mix Modeler is gebouwd op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
 
 >[!AVAILABILITY]
 >
@@ -21,7 +22,7 @@ Deze handleiding voor technische documentatie biedt zelfhulp voor **Adobe Mix Mo
 
 ## Aan de slag
 
-* Wat is [Adobe Mix Modeler](get-started/about.md)?
+* Wat is [Mix Modeler](get-started/about.md)?
 
 * Wat is een typisch [toepassingsworkflow](get-started/workflow.md)?
 

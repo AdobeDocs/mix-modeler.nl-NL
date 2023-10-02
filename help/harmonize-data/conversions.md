@@ -1,10 +1,10 @@
 ---
 title: conversies
-description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Adobe Mix Modeler.
+description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Conversions
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '241'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ U definieert marketingconversies voor toewijzingsanalyse.
 
 ## Conversies beheren
 
-Om een lijst van de beschikbare omzettingen, in de interface van de Modelleur van de Adobe te zien mengen:
+Om een lijst van de beschikbare omzettingen, in de interface van de Mix Modeler te zien:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
 
@@ -38,7 +38,7 @@ De tabelkolommen geven details over de conversie op:
 
 ## Conversie toevoegen
 
-Om een omzetting toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Conversion]** interface in Adobe Mix Modeler:
+Om een omzetting toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Conversion]** interface in Mix Modeler:
 
 1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion]**.
 

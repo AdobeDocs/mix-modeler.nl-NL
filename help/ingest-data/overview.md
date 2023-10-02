@@ -1,10 +1,10 @@
 ---
 title: Samenvattingsgegevens
-description: Leer hoe u gegevens in Adobe Mix Modeler kunt opnemen.
+description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
-source-git-commit: ae1c74ed2edf1e69e7ab77d16aba797921c14ad9
+source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '460'
 ht-degree: 10%
 
 ---
@@ -12,21 +12,23 @@ ht-degree: 10%
 
 # Samenvattingsgegevens
 
-Adobe Mix Modeler werkt met gegevens op gebeurtenisniveau en geaggregeerde gegevens over marketinginspanningen van verschillende gardens. Klanten kunnen alle soorten gegevens gebruiken die in Adobe Experience Platform als datasets worden opgenomen en die op op gebeurtenis-gebaseerde schema&#39;s van de Ervaring XDM zijn gebaseerd.
+Adobe Mix Modeler werkt met gegevens op gebeurtenisniveau, geaggregeerde gegevens over marketinginspanningen van diverse tuinen en aggregaten of samenvattende gegevens van andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
+
+De klanten kunnen om het even welk soort gegevens gebruiken die in Adobe Experience Platform als datasets worden opgenomen en die op schema&#39;s gebruikend XDM ExperienceEvent of XDM Summiere Metrics als basisklasse gebaseerd is.
 
 Bijvoorbeeld:
 
 * gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
 * gegevens die zijn verzameld met de Adobe Experience Platform Web SDK, Mobile SDK of Edge Network Server API voor het verzamelen van klantinteracties op het web, mobiele apparaten of andere apparaten;
-* samenvattingsgegevens van verschillende afgezette tuin/verkeersbronnen, gebaseerd op een schema dat de XDM Summiere klasse van Metriek met de het gebiedsgroep van de Samenvatting van het Verkeer en van de Omzetting omvat;
-* niet-marketinggegevens (bijvoorbeeld macro-economische indicatoren) die nuttig zijn voor modelopbouw;
+* geaggregeerde gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
+* niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
-U kunt elk door Adobe Experience Platform ondersteund mechanisme gebruiken om uw ervaringsniveau en geaggregeerde gegevens over de marketinginspanning in te voeren. Zoals de SDK&#39;s van Adobe Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname.
+U kunt om het even welk soort mechanisme, gesteund door Adobe Experience Platform, gebruiken om uw niveau van de ervaringsgebeurtenis, gezamenlijke marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Adobe Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname.
 
 
 ## Richtsnoeren
 
-Volg de onderstaande richtlijnen om gegevens in te voeren in Adobe Experience Platform voor gebruik met Adobe Mix Modeler:
+Volg de onderstaande richtlijnen om gegevens in te voeren in Adobe Experience Platform voor gebruik met Mix Modeler:
 
 * De incrementele gegevens die aan de gegevenssets worden toegevoegd, mogen elkaar niet overlappen.
 * Alle gegevens van één bron moeten dezelfde korreligheid hebben.
@@ -36,7 +38,7 @@ Volg de onderstaande richtlijnen om gegevens in te voeren in Adobe Experience Pl
 
 ## Voorbeelden
 
-Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk worden gebruikt in Adobe Mix Modeler naast meer standaardervaringsgebeurtenisgegevens.
+Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Modeler worden gebruikt en die verder gaan dan de gegevens van gebeurtenissen met meer standaardervaring.
 
 +++ Geaggregeerde gegevens over de marketinginspanning
 
@@ -78,7 +80,8 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk worden gebruikt
 
 +++
 
-Om met gegevens in de Modelleur van de Mengeling van de Adobe te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Adobe Experience Platform worden gemodelleerd. De interface van de Modelleur van de Mengeling van de Adobe verleent gemakkelijke toegang tot zowel de Schema&#39;s als Datasets UI.
+Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Adobe Experience Platform worden gemodelleerd. De interface van de Mix Modeler verleent gemakkelijke toegang tot zowel de Schema&#39;s als Datasets UI.
+
 
 >[!MORELIKETHIS]
 >

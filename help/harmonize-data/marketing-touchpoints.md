@@ -1,10 +1,10 @@
 ---
 title: Marketing-aanraakpunten
-description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Adobe Mix Modeler.
+description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Marketing Touch Points
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ U bepaalt marketing aanraakpunten om u bij attributieanalyse te helpen.
 
 ## Marketing-aanraakpunten beheren
 
-Een lijst van de beschikbare marketing touchpoints in de interface van de Modelleur van de Adobe zien:
+Om een lijst van de beschikbare marketing touchpoints in de interface van de Mix Modeler te zien:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
 
@@ -38,7 +38,7 @@ De tabelkolommen geven details over het marketingaanraakpunt:
 
 ## Een marketingaanraakpunt toevoegen
 
-Om een marketing aanraakpunt toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Marketing touchpoint]** interface in Adobe Mix Modeler:
+Om een marketing aanraakpunt toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Marketing touchpoint]** interface in Mix Modeler:
 
 1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg) marketingaanraakpunt toevoegen.
 

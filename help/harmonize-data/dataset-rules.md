@@ -1,10 +1,10 @@
 ---
 title: Gegevensregels
-description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in de Modelleur van de Adobe te gebruiken Mix.
+description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
 feature: Harmonized Data, Dataset Rules
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gegevensregels
 
-De regels van de gegevensset helpen u bij het in kaart brengen van uw geharmoniseerde gebieden met gebieden van de gegevens u in de Modelleur van de Mengeling van de Adobe werd opgenomen.
+De gegevenssetregels helpen u bij het in kaart brengen van uw geharmoniseerde gebieden met gebieden van de gegevens u in Mix Modeler hebt opgenomen.
 
 * Voor geaggregeerde gegevens die u in Adobe Experience Platform hebt ingevoerd, wijst u een of meer van de beschikbare gegevenssetvelden toe aan de juiste geharmoniseerde velden.
 * Voor gebeurtenisgegevens kunt u een of meer geharmoniseerde velden afzonderlijk toewijzen aan velden uit de gegevensset, rechtstreeks of met behulp van voorwaarden.
@@ -20,7 +20,7 @@ De regels van de gegevensset helpen u bij het in kaart brengen van uw geharmonis
 
 ## Gegevenssetregels en toewijzingen beheren
 
-Om een lijst van de beschikbare datasettoewijzingen te zien, in de interface van de Modelleur van de Adobe mengen:
+Om een lijst van de beschikbare datasetafbeeldingen, in de interface van de Mix Modeler te zien:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
 
@@ -32,7 +32,7 @@ De lijstkolommen specificeren details over de datasetafbeeldingen:
 | ---------------------- | ----------|
 | Gegevensset | De naam van de gegevensset. |
 | Bron | De bron van de dataset, die Adobe Analytics, de Gebeurtenissen van de Ervaring, Samenvatting (bijeengevoegde), of de Gebeurtenissen van de Ervaring van de Consumenten kan zijn. |
-| Schema | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in de Modelleur van de Adobe te openen van de Mengeling - Schema&#39;s. |
+| Schema | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in Mix Modeler te openen - Schema&#39;s. |
 | Korreligheid | De granulariteit van gegevens in de dataset. Mogelijke waarden zijn Dagelijks, Wekelijks, Maandelijks of Jaarlijks. |
 | Begin van de week | Geeft aan welke dag van de week wordt beschouwd als het begin van een nieuwe week voor de specifieke gegevensset. |
 | Laatst gewijzigd | Gegevens en tijdstip van de laatste wijziging van de gegevenssettoewijzing. |
@@ -41,7 +41,7 @@ De lijstkolommen specificeren details over de datasetafbeeldingen:
 
 ### Een gegevenssettoewijzing maken
 
-Om een datasetafbeelding tot stand te brengen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Adobe Mix Modeler, selecteer **[!UICONTROL Create Dataset Mapping]**.
+Om een datasetafbeelding tot stand te brengen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler, selecteert u **[!UICONTROL Create Dataset Mapping]**.
 
 In de **[!UICONTROL Create]** scherm,
 
@@ -107,7 +107,7 @@ Selecteer **[!UICONTROL Save]** om de toewijzing op te slaan, of selecteer **[!U
 
 ### Een gegevenssettoewijzing bewerken
 
-Om een datasetafbeelding uit te geven, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Adobe Mix Modeler:
+Om een datasetafbeelding uit te geven, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
 
 1. Selecteren ![Meer](../assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetafbeelding die u wilt uitgeven.
 1. Selecteer in het contextmenu de optie ![Bewerken](../assets/icons/Edit.svg) **[!UICONTROL Edit]** om te beginnen met het bewerken van de gegevenssettoewijzing. Zie [Een gegevenssettoewijzing maken](#create-a-dataset-mapping) voor meer informatie .
@@ -115,7 +115,7 @@ Om een datasetafbeelding uit te geven, in ![DataSearch](../assets/icons/DataChec
 
 ### Een gegevenssettoewijzing verwijderen
 
-Om een datasetafbeelding te schrappen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Adobe Mix Modeler:
+Om een datasetafbeelding te schrappen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
 
 1. Selecteren ![Meer](../assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetafbeelding die u wilt schrappen.
 1. Selecteer in het contextmenu de optie ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetafbeelding te schrappen.

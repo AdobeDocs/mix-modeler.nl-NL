@@ -1,10 +1,10 @@
 ---
 title: Abonnementen vergelijken
-description: Leer hoe u plannen kunt vergelijken in Adobe Mix Modeler.
+description: Leer hoe u plannen in de Mix Modeler kunt vergelijken.
 feature: Plans
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Abonnementen vergelijken
 
-Om plannen in de interface van de Abonnementen van de Modellen van de Adobe te vergelijken:
+Om plannen in de interface van de Abonnementen van de Mix Modeler te vergelijken:
 
 * Selecteren ![Ververgelijken](../assets/icons/Compare.svg) **[!UICONTROL Compare Plans]**. Selecteer bij Vergelijkingsplannen een abonnement voor elke **[!UICONTROL _Abonnement selecteren_]**.
 

@@ -1,10 +1,10 @@
 ---
 title: Abonnementen
-description: Leer hoe te om, en actie op plannen in de Modelleur van de Adobe te bekijken te selecteren.
+description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 # Abonnementen
 
-De plannen in de Modelleur van de Mengeling van de Adobe staan u toe om begrotingen door bedrijfseenheid en kanaal toe te wijzen. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
+De plannen in Mix Modeler staan u toe om begrotingen door bedrijfseenheid en kanaal toe te wijzen. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
 
 
 ## Abonnementen weergeven
 
-Om een lijst van uw huidige plannen, in de interface van de Modelleur van de Adobe te bekijken:
+Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekijken:
 
 1. Selecteren ![](../assets/icons/FileChart.svg) **[!UICONTROL Plans]** van de linkerspoorstaaf.
 

@@ -1,18 +1,20 @@
 ---
-title: De opmerkingen bij de huidige release van Adobe Mix Modeler weergeven
+title: De opmerkingen bij de huidige release van de Mix Modeler weergeven
 description: Opmerkingen bij de nieuwste release van Mix Modeler
-source-git-commit: 592d85cf9b1dfde8a9ca087d14445339fb64ecc7
+feature-set: Experience Cloud
+feature: Release Notes
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
 
-# Opmerkingen bij de release Huidige Adobe Mix Modeler
+# Opmerkingen bij de release Huidige Mix Modeler
 
 **Laatste update**: 4 oktober 2023.
 
-Deze releaseopmerkingen betreffen de eerste release van Adobe Mix Modeler. De uitstoot van Adobe Mix Modeler werkt op een ononderbroken leveringsmodel dat voor een ongeveer maandelijkse versiedatentie toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+Deze releaseopmerkingen betreffen de eerste release van Mix Modeler. De uitstoot van Mix Modeler werkt op een ononderbroken leveringsmodel dat voor een ongeveer maandelijkse versiedatentie toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
 
 ## Nieuwe of bijgewerkte functies
@@ -29,8 +31,8 @@ Deze releaseopmerkingen betreffen de eerste release van Adobe Mix Modeler. De ui
 
 >[!MORELIKETHIS]
 >
->* [Inleiding tot Adobe Mix Modeler](https://business.adobe.com/products/experience-platform/planning-and-measurement.html)
->* [Documentatie Adobe Mix Modeler Experience League](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
+>* [Inleiding tot Mix Modeler](https://business.adobe.com/products/experience-platform/planning-and-measurement.html)
+>* [Documentatie Mix Modeler Experience League](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
 
 
 

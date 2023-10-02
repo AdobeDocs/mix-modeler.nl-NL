@@ -1,18 +1,18 @@
 ---
-title: Adobe Mix Modeler gebruiksgevallen
-description: Adobe Mix Modeler gebruikt gevallen.
+title: Gebruiksgevallen Mix Modeler
+description: Mix Modeler gebruikgevallen.
 feature: Schemas, Datasets, Conversions, Harmonized Data, Marketing Touch Points, Models, Plans
-source-git-commit: 5d86d07562deeb200d418000a73390616c916d7e
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Mix Modeler gebruiksgevallen
+# Gebruiksgevallen Mix Modeler
 
-Met Adobe Mix Modeler zijn de volgende hoofdgebruikscenario&#39;s mogelijk.
+Mix Modeler laat de volgende zeer belangrijke gebruiksgevallen toe.
 
 ## Indrukwekkende prestaties in alle kanalen begrijpen
 

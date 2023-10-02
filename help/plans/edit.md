@@ -1,10 +1,10 @@
 ---
 title: Een abonnement bewerken
-description: Leer hoe u een abonnement kunt bewerken in Adobe Mix Modeler.
+description: Leer hoe u een abonnement in Mix Modeler kunt bewerken.
 feature: Plans
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een abonnement bewerken
 
-Als u een abonnement wilt bewerken, gaat u in het dialoogvenster ![PLan](../assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in de Modelleur van de Mengeling van de Adobe, selecteer uw plan door zijn naam.
+Als u een abonnement wilt bewerken, gaat u in het dialoogvenster ![PLan](../assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in Mix Modeler, selecteer uw plan door zijn naam.
 
 In [!UICONTROL Plan insights], uw abonnementsinzichten worden gemaakt en toont de [!UICONTROL Model]de [!UICONTROL Data range], en [!UICONTROL Total budget] waarop het plan is gebaseerd.
 

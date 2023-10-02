@@ -1,15 +1,15 @@
 ---
-title: Verklarende woordenlijst Adobe mengen
-description: Verklarende woordenlijst Adobe mengen.
+title: Verklarende woordenlijst Mixxen Modeler
+description: Verklarende woordenlijst van Mixxen Modeler.
 feature: Datasets, Conversions, Marketing Touch Points, Harmonized Data
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Verklarende woordenlijst Adobe mengen
+# Verklarende woordenlijst Mixxen Modeler
 
 In de documentatie worden de volgende terminologie en acroniemen gebruikt:
 

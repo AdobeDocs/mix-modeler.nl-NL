@@ -1,8 +1,8 @@
 ---
 title: Modelinzichten
-description: Leer hoe u details over uw model ophaalt, zoals historisch overzicht, modelinzichten en modelkwaliteit in Adobe Mix Modeler.
+description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modelinzichten
 
-Om modelinzichten te bekijken, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Adobe Mix Modeler:
+Om modelinzichten te bekijken, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler:
 
 1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
 
@@ -68,5 +68,7 @@ Op het tabblad Modelkwaliteit worden widgets voor meten weergegeven:
 * MAPE (gemiddelde absolute percentagefout), een van de meest gebruikte PKI&#39;s om de nauwkeurigheid van de voorspelling te meten en geeft de voorspelde fout weer als percentage van de werkelijke waarde.
 
 * RMSE (Root Mean Square Error): geeft de gemiddelde &quot;error&quot; aan, gewogen volgens het vierkant van de fout.
+
+![Modelkwaliteit](../assets/model-quality.png)
 
 

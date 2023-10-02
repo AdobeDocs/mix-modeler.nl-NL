@@ -1,10 +1,10 @@
 ---
 title: Overzicht
-description: Leer hoe u uw geharmoniseerde gegevens en plannen kunt bekijken in Adobe Mix Modeler.
+description: Leer hoe u uw geharmoniseerde gegevens en plannen in de Mix Modeler kunt bekijken.
 feature: Dashboard, Plans, Harmonized Data, Models
-source-git-commit: ac17f5a9fcf036c8e689879578e4b745b789cea3
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '61'
 ht-degree: 1%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 1%
 # Overzichtdashboard
 
 
-Het overzichtdashboard in de Modelleur van de Mengeling van de Adobe staat u toe om uw geharmoniseerde gegevens en uw plannen door diverse configureerbare widgets te bekijken.
+Met het overzichtsdashboard in Mix Modeler kunt u een overzicht geven van uw geharmoniseerde gegevens en uw plannen via verschillende configureerbare widgets.
 
-Als u het overzicht wilt openen, selecteert u ![Home](../assets/icons/Home.svg) **[!UICONTROL Overview]** van de linkerspoorlijn in de interface van de Modelleur van de Adobe.
+Als u het overzicht wilt openen, selecteert u ![Home](../assets/icons/Home.svg) **[!UICONTROL Overview]** van de linkerspoorstaaf in de Mix Modeler interface.
 
 Hier kun je meer informatie vinden op:
 

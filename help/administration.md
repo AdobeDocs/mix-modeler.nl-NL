@@ -1,9 +1,10 @@
 ---
 title: Beheer
-description: Leer hoe u Adobe Mix Modeler kunt beheren.
-source-git-commit: 4a6cbda1ff0a779ebf8a38a4de3f797ed9e54b00
+description: Leer hoe u Mix Modeler kunt beheren.
+feature: Administration
+source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 7%
 
 ---
@@ -11,9 +12,9 @@ ht-degree: 7%
 
 # Beheer
 
-Gebruik de [Adobe Admin Console](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) het beheer van producten en gebruikers van Adobe Mixxen Modeler.
+Gebruik de [Adobe Admin Console](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) het beheer van producten en gebruikers van Mixxen Modeler.
 
-Adobe Mix Modeler werkt alleen correct als u de juiste machtigingen instelt.
+Mix Modeler werkt alleen correct als u de juiste machtigingen instelt.
 
 In de gebruikersinterface van Adobe Experience Cloud:
 
@@ -35,10 +36,16 @@ In de gebruikersinterface van Adobe Experience Cloud:
 
    * **[!UICONTROL Data Ingestion]**: zorg dat u **[!UICONTROL View Sources]** en **[!UICONTROL Manage Sources]**.
 
+   <!--
+    * **[!UICONTROL Data Governance]**: ensure you select **[!UICONTROL View User Activity Log]** and **[!UICONTROL View Data Usage Policies]**.
+    -->
+
    De machtigingen die voor de rol zijn ingesteld, moeten er als volgt uitzien:
 
    ![Machtigingen](assets/permissions.png)
 
+   <!--![Permissions](assets/permissions-including-privacy.png)-->
+
    Selecteren **[!UICONTROL Save]** om de machtigingen op te slaan.
 
-1. In **[!UICONTROL Details]** binnen **[!UICONTROL Role]** de passende **[!UICONTROL Users]** en/of **[!UICONTROL User groups]** om gebruikers toegang tot Adobe Mix Modeler te verlenen.
+1. In **[!UICONTROL Details]** binnen **[!UICONTROL Role]** de passende **[!UICONTROL Users]** en/of **[!UICONTROL User groups]** om gebruikers toegang tot Mix Modeler te verlenen.

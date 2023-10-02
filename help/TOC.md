@@ -2,20 +2,20 @@
 user-guide-title: Gemengd model
 breadcrumb-title: Gemengd model
 user-guide-description: Leer hoe u Gemengde modellen gebruikt.
-source-git-commit: 1eaebc6f6178270a9e8aebb6b250e0b0a6289f52
+source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 21%
+source-wordcount: '63'
+ht-degree: 31%
 
 ---
 
 
-# Handleiding Adobe mengen in model {#using}
+# Handleiding voor Mix Modeler {#using}
 
-+ [Handleiding Adobe mengen in model](overview.md)
++ [Handleiding voor Mix Modeler](overview.md)
 
 + Aan de slag {#get-started}
-   + [Wat is Adobe Mix Modeler?](get-started/about.md)
+   + [Wat is Mix Modeler?](get-started/about.md)
    + [Toepassingsworkflow](get-started/workflow.md)
 
 + Dashboard {#dashboard}
