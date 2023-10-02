@@ -2,15 +2,15 @@
 title: Overzicht van Mix Modeler
 description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Mix Modeler.
 feature: Harmonized Data, Models, Plans
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+source-git-commit: d02cfdf3ad5a0872a0f9c2c9f98973e79f1a9de8
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '97'
 ht-degree: 3%
 
 ---
 
 
-# AdobeMix Modeler-handleiding
+# Handleiding Adobe mengen in model
 
 ![Banner](assets/mix-modeler-banner.png)
 

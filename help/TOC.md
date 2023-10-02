@@ -1,11 +1,11 @@
 ---
-user-guide-title: Gemengd model
-breadcrumb-title: Gemengd model
-user-guide-description: Leer hoe u Gemengde modellen gebruikt.
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+user-guide-title: Handleiding Adobe mengen in model
+breadcrumb-title: Handleiding voor Mix Modeler
+user-guide-description: Leer hoe u Adobe Mix Modeler kunt gebruiken.
+source-git-commit: d02cfdf3ad5a0872a0f9c2c9f98973e79f1a9de8
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 31%
+source-wordcount: '67'
+ht-degree: 34%
 
 ---
 
