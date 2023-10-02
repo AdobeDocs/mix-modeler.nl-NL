@@ -1,11 +1,11 @@
 ---
-user-guide-title: Handleiding Adobe mengen in model
+user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
-user-guide-description: Leer hoe u Adobe Mix Modeler kunt gebruiken.
-source-git-commit: d02cfdf3ad5a0872a0f9c2c9f98973e79f1a9de8
+user-guide-description: Leer hoe u Mix Modeler kunt gebruiken.
+source-git-commit: 7778c235b4d34bc91869098961b053b2455ff5b3
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 34%
+source-wordcount: '65'
+ht-degree: 40%
 
 ---
 

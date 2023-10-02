@@ -2,9 +2,9 @@
 title: Samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
-source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
+source-git-commit: 7778c235b4d34bc91869098961b053b2455ff5b3
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '459'
 ht-degree: 10%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # Samenvattingsgegevens
 
-Adobe Mix Modeler werkt met gegevens op gebeurtenisniveau, geaggregeerde gegevens over marketinginspanningen van diverse tuinen en aggregaten of samenvattende gegevens van andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
+Mix Modeler werkt met gegevens op gebeurtenisniveau, geaggregeerde gegevens over marketinginspanningen van diverse tuinen en aggregaten of samenvattende gegevens van andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
 
 De klanten kunnen om het even welk soort gegevens gebruiken die in Adobe Experience Platform als datasets worden opgenomen en die op schema&#39;s gebruikend XDM ExperienceEvent of XDM Summiere Metrics als basisklasse gebaseerd is.
 
