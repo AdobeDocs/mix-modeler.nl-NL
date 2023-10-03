@@ -1,14 +1,14 @@
 ---
 title: Overzicht van Mix Modeler
-description: Bekijk een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
+description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: aa1018d5-b073-4dfb-b40c-ca16a8970b2f
+source-git-commit: 4f47838707da2059788123f4b5abb5509e692413
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Overzicht van Mix Modeler
 
@@ -45,12 +45,3 @@ Mix Modeler biedt de volgende mogelijkheden:
 | **Begrotingsscenario&#39;s maken en vergelijken** | Ontwikkel veelvoudige begrotingsplannen en vergelijk hun effect om optimale besluiten voor uw zaken te nemen. |
 
 {style="table-layout:auto"}
-
-
-
-
-
-
-
-
-
