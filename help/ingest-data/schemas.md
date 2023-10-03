@@ -2,17 +2,17 @@
 title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
 feature: Schemas
-source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
+exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '345'
 ht-degree: 2%
 
 ---
 
-
 # Schema&#39;s
 
-Om schema&#39;s te beheren, ondersteunend de gegevens u in Adobe Experience Platform en gebruik in Mix Modeler wilt opnemen:
+Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform en gebruik in Mix Modeler wilt opnemen:
 
 1. Ga naar de interface van de Mix Modeler.
 
@@ -40,7 +40,7 @@ Een schema met de **[!DNL XDM Summary Metrics]** basisklasse kan eenvoudig zijn,
 
 ![Schema externe factoren](../assets/external-factors-schema.png)
 
-Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens bevatten voor:
+Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens bevatten, bijvoorbeeld:
 
 - Concurrentie-indexgegevens
 

@@ -2,19 +2,19 @@
 title: Geharmoniseerde velden
 description: Leer hoe u velden definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Harmonized Fields
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: f051279a-1ae9-49bd-a946-abfc34c90413
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
 
 ---
 
-
 # Geharmoniseerde velden
 
 Met geharmoniseerde velden kunt u velden definiëren voor conceptueel dezelfde gegevens, die afkomstig zijn van verschillende bronnen, elk met een eigen definitie van die gegevens. Een klikmeting kan bijvoorbeeld anders worden gedefinieerd en benoemd, afhankelijk van de gegevensbron. Als u op een geharmoniseerd veld klikt, kunt u een algemene nomenclatuur definiëren voor klikmetrische gegevens op basis van deze verschillende bronnen van klikgegevens.
 
-Met geharmoniseerde velden kunt u de velden definiëren die u wilt gebruiken als onderdeel van de workflow voor het harmoniseren van gegevens. De gebieden u bepaalt kunnen in het bepalen van datasetregels, marketing worden gebruikt aanraakpunten en omzetting.
+Met geharmoniseerde velden kunt u de velden definiëren die u wilt gebruiken als onderdeel van de workflow voor het harmoniseren van gegevens. De gebieden u bepaalt kunnen in het bepalen van datasetregels, marketing worden gebruikt aanraakpunten en omzettingen.
 
 ## Globale harmonisatievelden
 
@@ -126,5 +126,3 @@ Als u een geharmoniseerd veld wilt verwijderen, gaat u naar ![DataSearch](../ass
 1. Selecteer bijvoorbeeld het geharmoniseerde veld dat u wilt verwijderen **[!UICONTROL Region]**.
 
 1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** van de **[!UICONTROL Edit harmonization values]** linkerdeelvenster.
-
-

@@ -1,20 +1,21 @@
 ---
 title: Overzicht van Mix Modeler
 description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
+short-description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
 exl-id: aa1018d5-b073-4dfb-b40c-ca16a8970b2f
-source-git-commit: 4f47838707da2059788123f4b5abb5509e692413
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 4%
+source-wordcount: '270'
+ht-degree: 8%
 
 ---
 
 # Overzicht van Mix Modeler
 
-Met Mix Modeler, aangedreven door Adobe Sensei, kunnen marketers campagnes meten en de planning op alle kanalen holistisch optimaliseren: betaald, verdiend en bezeten. De uniforme methodologie van de Commissie meet incrementeel op zowel marketingpunten als geaggregeerde niveaus, en zorgt voor volledig consistente resultaten.
+Met Mix Modeler, aangedreven door Adobe Sensei, kunnen marketers campagnes meten en de planning op alle kanalen holistisch optimaliseren: betaald, verdiend en bezeten. De uniforme methodologie van de Commissie neemt stapsgewijs maatregelen op zowel het niveau van de marketingpunten als het niveau van de aggregaten, en zorgt tegelijkertijd voor volledig consistente resultaten.
 
-Mix Modeler biedt het incrementele effect van alle marketingactiviteiten op de resultaten van bedrijven en campagnes via een holistische (end-to-end) meettoepassing voor digitale en off-line marketing.
+Mix Modeler biedt het incrementele effect van alle marketingactiviteiten op zakelijke en campagneresultaten via een holistische (end-to-end) meettoepassing voor digitale en offline marketing.
 
 Mix Modeler biedt de volgende soorten geoptimaliseerde en activeerbare inzichten op strategisch en tactisch niveau, zodat u beter kunt begrijpen:
 

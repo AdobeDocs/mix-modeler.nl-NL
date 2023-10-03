@@ -2,20 +2,20 @@
 title: Gegevens harmoniseren
 description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
-source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
+exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
-source-wordcount: '798'
-ht-degree: 10%
+source-wordcount: '801'
+ht-degree: 9%
 
 ---
-
 
 # Gegevens harmoniseren
 
 De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
 
-* geaggregeerde gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die zijn verzameld (zoals uitgaven) bij het uitvoeren van een reclamecampagne, een evenement of een fysieke advertentiecampagne;
-* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via de Adobe Experience Platform Web, Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
+* geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
+* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via het Experience Platform Web of Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
 
 De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensmening is de bron voor de plannen en de modellen in Mix Modeler.
 
@@ -122,7 +122,7 @@ Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
    1. Om de periode te herdefiniëren waarop de samenloop van geharmoniseerde gegevens is gebaseerd, voert u een datumbereik in voor **[!UICONTROL Date range]** of gebruik ![Kalender](../assets/icons/Calendar.svg) om een gegevensbereik te selecteren.
 
-   1. Als u de kolommen voor de tabel Geharmoniseerde gegevens wilt wijzigen, gebruikt u ![Instellingen](../assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** in.
+   1. Als u de geharmoniseerde veldkolommen voor de tabel met geharmoniseerde gegevens wilt wijzigen, gebruikt u ![Instellingen](../assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** in.
 
       1. Selecteren ![SelectBox](../assets/icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![Chevron right](../assets/icons/ChevronRight.svg) deze kolommen toevoegen aan **[!UICONTROL SELECTED COLUMNS]**.
 
@@ -133,5 +133,3 @@ Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
       1. Als u de volgorde van de weergegeven kolommen wilt wijzigen, kunt u een kolom verplaatsen in **[!UICONTROL SELECTED COLUMNS]** omhoog en omlaag door slepen en neerzetten.
 
    1. Selecteren **[!UICONTROL Submit]** om de wijzigingen in de kolominstelling te verzenden. Selecteren **[!UICONTROL Close]** om de aangebrachte wijzigingen te annuleren.
-
-

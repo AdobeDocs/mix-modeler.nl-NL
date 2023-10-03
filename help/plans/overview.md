@@ -2,13 +2,13 @@
 title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
-
 
 # Abonnementen
 
@@ -45,7 +45,7 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
 
 U kunt een of meer plannen selecteren, die de actiebalk Plannen onthullen. Met de actiebalk kunt u plannen verwijderen, vergelijken of dupliceren.
 
-Selecteer ![Sluiten](../assets/icons/Close.svg) in de actiebalk
+Als u alle selecties in de tabel Plans wilt verwijderen, selecteert u ![Sluiten](../assets/icons/Close.svg) in de actiebalk
 
 ![De actiebalk van plannen](../assets/plans-action-bar.png)
 
@@ -69,7 +69,8 @@ Plannen vergelijken:
 Plannen verwijderen:
 
 1. Selecteer een of meer plannen in de tabel.
-1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** in de actiebalk. Uw abonnement wordt onmiddellijk verwijderd.
+1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** in de actiebalk.
 
-
-
+   >[!WARNING]
+   >
+   >   De geselecteerde plannen worden onmiddellijk geschrapt!

@@ -1,12 +1,13 @@
 ---
 title: Hulplijn Mix Modeler
 description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
+short-description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
 feature: Harmonized Data, Models, Plans
 exl-id: 3427c338-f2a0-416b-bb4c-d8fef929c38a
-source-git-commit: 4f47838707da2059788123f4b5abb5509e692413
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 18%
+source-wordcount: '112'
+ht-degree: 29%
 
 ---
 

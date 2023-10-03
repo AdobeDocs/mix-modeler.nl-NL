@@ -2,13 +2,13 @@
 title: Gegevensregels
 description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
 feature: Harmonized Data, Dataset Rules
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
+source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
 source-wordcount: '798'
 ht-degree: 0%
 
 ---
-
 
 # Gegevensregels
 
@@ -61,7 +61,7 @@ In de **[!UICONTROL Create]** scherm,
 
       ![Gegevenssetregels maken](../assets/dataset-create-summary.png)
 
-1. Als u een gebeurtenistype gegevensset hebt geselecteerd, in het gearceerde vak eronder **[!UICONTROL Map to harmonized fields]**:
+1. Wanneer u een gebeurtenistype van dataset (**[!UICONTROL Experience Events]**, **[!UICONTROL Adobe Analytics]**, **[!UICONTROL Consumer Experience Events]**), in het gearceerde vak eronder **[!UICONTROL Map to harmonized fields]**:
 
    1. Een geharmoniseerd veld selecteren vanuit **[!UICONTROL Standard harmonized field]**.
 
@@ -132,4 +132,3 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 1. Selecteren **[!UICONTROL Sync]** om de synchronisatie te starten op basis van de gedefinieerde gegevenssetregels tussen geharmoniseerde gegevens en gegevens in gegevensreeksen. Selecteer **[!UICONTROL Cancel]**.
 
    ![Gegevens synchroniseren](../assets/sync-data.png)
-
