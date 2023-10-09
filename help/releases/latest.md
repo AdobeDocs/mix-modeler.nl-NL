@@ -1,13 +1,13 @@
 ---
 title: De opmerkingen bij de huidige release van de Mix Modeler weergeven
-description: Opmerkingen bij de nieuwste release van Mix Modeler
+description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
 source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
