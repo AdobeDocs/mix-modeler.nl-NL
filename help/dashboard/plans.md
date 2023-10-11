@@ -2,13 +2,13 @@
 title: Overzicht van plannen
 description: Leer hoe u het overzicht van de abonnementen in de Mix Modeler gebruikt.
 feature: Dashboard, Plans, Models
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: 930fc1d5-8e28-4610-af7b-c4ec91f86a8a
+source-git-commit: eab3818b97bf65164eb586bc443a970794583b55
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van plannen
 
@@ -24,5 +24,3 @@ De gegevens die voor widgets worden weergegeven, worden bepaald door:
 * De opgegeven datumperiode. Als u de datumperiode wilt wijzigen, voert u handmatig een begin- en einddatum in of selecteert u een datumperiode met ![Kalender](../assets/icons/Calendar.svg).
 
 * Het plan. Een abonnement selecteren vanuit **[!UICONTROL Plan name]** met de **[!UICONTROL _Selecteer een optie..._]**.
-
-

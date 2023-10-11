@@ -2,13 +2,13 @@
 title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
+source-git-commit: eab3818b97bf65164eb586bc443a970794583b55
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
-
 
 # Een model maken
 
@@ -127,9 +127,9 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       1. Selecteer de **[!UICONTROL Rule type]**.
 
-      1. Verdeel percentages voor elk van de kanalen onder **[!UICONTROL Name]**, met de **[!UICONTROL Contribution proportion]** kolom. Zorg ervoor dat de totale verdeling van percentages oploopt tot 100%.
+      1. Geef bijdragepercentages op voor de kanalen die onder **[!UICONTROL Name]**, met de **[!UICONTROL Contribution proportion]** kolom.
 
-      1. U kunt voor elk kanaal een **[!UICONTROL Level of confidence]** percentage.
+      1. Indien nodig kunt u voor elk kanaal een **[!UICONTROL Level of confidence]** percentage.
 
       1. Indien nodig, gebruik **[!UICONTROL Clear all]** om alle invoerwaarden voor de **[!UICONTROL Contribution proportion]** en **[!UICONTROL Level of confidence]** kolommen.
 
@@ -146,4 +146,3 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
    Selecteren **[!UICONTROL Back]** om terug te gaan naar de vorige stap.
 
    Selecteren **[!UICONTROL Cancel]** om de modelconfiguratie te annuleren.
-
