@@ -1,11 +1,11 @@
 ---
 user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
-user-guide-description: Leer hoe u Mix Modeler kunt gebruiken.
+user-guide-description: Leer hoe u Mix Modeler gebruikt.
 source-git-commit: 7778c235b4d34bc91869098961b053b2455ff5b3
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 40%
+ht-degree: 49%
 
 ---
 
