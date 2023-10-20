@@ -2,10 +2,10 @@
 user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
 user-guide-description: Leer hoe u Mix Modeler gebruikt.
-source-git-commit: 7778c235b4d34bc91869098961b053b2455ff5b3
+source-git-commit: 101029c8b6095b3ec9842228913fac3720132cdf
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 49%
+source-wordcount: '70'
+ht-degree: 45%
 
 ---
 
@@ -31,6 +31,8 @@ ht-degree: 49%
 + Abonnementen {#plans}
    + [Overzicht](plans/overview.md)
    + [Een abonnement maken](plans/create.md)
+   + [Een abonnement bewerken](plans/edit.md)
+   + [Abonnementen vergelijken](plans/compare.md)
 
 + Gegevens harmoniseren {#harmonize-data}
    + [Overzicht](harmonize-data/overview.md)

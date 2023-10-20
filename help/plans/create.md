@@ -2,7 +2,8 @@
 title: Een abonnement maken
 description: Leer hoe u een abonnement maakt in Mix Modeler.
 feature: Plans
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
+source-git-commit: f445cb2b1ec04ffe9247e858c048587802bffe9c
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -70,6 +71,3 @@ Als u een abonnement wilt maken, gaat u naar ![PLan](../assets/icons/FileChart.s
    1. Selecteer **[!UICONTROL Create]**.
 
    1. In de **[!UICONTROL Create plan]** dialoogvenster, selecteren **[!UICONTROL Create plan]** om uw abonnement te maken. Selecteren **[!UICONTROL Cancel]** om het maken van uw abonnement te annuleren.
-
-
-

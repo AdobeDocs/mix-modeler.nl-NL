@@ -2,13 +2,13 @@
 title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
+source-git-commit: f445cb2b1ec04ffe9247e858c048587802bffe9c
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Modellen
 
@@ -16,7 +16,26 @@ De modelfunctionaliteit in Mix Modeler staat u toe om, AI/ML modellen te vormen 
 
 De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de workflow van de Mix Modeler-toepassing.
 
-Om een model tot stand te brengen, gebruik de reeks-door-stap geleide modelconfiguratiestroom van het Modelmodel van de Mengeling beschikbaar wanneer u selecteert **[!UICONTROL Guide me]**. Zie [Een model maken](create.md) voor meer informatie .
+Een model in de Mix Modeler is een model voor machinaal leren dat wordt gebruikt om een bepaald resultaat te meten en/of te voorspellen op basis van de investeringen van een marketeter. Marketing-aanraakpunten en gegevens op overzichtsniveau kunnen als invoer worden gebruikt. Met Mix Modeler kunt u varianten van modellen maken op basis van verschillende sets variabelen, dimensies en resultaten, zoals inkomsten, verkochte eenheden en leads.
+
+Een model vereist:
+
+* één conversie,
+* een of meer marketingaanraakpunten (kanalen) bestaande uit gegevens op overzichtsniveau, marketingaanraakpuntgegevens (gebeurtenisgegevens) of beide;
+* een configureerbaar terugzoekvenster voor
+* een configureerbaar trainingsvenster.
+
+Een model kan eventueel het volgende omvatten:
+
+* externe factoren,
+* interne factoren,
+* zogenaamde &#39;priors&#39; (kansverdeling die kennis of onzekerheid van gegevens vóór of vóór de waarneming van die gegevens weergeeft), die eerdere omzettingen via het kanaal indexeert;
+* geeft aandeel uit, dat relatief uitgeeft aandeel als volmacht gebruikt wanneer de marketing gegevens schaars is.
+
+
+## Een model maken
+
+Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Guide me]**. Zie [Een model maken](create.md) voor meer informatie .
 
 ## Modellen beheren
 
@@ -64,7 +83,7 @@ Meer details van een model bekijken:
 
 >[!NOTE]
 >
->Deze selectie is alleen beschikbaar voor geslaagde getrainde modellen.
+>Deze selectie is alleen beschikbaar voor goed opgeleide modellen.
 >
 
 Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
@@ -74,5 +93,3 @@ Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
 
 1. Selecteer in het contextmenu de optie **[!UICONTROL Model Insights]**. U wordt omgeleid naar [Modelinzichten](insights.md).
-
-
