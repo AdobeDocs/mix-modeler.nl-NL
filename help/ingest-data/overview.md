@@ -3,16 +3,16 @@ title: Samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
+source-git-commit: 1dbdee00f518d98241fc042e2aabc0e40d5a9153
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '457'
 ht-degree: 10%
 
 ---
 
 # Samenvattingsgegevens
 
-Mix Modeler werkt met gegevens op gebeurtenisniveau, geaggregeerde gegevens over marketinginspanningen van diverse tuinen en aggregaten of samenvattende gegevens van andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
+Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, het samenvoegen van één samenvattende marketinginspanningsgegevens uit verschillende tuinen en het samenvoegen of samenvoegen van gegevens uit andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
 
 De klanten kunnen om het even welk soort gegevens gebruiken die in Experience Platform als datasets worden opgenomen en die op schema&#39;s gebruikend XDM ExperienceEvent of XDM Summiere Metrics als basisklasse gebaseerd is.
 
@@ -20,7 +20,7 @@ Bijvoorbeeld:
 
 * gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
 * gegevens die worden verzameld met de SDK van het Web van het Experience Platform, Mobiele SDK, of de Server API van het Netwerk van Edge voor het verzamelen van klanteninteractie op Web, mobiel, of een ander type van apparaat;
-* geaggregeerde gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
+* geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
 * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
 U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Bijvoorbeeld de Experience Platform-SDK&#39;s, API&#39;s, bronconnectors, streaming en batch-opname.
