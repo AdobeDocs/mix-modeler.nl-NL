@@ -3,9 +3,9 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: f445cb2b1ec04ffe9247e858c048587802bffe9c
+source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -51,11 +51,10 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
    |---|---|
    | Naam | Naam van het model |
    | Beschrijving | Beschrijving van het model |
-   | Conversiegebeurtenissen | De conversie die u voor het model hebt geselecteerd. |
-   | Gegevensset | De dataset die het model gebruikt om te trainen en te scoren. Dit is standaard de geharmoniseerde gegevensset. |
+   | Conversion-gebeurtenis | De conversie die u voor het model hebt geselecteerd. |
    | Uitvoerfrequentie | De lopende frequentie van opleiding het model. |
    | Laatste uitvoering | De datum en het tijdstip van de laatste training voor het model. |
-   | Status van laatste uitvoering | De status van de laatste run van de training van het model. <br/><span style="color:green">●</span> Succes<br/><span style="color:orange">●</span> Trainingsprobleem<br/> <span style="color:orange">●</span> In afwachting van training <br/><span style="color:red">●</span> Mislukt |
+   | Status | De status van de laatste run van de training van het model. <br/><span style="color:green">●</span> Succes<br/><span style="color:orange">●</span> Trainingsprobleem<br/> <span style="color:orange">●</span> In afwachting van training <br/><span style="color:red">●</span> Mislukt |
 
    {style="table-layout:auto"}
 
@@ -73,9 +72,7 @@ Een model verwijderen:
 
 Meer details van een model bekijken:
 
-1. Selecteer de naam van het model waarvan u meer details wilt bekijken.
-
-1. Selecteer in het contextmenu de optie **[!UICONTROL More]**. U ziet details van het geselecteerde model in de juiste ruit.
+1. Selecteren ![Info](../assets/icons/Info.svg) voor een model om een pop-up met details te tonen.
 
 
 
@@ -93,3 +90,20 @@ Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
 
 1. Selecteer in het contextmenu de optie **[!UICONTROL Model Insights]**. U wordt omgeleid naar [Modelinzichten](insights.md).
+
+
+### Opnieuw score
+
+>[!NOTE]
+>
+>Deze selectie is alleen beschikbaar voor goed opgeleide modellen.
+>
+
+Om een model, in de interface van de Mix Modeler opnieuw te scoren:
+
+1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
+
+1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
+
+1. Selecteer in het contextmenu de optie **[!UICONTROL Re-score]**. Het kan een paar minuten duren om een bijgewerkte status voor het model weer te geven.
+

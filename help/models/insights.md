@@ -2,13 +2,13 @@
 title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
+source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # Modelinzichten
 
@@ -27,36 +27,37 @@ U kunt de datumperiode wijzigen waarop de widgets op elk tabblad zijn gebaseerd.
 
 Het tabblad Historisch overzicht bevat widgets voor:
 
-* Omzetting en besteding per fiscaal kwartaal en per product
+* Omzetting en besteding per fiscaal Qtr en product.
 
-* Per kanaal
+* Besteed via kanaal.
 
-* Aanraakpuntdoorsnede
+* Besteed aanraakpunt.
 
   U kunt een alternatief op uitgaven gebaseerd kanaal selecteren om voor deze widget te tonen. Een kanaal selecteren vanuit **[!UICONTROL Channels]**.
 
-* Volume aanraakpunt
+* Volume aanraakpunt.
 
   U kunt een alternatief op volume gebaseerd kanaal selecteren om voor deze widget weer te geven. Een kanaal selecteren vanuit **[!UICONTROL Channels]**.
 
-
-
 ![Model - Historisch overzicht](../assets/model-historical-overview.png)
-
 
 ## Modelinzichten
 
 Het tabblad Modelinzichten bevat widgets voor:
 
-* Bijdrage per datum en basismedia
+* Bijdrage op datum en basismedia. De gestapelde grafiek is geordend: Basis bij de bodem, Niet besteedt kanalen in het midden, en de kanalen van de Besteed op de bovenkant.
 
-* Bijdrage per kanaal
+* Bijdrage per kanaal.
 
-* Overzicht van marketingprestaties
+* Overzicht van de marketingprestaties.
+
+![Model - Modelinzichten](../assets/model-model-insights.png)
 
 U kunt de muisaanwijzer boven afzonderlijke diagramelementen in elke widget plaatsen om een pop-up met meer details weer te geven.
 
-![Model - Modelinzichten](../assets/model-model-insights.png)
+Als u een CSV-bestand met de gegevens voor de widget wilt downloaden, selecteert u ![Downloaden](../assets/icons/Download.svg).
+
+
 
 
 ## Modelkwaliteit
@@ -71,4 +72,4 @@ Op het tabblad Modelkwaliteit worden widgets voor meten weergegeven:
 
 ![Modelkwaliteit](../assets/model-quality.png)
 
-
+Als u een CSV-bestand met de gegevens voor de widget wilt downloaden, selecteert u ![Meer](../assets/icons/More.svg) in de widget en in het contextmenu selecteert u ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download as CSV]**.

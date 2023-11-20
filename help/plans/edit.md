@@ -2,13 +2,13 @@
 title: Een abonnement bewerken
 description: Leer hoe u een abonnement in Mix Modeler kunt bewerken.
 feature: Plans
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: 91385595-284f-4fcb-b54b-9539905e552b
+source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
-
 
 # Een abonnement bewerken
 
@@ -16,13 +16,24 @@ Als u een abonnement wilt bewerken, gaat u in het dialoogvenster ![PLan](../asse
 
 In [!UICONTROL Plan insights], uw abonnementsinzichten worden gemaakt en toont de [!UICONTROL Model]de [!UICONTROL Data range], en [!UICONTROL Total budget] waarop het plan is gebaseerd.
 
-Als u klaar bent met ophalen, ziet u een overzicht van uw abonnement met visualisaties voor [!UICONTROL Forecasted ROI] en [!UICONTROL Forecasted revenue].
+Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
+
+- [!UICONTROL Forecasted paid channel ROI] visualisatie
+- [!UICONTROL Forecasted revenue] visualisatie
+- [!UICONTROL Data range breakdown] tabel van het plan, met kolommen voor
+
+   - Kanaal
+   - ROI
+   - CPA
+   - Ontvangsten
+   - Conversiedoel
+   - Draaien
+
+![Overzicht van een plan](../assets/overview-plan.png)
 
 1. Selecteren **[!UICONTROL Close]** om terug te keren naar de interface Plans.
 
-1. (optioneel) Selecteer **[!UICONTROL Plan breakdown]** om een uitsplitsingstabel van uw plan te zien.
-
-   ![Overzicht van een plan](../assets/overview-plan.png)
+1. Selecteer ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
 1. Als u uw abonnement wilt bewerken, selecteert u **[!UICONTROL Edit plan]**:
 
@@ -65,4 +76,3 @@ Als u klaar bent met ophalen, ziet u een overzicht van uw abonnement met visuali
 1. Als u uw abonnementsupdates wilt annuleren, selecteert u **[!UICONTROL Cancel]**.
 
    In de **[!UICONTROL No work will be saved]** dialoogvenster, selecteren **[!UICONTROL Cancel]** om verder te werken aan uw abonnement of selecteer **[!UICONTROL OK]** om terug naar de interface van Abonnementen terug te keren.
-

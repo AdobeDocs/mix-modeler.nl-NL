@@ -3,7 +3,7 @@ title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: eab3818b97bf65164eb586bc443a970794583b55
+source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een model maken
 
-Om een model te creëren, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler, selecteert u **[!UICONTROL Guide me]**.
+Om een model te creëren, in ![Modellen](../assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler, selecteert u **[!UICONTROL Open model canvas]**.
 
 Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-voor-stap geleide modelconfiguratiestroom.
 
@@ -24,7 +24,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
    1. Selecteren **[!UICONTROL Next]** om door te gaan met de volgende stap. Selecteren **[!UICONTROL Cancel]** om de modelconfiguratie te annuleren.
 
-1. In de **[!UICONTROL Configure]** stap:
+1. In de **[!UICONTROL Configured]** stap:
 
    1. In de **[!UICONTROL Conversion goal]** in de container:
 
@@ -48,7 +48,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een touchpoint-container voor marketingdoeleinden wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add marketing touchpoint]**.
 
-      * Om een marketing touchpoint container, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg) en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
+      * Om een marketing touchpoint container, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
 
         ![Model - het in de handel brengen van touchpoints](../assets/model-marketing-touchpoint-step.png)
 
@@ -72,7 +72,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een in aanmerking komende container voor gegevenspopulatie wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add eligible population]**.
 
-      * Als u een in aanmerking komende container voor een gegevenspopulatie wilt verwijderen, selecteert u ![Meer](../assets/icons/More.svg) en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
+      * Als u een in aanmerking komende container voor een gegevenspopulatie wilt verwijderen, selecteert u ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
 
         ![Model - In aanmerking komende gegevenspopulatie](../assets/model-eligible-data-population-step.png)
 
@@ -86,7 +86,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een extra container voor externe factoren wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add external factor]**.
 
-      * Om een externe container van de factordataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg) en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
+      * Om een externe container van de factordataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
 
         ![Model - Gegevensset externe factoren](../assets/model-external-factors-dataset-step.png)
 
@@ -101,7 +101,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een extra gegevenssetcontainer met interne factoren wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add internal factor]**.
 
-      * Om een extra interne container van de factorendataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg) en **[!UICONTROL Remove container]** in het contextmenu.
+      * Om een extra interne container van de factorendataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg), en **[!UICONTROL Remove container]** in het contextmenu.
 
         ![Model - Gegevensset met interne factoren](../assets/model-internal-factors-dataset-step.png)
 

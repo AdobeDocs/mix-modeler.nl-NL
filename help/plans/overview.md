@@ -3,9 +3,9 @@ title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: f445cb2b1ec04ffe9247e858c048587802bffe9c
+source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,6 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
    | Kolomnaam | Details |
    |---|---|
    | Naam | Naam van het plan |
-   | Beschrijving | Beschrijving van het model |
    | Model | Het model dat als basis voor het plan wordt gebruikt. |
    | Datumbereik | Het volledige datumbereik voor een abonnement. |
    | Begroting | De totale begroting voor een plan. |
@@ -62,6 +61,7 @@ Om een plan tot stand te brengen, gebruik de tovenaar van de de creatie van het 
 ## Een abonnement bewerken
 
 Als u een abonnement wilt bewerken, selecteert u de naam van het plan in de tabel. Zie [Een abonnement bewerken](edit.md) voor meer informatie .
+
 
 ## Selecteren en actie ondernemen met betrekking tot plannen
 
