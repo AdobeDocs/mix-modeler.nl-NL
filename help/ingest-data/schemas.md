@@ -3,9 +3,9 @@ title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
 feature: Schemas
 exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
-source-git-commit: 33883626d8e7aca2eecc3571593be53ef41ac458
+source-git-commit: e40d1eb484f3ee6d289adbe1355455bbb202825a
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '377'
 ht-degree: 2%
 
 ---
@@ -46,20 +46,20 @@ Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens 
 
   | tijdstempel | date_type | factor | value |
   |---|---|---|--:|
-  | 2020-11-28T00:00:00,000Z | week | concurrent_index | 289.8 |
-  | 2020-12-05T00:00:00,000Z | week | concurrent_index | 291.2 |
-  | 2020-12-12T00:00:00,000Z | week | concurrent_index | 280.07 |
+  | 2020-11-28T00:00:00,000Z | week | concurrent_index | 289,8 |
+  | 2020-12-05T00:00:00,000Z | week | concurrent_index | 291,2 |
+  | 2020-12-12T00:00:00,000Z | week | concurrent_index | 280,07 |
   | ... | ... | ... | ... |
 
 - Publieke vakantiegegevens
 
   | tijdstempel | date_type | factor | value |
   |---|---|---|--:|
-  | 2020-11-28T00:00:00,000Z | week | all_Feays_flag | 0.0 |
-  | 2020-12-05T00:00:00,000Z | week | all_Feays_flag | 0.0 |
-  | 2020-12-12T00:00:00,000Z | week | all_Feays_flag | 0.0 |
-  | 2020-12-19T00:00:00,000Z | week | all_Feays_flag | 0.0 |
-  | 2020-12-26T00:00:00,000Z | week | all_Feays_flag | 1.0 |
+  | 2020-11-28T00:00:00,000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-05T00:00:00,000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-12T00:00:00,000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-19T00:00:00,000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-26T00:00:00,000Z | week | all_Feays_flag | 1,0 |
   | ... | ... | ... | ... |
 
 
@@ -68,3 +68,18 @@ Zie hieronder voor een uitgebreider voorbeeld van een **[!DNL LumaPaidMarketingS
 ![Samenvattingsschema](../assets/summary-schema.png)
 
 Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggregeerde of summiere gegevens uit externe bronnen, wordt het aangemoedigd om de Externe het gebiedsgroep van de Details van de Controle van het Bronsysteem als deel van een schema te gebruiken. Deze veldgroep definieert een set auditeigenschappen voor externe bronnen.
+
+
+## Ondersteunde gegevenstypen
+
+Mix Modeler ondersteunt momenteel geen subset van gegevenstypen voor Experience Platforms. De volgende basisgegevenstypen (velden), vermeld in [Basisbeginselen van de schemacompositie](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type), worden ondersteund:
+
+- String
+- Geheel
+- Dubbel
+- Boolean
+- Lang
+- Kort
+- Byte
+- Datum
+- Datum/tijd
