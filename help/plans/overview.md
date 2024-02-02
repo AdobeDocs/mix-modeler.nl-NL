@@ -3,9 +3,9 @@ title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
    | Begroting | De totale begroting voor een plan. |
    | Voorspelde terugkeer | Het verwachte rendement van een plan |
    | voorspelde ROI | Het verwachte investeringsrendement voor een plan. |
-   | Status | De status van een plan. |
+   | Status | De status van een plan: <p><span style="color:red">●</span> Mislukt, <p><span style="color:blue">●</span> verwerking, of <p><span style="color:green">●</span> Voltooid. |
 
    {style="table-layout:auto"}
 
@@ -78,6 +78,11 @@ Een abonnement dupliceren:
 1. Selecteer één enkel plan van de lijst.
 1. Selecteren ![Kopiëren](../assets/icons/Copy.svg) **[!UICONTROL Duplicate]** in de actiebalk. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
 
+Alternatief:
+
+1. Selecteren ![Meer](../assets/icons/More.svg) voor een plan in de tabel.
+1. Selecteren **[!UICONTROL Duplicate]** in het contextmenu. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
+
 ### Abonnementen vergelijken
 
 Plannen vergelijken:
@@ -92,6 +97,11 @@ Plannen verwijderen:
 
 1. Selecteer een of meer plannen in de tabel.
 1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** in de actiebalk.
+
+Alternatief:
+
+1. Selecteren ![Meer](../assets/icons/More.svg) voor een plan in de tabel.
+1. Selecteren **[!UICONTROL Delete]** in het contextmenu. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
 
    >[!WARNING]
    >

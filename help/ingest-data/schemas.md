@@ -3,7 +3,7 @@ title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
 feature: Schemas
 exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
-source-git-commit: e40d1eb484f3ee6d289adbe1355455bbb202825a
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 2%
@@ -16,7 +16,7 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Ga naar de interface van de Mix Modeler.
 
-1. Selecteren ![Schemas](../assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL DATA MANAGEMENT]**.
+1. Selecteren ![Schemas](../assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
 Zie de [Overzicht van de interface Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie .
 

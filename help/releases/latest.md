@@ -4,16 +4,16 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: 4fa5798dd6b51cc44ac9bb063c87765e6d1c85e0
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 3%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
 # Opmerkingen bij de release Huidige Mix Modeler
 
-**Laatste update**: 16 november 2023.
+**Laatste update**: 31 januari 2024.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De uitstoot van Mix Modeler werkt op een ononderbroken leveringsmodel dat voor een ongeveer maandelijkse versiedatentie toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
@@ -22,12 +22,9 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De u
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
-| **CSV-knoppen downloaden** | CSV-knoppen downloaden is nu beschikbaar als onderdeel van [Abonnementen](../plans/edit.md) en [Modelinzichten](../models/insights.md#model-insights). | 16 november 2023 |
-| **CPA-kolom in tabel met uitsplitsingen naar gegevensbereik** | CPA-kolom wordt toegevoegd aan [Uitsplitsing naar gegevensbereik](../plans/edit.md) tabel in Plan Insights. | 16 november 2023 |
-| **Voorspelde betaalde ROI-visualisatie van kanaal** | [Geraamd betaald ROI-kanaal](../plans/edit.md) visualisatie wordt toegevoegd aan de overzichtsinzichten. | 16 november 2023 |
-| **Overzicht van modellen bijgewerkt** | [Overzicht van modellen](../models/overview.md) UI wordt bijgewerkt in overeenstemming met het overzicht van Abonnementen UI. | 16 november 2023 |
-| **Een model opnieuw scoren** | Mogelijkheid om te activeren toegevoegd [opnieuw sorteren van nieuwe gegevens met behulp van een bestaand model](../models/overview.md#re-score). | 16 november 2023 |
-| **Bijgewerkte visualisatie van bijdragen** | De [Bijdrage per datum en basismediatvisering](../models/insights.md#model-insights) wordt bijgewerkt naar een geordende gestapelde grafiek. | 16 november 2023 |
+| **Voorkeuren voor gegevenssamenvoeging** | U kunt [voorkeuren voor gegevenssamenvoeging](../harmonize-data/dataset-rules.md#data-merge-preferences) voor gegevenssetregels voor geharmoniseerde gegevensbestanden. | donderdag 31 januari 2024 |
+| **Gebruiksrapport** | De interface voor geharmoniseerde gegevenssets bevat een extra [Gebruiksrapport](../harmonize-data/usage-report.md) tabblad biedt aanvullende inzichten in het gebruik van modellen en omzettingen. | 31 januari 2022 |
+| **Gebruikersinterface voor bijgewerkte abonnementen** | De interface van de Inzichten van het Plan wordt bijgewerkt, toestaand u om te selecteren op welke ROI en kanalen om te melden. | donderdag 31 januari 2024 |
 
 {style="table-layout:auto"}
 

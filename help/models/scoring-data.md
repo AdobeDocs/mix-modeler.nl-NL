@@ -2,13 +2,13 @@
 title: Scoregegevens
 description: Leer hoe de scoring-gegevens van een model in de Mix Modeler aanhouden.
 feature: Models
-source-git-commit: 3596b83937b3f61ac453940f3a666d8aaf713679
+exl-id: 2f2c3d20-7b14-41cc-a11a-03e8ad9e5d7a
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 3%
+source-wordcount: '247'
+ht-degree: 0%
 
 ---
-
 
 # Scoregegevens
 
@@ -34,9 +34,10 @@ Het schema bevat een veldgroep met een object dat details bevat over de scores. 
 | **geo** | String | De geografische locatie waar de conversie heeft plaatsgevonden. |
 | **mediaChannel** | String | Naam van het kanaal dat tijdens de stap van de aanraakpuntopstelling werd gebruikt. |
 | **mediaSubChannel** | String | Naam van het subkanaal. |
-| **omzet** | Dubbel | Ontvangsten die voor het opgegeven aanraakpunt aan deze omrekening zijn toegerekend. |
+| **inkomsten** | Dubbel | Ontvangsten die voor het opgegeven aanraakpunt aan deze omrekening zijn toegerekend. |
 | **scoreCreatedTime** | DateTime | Tijdstip waarop deze score wordt gemaakt. |
 | **touchpointEndDate** | Datum | Einddatum van het aanraakpuntvenster. |
 | **touchpointName** | String | Naam van het aanraakpunt dat tijdens de de opstellingsstap van de aanraakpuntdefinitie werd gecreeerd. Momenteel wordt het aanraakpunt gedefinieerd op het mediakanaal. |
 | **touchpointStartDate** | Datum | Begindatum van het aanraakpuntvenster. |
 
+Zie [Schemas](../ingest-data/schemas.md) voor meer informatie .

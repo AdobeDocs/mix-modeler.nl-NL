@@ -3,9 +3,9 @@ title: Een abonnement maken
 description: Leer hoe u een abonnement maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: f445cb2b1ec04ffe9247e858c048587802bffe9c
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Als u een abonnement wilt maken, gaat u naar ![PLan](../assets/icons/FileChart.s
 
       1. Voer een **[!UICONTROL Plan name]** bijvoorbeeld `Demo plan`. Voer een **[!UICONTROL Description]** bijvoorbeeld `Demo plan for Luma company`.
       1. Selecteer een **[!UICONTROL Model]** van **[!UICONTROL _Selecteer een optie.._.]**.
-      1. U kunt ![LinkOut](../assets/icons/LinkOut.svg) **[!UICONTROL Create model]** om een model direct van binnen de planverwezenlijking te creëren.
+      1. U kunt ![LinkOut](../assets/icons/LinkOut.svg) **[!UICONTROL Create model]** om een model direct van binnen de planverwezenlijking te creëren. Hiermee wordt een nieuw tabblad in uw browser geopend en wordt het dialoogvenster [Modellen](../models/overview.md) interface.
 
          ![Abonnementsinstellingen](../assets/plan-setup.png)
 
@@ -70,4 +70,4 @@ Als u een abonnement wilt maken, gaat u naar ![PLan](../assets/icons/FileChart.s
 
    1. Selecteer **[!UICONTROL Create]**.
 
-   1. In de **[!UICONTROL Create plan]** dialoogvenster, selecteren **[!UICONTROL Create plan]** om uw abonnement te maken. Selecteren **[!UICONTROL Cancel]** om het maken van uw abonnement te annuleren.
+   1. In de **[!UICONTROL Create plan]** dialoogvenster, selecteren **[!UICONTROL Create plan]** om uw abonnement te maken. Selecteren **[!UICONTROL Cancel]** om het maken van uw abonnement te annuleren. A **[!UICONTROL No work is saved]** wordt weergegeven ter bevestiging.

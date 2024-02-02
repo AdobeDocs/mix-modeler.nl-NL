@@ -2,13 +2,13 @@
 title: conversies
 description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Conversions
-source-git-commit: 08cfd4239f6bcaf885565f3ae04cbd51869e8c00
+exl-id: a8559426-452a-43e8-9a60-0c0bc97d863c
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 1%
+source-wordcount: '318'
+ht-degree: 0%
 
 ---
-
 
 # conversies
 
@@ -31,6 +31,7 @@ De tabelkolommen geven details over de conversie op:
 | Naam | De naam van de conversie. |
 | Ontvangsten | De maatstaf van geharmoniseerde gegevens die moet worden gebruikt voor de berekening van de opbrengsten van een conversie. |
 | Omzettingsmetrisch | De geharmoniseerde metrische gegevens die voor analyse als omzettings metrisch moeten worden gebruikt. |
+| Categorie | De conversiecategorie. |
 | Gemaakt | Datum en tijdstip waarop de conversie is gemaakt. |
 | Laatst gewijzigd | Datum en tijdstip van de laatste wijziging van de conversie. |
 
@@ -42,13 +43,13 @@ Om een omzetting toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) 
 
 1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion]**.
 
-1. In de **[!UICONTROL Create Conversion]** dialoogvenster:
+1. In de **[!UICONTROL Create conversion]** dialoogvenster:
 
    1. Voer een naam in voor **[!UICONTROL Conversion]** bijvoorbeeld `Store Conversions`.
 
    1. Definieer de **[!UICONTROL Conversion category]**.
 
-      1. Selecteer een waarde uit **[!UICONTROL *Harmoniseren selecteren...*]**bijvoorbeeld `Conversion Type`.
+      1. Selecteer een waarde uit **[!UICONTROL *Harmoniseren selecteren...*]**bijvoorbeeld `Conversion types`.
 
       1. Selecteer een waarde voor de operator ![Chevron](../assets/icons/ChevronDown.svg)bijvoorbeeld **[!UICONTROL is]**.
 
@@ -58,8 +59,25 @@ Om een omzetting toe te voegen, in ![DataSearch](../assets/icons/DataCheck.svg) 
 
    1. Een geharmoniseerd veld selecteren vanuit **[!UICONTROL Revenue field]** bijvoorbeeld **[!UICONTROL Gross Demand]**.
 
-   1. Als u de omzetting wilt maken, selecteert u **[!UICONTROL Create]**. Als u de conversie wilt annuleren, selecteert u **[!UICONTROL Cancel]**.
+   1. Selecteer **[!UICONTROL Create]**. Als u de conversie wilt annuleren, selecteert u **[!UICONTROL Cancel]**.
 
       ![Alt-tekst](../assets/create-conversion.png)
 
 1. Wanneer deze conversie wordt gemaakt, wordt deze aan de conversietabel toegevoegd.
+
+
+## Een conversie weergeven
+
+Een conversie weergeven:
+
+1. Selecteren ![Meer](../assets/icons/More.svg) wanneer u de cursor op een conversienaam in de tabel plaatst.
+
+1. Selecteren ![Weergave](../assets/icons/ViewDetail.svg) **Weergave**. In een dialoogvenster ziet u details over de conversie. Zie [Conversie toevoegen](#add-a-conversion) voor meer informatie . Selecteren **[!UICONTROL Cancel]** het dialoogvenster sluiten.
+
+
+## Een conversie verwijderen
+
+Een conversie verwijderen:
+
+1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **Verwijderen** wanneer u de cursor op een conversienaam in de tabel plaatst.
+1. In de **[!UICONTROL Delete conversion]** dialoogvenster voor bevestiging van dialoogvenster selecteren **[!UICONTROL Delete]** om de conversie definitief te verwijderen.

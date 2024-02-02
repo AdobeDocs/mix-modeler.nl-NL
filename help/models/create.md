@@ -3,9 +3,9 @@ title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '691'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
    1. Selecteren **[!UICONTROL Next]** om door te gaan met de volgende stap. Selecteren **[!UICONTROL Cancel]** om de modelconfiguratie te annuleren.
 
-1. In de **[!UICONTROL Configured]** stap:
+1. In de **[!UICONTROL Configure]** stap:
 
    1. In de **[!UICONTROL Conversion goal]** in de container:
 
       1. Voer een **[!UICONTROL Conversion name]** voor de conversie, bijvoorbeeld `Conversion`
 
-      1. Een conversie selecteren vanuit **[!UICONTROL *Geharmoniseerd veld selecteren *]**met de beschikbare omzettingen die u als onderdeel van [Conversies](../harmonize-data/conversions.md) in [!UICONTROL Harmonized datasets]. Bijvoorbeeld,**[!UICONTROL Online Conversion]**.
+      1. Een conversie selecteren vanuit **[!UICONTROL *Geharmoniseerd veld selecteren *]**met de beschikbare omzettingen die u als onderdeel van [Conversies](../harmonize-data/conversions.md) in [!UICONTROL Harmonized datasets]. Bijvoorbeeld:**[!UICONTROL Online Conversion]**.
 
       1. U kunt ![Antwoord](../assets/icons/Reply.svg) **[!UICONTROL Create new conversion]** om een omzetting direct van binnen de modelconfiguratie tot stand te brengen.
 
@@ -72,7 +72,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een in aanmerking komende container voor gegevenspopulatie wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add eligible population]**.
 
-      * Als u een in aanmerking komende container voor een gegevenspopulatie wilt verwijderen, selecteert u ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
+      * Als u een in aanmerking komende container voor een gegevenspopulatie wilt verwijderen, selecteert u ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove marketing touchpoint]** in het contextmenu.
 
         ![Model - In aanmerking komende gegevenspopulatie](../assets/model-eligible-data-population-step.png)
 
@@ -86,7 +86,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een extra container voor externe factoren wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add external factor]**.
 
-      * Om een externe container van de factordataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove container]** in het contextmenu.
+      * Om een externe container van de factordataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg)en selecteert u **[!UICONTROL Remove external factor]** in het contextmenu.
 
         ![Model - Gegevensset externe factoren](../assets/model-external-factors-dataset-step.png)
 
@@ -101,7 +101,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
       * Als u een extra gegevenssetcontainer met interne factoren wilt toevoegen, selecteert u ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add internal factor]**.
 
-      * Om een extra interne container van de factorendataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg), en **[!UICONTROL Remove container]** in het contextmenu.
+      * Om een extra interne container van de factorendataset, binnen de container te verwijderen, selecteer ![Meer](../assets/icons/More.svg), en **[!UICONTROL Remove internal factor]** in het contextmenu.
 
         ![Model - Gegevensset met interne factoren](../assets/model-internal-factors-dataset-step.png)
 

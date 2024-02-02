@@ -3,10 +3,10 @@ title: Samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: 1dbdee00f518d98241fc042e2aabc0e40d5a9153
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 10%
+source-wordcount: '459'
+ht-degree: 6%
 
 ---
 
@@ -42,13 +42,13 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Model
 
 +++ Geaggregeerde gegevens over de marketinginspanning
 
-| Geo | Datum | Datumtype | Kanaal | Campaign | Klikken | Verkocht | Betrokkenheid | Impressie | Open | Eigendom | Verzonden |
+| Geo | Datum | Datumtype | Kanaal | Campaign | Klikken | Verkocht | Betrokkenheid | Impressie | Openen | Eigendom | Verzonden |
 |---|:--|---|:---:|---|--:|---|--:|---|---|---|--:|
 | AMER | 2021-10-31 | dag | EMAIL | | 12752 | | | | | | 1132945 |
 | AMER | 2021-10-31 | dag | FB | | 148844 | | | | | | |
 | AMER | 2021-10-31 | dag | YT | | | | 2314452 | | | | |
-| JPN | 2021-10-21 | dag | EMAIL | | 21089 | | | | | | 3283626 |
-| JPN | 2021-10-21 | dag | SOCIAAL | | | | 621 | | | | |
+| JPN | 21-10-2021 | dag | EMAIL | | 21089 | | | | | | 3283626 |
+| JPN | 21-10-2021 | dag | SOCIAAL | | | | 621 | | | | |
 
 {style="table-layout:auto"}
 
@@ -58,10 +58,10 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Model
 
 | Geo | Datum | Datumtype | Product | Verkochte eenheden | Ontvangsten |
 |---|:---|:---:|---|--:|--:|
-| EMEA | 2021-09-13 | dag | Maker Economie | 603 | 36537.68 |
-| EMEA | 2021-09-13 | dag | Metavers | 55 | 21704.37 |
-| JPN | 2022-05-30 | dag | Pro Imaging | 487 | 64469.60 |
-| JPN | 2022-05-30 | dag | Document Cloud | 642 | 100509.07 |
+| EMEA | 2021-09-13 | dag | Maker Economie | 603 | 36537,68 |
+| EMEA | 2021-09-13 | dag | Metavers | 55 | 21704,37 |
+| JPN | 2022-05-30 | dag | Pro Imaging | 487 | 64469,60 |
+| JPN | 2022-05-30 | dag | Document Cloud | 642 | 100509,07 |
 
 {style="table-layout:auto"}
 
@@ -71,21 +71,21 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Model
 
 | Gegevens | Datumtype | Factor | Waarde |
 |---|:---:|:---:|:---|
-| 2020-08-02 | week | SPX | 3325.866 |
-| 2020-08-09 | week | SPX | 3364.158 |
-| 2020-08-16 | week | SPX | 3385.858 |
-| 2020-08-23 | week | SPX | 3497.965 |
+| 2020-08-02 | week | SPX | 3325,866 |
+| 2020-08-09 | week | SPX | 3364,158 |
+| 2020-08-16 | week | SPX | 3385,858 |
+| 23-08-2020 | week | SPX | 3497,965 |
 
 {style="table-layout:auto"}
 
 +++
 
-Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Experience Platform worden gemodelleerd. De interface van de Mix Modeler verleent gemakkelijke toegang tot zowel de Schema&#39;s als Datasets UI.
+Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Experience Platform worden gemodelleerd. De interface van de Mix Modeler verleent gemakkelijke toegang tot zowel de Schema&#39;s van het Experience Platform als Datasets UI.
 
 
 >[!MORELIKETHIS]
 >
 >Zie voor meer details over hoe te om schema&#39;s en datasets te beheren:
 >
->* [Schema&#39;s](schemas.md)
+>* [Schemas](schemas.md)
 >* [Gegevenssets](datasets.md)

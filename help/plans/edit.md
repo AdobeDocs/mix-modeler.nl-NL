@@ -3,9 +3,9 @@ title: Een abonnement bewerken
 description: Leer hoe u een abonnement in Mix Modeler kunt bewerken.
 feature: Plans
 exl-id: 91385595-284f-4fcb-b54b-9539905e552b
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: cbe4b4bf17773a42e4a13d4777443e5f1f50dc6e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,11 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 1. Selecteren **[!UICONTROL Close]** om terug te keren naar de interface Plans.
 
+1. Selecteren **[!UICONTROL X]** of **[!UICONTROL  %]** over hoe **[!UICONTROL View ROI]**.
+
 1. Selecteer ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
+
+1. Selecteer **[!UICONTROL All channels]**, **[!UICONTROL Paid channels]**, of **[!UICONTROL Non-paid channels]** van de **[!UICONTROL View]** selectie.
 
 1. Als u uw abonnement wilt bewerken, selecteert u **[!UICONTROL Edit plan]**:
 
@@ -53,7 +57,7 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
          1. Wijzig de **[!UICONTROL Date range]** voor een of meer datumbereiken van uw abonnement, door datums te typen of door een datumbereik te selecteren met ![Kalender](../assets/icons/Calendar.svg).
 
-         1. Wijzig de **[!UICONTROL Budget]** een of meer datumbereiken van uw abonnement.
+         1. Wijzig de **[!UICONTROL Budget]** voor een of meer datumbereiken van uw abonnement.
 
          Als u extra datumbereiken wilt toevoegen, elk met het bijbehorende budget, selecteert u ![KalenderToevoegen](../assets/icons/CalendarAdd.svg) **[!UICONTROL Add row]**.
 

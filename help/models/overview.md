@@ -3,9 +3,9 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Een model kan eventueel het volgende omvatten:
 
 ## Een model maken
 
-Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Guide me]**. Zie [Een model maken](create.md) voor meer informatie .
+Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Open model canvas]**. Zie [Een model maken](create.md) voor meer informatie .
 
 ## Modellen beheren
 
@@ -54,19 +54,12 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
    | Conversion-gebeurtenis | De conversie die u voor het model hebt geselecteerd. |
    | Uitvoerfrequentie | De lopende frequentie van opleiding het model. |
    | Laatste uitvoering | De datum en het tijdstip van de laatste training voor het model. |
-   | Status | De status van de laatste run van de training van het model. <br/><span style="color:green">●</span> Succes<br/><span style="color:orange">●</span> Trainingsprobleem<br/> <span style="color:orange">●</span> In afwachting van training <br/><span style="color:red">●</span> Mislukt |
+   | Status | De status van de laatste run van de training van het model. <br/><span style="color:green">●</span> Succes<br/><span style="color:orange">●</span> Trainingsprobleem<br/> <span style="color:orange">●</span> In afwachting van training <br/><span style="color:red">●</span> Mislukt <br/><span style="color:gray">●</span> _ (wanneer een laatste run wordt uitgevoerd) |
 
    {style="table-layout:auto"}
 
 1. Als u de kolommen voor de lijst wilt wijzigen, selecteert u ![Kolominstellingen](../assets/icons/ColumnSetting.svg) en kolommen in-/uitschakelen ![Controleren](../assets/icons/Checkmark.svg) of uit.
 
-### Een model verwijderen
-
-Een model verwijderen:
-
-1. Selecteer de naam van het model dat u wilt verwijderen.
-
-1. Selecteer in het contextmenu de optie **[!UICONTROL Delete]** om het model te verwijderen.
 
 ### Details van een model weergeven
 
@@ -78,32 +71,37 @@ Meer details van een model bekijken:
 
 ### Modelinzichten
 
->[!NOTE]
->
->Deze selectie is alleen beschikbaar voor goed opgeleide modellen.
->
-
 Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 
 1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
-1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
+1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel. Modelinzichten zijn alleen beschikbaar voor goed opgeleide modellen.
 
 1. Selecteer in het contextmenu de optie **[!UICONTROL Model Insights]**. U wordt omgeleid naar [Modelinzichten](insights.md).
 
 
 ### Opnieuw score
 
->[!NOTE]
->
->Deze selectie is alleen beschikbaar voor goed opgeleide modellen.
->
 
 Om een model, in de interface van de Mix Modeler opnieuw te scoren:
 
 1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
-1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel.
+1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel. Herscore is alleen beschikbaar voor goed opgeleide modellen.
 
 1. Selecteer in het contextmenu de optie **[!UICONTROL Re-score]**. Het kan een paar minuten duren om een bijgewerkte status voor het model weer te geven.
+
+
+### Een model verwijderen
+
+Een model verwijderen:
+
+1. Selecteer de naam van het model dat u wilt verwijderen.
+
+1. Selecteer in het contextmenu de optie **[!UICONTROL Delete]** om het model te verwijderen.
+
+   >[!WARNING]
+   >
+   >Het model wordt onmiddellijk verwijderd.
+
 
