@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 4fa5798dd6b51cc44ac9bb063c87765e6d1c85e0
+source-git-commit: 17d4609f251808f68372185ac90530e164024b5f
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '166'
 ht-degree: 6%
 
 ---
@@ -22,6 +22,8 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De u
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
+| **Verbeterde downloads** | U kunt nu [volledige modelinzichten downloaden](../models/insights.md) in Microsoft® Excel formaat | donderdag 31 januari 2024 |
+| **Marginale responscurven** | [Modelinzichten](../models/insights.md) Hiermee geeft u een extra widget op om marginale responscurven weer te geven. | donderdag 31 januari 2024 |
 | **Voorkeuren voor gegevenssamenvoeging** | U kunt [voorkeuren voor gegevenssamenvoeging](../harmonize-data/dataset-rules.md#data-merge-preferences) voor gegevenssetregels voor geharmoniseerde gegevensbestanden. | donderdag 31 januari 2024 |
 | **Gebruiksrapport** | De interface voor geharmoniseerde gegevenssets bevat een extra [Gebruiksrapport](../harmonize-data/usage-report.md) tabblad biedt aanvullende inzichten in het gebruik van modellen en omzettingen. | 31 januari 2022 |
 | **Gebruikersinterface voor bijgewerkte abonnementen** | De interface van de Inzichten van het Plan wordt bijgewerkt, toestaand u om te selecteren op welke ROI en kanalen om te melden. | donderdag 31 januari 2024 |

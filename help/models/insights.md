@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: 73534d1aecb6d1513f6f3b5f1801b497ad73278f
+source-git-commit: 17d4609f251808f68372185ac90530e164024b5f
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -51,11 +51,15 @@ Het tabblad Modelinzichten bevat widgets voor:
 
 * Overzicht van de marketingprestaties.
 
+* Marginale responscurven.
+
 ![Model - Modelinzichten](../assets/model-model-insights.png)
 
 U kunt de muisaanwijzer boven afzonderlijke diagramelementen in elke widget plaatsen om een pop-up met meer details weer te geven.
 
 Als u een CSV-bestand met de gegevens voor de widget wilt downloaden, selecteert u ![Downloaden](../assets/icons/Download.svg).
+
+Als u gegevens van volledige modelinzichten wilt downloaden in Microsoft® Excel, selecteert u ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download data]**.
 
 
 
