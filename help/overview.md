@@ -4,7 +4,7 @@ description: Leer hoe u campagnes kunt meten en de planning holistisch kunt opti
 short-description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
 feature: Harmonized Data, Models, Plans
 exl-id: 3427c338-f2a0-416b-bb4c-d8fef929c38a
-source-git-commit: 18bb0bb50d5045536a58cb36cc9b99ccb9b17e25
+source-git-commit: 1e5bfe6901332f5545e6bdeea46da96d475b3ce1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 14%
@@ -13,7 +13,7 @@ ht-degree: 14%
 
 # Hulplijn Adobe Mix Modeler
 
-Deze handleiding voor technische documentatie biedt zelfhulp voor Adobe **Mix Modeler**. Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning horizontaal optimaliseert op alle kanalen: betaald, verdiend en eigendom. Mix Modeler is gebouwd op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
+Deze handleiding voor technische documentatie biedt zelfhulp voor Adobe **Mix Modeler**. Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning horizontaal optimaliseert op alle kanalen: betaald, verdiend en eigendom. Mix Modeler is gebouwd boven op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
 
 ## Beginnen met de basisbeginselen
 
