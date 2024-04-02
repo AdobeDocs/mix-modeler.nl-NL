@@ -3,9 +3,9 @@ title: Gegevens harmoniseren
 description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: 4f4c7f05e90d73a0ab4865150b1ec4c2af88fc12
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '893'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegeve
 * geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
 * gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via het Experience Platform Web of Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
 
-De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensweergave, in combinatie met interne en externe gegevens over factoren, is de bron voor de modellen in Mix Modeler.
+De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensweergave, in combinatie met interne en externe gegevens over factoren, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
 
 ## Een voorbeeld van geharmoniseerde gegevens
 
@@ -118,7 +118,7 @@ Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
 1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van de linkerspoorstaaf.
 
-1. Selecteren **[!UICONTROL Harmonized Data]** in de bovenste balk. U ziet een overzicht van uw geharmoniseerde gegevens die op de gebieden, datasetregels, marketing touchpoints en omzettingen worden gebaseerd u hebt bepaald.
+1. Selecteren **[!UICONTROL Harmonized Data]** in de bovenste balk. Een overzicht van uw geharmoniseerde gegevens wordt getoond gebaseerd op de gebieden, datasetregels, marketing touchpoints en omzettingen u hebt bepaald.
 
    1. Om de periode te herdefiniëren waarop de samenloop van geharmoniseerde gegevens is gebaseerd, voert u een datumbereik in voor **[!UICONTROL Date range]** of gebruik ![Kalender](../assets/icons/Calendar.svg) om een gegevensbereik te selecteren.
 

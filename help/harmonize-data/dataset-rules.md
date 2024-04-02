@@ -3,9 +3,9 @@ title: Gegevensregels
 description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
 feature: Harmonized Data, Dataset Rules
 exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: 4f4c7f05e90d73a0ab4865150b1ec4c2af88fc12
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -54,11 +54,13 @@ In de **[!UICONTROL Create]** scherm,
 
 1. Wanneer u een dataset van hebt geselecteerd **[!UICONTROL Summary]** categorie:
 
+   1. Om te bepalen of de gegevens voor de dataset moeten worden samengevoegd of bestaande gegevens vervangen, selecteert u **[!UICONTROL Aggregation]** of **[!UICONTROL Replacement]** for **[!UICONTROL Data restatement is by]**.
+
    1. Wijs elk van de **[!UICONTROL Available dataset fields]** voor **[!UICONTROL Standard harmonized fields]** in **[!UICONTROL Map to harmonized fields]**. Als u een gegevenssetveld niet wilt toewijzen aan een geharmoniseerd veld, selecteert u expliciet **[!UICONTROL -- None --]**.
 
    1. Als u een nieuw geharmoniseerd veld nodig hebt dat niet beschikbaar is in de lijst, selecteert u **[!UICONTROL Create New]** een nieuw geharmoniseerd veld tot stand te brengen. U ziet het dialoogvenster zoals beschreven in [Een nieuw geharmoniseerd veld toevoegen](fields.md#add-a-harmonized-field) om snel een nieuw geharmoniseerd veld toe te voegen.
 
-   1. Wanneer de toewijzing voor alle gebieden voor de regel wordt voltooid, selecteer **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren.  Selecteren **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
+   1. Wanneer de toewijzing voor alle gebieden voor de regel wordt voltooid, selecteer **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren. Selecteren **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
 
       ![Gegevenssetregels maken](../assets/dataset-create-summary.png)
 
@@ -103,7 +105,7 @@ In de **[!UICONTROL Create]** scherm,
 
 1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add field]** om extra velden te definiëren.
 
-Als u klaar bent, selecteert u **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren.  Selecteren **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
+Selecteer **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren. Selecteren **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
 
 
 ### Een gegevenssetregel bewerken
@@ -119,7 +121,7 @@ Om een datasetregel uit te geven, in ![DataSearch](../assets/icons/DataCheck.svg
 Om een datasetregel te schrappen, in ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
 
 1. Selecteren ![Meer](../assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt schrappen.
-1. Selecteer in het contextmenu de optie ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetregel te schrappen. U wordt gevraagd dit te bevestigen. Selecteren **[!UICONTROL Delete]** om de geselecteerde datasetregel permanent te schrappen.
+1. Selecteer in het contextmenu de optie ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetregel te schrappen. U wordt om bevestiging gevraagd. Selecteren **[!UICONTROL Delete]** om de geselecteerde datasetregel permanent te schrappen.
 
 
 ## Gegevens synchroniseren
@@ -130,7 +132,7 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 
 1. Van de **[!UICONTROL Sync data for dataset rules]** dialoogvenster selecteert u een van de **[!UICONTROL Refresh harmonized data for summary datasets]**, **[!UICONTROL Refresh harmonized data for event datasets]**, of **[!UICONTROL Refresh harmonized data for both summary + event datasets]**.
 
-1. Selecteren **[!UICONTROL Sync]** om de synchronisatie te starten op basis van de gedefinieerde gegevenssetregels tussen geharmoniseerde gegevens en gegevens in gegevensreeksen. Selecteer **[!UICONTROL Cancel]**.
+1. Selecteer **[!UICONTROL Sync]**. Selecteer **[!UICONTROL Cancel]**.
 
    ![Gegevens synchroniseren](../assets/sync-data.png)
 
