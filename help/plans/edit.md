@@ -3,9 +3,9 @@ title: Een abonnement bewerken
 description: Leer hoe u een abonnement in Mix Modeler kunt bewerken.
 feature: Plans
 exl-id: 91385595-284f-4fcb-b54b-9539905e552b
-source-git-commit: 3e2330ffe0337c4ac9ef09fda3cd611656179d29
+source-git-commit: 128a548af9b22e6b14794b1ba94def6431e97c51
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 1. Selecteer ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download CSV]**. Vanuit het contextmenu:
 
-   - Selecteren ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Detailed CSV]** voor gedetailleerde gegevens in CSV-formaat, of
+   - Selecteren ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Detailed CSV]** voor gedetailleerde gegevens in CSV-indeling.
    - Selecteren ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Summary CSV]** voor samenvattingsgegevens in CSV-indeling.
 
    Gedetailleerde gegevens zijn korrelgegevens die per week worden vastgelegd. De summiere gegevens worden gehouden door de model-verstrekte datumwaaier.
