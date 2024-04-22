@@ -3,9 +3,9 @@ title: Een abonnement bewerken
 description: Leer hoe u een abonnement in Mix Modeler kunt bewerken.
 feature: Plans
 exl-id: 91385595-284f-4fcb-b54b-9539905e552b
-source-git-commit: b2719da8b49441c00d86f47596546fd7341f16bd
+source-git-commit: 3e2330ffe0337c4ac9ef09fda3cd611656179d29
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,12 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 1. Selecteren **[!UICONTROL X]** of **[!UICONTROL  %]** over hoe **[!UICONTROL View ROI]**.
 
-1. Selecteer ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download CSV]**. Selecteer in het contextmenu de optie ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Detailed CSV]** voor gedetailleerde gegevens in CSV-formaat, of ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Summary CSV]** voor samenvattingsgegevens in CSV-indeling.
+1. Selecteer ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download CSV]**. Vanuit het contextmenu:
+
+   - Selecteren ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Detailed CSV]** voor gedetailleerde gegevens in CSV-formaat, of
+   - Selecteren ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Summary CSV]** voor samenvattingsgegevens in CSV-indeling.
+
+   Gedetailleerde gegevens zijn korrelgegevens die per week worden vastgelegd. De summiere gegevens worden gehouden door de model-verstrekte datumwaaier.
 
 1. Selecteer **[!UICONTROL All channels]**, **[!UICONTROL Paid channels]**, of **[!UICONTROL Non-paid channels]** van de **[!UICONTROL View]** selectie.
 
