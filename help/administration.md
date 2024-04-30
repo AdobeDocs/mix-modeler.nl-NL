@@ -2,13 +2,13 @@
 title: Beheer
 description: Leer hoe u Mix Modeler kunt beheren.
 feature: Administration
-source-git-commit: c145754ecd6a6d8f5aab333ced739c4053aeaae5
+exl-id: 76d6d15d-a838-4ee2-9929-e55ea8946b80
+source-git-commit: 51a4bc6557422a281fa03d49877cb378d14314e2
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 7%
+source-wordcount: '184'
+ht-degree: 2%
 
 ---
-
 
 # Beheer
 
@@ -22,30 +22,36 @@ In de gebruikersinterface van Adobe Experience Cloud:
 
 1. Selecteren ![Persoon](assets/icons/User.svg) **[!UICONTROL Roles]** in het linkerdeelvenster.
 
-1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]**. Als u een bestaande rol selecteert, selecteert u ![Bewerken](assets/icons/Edit.svg) **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
+1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]** (bijvoorbeeld **Mix Modeler**). Als u een bestaande rol selecteert, selecteert u ![Bewerken](assets/icons/Edit.svg) **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
 
-1. Zorg ervoor dat u de volgende machtigingen voor de rol selecteert:
+1. Controleer of u een of meer sandboxen voor de rol hebt geselecteerd.
 
-   * **[!UICONTROL Sandboxes]**: Selecteer ten minste één sandbox.
+1. Voeg de **Adobe Mix Modeler** bron aan de lijst van middelen voor de rol.
 
-   * **[!UICONTROL Data Management]**: zorg dat u de opties selecteert **[!UICONTROL View Datasets]** en **[!UICONTROL Manage Datasets]**.
+1. Zorg ervoor dat u de juiste **[!UICONTROL Adobe Mix Modeler]** machtigingen voor de rol die u configureert. U kunt een of meer van de volgende rollen selecteren:
 
-   * **[!UICONTROL Data Modeling]**: zorg dat u de opties selecteert **[!UICONTROL Manage Schemas]** en **[!UICONTROL View Schemas]**.
+   - **[!UICONTROL View Adobe Mix Modeler Harmonized Data]**
+   - **[!UICONTROL Manage Adobe Mix Modeler Harmonized Data]**
+   - **[!UICONTROL View Adobe Mix Modeler Models Configuration]**
+   - **[!UICONTROL Manage Adobe Mix Modeler Models Configuration]**
+   - **[!UICONTROL View Adobe Mix Modeler Plans Configuration]**
+   - **[!UICONTROL Manage Adobe Mix Modeler Plans Configuration]**
 
-   * **[!UICONTROL Destinations]**: zorg dat u **[!UICONTROL Manage and Activate Dataset Destination]**, **[!UICONTROL Destination Authoring]**, **[!UICONTROL Activate Destinations]** en **[!UICONTROL View Destinations]**.
+     ![Mix Modeler RBAC](assets/mix-modeler-rbac.png)
 
-   * **[!UICONTROL Data Ingestion]**: zorg dat u **[!UICONTROL View Sources]** en **[!UICONTROL Manage Sources]**.
+
+1. Zorg ervoor dat u aanvullende machtigingen voor de rol selecteert. Als u bijvoorbeeld gegevenssets en schema&#39;s wilt weergeven of beheren, selecteert u:
+
+   - **[!UICONTROL Data Management]**: selecteer de relevante opties: **[!UICONTROL View Datasets]** of **[!UICONTROL Manage Datasets]**.
+
+   - **[!UICONTROL Data Modeling]**: selecteer de relevante opties: **[!UICONTROL Manage Schemas]** of **[!UICONTROL View Schemas]**.
 
    <!--
     * **[!UICONTROL Data Governance]**: ensure you select **[!UICONTROL View User Activity Log]** and **[!UICONTROL View Data Usage Policies]**.
     -->
 
-   De machtigingen die voor de rol zijn ingesteld, moeten er als volgt uitzien:
-
-   ![Machtigingen](assets/permissions.png)
-
    <!--![Permissions](assets/permissions-including-privacy.png)-->
 
    Selecteren **[!UICONTROL Save]** om de machtigingen op te slaan.
 
-1. In **[!UICONTROL Details]** binnen **[!UICONTROL Role]** de passende **[!UICONTROL Users]** en/of **[!UICONTROL User groups]** om gebruikers toegang tot Mix Modeler te verlenen.
+1. In **[!UICONTROL Details]** binnen **[!UICONTROL Role]** de passende **[!UICONTROL Users]** of **[!UICONTROL User groups]** om gebruikers toegang tot Mix Modeler te verlenen.
