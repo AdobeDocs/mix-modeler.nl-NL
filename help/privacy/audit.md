@@ -2,7 +2,7 @@
 title: Audit
 description: Leer hoe u Mix Modeler kunt controleren.
 feature: Administration
-source-git-commit: 44e37f385241d90da87e1fd85fb4ce9024b67250
+source-git-commit: e1ef6f2b54ae7c80cb115b417909b154b6153ce2
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -50,3 +50,4 @@ Om het controlelogboek, in de interface van de Mix Modeler te inspecteren:
 1. Om de kolommen te wijzigen die in het activiteitenlogboek worden weergegeven, selecteert u ![Kolommen](../assets/icons/ColumnSetting.svg) en in de **[!UICONTROL Customize table]** selecteert u de kolommen die u wilt weergeven. Selecteren **[!UICONTROL Apply]** om de selectie toe te passen, **[!UICONTROL Cancel]** om de selectie te annuleren.
 
 1. Als u het auditlogboek wilt downloaden, selecteert u ![Downloaden](../assets/icons/Download.svg) **[!UICONTROL Download log]**. In de **[!UICONTROL Download log]** dialoogvenster selecteert u een van de **[!UICONTROL CSV]** of **[!UICONTROL JSON]** als de indeling en selecteer **[!UICONTROL Download]**.
+
