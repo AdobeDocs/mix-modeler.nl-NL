@@ -4,18 +4,25 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 4f4c7f05e90d73a0ab4865150b1ec4c2af88fc12
+source-git-commit: e90ddd25ba7b78bd360096dda4e3af80304a5176
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 9%
+source-wordcount: '260'
+ht-degree: 10%
 
 ---
 
 # Opmerkingen bij de release Huidige Mix Modeler
 
-**Laatste update**: 1 april 2024.
+**Laatste update**: 29 mei 2024.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De uitstoot van Mix Modeler werkt op een ononderbroken leveringsmodel dat voor een ongeveer maandelijkse versiedatentie toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+
+## Mei 2024
+
+| Functie | Beschrijving | Algemene beschikbaarheid |
+|---|---|---|
+| **Voorkeuren voor gegevenssamenvoeging** [!BADGE bèta] | [Voorkeuren voor gegevenssamenvoeging](../harmonize-data/dataset-rules.md#data-merge-preferences) helpt bij het oplossen van conflicten wanneer gegevens van samengevat en gebeurtenisgegevensbronnen worden samengevoegd. | donderdag 29 mei 2024 |
+| **Toegangsbeheer op veldniveau** | Bij het definiëren van gegevenssetregels, Experience Platform [kenmerkgebaseerd toegangsbeheer](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) wordt afgedwongen op een [op veldniveau](../harmonize-data/dataset-rules.md#field-level-access-control). | donderdag 29 mei 2024 |
 
 
 ## April 2024
