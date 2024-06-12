@@ -3,9 +3,9 @@ title: Geharmoniseerde velden
 description: Leer hoe u velden definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Harmonized Fields
 exl-id: f051279a-1ae9-49bd-a946-abfc34c90413
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: fecb122f6e2e8ae532babd0e2964ad200174a032
 workflow-type: tm+mt
-source-wordcount: '685'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,10 @@ De standaard beschikbare globale harmonisatievelden in Mix Modeler zijn:
 | gegevensset | Gegevensset | Dimension | String |           |
 | date_type | Datumtype | Dimension | String | dag, week |
 | e-mail | Verzonden e-mails | Metrisch | Getal |           |
-| event_date | Datum | Dimension | DateTime |           |
+| event_date | Datum | Dimension | Datum en tijd |           |
 | bruto_demand | Bruto-vraag | Metrisch | Valuta |           |
 | indrukken | Impessies | Metrisch | Getal |           |
-| last_updated_date | Laatst bijgewerkt op | Dimension | DateTime |           |
+| last_updated_date | Laatst bijgewerkt op | Dimension | Datum en tijd |           |
 | koppelbezoeken | Bezoekingen koppelen | Metrisch | Getal |           |
 | mediatype | Mediatype | Dimension | String |           |
 | net_sales | Nettoverkoop | Metrisch | Valuta |           |
@@ -66,7 +66,7 @@ Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mi
    | Veldnaam | De naam van het geharmoniseerde veld. |
    | Weergavenaam | De weergavenaam van het geharmoniseerde veld. Deze vertoningsnaam wordt gebruikt wanneer het bepalen van datasetregels, marketing touchpoint, en omzettingsdefinities. |
    | Categorie | Hiermee wordt opgegeven of een geharmoniseerd gegevensveld een [!UICONTROL Dimension], [!UICONTROL Metric] of [!UICONTROL Derived]. Een afgeleide categorie is een geharmoniseerd veld met behulp van een op cijfers gebaseerde definitie van formule. |
-   | Gegevenstype | Hiermee wordt het gegevenstype ([!UICONTROL Number], [!UICONTROL String], [!UICONTROL Currency], [!UICONTROL DateTime]). |
+   | Gegevenstype | Hiermee wordt het gegevenstype ([!UICONTROL Number], [!UICONTROL String], [!UICONTROL Currency], [!UICONTROL Date time]). |
    | Aanmaakdatum | Datum en tijdstip waarop het geharmoniseerde veld wordt gecreëerd. |
    | Eigenaar | Geeft aan of een geharmoniseerd veld een standaardveld is ([!UICONTROL Global]), of wordt door u gedefinieerd ([!UICONTROL Client]). |
    | Laatst gewijzigd | Gegevens en tijdstip van de laatste wijziging van het geharmoniseerde veld. |
@@ -93,7 +93,7 @@ Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataChec
 
    1. Selecteer een **[!UICONTROL Data type]**.
 
-      - **[!UICONTROL String]** of **[!UICONTROL DateTime]**, als de geselecteerde categorie Dimension is.
+      - **[!UICONTROL String]** of **[!UICONTROL Date time]**, als de geselecteerde categorie Dimension is.
       - **[!UICONTROL Number]** of **[!UICONTROL Currency]** als de geselecteerde categorie Metrisch of Afgeleid is.
 
    1. Selecteren **[!UICONTROL Submit]** het geharmoniseerde veld toe te voegen. Selecteren **[!UICONTROL Close]** het dialoogvenster sluiten zonder het geharmoniseerde veld toe te voegen.

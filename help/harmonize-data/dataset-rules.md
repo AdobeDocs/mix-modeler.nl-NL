@@ -3,9 +3,9 @@ title: Gegevensregels
 description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
 feature: Harmonized Data, Dataset Rules
 exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
-source-git-commit: 8b2939a84e8f20f775663f2c46184504e44216aa
+source-git-commit: a066cdff03eade86b09f03209a08ebfa2ab32e8e
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
@@ -159,7 +159,7 @@ Voor nauwkeurige modelvoorspelling kunt u voorkeuren voor gegevenssamenvoeging d
 
    ![Voorkeuren voor gegevenssamenvoeging](../assets/data-merge-preferences.png)
 
-   * Selecteer een **[!UICONTROL Default metric preference]**. De geselecteerde standaard metrische voorkeur wordt toegepast wanneer, tijdens harmonisatie, de veelvoudige bronnen van gegevens een metrisch gebied voor een bepaald kanaal bijwerken. De voorkeur wordt toegepast op het niveau van de zandbak, tenzij met voeten getreden voor specifieke metrische gebaseerde voorkeur.
+   * Selecteer een **[!UICONTROL Default metric preference]**. De geselecteerde standaard metrische voorkeur wordt toegepast wanneer, tijdens harmonisatie, de veelvoudige bronnen van gegevens een metrisch gebied voor een bepaald kanaal bijwerken. De voorkeur wordt toegepast op het niveau van de zandbak, tenzij met voeten getreden voor specifieke metrische gebaseerde voorkeur. U kunt kiezen tussen **[!UICONTROL Summary data]**, **[!UICONTROL Event data]** en **[!UICONTROL Sum of summmary and event data]**.
 
    * Specifieke op metrische basis gebaseerde voorkeuren toevoegen:
 
@@ -181,13 +181,11 @@ Voor nauwkeurige modelvoorspelling kunt u voorkeuren voor gegevenssamenvoeging d
 
 1. Selecteren **[!UICONTROL Save]** om de voorkeuren voor gegevenssamenvoeging op te slaan. De gegevens worden opnieuw gesynchroniseerd. <br/>Selecteren **[!UICONTROL Cancel]** om te annuleren.
 
-<!--
-## Field-level access control
 
-When configuring dataset rules for harmonized datasets, Experience Platform's [attribute based access control](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) is enforced on a field-level. A field is restricted when a label is attached to a schema field and an active policy is enabled that denies access for you to that field. As a result:
+## Toegangsbeheer op veldniveau
 
-* you do not see the schema fields that are restricted for you when you create a dataset rule, 
-* you are not able to view or edit the mapping of one or more schema fields that are restricted for you. When you edit or view a dataset rule containing such restricted fields, you see the following screen.
-  ![Action not permitted](../assets/action-not-permitted.png)
+Wanneer het vormen van datasetregels voor geharmoniseerde datasets, Experience Platform [kenmerkgebaseerd toegangsbeheer](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) wordt afgedwongen op veldniveau. Een gebied wordt beperkt wanneer een etiket aan een schemagebied in bijlage is en een actief beleid wordt toegelaten dat toegang voor u tot dat gebied ontkent. Dientengevolge:
 
--->
+* u ziet niet de schemagebieden die voor u beperkt zijn wanneer u een datasetregel creeert,
+* u kunt de afbeelding van een of meer schemavelden die voor u zijn beperkt, niet weergeven of bewerken. Wanneer u een datasetregel uitgeeft of bekijkt die dergelijke beperkte gebieden bevat, ziet u het volgende scherm.
+  ![Actie niet toegestaan](../assets/action-not-permitted.png)

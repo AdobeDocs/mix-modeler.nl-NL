@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 8b2939a84e8f20f775663f2c46184504e44216aa
+source-git-commit: cefa5ccc8850e4931b2d0acffe9ca5e8c3f92e00
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '285'
 ht-degree: 10%
 
 ---
@@ -17,6 +17,15 @@ ht-degree: 10%
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De uitstoot van Mix Modeler werkt op een ononderbroken leveringsmodel dat voor een ongeveer maandelijkse versiedatentie toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
+## Juni 2024
+
+| Functie | Beschrijving | Algemene beschikbaarheid |
+|---|---|---|
+| **Toegangsbeheer op veldniveau** | Bij het definiëren van gegevenssetregels, Experience Platform [kenmerkgebaseerd toegangsbeheer](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) wordt afgedwongen op een [op veldniveau](../harmonize-data/dataset-rules.md#field-level-access-control). | donderdag 12 juni 2024 |
+| P **vooraanstaande kennistouchpoints** | Alleen marketingaanraakpunten, opgegeven in het dialoogvenster [!UICONTROL Configure] zijn beschikbaar voor selectie in de [[!UICONTROL Prior Knowledge]](../models/create.md) sectie. | donderdag 12 juni 2024 |
+
+{style="table-layout:auto"}
+
 ## Mei 2024
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
@@ -25,9 +34,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De u
 
 {style="table-layout:auto"}
 
-<!--
-| **Field-level access control** | When defining dataset rules, Experience Platform's [attribute based access control](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) is enforced on a [field-level](../harmonize-data/dataset-rules.md#field-level-access-control). | May 29, 2024 |
--->
+
 
 
 ## April 2024
