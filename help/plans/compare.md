@@ -3,9 +3,9 @@ title: Abonnementen vergelijken
 description: Leer hoe u plannen in de Mix Modeler kunt vergelijken.
 feature: Plans
 exl-id: 40f6ade5-77eb-4ef7-ba60-4a2d2fcf1a60
-source-git-commit: 18bb0bb50d5045536a58cb36cc9b99ccb9b17e25
+source-git-commit: eb7e964b96c87e74809d1e6182e45351a71ed13c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,15 @@ De Compare planinterface toont informatie en widgets op:
 * Totale begroting
 * Kanaalbudgettering: **[!UICONTROL AI automated]** of **[!UICONTROL Custom + AI]**
 * Geplande uitgaven
-* voorspelde ROI
-* Uitsplitsing naar ROI
+* Geraamde ROI (rendement van investeringen) of CPA (kosten per actie)
+* Uitsplitsing naar rendement van investeringen (rendement van investeringen) of CPA (kosten per actie)
 * Voorspelde terugkeer
+
+Waarbij:
+
+* ROI wordt gedefinieerd als (incrementele inkomsten - uitgaven) / uitgaven.
+* CPA wordt gedefinieerd als uitgaven/Incrementele omzetting.
+
 
 ![Abonnementen vergelijken](../assets/compare-plans.png)
 

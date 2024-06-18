@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: cefa5ccc8850e4931b2d0acffe9ca5e8c3f92e00
+source-git-commit: 23c83cd3576951eb5f8d64bd98f8a5b9e57286a5
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '308'
 ht-degree: 10%
 
 ---
@@ -21,8 +21,10 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De u
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
+| **MTA-visualisaties** | Modelinzichten worden bijgewerkt met uitgebreide [MTA-visualisaties](../models/insights.md#attribution). | woensdag 18 juni 2024 |
+| **CPA-metriek** | CPA (kosten per actie) metriek is beschikbaar in [Abonnementen vergelijken](../plans/compare.md). | woensdag 18 juni 2024 |
 | **Toegangsbeheer op veldniveau** | Bij het definiëren van gegevenssetregels, Experience Platform [kenmerkgebaseerd toegangsbeheer](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) wordt afgedwongen op een [op veldniveau](../harmonize-data/dataset-rules.md#field-level-access-control). | donderdag 12 juni 2024 |
-| P **vooraanstaande kennistouchpoints** | Alleen marketingaanraakpunten, opgegeven in het dialoogvenster [!UICONTROL Configure] zijn beschikbaar voor selectie in de [[!UICONTROL Prior Knowledge]](../models/create.md) sectie. | donderdag 12 juni 2024 |
+| **Voorafgaande kennistouchpoints** | Alleen marketingaanraakpunten, opgegeven in het dialoogvenster [!UICONTROL Configure] zijn beschikbaar voor selectie in de [[!UICONTROL Prior Knowledge]](../models/create.md) sectie. | donderdag 12 juni 2024 |
 
 {style="table-layout:auto"}
 
