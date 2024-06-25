@@ -3,9 +3,9 @@ title: Audits
 description: Leer hoe te om tot controles van Mix Modeler toegang te hebben.
 feature: Administration
 exl-id: aa65aac5-bea4-43ff-b0d0-9e8a6a97d3ca
-source-git-commit: 28ab9273c1f606c8b685225f412d51ee305b5f31
+source-git-commit: c45f4e4412258f959726c49129c6b9b6fff48f4a
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,30 @@ Om het controlelogboek, in de interface van de Mix Modeler te inspecteren:
 
    | Categorie | Handeling | Status |
    |---|---|---|
-   | Gegevensregel Mix Modeler | Maken | Toestaan of Afgewezen |
-   | Gegevensregel Mix Modeler | Bijwerken | Toestaan of Afgewezen |
-   | Gegevensregel Mix Modeler | Verwijderen | Toestaan of Afgewezen |
-   | Veld Mix Modeler | Maken | Toestaan of Afgewezen |
-   | Veld Mix Modeler | Bijwerken | Toestaan of Afgewezen |
-   | Veld Mix Modeler | Verwijderen | Toestaan of Afgewezen |
-   | Aanraakpunt voor marketingMix Modeler | Maken | Toestaan of Afgewezen |
-   | Aanraakpunt voor marketingMix Modeler | Bijwerken | Toestaan of Afgewezen |
-   | Aanraakpunt voor marketingMix Modeler | Verwijderen | Toestaan of Afgewezen |
-   | Mix Modeler converteren | Maken | Toestaan of Afgewezen |
-   | Mix Modeler converteren | Bijwerken | Toestaan of Afgewezen |
-   | Mix Modeler converteren | Verwijderen | Toestaan of Afgewezen |
-   | Model Mix Modeler | Maken | Toestaan of Afgewezen |
-   | Model Mix Modeler | Bijwerken | Toestaan of Afgewezen |
-   | Model Mix Modeler | Verwijderen | Toestaan of Afgewezen |
+   | Gegevensregel Mix Modeler | Maken | Toestaan of Weigeren |
+   | Gegevensregel Mix Modeler | Bijwerken | Toestaan of Weigeren |
+   | Gegevensregel Mix Modeler | Verwijderen | Toestaan of Weigeren |
+   | Veld Mix Modeler | Maken | Toestaan of Weigeren |
+   | Veld Mix Modeler | Bijwerken | Toestaan of Weigeren |
+   | Veld Mix Modeler | Verwijderen | Toestaan of Weigeren |
+   | Aanraakpunt voor marketingMix Modeler | Maken | Toestaan of Weigeren |
+   | Aanraakpunt voor marketingMix Modeler | Bijwerken | Toestaan of Weigeren |
+   | Aanraakpunt voor marketingMix Modeler | Verwijderen | Toestaan of Weigeren |
+   | Mix Modeler converteren | Maken | Toestaan of Weigeren |
+   | Mix Modeler converteren | Bijwerken | Toestaan of Weigeren |
+   | Mix Modeler converteren | Verwijderen | Toestaan of Weigeren |
+   | Model Mix Modeler | Maken | Toestaan of Weigeren |
+   | Model Mix Modeler | Bijwerken | Toestaan of Weigeren |
+   | Model Mix Modeler | Verwijderen | Toestaan of Weigeren |
+   | Model Mix Modeler | Opnieuw score | Toestaan of Weigeren |
+   | Model Mix Modeler | Klonen | Toestaan of Weigeren |
+   | Model Mix Modeler | Trein/herinrichting | Toestaan of Weigeren |
+   | Model Mix Modeler | Metagegevens downloaden/opslaan | Toestaan of Weigeren |
+   | Mix Modeler Plan | Maken | Toestaan of Weigeren |
+   | Mix Modeler Plan | Bijwerken | Toestaan of Weigeren |
+   | Mix Modeler Plan | Gekoppeld model wijzigen | Toestaan of Weigeren |
+   | Harmonisatie van gegevens Mix Modeler | Synchronisatie activeren | Toestaan of Weigeren |
+
 
 1. Selecteer een item in het activiteitenlog om een deelvenster voor meer informatie te openen.
 
