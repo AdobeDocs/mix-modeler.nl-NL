@@ -3,7 +3,7 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met in
 
 Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te bekijken:
 
-1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
+1. Selecteren ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
 1. U ziet een tabel met de huidige modellen.
 
@@ -58,14 +58,14 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
 
    {style="table-layout:auto"}
 
-1. Als u de kolommen voor de lijst wilt wijzigen, selecteert u ![Kolominstellingen](../assets/icons/ColumnSetting.svg) en kolommen in-/uitschakelen ![Controleren](../assets/icons/Checkmark.svg) of uit.
+1. Als u de kolommen voor de lijst wilt wijzigen, selecteert u ![Kolominstellingen](/help/assets//icons/ColumnSetting.svg) en kolommen in-/uitschakelen ![Controleren](/help/assets//icons/Checkmark.svg) of uit.
 
 
 ### Details van een model weergeven
 
 Meer details van een model bekijken:
 
-1. Selecteren ![Info](../assets/icons/Info.svg) voor een model om een pop-up met details te tonen.
+1. Selecteren ![Info](/help/assets//icons/Info.svg) voor een model om een pop-up met details te tonen.
 
 
 
@@ -73,7 +73,7 @@ Meer details van een model bekijken:
 
 Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 
-1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
+1. Selecteren ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
 1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel. Modelinzichten zijn alleen beschikbaar voor goed opgeleide modellen.
 
@@ -85,7 +85,7 @@ Om inzichten van een model, in de interface van de Mix Modeler te bekijken:
 
 Om een model, in de interface van de Mix Modeler opnieuw te scoren:
 
-1. Selecteren ![](../assets/icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
+1. Selecteren ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** van de linkerspoorstaaf.
 
 1. Selecteer de naam van een model met een **[!UICONTROL Last run status]** van <span style="color:green">●</span> **[!UICONTROL Success]** van de **[!UICONTROL Models]** tabel. Herscore is alleen beschikbaar voor goed opgeleide modellen.
 

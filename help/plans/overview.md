@@ -3,7 +3,7 @@ title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Een plan kan eventueel omvatten:
 
 Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekijken:
 
-1. Selecteren ![](../assets/icons/FileChart.svg) **[!UICONTROL Plans]** van de linkerspoorstaaf.
+1. Selecteren ![](/help/assets//icons/FileChart.svg) **[!UICONTROL Plans]** van de linkerspoorstaaf.
 
 1. U ziet een tabel met de huidige plannen en hun status.
 
@@ -51,7 +51,7 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
 
    {style="table-layout:auto"}
 
-1. Gebruiken ![Zoeken](../assets/icons/Search.svg) om de lijst voor één of meerdere specifieke plannen te zoeken en te filtreren.
+1. Gebruiken ![Zoeken](/help/assets//icons/Search.svg) om de lijst voor één of meerdere specifieke plannen te zoeken en te filtreren.
 
 ## Een abonnement maken
 
@@ -67,20 +67,20 @@ Als u een abonnement wilt bewerken, selecteert u de naam van het plan in de tabe
 
 U kunt een of meer plannen selecteren, die de actiebalk Plannen onthullen. Met de actiebalk kunt u plannen verwijderen, vergelijken of dupliceren.
 
-Als u alle selecties in de tabel Plans wilt verwijderen, selecteert u ![Sluiten](../assets/icons/Close.svg) in de actiebalk
+Als u alle selecties in de tabel Plans wilt verwijderen, selecteert u ![Sluiten](/help/assets//icons/Close.svg) in de actiebalk
 
-![De actiebalk van plannen](../assets/plans-action-bar.png)
+![De actiebalk van plannen](/help/assets//plans-action-bar.png)
 
 ### Een abonnement dupliceren
 
 Een abonnement dupliceren:
 
 1. Selecteer één enkel plan van de lijst.
-1. Selecteren ![Kopiëren](../assets/icons/Copy.svg) **[!UICONTROL Duplicate]** in de actiebalk. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
+1. Selecteren ![Kopiëren](/help/assets//icons/Copy.svg) **[!UICONTROL Duplicate]** in de actiebalk. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
 
 Alternatief:
 
-1. Selecteren ![Meer](../assets/icons/More.svg) voor een plan in de tabel.
+1. Selecteren ![Meer](/help/assets//icons/More.svg) voor een plan in de tabel.
 1. Selecteren **[!UICONTROL Duplicate]** in het contextmenu. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
 
 ### Abonnementen vergelijken
@@ -88,7 +88,7 @@ Alternatief:
 Plannen vergelijken:
 
 1. Selecteer twee plannen in de tabel.
-1. Selecteren ![Ververgelijken](../assets/icons/Compare.svg) **[!UICONTROL Compare]** in de actiebalk. U ziet de **[!UICONTROL Compare plans]** UI.
+1. Selecteren ![Ververgelijken](/help/assets//icons/Compare.svg) **[!UICONTROL Compare]** in de actiebalk. U ziet de **[!UICONTROL Compare plans]** UI.
 
 
 ### Abonnementen verwijderen
@@ -96,11 +96,11 @@ Plannen vergelijken:
 Plannen verwijderen:
 
 1. Selecteer een of meer plannen in de tabel.
-1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** in de actiebalk.
+1. Selecteren ![Verwijderen](/help/assets//icons/Delete.svg) **[!UICONTROL Delete]** in de actiebalk.
 
 Alternatief:
 
-1. Selecteren ![Meer](../assets/icons/More.svg) voor een plan in de tabel.
+1. Selecteren ![Meer](/help/assets//icons/More.svg) voor een plan in de tabel.
 1. Selecteren **[!UICONTROL Delete]** in het contextmenu. Een nieuw plan, met een naam die uit de originele naam van het plan wordt samengesteld toegevoegd **[!UICONTROL (Copy)]**, wordt boven aan de tabel toegevoegd.
 
    >[!WARNING]

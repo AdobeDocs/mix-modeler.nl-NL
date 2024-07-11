@@ -3,7 +3,7 @@ title: Geharmoniseerde velden
 description: Leer hoe u velden definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Harmonized Fields
 exl-id: f051279a-1ae9-49bd-a946-abfc34c90413
-source-git-commit: fecb122f6e2e8ae532babd0e2964ad200174a032
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '687'
 ht-degree: 0%
@@ -27,7 +27,7 @@ De standaard beschikbare globale harmonisatievelden in Mix Modeler zijn:
 | campagne | Campaign | Dimension | String |           |
 | kanaal | Kanaal | Dimension | String |           |
 | channel_id | Kanaal-id | Dimension | String |           |
-| channel_type_at_source | Kanaaltype bij bron | Dimension | String |           |
+| channel_type_at_source | Kanaaltype bij Source | Dimension | String |           |
 | kanaal | Kanaal | Dimension | String |           |
 | klikken | Klikken | Metrisch | Getal |           |
 | conversietype | Conversietype | Dimension | String |           |
@@ -43,9 +43,9 @@ De standaard beschikbare globale harmonisatievelden in Mix Modeler zijn:
 | mediatype | Mediatype | Dimension | String |           |
 | net_sales | Nettoverkoop | Metrisch | Valuta |           |
 | orders | Orders | Metrisch | Getal |           |
-| sourceType | Brontype | Dimension | String |           |
+| sourceType | Source-type | Dimension | String |           |
 | besteden | Draaien | Metrisch | Valuta |           |
-| verkeersbron | verkeersbron | Dimension | String |           |
+| verkeersbron | Traffic Source | Dimension | String |           |
 
 {style="table-layout:auto"}
 
@@ -55,9 +55,9 @@ U kunt uw eigen geharmoniseerde velden toevoegen, bewerken of verwijderen boven 
 
 Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mix Modeler zien:
 
-1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
+1. Selecteren ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
 
-1. Selecteren **[!UICONTROL Fields]** in de bovenste balk. U ziet een tabel met de geharmoniseerde velden. Als er meer pagina&#39;s beschikbaar zijn, gebruikt u ![Pijl-links](../assets/icons/ChevronLeft.svg) of ![Pijl-rechts](../assets/icons/ChevronRight.svg) om **[!UICONTROL Page _x _van_x_]** om tussen pagina&#39;s van de lijst te bewegen.
+1. Selecteren **[!UICONTROL Fields]** in de bovenste balk. U ziet een tabel met de geharmoniseerde velden. Als er meer pagina&#39;s beschikbaar zijn, gebruikt u ![Pijl-links](/help/assets//icons/ChevronLeft.svg) of ![Pijl-rechts](/help/assets//icons/ChevronRight.svg) om **[!UICONTROL Page _x _van_x_]** om tussen pagina&#39;s van de lijst te bewegen.
 
    De tabelkolommen geven details over de geharmoniseerde velden
 
@@ -74,14 +74,14 @@ Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mi
 
    {style="table-layout:auto"}
 
-1. Om naar een specifiek geharmoniseerd gebied te zoeken, gebruik ![Zoeken](../assets/icons/Search.svg) **[!UICONTROL *Geharmoniseerd veld zoeken *]**.
+1. Om naar een specifiek geharmoniseerd gebied te zoeken, gebruik ![Zoeken](/help/assets//icons/Search.svg) **[!UICONTROL *Geharmoniseerd veld zoeken *]**.
 
 
 ### Een geharmoniseerd veld toevoegen
 
-Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Om een geharmoniseerd veld toe te voegen, ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
-1. Selecteren ![Toevoegen](../assets/icons/AddCircle.svg) **[!UICONTROL Add field]**.
+1. Selecteren ![Toevoegen](/help/assets//icons/AddCircle.svg) **[!UICONTROL Add field]**.
 
 1. In de **[!UICONTROL Create]** dialoogvenster:
 
@@ -98,14 +98,14 @@ Om een geharmoniseerd veld toe te voegen, ![DataSearch](../assets/icons/DataChec
 
    1. Selecteren **[!UICONTROL Submit]** het geharmoniseerde veld toe te voegen. Selecteren **[!UICONTROL Close]** het dialoogvenster sluiten zonder het geharmoniseerde veld toe te voegen.
 
-      ![Een veld maken](../assets/create-field.png)
+      ![Een veld maken](/help/assets//create-field.png)
 
 
 ### Een geharmoniseerd veld bewerken
 
 U kunt alleen geharmoniseerde velden bewerken die u eerder hebt gemaakt (eigenaar is client). U kunt een geharmoniseerd veld niet bewerken.
 
-Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer het geharmoniseerde veld dat u wilt bewerken. Bijvoorbeeld: **[!UICONTROL Region]**.
 
@@ -113,17 +113,17 @@ Als u een geharmoniseerd veld wilt bewerken, gaat u naar ![DataSearch](../assets
 
 1. Selecteren **[!UICONTROL Submit]** de wijzigingen op het geharmoniseerde veld toe te passen.
 
-   ![Een veld bewerken](../assets/edit-field.png)
+   ![Een veld bewerken](/help/assets//edit-field.png)
 
 ### Een geharmoniseerd veld verwijderen
 
 U kunt alleen geharmoniseerde velden verwijderen die u eerder hebt gemaakt (eigenaar is client). U kunt een geharmoniseerd veld niet verwijderen.
 
-Als u een geharmoniseerd veld wilt verwijderen, gaat u naar ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Als u een geharmoniseerd veld wilt verwijderen, gaat u naar ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer bijvoorbeeld het geharmoniseerde veld dat u wilt verwijderen **[!UICONTROL Region]**.
 
-1. Selecteren ![Verwijderen](../assets/icons/Delete.svg) **[!UICONTROL Delete]** van de **[!UICONTROL Edit harmonization values]** linkerdeelvenster.
+1. Selecteren ![Verwijderen](/help/assets//icons/Delete.svg) **[!UICONTROL Delete]** van de **[!UICONTROL Edit harmonization values]** linkerdeelvenster.
 
    >[!WARNING]
    >

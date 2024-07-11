@@ -3,7 +3,7 @@ title: Gegevens harmoniseren
 description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: 4f4c7f05e90d73a0ab4865150b1ec4c2af88fc12
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '893'
 ht-degree: 5%
@@ -15,7 +15,7 @@ ht-degree: 5%
 De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
 
 * geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
-* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via het Experience Platform Web of Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
+* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld door de Adobe Analytics-bronconnector van Adobe Analytics, of via het Experience Platform Web of de Mobile SDK of Edge Network-API, of gegevens die via bronconnectors worden ingevoerd.
 
 De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensweergave, in combinatie met interne en externe gegevens over factoren, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
 
@@ -116,17 +116,17 @@ Om een geharmoniseerde dataset te bouwen, zoals in vereenvoudigde [voorbeeld](#a
 
 Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
-1. Selecteren ![DataSearch](../assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van de linkerspoorstaaf.
+1. Selecteren ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van de linkerspoorstaaf.
 
 1. Selecteren **[!UICONTROL Harmonized Data]** in de bovenste balk. Een overzicht van uw geharmoniseerde gegevens wordt getoond gebaseerd op de gebieden, datasetregels, marketing touchpoints en omzettingen u hebt bepaald.
 
-   1. Om de periode te herdefiniëren waarop de samenloop van geharmoniseerde gegevens is gebaseerd, voert u een datumbereik in voor **[!UICONTROL Date range]** of gebruik ![Kalender](../assets/icons/Calendar.svg) om een gegevensbereik te selecteren.
+   1. Om de periode te herdefiniëren waarop de samenloop van geharmoniseerde gegevens is gebaseerd, voert u een datumbereik in voor **[!UICONTROL Date range]** of gebruik ![Kalender](/help/assets//icons/Calendar.svg) om een gegevensbereik te selecteren.
 
-   1. Om de geharmoniseerde veldkolommen te wijzigen die voor de geharmoniseerde gegevenstabel worden getoond, gebruik ![Instellingen](../assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** in.
+   1. Om de geharmoniseerde veldkolommen te wijzigen die voor de geharmoniseerde gegevenstabel worden getoond, gebruik ![Instellingen](/help/assets//icons/Setting.svg) om de **[!UICONTROL Column settings]** in.
 
-      1. Selecteren ![SelectBox](../assets/icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![Chevron right](../assets/icons/ChevronRight.svg) deze kolommen toevoegen aan **[!UICONTROL SELECTED COLUMNS]**.
+      1. Selecteren ![SelectBox](/help/assets//icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![Chevron right](/help/assets//icons/ChevronRight.svg) deze kolommen toevoegen aan **[!UICONTROL SELECTED COLUMNS]**.
 
-      1. Selecteren ![SelectBox](../assets/icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![Chevron left](../assets/icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug te keren naar **[!UICONTROL AVAILABLE COLUMNS]**.
+      1. Selecteren ![SelectBox](/help/assets//icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![Chevron left](/help/assets//icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug te keren naar **[!UICONTROL AVAILABLE COLUMNS]**.
 
       1. Een kolom selecteren uit **[!UICONTROL DEFAULT SORT]** en schakelen tussen **[!UICONTROL Ascending]** of **[!UICONTROL Descending]**.
 
@@ -134,4 +134,4 @@ Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
    1. Selecteren **[!UICONTROL Submit]** om de wijzigingen in de kolominstelling te verzenden. Selecteren **[!UICONTROL Close]** om de aangebrachte wijzigingen te annuleren.
 
-1. Als er meer pagina&#39;s beschikbaar zijn, gebruikt u ![Pijl-links](../assets/icons/ChevronLeft.svg) of ![Pijl-rechts](../assets/icons/ChevronRight.svg) om **[!UICONTROL Page _x _van_x_]** om te schakelen tussen pagina&#39;s.
+1. Als er meer pagina&#39;s beschikbaar zijn, gebruikt u ![Pijl-links](/help/assets//icons/ChevronLeft.svg) of ![Pijl-rechts](/help/assets//icons/ChevronRight.svg) om **[!UICONTROL Page _x _van_x_]** om te schakelen tussen pagina&#39;s.

@@ -4,7 +4,7 @@ description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix
 short-description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
 exl-id: aa1018d5-b073-4dfb-b40c-ca16a8970b2f
-source-git-commit: 59869553c4a5856e897aded441520dd8938eb8c1
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 3%
@@ -35,7 +35,7 @@ Voor deze functionaliteit combineert Mix Modeler:
 
 Het bidirectionele overdrachtleren van AI/ML verenigt marketing mixmodellering (MMM) en multi-touch attributie (MTA) resultaten om verenigbare resultaten over meting en planning in een koekjeswereld te verzekeren.
 
-![Bidirectioneel leren van overdracht](../assets/birdirectional-transfer-learning.png){width="500" align="center"}
+![Bidirectioneel leren van overdracht](/help/assets//birdirectional-transfer-learning.png){width="500" align="center"}
 
 
 ## Mogelijkheden

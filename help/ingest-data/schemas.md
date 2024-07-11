@@ -3,7 +3,7 @@ title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
 feature: Schemas
 exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 2%
@@ -16,7 +16,7 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Ga naar de interface van de Mix Modeler.
 
-1. Selecteren ![Schemas](../assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
+1. Selecteren ![Schemas](/help/assets//icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
 Zie de [Overzicht van de interface Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie .
 
@@ -38,7 +38,7 @@ Gebruik de klasse XDM Summary Metrics voor:
 
 Een schema met de **[!DNL XDM Summary Metrics]** basisklasse kan eenvoudig zijn, zoals in het dialoogvenster **[!DNL ExternalFactorSummarySchema]** hieronder.
 
-![Schema externe factoren](../assets/external-factors-schema.png)
+![Schema externe factoren](/help/assets//external-factors-schema.png)
 
 Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens bevatten, bijvoorbeeld:
 
@@ -65,9 +65,9 @@ Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens 
 
 Zie hieronder voor een uitgebreider voorbeeld van een **[!DNL LumaPaidMarketingSchema]** met de **[!DNL XDM Summary Metrics]** als de basisklasse. In het schema worden speciale veldgroepen (met kleuren) gebruikt voor metriek (**[!DNL AMMMetrics]**), afmetingen (**[!DNL AMMDimensions]**) en andere klantspecifieke informatie (**[!DNL CustomerSpecific]**).
 
-![Samenvattingsschema](../assets/summary-schema.png)
+![Samenvattingsschema](/help/assets//summary-schema.png)
 
-Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggregeerde of summiere gegevens uit externe bronnen, wordt het aangemoedigd om de Externe het gebiedsgroep van de Details van de Controle van het Bronsysteem als deel van een schema te gebruiken. Deze veldgroep definieert een set auditeigenschappen voor externe bronnen.
+Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggregeerde of summiere gegevens uit externe bronnen, wordt het aangemoedigd om de Externe het gebiedsgroep van de Details van de Controle van het Systeem van Source als deel van een schema te gebruiken. Deze veldgroep definieert een set auditeigenschappen voor externe bronnen.
 
 
 ## Ondersteunde gegevenstypen
