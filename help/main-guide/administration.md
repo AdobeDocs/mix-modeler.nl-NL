@@ -3,9 +3,9 @@ title: Beheer
 description: Leer hoe u Mix Modeler kunt beheren.
 feature: Administration
 exl-id: 76d6d15d-a838-4ee2-9929-e55ea8946b80
-source-git-commit: 995f15b6d2dd99d5304a4cda7b1fa5f8a1d00023
+source-git-commit: 4d84c93121fc476cc6610ad572bab161bbacfc23
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 2%
 
 ---
@@ -20,9 +20,9 @@ In de gebruikersinterface van Adobe Experience Cloud:
 
 1. Selecteren **[!UICONTROL Permissions]** van de linkerspoorstaaf, onder **[!UICONTROL ADMINISTRATION]**.
 
-1. Selecteren {{user}} **[!UICONTROL Roles]** in het linkerdeelvenster.
+1. Selecteren ![Gebruiker](/help/assets/icons/User.svg) **[!UICONTROL Roles]** in het linkerdeelvenster.
 
-1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]** (bijvoorbeeld **Mix Modeler**). Als u een bestaande rol selecteert, selecteert u {{edit}} **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
+1. Selecteer een bestaande rol of maak een rol met **[!UICONTROL Create role]** (bijvoorbeeld **Mix Modeler**). Als u een bestaande rol selecteert, selecteert u ![Bewerken](/help/assets/icons/Edit.svg) **[!UICONTROL Edit]** om de machtigingen voor de rol te bewerken. Zie [Rollen beheren](https://helpx.adobe.com/nl/enterprise/using/admin-console.html) voor meer informatie .
 
 1. Controleer of u een of meer sandboxen voor de rol hebt geselecteerd.
 
