@@ -2,10 +2,10 @@
 user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
 user-guide-description: Leer hoe u Mix Modeler gebruikt.
-source-git-commit: 515abfbaece7c65c69694c58730c6fee3475886e
+source-git-commit: 6776a91563f120db1341adef923aab4b0f582c9d
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 41%
+source-wordcount: '83'
+ht-degree: 38%
 
 ---
 
@@ -48,9 +48,11 @@ ht-degree: 41%
    + [Schema&#39;s](/help/ingest-data/schemas.md)
    + [Gegevenssets](/help/ingest-data/datasets.md)
 
-+ Privacy {#privacy}
-   + [Beleid](/help/privacy/policies.md)
-   + [Audit](/help/privacy/audits.md)
++ Gegevensbeheer {#data-governance}
+   + [Overzicht](/help/data-governance/overview.md)
+   + [Toegangsbeheer](/help/data-governance/access-controls.md)
+   + [Controlelogboeken](/help/data-governance/audit-logs.md)
+   + [Beleid](/help/data-governance/policies.md)
 
 + [Gebruik hoofdletters](/help/main-guide/use-cases.md)
 
