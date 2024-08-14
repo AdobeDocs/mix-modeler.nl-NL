@@ -4,16 +4,16 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 7793d32d2b2cb8ede80df9d8e3ea4df5c92d26aa
+source-git-commit: f75aa1e24506dbb107a519337b0163a93b196ca7
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 9%
+source-wordcount: '376'
+ht-degree: 10%
 
 ---
 
 # Opmerkingen bij de release Huidige Mix Modeler
 
-**Laatste update**: 29 mei, 2024.
+**Laatste update**: 13 augustus 2024.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
@@ -24,8 +24,11 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De v
 | **[!UICONTROL Ad-hoc training and scoring]** | U kunt een model [ re-trein ](/help/models/overview.md#re-train), [ score (voor nieuwe marketing gegevens) of re-score ](/help/models/overview.md#score-or-re-score) van de interface van Modellen in werking stellen. | woensdag 13 augustus 2024 |
 | **[!UICONTROL Policy enforcement]** | Het beleid van het Experience Platform wordt afgedwongen wanneer het vormen van datasetregels en wanneer het wijzigen van etiketten aan de onderliggende gegevens die in Mix Modeler worden gebruikt. Zie [ Beleid ](../data-governance/policies.md) voor meer details. | woensdag 13 augustus 2024 |
 | **hygiëne van Gegevens** | Bij het verwijderen van brongegevens worden de regels voor gegevenshygiëne nageleefd. Zie [ Deleting een brondataset ](../harmonize-data/dataset-rules.md#delete-a-source-dataset) | woensdag 13 augustus 2024 |
-| **de inzichten van de de bijdrage van de Factor** | In [!UICONTROL Model insights] biedt het tabblad [[!UICONTROL Factors]](/help/models/insights.md#factors) externe aan factoren gerelateerde inzichten. | woensdag 13 augustus 2024 |
-| **Marginale reactiecurven** | De [ marginale reactiecurven ](/help/models/insights.md#model-insights-1) widget in Modelinzichten werkt nu de kromme en de overeenkomstige die waarden bij op veranderingen in de geselecteerde gegevenswaaier worden gebaseerd. Bovendien toont de widget het punt van de marginale break even en het punt van dalende winst. | woensdag 20 augustus 2024 |
+
+
+
+<!--| **Factor contribution insights** | In [!UICONTROL Model insights], the [[!UICONTROL Factors]](/help/models/insights.md#factors) tab offers external factor related insights. | August 13, 2024 |
+| **Marginal response curves** | The [marginal response curves](/help/models/insights.md#model-insights-1) widget in Model insights now updates the curve and corresponding values based on changes in the selected data range. Additionally, the widget shows the point of marginal break even and the point of diminishing returns. | August 20, 2024 |-->
 
 
 ## Juni 2024
