@@ -3,7 +3,7 @@ title: Gegevens harmoniseren
 description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '893'
 ht-degree: 5%
@@ -37,7 +37,7 @@ Bevat een gegevensset van de marketinginspanning van YouTube, met een granularit
 {style="table-layout:auto"}
 
 
-**Gegevensset 2**
+**Dataset 2**
 
 Bevat een gegevensset van de marketinginspanning van Facebook, met een granulariteit van de geaggregeerde gegevensset tot wekelijks.
 
@@ -51,7 +51,7 @@ Bevat een gegevensset van de marketinginspanning van Facebook, met een granulari
 {style="table-layout:auto"}
 
 
-**Gegevensset 3**
+**Dataset 3**
 
 Een omzettingsdataset, met een granulariteit van de samengevoegde gegevensreeks aan dagelijks.
 
@@ -65,23 +65,23 @@ Een omzettingsdataset, met een granulariteit van de samengevoegde gegevensreeks 
 {style="table-layout:auto"}
 
 
-**Gegevensset 4**
+**Dataset 4**
 
 Een dataset van de steekproefervaringsgebeurtenis (de gebeurtenissen van SDK van het Web) van de klant.
 
 | Tijdstempel | Naamruimte van identiteit | Identiteitskaart | Kanaal | Klikken |
 |--- |--- |--- |--- |---:|
-| 01-01-2022 00:01:01,000 | ECID | 64fd46ff-8c63-43b4-85a7-92b953113ba0 | CSE | 1 |
-| 01-01-2022 00:01:01,000 | ECID | 64fd46ff-8c63-43b4-85a7-92b953113ba0 | CSE | 1 |
-| 01-08-2022 00:01:01,000 | ECID | 2ca2a16e-caf0-4fa9-9a8b-9774b39547c4 | CSE | 1 |
-| 01-08-2022 00:01:01,000 | ECID | 5ce99bfb-e44a-40d9-b8cd-c5408bda7cdc | CSE | 1 |
+| 01-01-2022 00 :01: 1.000 | ECID | 64fd46ff-8c63-43b4-85a7-92b953113ba0 | CSE | 1 |
+| 01-01-2022 00 :01: 1.000 | ECID | 64fd46ff-8c63-43b4-85a7-92b953113ba0 | CSE | 1 |
+| 01-08-2022 00 :01: 1.000 | ECID | 2ca2a16e-caf0-4fa9-9a8b-9774b39547c4 | CSE | 1 |
+| 01-08-2022 00 :01: 1.000 | ECID | 5ce99bfb-e44a-40d9-b8cd-c5408bda7cdc | CSE | 1 |
 
 {style="table-layout:auto"}
 
 
 U wilt een geharmoniseerde dataset bouwen, met een granulariteit die aan wekelijkse wordt geplaatst. De gebeurtenisgegevens worden geaggregeerd naar weekgranulariteit en toegevoegd aan de geharmoniseerde gegevensset. Het resultaat is:
 
-**Geharmoniseerde gegevensset**
+**Geharmoniseerde dataset**
 
 | Datum | Datumtype | Kanaal | Campaign | Merk | Geo | Goal | Klikken | Draaien | Ontvangsten |
 |--- |:---:|--- |--- |--- |---|---|---:|---:|---:|
@@ -104,34 +104,34 @@ U wilt een geharmoniseerde dataset bouwen, met een granulariteit die aan wekelij
 
 ## geharmoniseerde gegevens instellen
 
-Om een geharmoniseerde dataset te bouwen, zoals in vereenvoudigde [voorbeeld](#an-example-of-harmonized-data), moet u deze stappen volgen:
+Om een geharmoniseerde dataset, als in het vereenvoudigde [ voorbeeld ](#an-example-of-harmonized-data) te bouwen, moet u deze stappen volgen:
 
-1. Extra definiëren [geharmoniseerde velden](fields.md) die u buiten de reeds beschikbare globale geharmoniseerde gebieden wilt gebruiken.
-1. Instellen [gegevenssetregels](dataset-rules.md) om velden van uw aggregaat of ervaringsgegevenssets toe te wijzen aan geharmoniseerde velden.
-1. Definiëren [marketingaanraakpunten](marketing-touchpoints.md) met de standaard en aanvullende geharmoniseerde velden die u hebt gedefinieerd.
-1. Definiëren [conversies](conversions.md) met de standaard en aanvullende geharmoniseerde velden die u hebt gedefinieerd.
+1. Bepaal extra [ geharmoniseerde gebieden ](fields.md) die u voorbij de globale geharmoniseerde gebieden wilt gebruiken reeds beschikbaar.
+1. De regels van de opstelling [ dataset ](dataset-rules.md) om gebieden van uw aggregaat of ervaringsgebeurtenisdatasets aan geharmoniseerde gebieden in kaart te brengen.
+1. Bepaal [ marketing touchpoints ](marketing-touchpoints.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
+1. Bepaal [ omzettingen ](conversions.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
 
 
 ## Geharmoniseerde gegevens weergeven
 
 Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
 
-1. Selecteren ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van de linkerspoorstaaf.
+1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van het linkerspoor.
 
-1. Selecteren **[!UICONTROL Harmonized Data]** in de bovenste balk. Een overzicht van uw geharmoniseerde gegevens wordt getoond gebaseerd op de gebieden, datasetregels, marketing touchpoints en omzettingen u hebt bepaald.
+1. Selecteer **[!UICONTROL Harmonized Data]** in de bovenste balk. Een overzicht van uw geharmoniseerde gegevens wordt getoond gebaseerd op de gebieden, datasetregels, marketing touchpoints en omzettingen u hebt bepaald.
 
-   1. Om de periode te herdefiniëren waarop de samenloop van geharmoniseerde gegevens is gebaseerd, voert u een datumbereik in voor **[!UICONTROL Date range]** of gebruik ![Kalender](/help/assets//icons/Calendar.svg) om een gegevensbereik te selecteren.
+   1. Om de periode opnieuw te bepalen waarop de rechthoek van geharmoniseerde gegevens gebaseerd is, ga een datumwaaier voor **[!UICONTROL Date range]** in of gebruik ![ Kalender ](/help/assets/icons/Calendar.svg) om een gegevenswaaier te selecteren.
 
-   1. Om de geharmoniseerde veldkolommen te wijzigen die voor de geharmoniseerde gegevenstabel worden getoond, gebruik ![Instellingen](/help/assets//icons/Setting.svg) om de **[!UICONTROL Column settings]** in.
+   1. Om de geharmoniseerde gebiedskolommen te wijzigen die voor de Geharmoniseerde gegevenslijst worden getoond, gebruik ![ Montages ](/help/assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** dialoog te openen.
 
-      1. Selecteren ![SelectBox](/help/assets//icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![Chevron right](/help/assets//icons/ChevronRight.svg) deze kolommen toevoegen aan **[!UICONTROL SELECTED COLUMNS]**.
+      1. Selecteer ![ SelectBox ](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![ Schrap recht ](/help/assets/icons/ChevronRight.svg) om deze kolommen aan **[!UICONTROL SELECTED COLUMNS]** toe te voegen.
 
-      1. Selecteren ![SelectBox](/help/assets//icons/SelectBox.svg) een of meer kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![Chevron left](/help/assets//icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug te keren naar **[!UICONTROL AVAILABLE COLUMNS]**.
+      1. Selecteer ![ SelectBox ](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![ Verduisteren verlaten ](/help/assets/icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug naar **[!UICONTROL AVAILABLE COLUMNS]** terug te keren.
 
-      1. Een kolom selecteren uit **[!UICONTROL DEFAULT SORT]** en schakelen tussen **[!UICONTROL Ascending]** of **[!UICONTROL Descending]**.
+      1. Selecteer een kolom in **[!UICONTROL DEFAULT SORT]** en schakel tussen **[!UICONTROL Ascending]** of **[!UICONTROL Descending]** .
 
-      1. Als u de volgorde van de weergegeven kolommen wilt wijzigen, kunt u een kolom verplaatsen in **[!UICONTROL SELECTED COLUMNS]** omhoog en omlaag door slepen en neerzetten.
+      1. Als u de volgorde van de weergegeven kolommen wilt wijzigen, kunt u een kolom in **[!UICONTROL SELECTED COLUMNS]** omhoog en omlaag verplaatsen via slepen en neerzetten.
 
-   1. Selecteren **[!UICONTROL Submit]** om de wijzigingen in de kolominstelling te verzenden. Selecteren **[!UICONTROL Close]** om de aangebrachte wijzigingen te annuleren.
+   1. Selecteer **[!UICONTROL Submit]** om de wijzigingen in de kolominstelling te verzenden. Selecteer **[!UICONTROL Close]** om de aangebrachte wijzigingen te annuleren.
 
-1. Als er meer pagina&#39;s beschikbaar zijn, gebruikt u ![Pijl-links](/help/assets//icons/ChevronLeft.svg) of ![Pijl-rechts](/help/assets//icons/ChevronRight.svg) om **[!UICONTROL Page _x _van_x_]** om te schakelen tussen pagina&#39;s.
+1. Als meer pagina&#39;s beschikbaar zijn, gebruik ![ Pijl links ](/help/assets/icons/ChevronLeft.svg) of ![ Pijl rechts ](/help/assets/icons/ChevronRight.svg) bij **[!UICONTROL Page _x _van_ x_]** om zich tussen pagina&#39;s te bewegen.

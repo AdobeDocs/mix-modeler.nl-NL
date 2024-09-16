@@ -4,7 +4,7 @@ description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix
 short-description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
 exl-id: aa1018d5-b073-4dfb-b40c-ca16a8970b2f
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '757'
 ht-degree: 3%
@@ -35,7 +35,7 @@ Voor deze functionaliteit combineert Mix Modeler:
 
 Het bidirectionele overdrachtleren van AI/ML verenigt marketing mixmodellering (MMM) en multi-touch attributie (MTA) resultaten om verenigbare resultaten over meting en planning in een koekjeswereld te verzekeren.
 
-![Bidirectioneel leren van overdracht](/help/assets//birdirectional-transfer-learning.png){width="500" align="center"}
+![ Bidirectional transfer learning ](/help/assets/birdirectional-transfer-learning.png){width="500" align="center"}
 
 
 ## Mogelijkheden
@@ -44,16 +44,16 @@ Mix Modeler biedt de volgende mogelijkheden:
 
 | Capaciteit | Beschrijving |
 |---|---|
-| **Mate van incrementele prestaties** | Begrijp het stijgende ROI en effect van marketing over bedrijfsdoelstellingen of tactische campagnedoelstellingen. |
-| **Resultaten in MMM en MTA verenigen** | Betere beslissingen nemen door de samenvoeging van modellen van marketingmixmodellen en modellen van multitouch-attributie (MTA) via transfer learning. |
-| **Begroting optimaal toewijzen** | Optimale begrotingstoewijzing vaststellen op basis van marketinguitgaven en impact op doelen. |
-| **Begrotingsscenario&#39;s maken en vergelijken** | Ontwikkel veelvoudige begrotingsplannen en vergelijk hun effect om optimale besluiten voor uw zaken te nemen. |
+| **Meten stijgende prestaties** | Begrijp het stijgende ROI en effect van marketing over bedrijfsdoelstellingen of tactische campagnedoelstellingen. |
+| **verenigt resultaten over MMM en MTA** | Betere beslissingen nemen door de samenvoeging van modellen van marketingmixmodellen en modellen van multitouch-attributie (MTA) via transfer learning. |
+| **wijst begrotingen** optimaal toe | Optimale begrotingstoewijzing vaststellen op basis van marketinguitgaven en impact op doelen. |
+| **creeer en vergelijk begrotingsscenario&#39;s** | Ontwikkel veelvoudige begrotingsplannen en vergelijk hun effect om optimale besluiten voor uw zaken te nemen. |
 
 {style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >
->[De workflow van de Mix Modeler begrijpen](workflow.md)
+>[ begrijp het werkschema van de Mix Modeler ](workflow.md)
 
 
 ### Marketing Mix Modeling (MMM)
@@ -93,6 +93,6 @@ U kunt de multitouch-kenmerkmogelijkheid van Mix Modeler in de volgende gebruiks
 * Toekenning op het niveau van de gebeurtenissen op het volledige-kanaalniveau: begrijp de invloed van marketing over de volledige klantenreis. Bijvoorbeeld gratis account voor betaalde conversie en hoger.
 * De evaluaties van de partner: Evalueer de doeltreffendheid van agentschappen en partners, die op attributieresultaten worden gebaseerd.
 
-Zie [Modelvisie - Attributie](../models/insights.md#attribution) over hoe u toegang krijgt tot de multi-touchattributie-inzichten binnen de Mix Modeler.
+Zie [ ModelInzichten - Attributie ](../models/insights.md#attribution) op hoe te om tot de multi-aanraking attributieinzichten binnen Mix Modeler toegang te hebben.
 
 

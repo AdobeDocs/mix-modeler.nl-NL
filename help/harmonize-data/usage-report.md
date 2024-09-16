@@ -5,7 +5,7 @@ feature: Harmonized Data
 hide: true
 hidefromtoc: true
 exl-id: 6c32f978-8a3e-4878-bb6b-550f1750d6b7
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 Een gebruiksrapport van uw geharmoniseerde gegevens bekijken:
 
-1. Selecteren ![DataSearch](/help/assets//icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van de linkerspoorstaaf.
+1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
-1. Selecteren **[!UICONTROL Usage report]** in de bovenste balk.
+1. Selecteer **[!UICONTROL Usage report]** in de bovenste balk.
 
 Het gebruiksrapport toont:
 
 * een tabel met de **[!UICONTROL # of Models]** die geharmoniseerde gegevens hebben gebruikt.
 
-* een tabel met de **[!UICONTROL # of Conversions (last 5 years)]** die de geharmoniseerde gegevens hebben gebruikt. Selecteer de granulariteit van de tabel door **[!UICONTROL Year]** of **[!UICONTROL Month]** van de **[!UICONTROL View by selection]**.
+* een tabel met de **[!UICONTROL # of Conversions (last 5 years)]** die de geharmoniseerde gegevens heeft gebruikt. Als u de granulariteit van de tabel wilt selecteren, selecteert u **[!UICONTROL Year]** of **[!UICONTROL Month]** in het menu **[!UICONTROL View by selection]** .

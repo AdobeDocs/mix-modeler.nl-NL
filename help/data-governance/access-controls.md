@@ -2,7 +2,8 @@
 title: Toegangsbesturingselementen
 description: Leer hoe te om toegangscontroles in Mix Modeler te vormen.
 feature: Administration
-source-git-commit: 6776a91563f120db1341adef923aab4b0f582c9d
+exl-id: c9ec97d9-b9a2-41f5-8626-1cf967d5d7fe
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -31,5 +32,4 @@ Wanneer het vormen van datasetregels voor geharmoniseerde datasets, wordt de att
 
 * u ziet niet de schemagebieden die voor u beperkt zijn wanneer u een datasetregel creeert,
 * u kunt de afbeelding van een of meer schemavelden die voor u zijn beperkt, niet weergeven of bewerken. Wanneer u een datasetregel uitgeeft of bekijkt die dergelijke beperkte gebieden bevat, ziet u het volgende scherm.
-  ![ Actie niet toegestaan ](/help/assets//action-not-permitted.png)
-
+  ![ Actie niet toegestaan ](/help/assets/action-not-permitted.png)

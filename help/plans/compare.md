@@ -3,7 +3,7 @@ title: Abonnementen vergelijken
 description: Leer hoe u plannen in de Mix Modeler kunt vergelijken.
 feature: Plans
 exl-id: 40f6ade5-77eb-4ef7-ba60-4a2d2fcf1a60
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Om plannen in de interface van de Abonnementen van de Mix Modeler te vergelijken:
 
-* Selecteren ![Ververgelijken](/help/assets//icons/Compare.svg) **[!UICONTROL Compare Plans]**. Selecteer bij Vergelijkingsplannen een abonnement voor elke **[!UICONTROL _Abonnement selecteren_]**.
+* Selecteer ![ vergelijken ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare Plans]**. In Compare plannen, selecteer een plan voor elk **[!UICONTROL _Uitgezochte plan_]**.
 
-* U kunt ook twee plannen selecteren in de tabel Plannen en op de actiebalk selecteren ![Ververgelijken](/help/assets//icons/Compare.svg) **[!UICONTROL Compare]**.
+* Alternatief, kunt u twee plannen van de lijst van Abonnees selecteren, en van de actiebar selecteren ![ ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare]** vergelijkt.
 
-De Compare planinterface toont informatie en widgets op:
+De Compare planinterface toont informatie en visualisaties over:
 
 * Plan
 * Datumbereik
@@ -36,8 +36,8 @@ Waarbij:
 * CPA wordt gedefinieerd als uitgaven/Incrementele omzetting.
 
 
-![Abonnementen vergelijken](/help/assets//compare-plans.png)
+![ vergelijk plannen ](/help/assets/compare-plans.png)
 
-U kunt de muisaanwijzer boven afzonderlijke diagramelementen in elke widget plaatsen om een pop-up met meer details weer te geven.
+U kunt de muis boven afzonderlijke diagramelementen in elke visualisatie houden om een popover met meer details te zien.
 
-Selecteren **[!UICONTROL Close]** om terug te keren naar het overzicht van de plannen.
+Selecteer **[!UICONTROL Close]** om terug te keren naar het overzicht van Abonnementen.

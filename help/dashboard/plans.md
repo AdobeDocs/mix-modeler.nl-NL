@@ -3,7 +3,7 @@ title: Overzicht van plannen
 description: Leer hoe u het overzicht van de abonnementen in de Mix Modeler gebruikt.
 feature: Dashboard, Plans, Models
 exl-id: 930fc1d5-8e28-4610-af7b-c4ec91f86a8a
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!BADGE Alpha]{type=Informative}
+>[!BADGE  Alpha ]{type=Informative}
 
 
-Het tabblad Plannen in Overzicht van Mixxen Modeler toont widgets voor [!UICONTROL Budget], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL KPI].
+Het tabblad Abonnementen in Overzicht van Mixxen Modeler toont visualisaties voor [!UICONTROL Budget] , [!UICONTROL Revenue] , [!UICONTROL ROI] en [!UICONTROL KPI] .
 
-De gegevens die voor widgets worden weergegeven, worden bepaald door:
+De gegevens die voor de visualisaties worden weergegeven, worden bepaald door:
 
-* Het plan. Een abonnement selecteren vanuit **[!UICONTROL Plan name]** met de **[!UICONTROL _Selecteer een optie..._]**.
+* Het plan. Selecteer een plan van **[!UICONTROL Plan name]** gebruikend **[!UICONTROL _Uitgezocht een optie..._]**.
 
-* De opgegeven datumperiode. Als u de datumperiode wilt wijzigen, voert u handmatig een begin- en einddatum in of selecteert u een datumperiode met ![Kalender](/help/assets//icons/Calendar.svg).
+* De opgegeven datumperiode. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
 
 

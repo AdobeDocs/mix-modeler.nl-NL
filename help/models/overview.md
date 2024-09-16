@@ -3,20 +3,20 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: d5d9ec6b7b1222b3da9dcecaf3fa1cf2b2198881
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
 
 # Modellen
 
-De modelfunctionaliteit in Mix Modeler staat u toe om, modellen te vormen op te leiden en te scoren AI/ML specifiek voor uw bedrijfsdoelstellingen. De training en scoring ondersteunen het leren van overdracht via AI tussen multitouch-attributie en marketingmixmodellering.
+De modelfunctionaliteit in Mix Modeler staat u toe om, modellen te vormen op te leiden en te behalen specifiek voor uw bedrijfsdoelstellingen. De training en scoring ondersteunen het leren van overdracht via AI tussen multitouch-attributie en marketingmixmodellering.
 
 De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de workflow van de Mix Modeler-toepassing.
 
-Een model in de Mix Modeler is een model voor machinaal leren dat wordt gebruikt om een bepaald resultaat te meten en/of te voorspellen op basis van de investeringen van een marketeter. Marketing-aanraakpunten en gegevens op overzichtsniveau kunnen als invoer worden gebruikt. Met Mix Modeler kunt u varianten van modellen maken op basis van verschillende sets variabelen, dimensies en resultaten, zoals inkomsten, verkochte eenheden en leads.
+Een model in de Mix Modeler is een machinaal leermodel dat wordt gebruikt om een bepaald resultaat te meten en te voorspellen op basis van de investeringen van een marketeter. Marketing-aanraakpunten en gegevens op overzichtsniveau kunnen als invoer worden gebruikt. Met Mix Modeler kunt u varianten van modellen maken op basis van verschillende sets variabelen, dimensies en resultaten, zoals inkomsten, verkochte eenheden en leads.
 
 Een model vereist:
 
@@ -41,7 +41,7 @@ Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met in
 
 Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te bekijken:
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. U ziet een tabel met de huidige modellen.
 
@@ -58,7 +58,7 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
 
    {style="table-layout:auto"}
 
-1. Om de kolommen te veranderen die voor de lijst worden getoond, selecteer ![ montages van de Kolom ](/help/assets//icons/ColumnSetting.svg) en knevel kolommen op ![ Controle ](/help/assets//icons/Checkmark.svg) of weg.
+1. Om de kolommen te veranderen die voor de lijst worden getoond, selecteer ![ montages van de Kolom ](/help/assets/icons/ColumnSetting.svg) en knevel kolommen op ![ Controle ](/help/assets/icons/Checkmark.svg) of weg.
 
 U kunt de volgende handelingen uitvoeren op een specifiek model.
 
@@ -66,9 +66,9 @@ U kunt de volgende handelingen uitvoeren op een specifiek model.
 
 Meer details van een model bekijken:
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
-1. Selecteer ![ Info ](/help/assets//icons/Info.svg) voor een model om pop-up met details te tonen.
+1. Selecteer ![ Info ](/help/assets/icons/Info.svg) voor een model om pop-up met details te tonen.
 
 
 
@@ -76,16 +76,18 @@ Meer details van een model bekijken:
 
 U kunt snel een model dupliceren.
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
 
 
 ### Modelinzichten
 
-De functie voor inzicht in modellen is alleen beschikbaar voor goed opgeleide en gescoreerde modellen. De inzichten van een model weergeven:
+De functie voor inzicht in modellen is alleen beschikbaar voor goed opgeleide en gescoreerde modellen.
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+De inzichten van een model weergeven:
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. Selecteer de modelnaam.
 
@@ -94,9 +96,16 @@ U wordt opnieuw gericht aan [ ModelInzichten ](insights.md).
 
 ### Nieuwe treinen
 
-Een model opnieuw trainen is alleen beschikbaar voor goed opgeleide modellen. Een model opnieuw trainen:
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+Een model opnieuw trainen is alleen beschikbaar voor goed opgeleide modellen.
+
+Overweeg een model opnieuw op te leiden wanneer u wilt:
+
+* Nieuwe incrementele marketing en factorgegevens opnemen. In het laatste kwartaal is bijvoorbeeld de marktdynamiek veranderd of is de verspreiding van uw marketinggegevens aanzienlijk veranderd.
+
+Een model opnieuw trainen:
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
 
@@ -114,9 +123,16 @@ Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg
 ### Score of re-score
 
 
-U kunt een model stapsgewijs score behalen op basis van nieuwe marketinggegevens of een model opnieuw scoren voor een specifieke datumreeks. Een model scoren of opnieuw scoren:
+U kunt een model stapsgewijs score behalen op basis van nieuwe marketinggegevens of een model opnieuw scoren voor een specifieke datumreeks.
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+U kunt overwegen een model opnieuw te scoren als u wilt:
+
+* Corrigeer onjuiste marketinggegevens. Zo hebben de recente betaalde zoekgegevens die u hebt opgenomen in de training en scoring van het model een week aan gegevens gemist.
+* Gebruik nieuwe stijgende marketing gegevens die door updates in de datasets beschikbaar zijn geworden u als deel van uw geharmoniseerde gegevens hebt gevormd.
+
+Een model scoren of opnieuw scoren:
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
 
@@ -135,7 +151,7 @@ Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg
 
 Een model verwijderen:
 
-1. Selecteer ![](/help/assets//icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Delete]**. Alternatief, selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de blauwe actiebar.
 

@@ -3,7 +3,7 @@ title: Schema's
 description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
 feature: Schemas
 exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
-source-git-commit: 9085363e951a4e306c64ad28f56e2c15b4a6029a
+source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 2%
@@ -16,9 +16,9 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Ga naar de interface van de Mix Modeler.
 
-1. Selecteren ![Schemas](/help/assets//icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
+1. Selecteer ![ Schema&#39;s ](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
-Zie de [Overzicht van de interface Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie .
+Zie het [ overzicht van Schema&#39;s UI ](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie.
 
 ## Samengevoegde of samenvattingsgegevens
 
@@ -36,9 +36,9 @@ Gebruik de klasse XDM Summary Metrics voor:
 >
 >De schemadefinitie moet minstens één numeriek gebied (het gebruiken van Geheel, Dubbel, Van Boole, of ander numeriek type) bevatten om de vereiste metriek voor de opgenomen gegevens te steunen.
 
-Een schema met de **[!DNL XDM Summary Metrics]** basisklasse kan eenvoudig zijn, zoals in het dialoogvenster **[!DNL ExternalFactorSummarySchema]** hieronder.
+Een schema met de basisklasse **[!DNL XDM Summary Metrics]** kan eenvoudig zijn, zoals in **[!DNL ExternalFactorSummarySchema]** hieronder wordt getoond.
 
-![Schema externe factoren](/help/assets//external-factors-schema.png)
+![ Extern het Schema van Factoren ](/help/assets/external-factors-schema.png)
 
 Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens bevatten, bijvoorbeeld:
 
@@ -46,33 +46,33 @@ Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens 
 
   | tijdstempel | date_type | factor | value |
   |---|---|---|--:|
-  | 2020-11-28T00:00:00,000Z | week | concurrent_index | 289,8 |
-  | 2020-12-05T00:00:00,000Z | week | concurrent_index | 291,2 |
-  | 2020-12-12T00:00:00,000Z | week | concurrent_index | 280,07 |
+  | 2020-11-28T00 :00: 00.000Z | week | concurrent_index | 289,8 |
+  | 2020-12-05T00 :00: 00.000Z | week | concurrent_index | 291,2 |
+  | 2020-12-12T00 :00: 00.000Z | week | concurrent_index | 280,07 |
   | ... | ... | ... | ... |
 
 - Publieke vakantiegegevens
 
   | tijdstempel | date_type | factor | value |
   |---|---|---|--:|
-  | 2020-11-28T00:00:00,000Z | week | all_Feays_flag | 0,0 |
-  | 2020-12-05T00:00:00,000Z | week | all_Feays_flag | 0,0 |
-  | 2020-12-12T00:00:00,000Z | week | all_Feays_flag | 0,0 |
-  | 2020-12-19T00:00:00,000Z | week | all_Feays_flag | 0,0 |
-  | 2020-12-26T00:00:00,000Z | week | all_Feays_flag | 1,0 |
+  | 2020-11-28T00 :00: 00.000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-05T00 :00: 00.000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-12T00 :00: 00.000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-19T00 :00: 00.000Z | week | all_Feays_flag | 0,0 |
+  | 2020-12-26T00 :00: 00.000Z | week | all_Feays_flag | 1,0 |
   | ... | ... | ... | ... |
 
 
-Zie hieronder voor een uitgebreider voorbeeld van een **[!DNL LumaPaidMarketingSchema]** met de **[!DNL XDM Summary Metrics]** als de basisklasse. In het schema worden speciale veldgroepen (met kleuren) gebruikt voor metriek (**[!DNL AMMMetrics]**), afmetingen (**[!DNL AMMDimensions]**) en andere klantspecifieke informatie (**[!DNL CustomerSpecific]**).
+Zie hieronder voor een uitgebreider voorbeeld van een instructie **[!DNL LumaPaidMarketingSchema]** waarbij **[!DNL XDM Summary Metrics]** als basisklasse wordt gebruikt. Het schema gebruikt specifieke gebiedsgroepen (die met kleuren worden geannoteerd) voor metriek (**[!DNL AMMMetrics]**), dimensies (**[!DNL AMMDimensions]**), en andere klant-specifieke informatie (**[!DNL CustomerSpecific]**).
 
-![Samenvattingsschema](/help/assets//summary-schema.png)
+![ Samenvattingsschema ](/help/assets/summary-schema.png)
 
 Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggregeerde of summiere gegevens uit externe bronnen, wordt het aangemoedigd om de Externe het gebiedsgroep van de Details van de Controle van het Systeem van Source als deel van een schema te gebruiken. Deze veldgroep definieert een set auditeigenschappen voor externe bronnen.
 
 
 ## Ondersteunde gegevenstypen
 
-Mix Modeler ondersteunt momenteel geen subset van gegevenstypen voor Experience Platforms. De volgende basisgegevenstypen (velden), vermeld in [Basisbeginselen van de schemacompositie](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type), worden ondersteund:
+Mix Modeler ondersteunt momenteel geen subset van gegevenstypen voor Experience Platforms. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
 
 - String
 - Geheel
