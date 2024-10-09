@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: 09ec757a37725d4b41231076bd99432bffd6d555
+source-git-commit: 72f122f1cdf7252dae9e93e5ea133e8cc76564dc
 workflow-type: tm+mt
-source-wordcount: '1332'
+source-wordcount: '1422'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn geba
 
 ## [!UICONTROL Model insights]
 
-Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media), [ Bijdrage door kanaal ](#contribution-by-channel), [ de prestatiessamenvatting van de Marketing ](#marketing-performance-summary), en [ Marginale reactiecurven ](#marginal-response-curves).
+Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media), [ Bijdrage door kanaal ](#contribution-by-channel), [ de prestatiessamenvatting van de Marketing ](#marketing-performance-summary), en [ Marginale reactiecurven ](#marginal-response-curves). Het lusje verstrekt ook a [ de onderbreking van het aanraakpunt ](#touchppint-breakdown) lijst.
 
 ![ Model - Modelinzichten ](/help/assets/model-insights-insights.png)
 
@@ -37,7 +37,7 @@ Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en b
 * Om de volledige gegevens van modelinzichten in Microsoft® Excel formaat te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download data]**.
 
 
-### Bijdrage op datum en basismedia.
+### Bijdrage op datum en basismedia
 
 De gestapelde grafiek is geordend: Basis bij de bodem, niet-bestede kanalen in het midden, en de kanalen van de Besteed op de bovenkant.
 
@@ -45,11 +45,11 @@ De gestapelde grafiek is geordend: Basis bij de bodem, niet-bestede kanalen in h
 
 De donutvisualisatie laat een verdeling van de bijdrage per kanaal zien.
 
-### Overzicht van de marketingprestaties.
+### Overzicht van marketingprestaties
 
 Een horizontale staafgrafiek die de prestaties van het rendement van investeringen per kanaal toont.
 
-### Marginale responscurven.
+### Marginale responscurven
 
 Het lijndiagram visualiseert en vergelijkt de marginale opbrengsten die door de investering in uw marketing kanalen worden geproduceerd.  En identificeert het break-even punt waar uw stijgende terugkeer minder dan uw stijgende uitgave is. Hierdoor helpt deze visualisatie u te begrijpen wanneer uw marketinginvestering minder effect begint te sorteren.
 
@@ -60,6 +60,27 @@ Het kanaal wijzigen:
 * Selecteer een kanaal in het vervolgkeuzemenu **[!UICONTROL Channel]** om de visualisatie voor een specifiek kanaal bij te werken.
 
 
+### Uitsplitsing naar aanraakpunt
+
+In de tabel met uitsplitsingen naar aanraakpunt worden wekelijks de uitsplitsingen naar aanraakpunt voor alle of geselecteerde kanalen weergegeven.
+
+![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
+
+De volgende kolommen zijn beschikbaar:
+
+| Kolom | Beschrijving |
+|---|---|
+| **[!UICONTROL Date range]** | De week waarin verslag moet worden uitgebracht. |
+| **[!UICONTROL Touchpoint]** | Het specifieke aanraakpuntkanaal. |
+| **[!UICONTROL ROI]** | Het percentage van (**[!UICONTROL Revenue]** - **[!UICONTROL Spend]**) / **[!UICONTROL Spend]**. |
+| **[!UICONTROL Revenue]** | De inkomsten voor de datumreeks. |
+| **[!UICONTROL CPA]** | **[!UICONTROL Spend]** / **[!UICONTROL Conversions]** . |
+| **[!UICONTROL Conversions]** | De conversies voor het datumbereik. |
+| **[!UICONTROL Spend]** | De uitgaven voor het gegevensbereik. |
+
+Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kanaal in het vervolgkeuzemenu **[!UICONTROL View]** .
+
+Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
 ## [!UICONTROL Attribution]
 

@@ -3,7 +3,7 @@ title: Samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: 86732fe30637aa72ced232d9f331a3cc64baa39b
+source-git-commit: ff120c9b1dea81a5dc998cbda008fa913504970e
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 6%
@@ -12,14 +12,14 @@ ht-degree: 6%
 
 # Samenvattingsgegevens
 
-Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, het samenvoegen van één samenvattende marketinginspanningsgegevens uit verschillende tuinen en het samenvoegen of samenvoegen van gegevens uit andere bronnen, zoals offlinereclame, interne factoren of externe factoren.
+Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, geaggregeerde of samenvattende marketinggegevens van verschillende tuinen, en geaggregeerde of samenvattende gegevens van een andere bron, zoals offlinereclame, interne factoren of externe factoren.
 
 De klanten kunnen om het even welk soort gegevens gebruiken die in Experience Platform als datasets worden opgenomen en die op schema&#39;s gebruikend XDM ExperienceEvent of XDM Summiere Metrics als basisklasse gebaseerd is.
 
 Bijvoorbeeld:
 
 * gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
-* gegevens die worden verzameld met de SDK van het Web van het Experience Platform, Mobiele SDK, of de Server API van het Netwerk van Edge voor het verzamelen van klanteninteractie op Web, mobiel, of een ander type van apparaat;
+* gegevens die worden verzameld gebruikend het Web SDK van het Experience Platform, Mobiele SDK, of de Server API van de Edge Network voor het verzamelen van klanteninteractie op Web, mobiel, of een ander type van apparaat;
 * geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
 * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
@@ -87,5 +87,5 @@ Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets 
 >
 >Zie voor meer details over hoe te om schema&#39;s en datasets te beheren:
 >
->* [Schemas](schemas.md)
->* [Gegevenssets](datasets.md)
+>* [ Schemas ](schemas.md)
+>* [ Datasets ](datasets.md)

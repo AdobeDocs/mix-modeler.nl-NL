@@ -4,10 +4,10 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 72f122f1cdf7252dae9e93e5ea133e8cc76564dc
 workflow-type: tm+mt
-source-wordcount: '437'
-ht-degree: 9%
+source-wordcount: '457'
+ht-degree: 10%
 
 ---
 
@@ -15,13 +15,19 @@ ht-degree: 9%
 
 **Laatste update**: 13 augustus 2024.
 
-Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden dan ook bijgewerkt, zodat ze regelmatig worden gecontroleerd.&quot;
+
+## Oktober 2024
+
+| Functie | Beschrijving | Algemene beschikbaarheid |
+|---|---|---|
+| **de lijst van de Punt-onderbreking van TouchPoint** | In [!UICONTROL Models], biedt het [[!UICONTROL Model insights]](/help/models/insights.md#factors) lusje nu een extra [ 3} lijst van de de onderbreking van het Aanraakpunt {aan.](../models/insights.md#touchpoint-breakdown) | woensdag 1 oktober 2024 |
 
 ## Augustus 2024
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
-| **de inzichten van de de bijdrage van de Factor** | In [!UICONTROL Model insights] biedt het tabblad [[!UICONTROL Factors]](/help/models/insights.md#factors) externe aan factoren gerelateerde inzichten. | woensdag 20 augustus 2024 |
+| **de inzichten van de de bijdrage van de Factor** | In [!UICONTROL Models] biedt het tabblad [[!UICONTROL Factors]](/help/models/insights.md#factors) externe aan factoren gerelateerde inzichten. | woensdag 20 augustus 2024 |
 | **Marginale reactiecurven** | De [ marginale reactiecurven ](/help/models/insights.md#model-insights-1) visualisatie in Modelinzichten werkt nu de kromme en de overeenkomstige die waarden bij op veranderingen in de geselecteerde gegevenswaaier worden gebaseerd. Bovendien toont de visualisatie het punt van marginale break even en het punt van dalende winst. | woensdag 20 augustus 2024 |
 | **Ad hoc opleiding en het scoren** | U kunt een model [ re-trein ](/help/models/overview.md#re-train), [ score (voor nieuwe marketing gegevens) of re-score ](/help/models/overview.md#score-or-re-score) van de interface van Modellen in werking stellen. | woensdag 13 augustus 2024 |
 | **Beleidshandhaving** | Het beleid van het Experience Platform wordt afgedwongen wanneer het vormen van datasetregels en wanneer het wijzigen van etiketten aan de onderliggende gegevens die in Mix Modeler worden gebruikt. Zie [ Beleid ](../data-governance/policies.md) voor meer details. | woensdag 13 augustus 2024 |
