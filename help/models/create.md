@@ -3,9 +3,9 @@ title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: 2fbf24f6ac72e24070d6c294bc25c112aeb8bdac
+source-git-commit: 1327ef083cc681b38adc086ad4f7332fd83577b5
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -135,7 +135,7 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
    1. In de sectie **[!UICONTROL MTA enabled]** :
 
-      * Als u MTA-functies wilt inschakelen voor de gemaakte modus, activeert u **[!UICONTROL MTA enabled]** . Zodra toegelaten, zijn de multi-aanraak attributieinzichten beschikbaar één u uw model door het [ lusje van de Attributie ](insights.md#attribution) in [ Modelinzichten ](insights.md) hebt opgeleid en gescoord.
+      * Activeer **[!UICONTROL MTA enabled]** als u MTA-functies voor het model wilt inschakelen. Als u MTA hebt ingeschakeld, zijn de multi-touchkenmerkinzichten beschikbaar nadat u uw model hebt getraind en gescoord. Zie het [ lusje van de Attributie ](insights.md#attribution) in [ Modelinzichten ](insights.md).
 
    1. In de sectie **[!UICONTROL Prior knowledge]** :
 

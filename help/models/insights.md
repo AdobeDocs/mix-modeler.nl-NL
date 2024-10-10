@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: 72f122f1cdf7252dae9e93e5ea133e8cc76564dc
+source-git-commit: af315f4566c34c1961130d61ce2804b98d859b24
 workflow-type: tm+mt
-source-wordcount: '1422'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en b
 * Om de volledige gegevens van modelinzichten in Microsoft® Excel formaat te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download data]**.
 
 
-### Bijdrage op datum en basismedia
+### Bijdrage op datum en basismedia.
 
 De gestapelde grafiek is geordend: Basis bij de bodem, niet-bestede kanalen in het midden, en de kanalen van de Besteed op de bovenkant.
 
@@ -45,11 +45,11 @@ De gestapelde grafiek is geordend: Basis bij de bodem, niet-bestede kanalen in h
 
 De donutvisualisatie laat een verdeling van de bijdrage per kanaal zien.
 
-### Overzicht van marketingprestaties
+### Overzicht van de marketingprestaties.
 
 Een horizontale staafgrafiek die de prestaties van het rendement van investeringen per kanaal toont.
 
-### Marginale responscurven
+### Marginale responscurven.
 
 Het lijndiagram visualiseert en vergelijkt de marginale opbrengsten die door de investering in uw marketing kanalen worden geproduceerd.  En identificeert het break-even punt waar uw stijgende terugkeer minder dan uw stijgende uitgave is. Hierdoor helpt deze visualisatie u te begrijpen wanneer uw marketinginvestering minder effect begint te sorteren.
 
@@ -60,31 +60,17 @@ Het kanaal wijzigen:
 * Selecteer een kanaal in het vervolgkeuzemenu **[!UICONTROL Channel]** om de visualisatie voor een specifiek kanaal bij te werken.
 
 
-### Uitsplitsing naar aanraakpunt
-
-In de tabel met uitsplitsingen naar aanraakpunt worden wekelijks de uitsplitsingen naar aanraakpunt voor alle of geselecteerde kanalen weergegeven.
-
-![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
-
-De volgende kolommen zijn beschikbaar:
-
-| Kolom | Beschrijving |
-|---|---|
-| **[!UICONTROL Date range]** | De week waarin verslag moet worden uitgebracht. |
-| **[!UICONTROL Touchpoint]** | Het specifieke aanraakpuntkanaal. |
-| **[!UICONTROL ROI]** | Het percentage van (**[!UICONTROL Revenue]** - **[!UICONTROL Spend]**) / **[!UICONTROL Spend]**. |
-| **[!UICONTROL Revenue]** | De inkomsten voor de datumreeks. |
-| **[!UICONTROL CPA]** | **[!UICONTROL Spend]** / **[!UICONTROL Conversions]** . |
-| **[!UICONTROL Conversions]** | De conversies voor het datumbereik. |
-| **[!UICONTROL Spend]** | De uitgaven voor het gegevensbereik. |
-
-Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kanaal in het vervolgkeuzemenu **[!UICONTROL View]** .
-
-Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
 ## [!UICONTROL Attribution]
 
-Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten. De volgende attribuutmodellen worden ondersteund:
+>[!NOTE]
+>
+>Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
+
+
+Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ een model ](create.md) creëren.
+
+De volgende attribuutmodellen worden ondersteund:
 
 * Gebaseerd op het geselecteerde model in Mix Modeler:
    * Algorithmic - Invloed
