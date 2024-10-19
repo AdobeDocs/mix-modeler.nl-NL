@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: af315f4566c34c1961130d61ce2804b98d859b24
+source-git-commit: f549f7d4d4f5c702e3ef28bceeaccc46922f7c40
 workflow-type: tm+mt
-source-wordcount: '1354'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,28 @@ Het kanaal wijzigen:
 
 * Selecteer een kanaal in het vervolgkeuzemenu **[!UICONTROL Channel]** om de visualisatie voor een specifiek kanaal bij te werken.
 
+
+### Uitsplitsing naar aanraakpunt
+
+In de tabel met uitsplitsingen naar aanraakpunt worden wekelijks de uitsplitsingen naar aanraakpunt voor alle of geselecteerde kanalen weergegeven.
+
+![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
+
+De volgende kolommen zijn beschikbaar:
+
+| Kolom | Beschrijving |
+|---|---|
+| **[!UICONTROL Date range]** | De week waarin verslag moet worden uitgebracht. |
+| **[!UICONTROL Touchpoint]** | Het specifieke aanraakpuntkanaal. |
+| **[!UICONTROL ROI]** | Het percentage van (**[!UICONTROL Revenue]** - **[!UICONTROL Spend]**) / **[!UICONTROL Spend]**. |
+| **[!UICONTROL Revenue]** | De inkomsten voor de datumreeks. |
+| **[!UICONTROL CPA]** | **[!UICONTROL Spend]** / **[!UICONTROL Conversions]** . |
+| **[!UICONTROL Conversions]** | De conversies voor het datumbereik. |
+| **[!UICONTROL Spend]** | De uitgaven voor het gegevensbereik. |
+
+Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kanaal in het vervolgkeuzemenu **[!UICONTROL View]** .
+
+Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
 
 ## [!UICONTROL Attribution]

@@ -4,7 +4,7 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 72f122f1cdf7252dae9e93e5ea133e8cc76564dc
+source-git-commit: f549f7d4d4f5c702e3ef28bceeaccc46922f7c40
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 10%
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 # Opmerkingen bij de release Huidige Mix Modeler
 
-**Laatste update**: 13 augustus 2024.
+**Laatste update**: 1 Oktober, 2024.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden dan ook bijgewerkt, zodat ze regelmatig worden gecontroleerd.&quot;
 
