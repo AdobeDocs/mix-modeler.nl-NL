@@ -3,9 +3,9 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 3801d6637fee491aa295ef586c2017a503466ffc
 workflow-type: tm+mt
-source-wordcount: '805'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -62,25 +62,6 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
 
 U kunt de volgende handelingen uitvoeren op een specifiek model.
 
-### Details weergeven
-
-Meer details van een model bekijken:
-
-1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
-
-1. Selecteer ![ Info ](/help/assets/icons/Info.svg) voor een model om pop-up met details te tonen.
-
-
-
-### Dupliceren
-
-U kunt snel een model dupliceren.
-
-1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
-
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
-
-
 ### Modelinzichten
 
 De functie voor inzicht in modellen is alleen beschikbaar voor goed opgeleide en gescoreerde modellen.
@@ -92,6 +73,52 @@ De inzichten van een model weergeven:
 1. Selecteer de modelnaam.
 
 U wordt opnieuw gericht aan [ ModelInzichten ](insights.md).
+
+
+### Details weergeven
+
+Meer details van een model bekijken:
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+
+1. Selecteer ![ Info ](/help/assets/icons/Info.svg) voor een model om pop-up met details te tonen.
+
+
+### Dupliceren
+
+U kunt snel een model dupliceren.
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
+
+
+### Bewerken
+
+U kunt de naam, beschrijving en het plannen van opleiding en het noteren van een model uitgeven.
+
+1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
+
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Edit]**.
+
+   In het dialoogvenster **[!UICONTROL Edit model]** :
+
+   * Voer een nieuwe **[!UICONTROL Name]** en **[!UICONTROL Description]** in.
+
+   * Schakel **[!UICONTROL Status]** in om planning in te schakelen. U kunt het plannen voor modellen slechts toelaten die worden opgeleid en worden gescoord.
+
+      1. Selecteer een **[!UICONTROL Scoring frequency]** :
+
+         * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+
+      1. Selecteer een **[!UICONTROL Training frequency]** in de vervolgkeuzelijst: **[!UICONTROL Monthly]** , **[!UICONTROL Quarterly]** , **[!UICONTROL Yearly]** of **[!UICONTROL None]** .
+
+     ![ geef een model ](../assets/model-edit.png) uit
+
+1. Selecteer **[!UICONTROL Save]** .
+
 
 
 ### Nieuwe treinen

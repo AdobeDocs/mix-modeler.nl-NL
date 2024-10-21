@@ -3,9 +3,9 @@ title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: 1327ef083cc681b38adc086ad4f7332fd83577b5
+source-git-commit: 91dec8849d0d6fe52974024d09012d9c40d36cec
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -121,14 +121,6 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
 
 1. In de stap **[!UICONTROL Advanced]** :
 
-   1. Selecteer in de sectie **[!UICONTROL Define training window]** tussen
-
-      * **[!UICONTROL Have Mix Modeler select a helpful training window]** en
-
-      * **[!UICONTROL Manually input a training window]**. Wanneer deze optie is geselecteerd, definieert u het aantal jaren in **[!UICONTROL Include events the following years prior to a conversion]** .
-
-        ![ Model - bepaal opleidingsvenster ](/help/assets/model-define-training-window.png)
-
    1. In de sectie **[!UICONTROL Spend share]** :
 
       * Activeer **[!UICONTROL Allow spend share]** als u historische investeringsverhoudingen voor marketing wilt gebruiken om het model op de hoogte te brengen wanneer er weinig marketinggegevens beschikbaar zijn.
@@ -150,6 +142,30 @@ Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-v
       1. Gebruik indien nodig **[!UICONTROL Clear all]** om alle invoerwaarden voor de kolommen **[!UICONTROL Contribution proportion]** en **[!UICONTROL Level of confidence]** te wissen.
 
 
+1. In de stap **[!UICONTROL Schedule]** :
+
+   1. In de sectie **[!UICONTROL Schedule]** kunt u modeltraining en -scoring plannen.
+
+      ![ model van het Programma ](../assets/model-schedule.png)
+
+      Aan geplande modelscore en opleiding:
+
+      1. Schakel **[!UICONTROL Enable scheduled model scoring and training]** in.
+      1. Selecteer een **[!UICONTROL Scoring frequency]** :
+
+         * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+
+      1. Selecteer een **[!UICONTROL Training frequency]** in de vervolgkeuzelijst: **[!UICONTROL Monthly]** , **[!UICONTROL Quarterly]** , **[!UICONTROL Yearly]** of **[!UICONTROL None]** .
+
+   1. Selecteer in de sectie **[!UICONTROL Define training window]** tussen:
+
+      ![ Model - bepaal opleidingsvenster ](/help/assets/model-define-training-window.png)
+
+      * **[!UICONTROL Have Mix Modeler select a helpful training window]** en
+
+      * **[!UICONTROL Manually input a training window]**. Wanneer deze optie is geselecteerd, definieert u het aantal jaren in **[!UICONTROL Include events the following years prior to a conversion]** .
 
 1. Selecteer **[!UICONTROL Finish]** om de modelconfiguratie te voltooien.
 

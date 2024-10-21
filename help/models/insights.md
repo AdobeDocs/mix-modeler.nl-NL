@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: f549f7d4d4f5c702e3ef28bceeaccc46922f7c40
+source-git-commit: d4a500de13272f0b07827a0df4a386d3d757403b
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1539'
 ht-degree: 0%
 
 ---
@@ -253,3 +253,27 @@ Op het tabblad Historisch overzicht ziet u visualisaties voor:
   U kunt een alternatief op volume-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
 
 ![ Model - Historisch overzicht ](/help/assets/model-insights-historical-overview.png)
+
+## **[!UICONTROL Edit]**
+
+U kunt de naam, beschrijving en het plannen van opleiding en het noteren van het model uitgeven.
+
+1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg) uitgeven
+
+1. In het dialoogvenster **[!UICONTROL Edit model]** :
+
+   * Voer een nieuwe **[!UICONTROL Name]** en **[!UICONTROL Description]** in.
+
+   * Schakel **[!UICONTROL Status]** in om planning in te schakelen. U kunt het plannen voor modellen slechts toelaten die worden opgeleid en worden gescoord.
+
+      1. Selecteer een **[!UICONTROL Scoring frequency]** :
+
+         * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+
+      1. Selecteer een **[!UICONTROL Training frequency]** in de vervolgkeuzelijst: **[!UICONTROL Monthly]** , **[!UICONTROL Quarterly]** , **[!UICONTROL Yearly]** of **[!UICONTROL None]** .
+
+     ![ geef een model ](../assets/model-edit.png) uit
+
+1. Selecteer **[!UICONTROL Save]** .
