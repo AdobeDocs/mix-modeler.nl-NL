@@ -4,7 +4,7 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 4901d4ad2ee0943ed651a0cc556f00be436a14a1
+source-git-commit: ab3b5b4177fff324d50463210724ef95db18e67f
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 9%
@@ -21,7 +21,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De v
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
-| **de opleiding en het scoren van het Programma** | U kunt de opleiding en het scoren van een model plannen wanneer u [ een model ](/help/models/create.md) creeert en wanneer u een model van [ Model inzicht ](/help/models/insights.md#edit) of het [ contextmenu van een model ](/help/models/overview.md#edit) in de lijst van Modellen uitgeeft. | dinsdag 21 oktober 2024 |
+| **de opleiding en het scoren van het Programma** | U kunt de opleiding en het scoren van een model plannen wanneer u [ een model ](/help/models/create.md#schedule) creeert en wanneer u een model van [ Model inzicht ](/help/models/insights.md#edit) of het [ contextmenu van een model ](/help/models/overview.md#edit) in de lijst van Modellen uitgeeft. | dinsdag 21 oktober 2024 |
 | **de lijst van de Punt-onderbreking van TouchPoint** | In [!UICONTROL Models], biedt het [[!UICONTROL Model insights]](/help/models/insights.md#factors) lusje nu een extra [ 3} lijst van de de onderbreking van het Aanraakpunt {aan.](../models/insights.md#touchpoint-breakdown) | woensdag 1 oktober 2024 |
 
 ## Augustus 2024
