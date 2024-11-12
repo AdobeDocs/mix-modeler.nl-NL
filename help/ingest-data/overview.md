@@ -3,9 +3,9 @@ title: Samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: ff120c9b1dea81a5dc998cbda008fa913504970e
+source-git-commit: 2402874518001c1ae78de6a64a06a9fefa1bbc27
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '463'
 ht-degree: 6%
 
 ---
@@ -42,13 +42,13 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Model
 
 +++ Geaggregeerde gegevens over de marketinginspanning
 
-| Geo | Datum | Datumtype | Kanaal | Campaign | Klikken | Verkocht | Betrokkenheid | Impressie | Openen | Eigendom | Verzonden |
-|---|:--|---|:---:|---|--:|---|--:|---|---|---|--:|
-| AMER | 2021-10-31 | dag | EMAIL | | 12752 | | | | | | 1132945 |
-| AMER | 2021-10-31 | dag | FB | | 148844 | | | | | | |
-| AMER | 2021-10-31 | dag | YT | | | | 2314452 | | | | |
-| JPN | 21-10-2021 | dag | EMAIL | | 21089 | | | | | | 3283626 |
-| JPN | 21-10-2021 | dag | SOCIAAL | | | | 621 | | | | |
+| Geo | Datum | Datumtype | Kanaal | Campaign | Klikken | Verkocht | Betrokkenheid | Impressie | Openen | Eigendom | Verzonden | Draaien |
+|---|:--|---|:---:|---|--:|---|--:|---|---|---|--:|--:|
+| AMER | 2021-10-31 | dag | EMAIL | | 12752 | | | | | | 1132945 | |
+| AMER | 2021-10-31 | dag | FB | | 148844 | | | | | | | 42111 |
+| AMER | 2021-10-31 | dag | YT | | | | 2314452 | | | | | 10540 |
+| JPN | 21-10-2021 | dag | EMAIL | | 21089 | | | | | | 3283626 | |
+| JPN | 21-10-2021 | dag | SOCIAAL | | | | 621 | | | | | 74512 |
 
 {style="table-layout:auto"}
 
