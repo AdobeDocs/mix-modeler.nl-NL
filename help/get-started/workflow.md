@@ -3,9 +3,9 @@ title: Workflow voor Mixxen Modeler
 description: Begrijp het typische werkschema voor Mix Modeler.
 feature: Ingest Data, Plans, Harmonized Data, Models
 exl-id: 200ff846-5d78-4b25-a425-bfd558b88c88
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: da92298bbd5b2fc14b54121f0c43dc3763f9a0a3
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Een typisch werkschema in Mix Modeler bestaat uit de volgende activiteiten:
 
 |  | Activiteit | Beschrijving |
 |---|---|---|
-| ![ Gegevens ](/help/assets/icons/Data.svg){width="100"} | [**Ingest gegevens**](../ingest-data/overview.md) | Gegevens over gebeurtenissen uit Experience Platform (bijvoorbeeld Adobe Analytics, Web SDK, andere bronnen), samengevoegde gegevens uit marketingkanalen (bijvoorbeeld tv, tuinen, e-mail, eigendom en activiteiten), gegevens over externe factoren van klanten (bijvoorbeeld prijswijzigingen in abonnementsdiensten) en gegevens over interne factoren (bijvoorbeeld vakantiepatronen). |
+| ![ Gegevens ](/help/assets/icons/Data.svg){width="100"} | [**Ingest gegevens**](../ingest-data/overview.md) | Gegevens over gebeurtenissen uit Experience Platform (bijvoorbeeld Adobe Analytics, Web SDK, andere bronnen), samengevoegde gegevens uit marketingkanalen (bijvoorbeeld tv, tuinen, e-mail, eigendom en activiteiten), gegevens over externe factoren van klanten (bijvoorbeeld prijswijzigingen in abonnementsdiensten) en gegevens over interne factoren (bijvoorbeeld vakantieplannen). |
 | ![ DataCheck ](/help/assets/icons/DataCheck.svg){width="100"} | [**harmoniseer gegevens**](../harmonize-data/overview.md) | Vorm toewijzingsregels en de regels van de conflictoplossing om de diverse marketing datasets te verenigen nodig om campagneprestaties in Mix Modeler te meten en te plannen. |
 | ![ FileConfig ](/help/assets/icons/FileGear.svg){width="100"} | [**vorm modellen**](../models/create.md) | Configureer modelinstanties met marketingaanraakpunten (bijvoorbeeld kanalen), conversiedefinities en interne en externe factoren. |
 | ![ FileData ](/help/assets/icons/FileData.svg){width="100"} | [**Lijn en scoremodellen**](../models/overview.md) | Samengevoegde scores en scores op gebeurtenisniveau maken met behulp van training en scoring in computers. |
@@ -32,19 +32,22 @@ Een typisch werkschema in Mix Modeler bestaat uit de volgende activiteiten:
 
 {style="table-layout:auto"}
 
-Het gedetailleerde gegevensgeoriënteerde stroomschema hieronder illustreert hoe:
+<!---
+The detailed data-oriented flowchart below illustrates how:
 
-* geharmoniseerde gegevens zijn gebaseerd op:
+* harmonized data is based on:
 
-   * ervaringsgegevens (afkomstig van de bronconnector van Analytics, verzameld via Experience Platform-SDK&#39;s en API&#39;s, opgenomen via bronconnectors of via streaming opname);
-   * samengevoegde of samenvattingsgegevens van tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame, en
-   * definities van geharmoniseerde velden en gegevenssetregels.
+  * experience event data (originating from Analytics source connector, collected through Experience Platform SDKs and APIs, ingested through source connectors, or using streaming ingestion),
+  * aggregate or summary data from walled gardens (like Facebook, YouTube), traffic sources, or offline advertising data, and 
+  * definitions of harmonized fields and dataset rules.
 
-* een model is gebaseerd op :
+* a model is based on:
 
-   * de conversie- en marketingdefinities van aanspreekpunten die voortvloeien uit de geharmoniseerde gegevens en
-   * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten.
+  * the conversion and marketing touchpoint definitions resulting from the harmonized data and 
+  * non-marketing aggregate or summary data containing internal or external factors.
 
-* Mut-touch attributie-gebeurtenisscores kunnen mogelijk worden teruggeplaatst in het Experience Platform data Lake voor gebruik in volgende modelconfiguratie, training en scoring.
+* mult-touch attribution event scores can potentially be fed back into Experience Platform data lake for use in subsequent model configuration, training and scoring.
 
-![ Uitgebreide werkschema ](/help/assets/comprehensive-workflow.svg)
+![Comprehensive workflow](/help/assets/comprehensive-workflow.svg)
+
+-->

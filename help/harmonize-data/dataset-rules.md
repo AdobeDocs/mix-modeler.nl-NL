@@ -3,9 +3,9 @@ title: Gegevensregels
 description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
 feature: Harmonized Data, Dataset Rules
 exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: a8590d604f79268bc8d1f012f2c19271a3b38668
 workflow-type: tm+mt
-source-wordcount: '1313'
+source-wordcount: '1407'
 ht-degree: 0%
 
 ---
@@ -146,12 +146,27 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 >
 >[!BADGE  bèta ]{type=Informative}
 
-Voorkeuren voor gegevenssamenvoeging helpen u conflicten op te lossen wanneer gegevens uit een overzicht en gebeurtenisgegevensbronnen worden samengevoegd. Gebruiksscenario&#39;s zijn:
+Voor nauwkeurige modelvoorspellingen kunt u voorkeuren voor gegevenssamenvoeging definiëren. Met deze functionaliteit kunnen gebruikers eventuele conflicten oplossen na het samenvoegen van gegevens op overzichtsniveau en op gebeurtenisniveau.
+
+U kunt een standaard metrische voorkeur vormen die in het geval van conflicterende updates moet worden toegepast. Deze standaard metrische waarde kan één van drie opties zijn:
+
+* **[!UICONTROL Summary data]**
+* **[!UICONTROL Sum of summary and event data]**
+* **[!UICONTROL Event data]**
+
+Wanneer, tijdens harmonisatie, de veelvoudige bronnen van gegevens proberen om een metrisch gebied voor een bepaald kanaal bij te werken, wordt de standaardvoorkeur die door de gebruiker wordt gevormd toegepast. Deze voorkeur wordt toegepast op het zandbakniveau tenzij met voeten getreden voor bepaalde metrische gebaseerde voorkeur die extra wordt gevormd.
+
+Onder **[!UICONTROL Metric based preferences]**, kan de gebruiker de specifieke bron (**[!UICONTROL Summary]** of **[!UICONTROL Event]**) voor bepaalde metrisch en het overeenkomstige omzettingstype voor die metrisch vormen.
+
+De meest voorkomende gebruiksgevallen zijn:
 
 * dezelfde advertentiemetrie in meerdere gegevensreeksen wordt gemeten en gerapporteerd, of
 * metrische metingen kunnen in sommige gegevensreeksen onvolledig zijn, terwijl een andere dataset een superset van een bepaalde metrische waarde kan zijn, resulterend in dubbeltelling.
 
-Voor nauwkeurige modelvoorspelling kunt u voorkeuren voor gegevenssamenvoeging definiëren:
+### Configureren
+
+Voorkeuren voor gegevenssamenvoeging configureren:
+
 
 1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE  bèta ].
 
