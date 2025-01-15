@@ -3,9 +3,9 @@ title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 6331bdfcbc792c03f9cc129daa4e591c2b46a8f1
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,13 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
    | Begroting | De totale begroting voor een plan. |
    | Voorspelde terugkeer | Het verwachte rendement van een plan |
    | voorspelde ROI | Het verwachte investeringsrendement voor een plan. |
+   | Voorspelde conversie | De verwachte conversie voor een plan |
+   | Voorspelde CPA | De verwachte CPA voor een plan |
    | Status | De status van een plan: <p><span style="color:red"> ・</span> Mislukt, <p><span style="color:blue"> ・</span> Verwerking, of <p><span style="color:green"> ・</span> Voltooid. |
 
    {style="table-layout:auto"}
+
+   U kunt ![ gebruiken ColumnSetting ](/help/assets/icons/ColumnSetting.svg) om ![ Vinkje ](/help/assets/icons/Checkmark.svg) te selecteren de kolommen in de lijst te tonen.
 
 1. Het gebruik ![ Onderzoek ](/help/assets/icons/Search.svg) om de lijst voor één of meerdere specifieke plannen te zoeken en te filtreren.
 

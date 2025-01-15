@@ -3,7 +3,7 @@ title: Een abonnement maken
 description: Leer hoe u een abonnement maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 6331bdfcbc792c03f9cc129daa4e591c2b46a8f1
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In Mix Modeler, creeert u een plan gebruikend het plancanvas. In het plancanvas, kunt u opstelling de details en de begrotingen van uw plan en het onderliggende model voor uw plan gebruiken. Nadat u details, budget en model hebt opgegeven, kunt u doorgaan met een door AI aanbevolen plan of de uitgave via het kanaal bewerken.
 
-Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in Mix Modeler tot stand te brengen, selecteer **[!UICONTROL Open plan canvas]**.
+Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in Mix Modeler tot stand te brengen, selecteer **[!UICONTROL Create plan]**.
 
 1. In het scherm Plan maken:
 
