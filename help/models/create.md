@@ -3,9 +3,9 @@ title: Een model maken
 description: Leer hoe u een model maakt in de Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: ab3b5b4177fff324d50463210724ef95db18e67f
+source-git-commit: 16aec67b3e0562ff766f81b8036c724fa03bba17
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '900'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,7 @@ U configureert uw model in de stap **[!UICONTROL Configure]** . De configuratie 
 
    * Om een in aanmerking komende container van de gegevenspopulatie, binnen de container te verwijderen, selecteer ![ Meer ](/help/assets/icons/More.svg), en selecteer **[!UICONTROL Remove marketing touchpoint]** van het contextmenu.
 
+   * Selecteer **en** en **of** tussen containers om complexere definities voor uw in aanmerking komende gegevenspopulatie te bouwen.
 
 
 1. Als u gegevenssets met externe factoren wilt toevoegen aan uw model, gebruikt u een of meer containers in de sectie **[!UICONTROL External factors dataset]** . Een voorbeeld van externe factoren zijn S&amp;P-indexen.
