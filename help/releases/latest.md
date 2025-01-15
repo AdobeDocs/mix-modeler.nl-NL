@@ -4,80 +4,25 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: ab3b5b4177fff324d50463210724ef95db18e67f
+source-git-commit: a4fdfa97e9d548533a22b1b667cf336f37b83395
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 8%
 
 ---
 
 # Opmerkingen bij de release Huidige Mix Modeler
 
-**Laatste update**: 1 Oktober, 2024.
+**Laatste update**: Januari, 2025.
 
-Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden dan ook bijgewerkt, zodat ze regelmatig worden gecontroleerd.&quot;
+Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De versies van de Mix Modeler werken op een ononderbroken leveringsmodel, dat voor een ongeveer maandelijks versiemaximum toestaat. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
-## Oktober 2024
-
-| Functie | Beschrijving | Algemene beschikbaarheid |
-|---|---|---|
-| **de opleiding en het scoren van het Programma** | U kunt de opleiding en het scoren van een model plannen wanneer u [ een model ](/help/models/create.md#schedule) creeert en wanneer u een model van [ Model inzicht ](/help/models/insights.md#edit) of het [ contextmenu van een model ](/help/models/overview.md#edit) in de lijst van Modellen uitgeeft. | dinsdag 21 oktober 2024 |
-| **de lijst van de Punt-onderbreking van TouchPoint** | In [!UICONTROL Models], biedt het [[!UICONTROL Model insights]](/help/models/insights.md#factors) lusje nu een extra [ 3} lijst van de de onderbreking van het Aanraakpunt {aan.](../models/insights.md#touchpoint-breakdown) | woensdag 1 oktober 2024 |
-
-## Augustus 2024
+## Januari 2025
 
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
-| **de inzichten van de de bijdrage van de Factor** | In [!UICONTROL Models] biedt het tabblad [[!UICONTROL Factors]](/help/models/insights.md#factors) externe aan factoren gerelateerde inzichten. | woensdag 20 augustus 2024 |
-| **Marginale reactiecurven** | De [ marginale reactiecurven ](/help/models/insights.md#model-insights-1) visualisatie in Modelinzichten werkt nu de kromme en de overeenkomstige die waarden bij op veranderingen in de geselecteerde gegevenswaaier worden gebaseerd. Bovendien toont de visualisatie het punt van marginale break even en het punt van dalende winst. | woensdag 20 augustus 2024 |
-| **Ad hoc opleiding en het scoren** | U kunt een model [ re-trein ](/help/models/overview.md#re-train), [ score (voor nieuwe marketing gegevens) of re-score ](/help/models/overview.md#score-or-re-score) van de interface van Modellen in werking stellen. | woensdag 13 augustus 2024 |
-| **Beleidshandhaving** | Het beleid van het Experience Platform wordt afgedwongen wanneer het vormen van datasetregels en wanneer het wijzigen van etiketten aan de onderliggende gegevens die in Mix Modeler worden gebruikt. Zie [ Beleid ](../data-governance/policies.md) voor meer details. | woensdag 13 augustus 2024 |
-| **hygiëne van Gegevens** | Bij het verwijderen van brongegevens worden de regels voor gegevenshygiëne nageleefd. Zie [ Deleting een brondataset ](../harmonize-data/dataset-rules.md#delete-a-source-dataset) | woensdag 13 augustus 2024 |
+| **Geneste voorwaarden** | U kunt genestelde voorwaarden tot stand brengen gebruikend EN EN OF wanneer u een in aanmerking komende gegevenspopulatie als deel van de [ configuratie van een model ](/help/models/create.md#configure) bepaalt. | donderdag 15 januari 2025 |
+| **rapporten van de Mening** | U kunt een rapport weergeven over de conversie van een marketingaanraakpunt dat u hebt gedefinieerd als onderdeel van het harmoniseren van gegevens. | donderdag 15 januari 2025 |
+| **bevestiging van de Schrapping** | U wordt ertoe aangezet om de schrapping van a [ plan ](/help/plans/overview.md#delete-plans) of a [ model ](/help/models/overview.md#delete-models) te bevestigen. | donderdag 15 januari 2025 |
+| **de verbetering van Factoren UI** | U kunt selecteren welke [ factoren ](/help/models/insights.md#factors-beta) u in Modelinzichten wilt tonen. | donderdag 15 januari 2025 |
 
-## Juni 2024
-
-| Functie | Beschrijving | Algemene beschikbaarheid |
-|---|---|---|
-| **MTA visualisaties** | De modelInzichten worden bijgewerkt met uitvoerige [ MTA visualisaties ](../models/insights.md#attribution). | woensdag 18 juni 2024 |
-| **de metriek van CPA** | CPA (kosten per actie) metriek is beschikbaar in [ vergelijkt Plannen ](../plans/compare.md). | woensdag 18 juni 2024 |
-| **gebied-vlakke toegangsbeheer** | Wanneer het bepalen van datasetregels, wordt de attributen van het Experience Platform [ gebaseerd toegangsbeheer ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/abac/overview) afgedwongen op a [ gebied-niveau ](../harmonize-data/dataset-rules.md#field-level-access-control). | donderdag 12 juni 2024 |
-| **Voorafgaande kennis touchpoints** | Alleen marketingaanraakpunten die zijn opgegeven in de stap [!UICONTROL Configure] , zijn beschikbaar voor selectie in de sectie [[!UICONTROL Prior Knowledge]](../models/create.md) . | donderdag 12 juni 2024 |
-
-{style="table-layout:auto"}
-
-## Mei 2024
-
-| Functie | Beschrijving | Algemene beschikbaarheid |
-|---|---|---|
-| **de fusievoorkeur van Gegevens** [!BADGE  bèta ] | [ de voorkeur van de fusie van Gegevens ](../harmonize-data/dataset-rules.md#data-merge-preferences) helpt in het oplossen van conflicten wanneer de gegevens van samengevat en de bronnen van gebeurtenisgegevens worden samengevoegd. | donderdag 29 mei 2024 |
-
-{style="table-layout:auto"}
-
-
-
-
-## April 2024
-
-| Functie | Beschrijving | Algemene beschikbaarheid |
-|---|---|---|
-| **de restatement opties van de Datum** | Voor geaggregeerde datasets, wanneer het bepalen van [ regels ](../harmonize-data/dataset-rules.md), kunt u bepalen of de gegevensrestatement door samenvoeging of vervanging is. | dinsdag 1 april 2024 |
-| **update van de modelkwaliteit** | [ Model kwaliteit ](/help/models/insights.md) in Modelinzichten toont nu een visualisatie voor de modelbeoordeling en een lijst met model aanpassingsmetriek. | dinsdag 1 april 2024 |
-
-
-## Januari 2024
-
-| Functie | Beschrijving | Algemene beschikbaarheid |
-|---|---|---|
-| **Verbeterde downloads** | U kunt [ volledige modelinzichten ](../models/insights.md) in formaat downloaden Microsoft® Excel | donderdag 31 januari 2024 |
-| **Marginale reactiecurven** | [ Modelinzichten ](../models/insights.md) verstrekken een extra visualisatie om de marginale reactiecurven te tonen. | donderdag 31 januari 2024 |
-| **de fusievoorkeur van Gegevens** | U kunt [ voorkeur van de gegevenssamenvoeging ](../harmonize-data/dataset-rules.md#data-merge-preferences) voor datasetregels voor geharmoniseerde datasets bepalen. | donderdag 31 januari 2024 |
-| **rapport van het Gebruik** | De geharmoniseerde datasets UI heeft een extra [ rapport van het Gebruik ](../harmonize-data/usage-report.md) lusje die extra inzichten in gebruik van modellen en omzettingen verstrekken. | donderdag 31 januari 2024 |
-| **Bijgewerkte Inzichten UI van het Plan** | De interface van de Inzichten van het Plan wordt bijgewerkt, toestaand u om te selecteren op welke ROI en kanalen om te melden. | donderdag 31 januari 2024 |
-
-{style="table-layout:auto"}
-
-
->[!MORELIKETHIS]
->
->* [ inleiding van de Mix Modeler ](https://business.adobe.com/products/experience-platform/planning-and-measurement.html)
->* [ documentatie van het Experience League van de Mix Modeler ](https://experienceleague.adobe.com/en/docs/mix-modeler)
