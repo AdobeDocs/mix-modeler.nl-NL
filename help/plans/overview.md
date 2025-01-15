@@ -3,9 +3,9 @@ title: Abonnementen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 6331bdfcbc792c03f9cc129daa4e591c2b46a8f1
+source-git-commit: 0475c584b3963d02d9dd72f0dccf692d558463db
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '539'
 ht-degree: 0%
 
 ---
@@ -97,16 +97,14 @@ Plannen vergelijken:
 
 ### Abonnementen verwijderen
 
-Plannen verwijderen:
+Een abonnement verwijderen:
 
-1. Selecteer een of meer plannen in de tabel.
-1. Selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de actiebar.
+1. Selecteer ![](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** in het linkerspoor.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan, en van het contextmenu uitgezocht **[!UICONTROL Delete]**. Alternatief, selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de blauwe actiebar.
+1. Selecteer **[!UICONTROL Delete]** in het bevestigingsdialoogvenster van **[!UICONTROL Delete moplandel]** om het abonnement te verwijderen. Selecteer **[!UICONTROL Cancel]** om te annuleren.
 
-Alternatief:
+Meerdere plannen verwijderen:
 
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan in de lijst.
-1. Selecteer **[!UICONTROL Delete]** in het contextmenu. Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
-
-   >[!WARNING]
-   >
-   >   De geselecteerde plannen worden onmiddellijk geschrapt!
+1. Selecteer meerdere plannen.
+1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de plannen te schrappen.
+1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *plannen]**bevestigingsdialoog om de plannen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
