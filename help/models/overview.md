@@ -3,7 +3,7 @@ title: Modellen
 description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: a4fdfa97e9d548533a22b1b667cf336f37b83395
+source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
@@ -187,5 +187,4 @@ Meerdere modellen verwijderen:
 1. Selecteer meerdere modellen.
 1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de modellen te schrappen.
 1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *modellen]**bevestigingsdialoog om de modellen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
-
 

@@ -3,7 +3,7 @@ title: Marketing-aanraakpunten
 description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Marketing Touch Points
 exl-id: 42851107-7568-4bc9-92ca-3cba713a522e
-source-git-commit: 665b344dfa94275d71e0ecf198d9bb9b73ea584b
+source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
 workflow-type: tm+mt
 source-wordcount: '448'
 ht-degree: 0%
@@ -35,7 +35,6 @@ De tabelkolommen geven details over het marketingaanraakpunt:
 | Gemaakt | Datum en tijdstip waarop het marketingaanraakpunt is gecreëerd. |
 | Laatst gewijzigd | Datum en tijdstip van de laatste wijziging van het marketingaanraakpunt. |
 
-{style="table-layout:auto"}
 
 ## Een marketingaanraakpunt toevoegen
 

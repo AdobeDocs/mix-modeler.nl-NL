@@ -3,7 +3,7 @@ title: conversies
 description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Conversions
 exl-id: a8559426-452a-43e8-9a60-0c0bc97d863c
-source-git-commit: 665b344dfa94275d71e0ecf198d9bb9b73ea584b
+source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -35,7 +35,6 @@ De tabelkolommen geven details over de conversie op:
 | Gemaakt | Datum en tijdstip waarop de conversie is gemaakt. |
 | Laatst gewijzigd | Datum en tijdstip van de laatste wijziging van de conversie. |
 
-{style="table-layout:auto"}
 
 ## Conversie toevoegen
 
