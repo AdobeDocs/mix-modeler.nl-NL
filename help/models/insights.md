@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: d4a500de13272f0b07827a0df4a386d3d757403b
+source-git-commit: fccdd908bbe6b5a2cf9182fc61cb4bbe392f92ec
 workflow-type: tm+mt
-source-wordcount: '1539'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -186,14 +186,17 @@ Voor elk conversiepad ziet u:
 * voor elk kanaal, het bijdragepercentage van het toewijzingsmodel, en
 * de som van deze bijdragepercentages van het kanaaltoewijzingsmodel.
 
-## **[!UICONTROL Factors]**
+## **[!UICONTROL Factors]** [!BADGE  bèta ]
 
-Op het tabblad Factoren staan inzichten met betrekking tot externe factoren.
+Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
 
 ![ Factoren ](/help/assets/factors.png)
 
 Deze visualisatie helpt u om het stijgende effect te begrijpen dat diverse interne en externe factoren op de basislijn van omzettingen hebben. Bijvoorbeeld economische voorwaarden of promotieactiviteiten.
 
+Selecteer in het vervolgkeuzemenu **[!UICONTROL Factors]** welke factoren u wilt weergeven.
+
+<!-- need to update the image when we do have a proper example -->
 
 Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
 
@@ -205,7 +208,7 @@ Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
 
 * [!UICONTROL Model Assessment] visualisatie, die u kunt onderverdelen op Ware versus Voorspelde of Resterende omzettingen.
 
-  Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in de lijst **[!UICONTROL Breakdown]** om de visualisatie te onderbreken.
+Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in de lijst **[!UICONTROL Breakdown]** om de visualisatie te onderbreken.
 
 * [!UICONTROL Model fitting metrics] tabel met de volgende kolommen voor elke metrische conversie:
 
@@ -223,11 +226,11 @@ Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
 
       * RMSE (Root Mean Square Error): geeft de gemiddelde fout aan, gewogen volgens het vierkant van de fout.
 
-  Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
 
 * [!UICONTROL Touchpoint effectiveness] , die het resultaat van het algoritmische model van de Attribution AI vertegenwoordigt. De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
 
-  De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
+De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
    * [!UICONTROL Paths touched]: visualiseert het percentage paden dat omgezet en het percentage paden dat geen omzetting bereikt. Voor een aanraakpunt ziet u meer toegeschreven omzettingen wanneer de hoogte van de conversieverhouding van de eigenschap is. Deze verhouding vergelijkt het percentage wegen die tot omzetting tegenover het percentage wegen leiden die *niet* tot omzetting leiden.
    * [!UICONTROL Efficiency measure]: wordt gegenereerd door het algoritmische toewijzingsmodel. De efficiëntiemaatstaf geeft het relatieve belang aan van een aanraakpunt voor conversie, onafhankelijk van het aanraakpuntvolume. De efficiëntie wordt gemeten op een schaal van 1 tot 5. Het hogere aanraakpuntvolume garandeert geen hogere efficiëntiemaatstaf.
@@ -246,11 +249,11 @@ Op het tabblad Historisch overzicht ziet u visualisaties voor:
 
 * Besteed aanraakpunt.
 
-  U kunt een alternatief op uitgaven-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
+U kunt een alternatief op uitgaven-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
 
 * Volume aanraakpunt.
 
-  U kunt een alternatief op volume-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
+U kunt een alternatief op volume-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
 
 ![ Model - Historisch overzicht ](/help/assets/model-insights-historical-overview.png)
 
