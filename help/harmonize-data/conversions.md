@@ -3,9 +3,9 @@ title: conversies
 description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Conversions
 exl-id: a8559426-452a-43e8-9a60-0c0bc97d863c
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 665b344dfa94275d71e0ecf198d9bb9b73ea584b
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -66,14 +66,28 @@ Om een omzetting toe te voegen, in ![ DataSearch ](/help/assets/icons/DataCheck.
 1. Wanneer deze conversie wordt gemaakt, wordt deze aan de conversietabel toegevoegd.
 
 
-## Een conversie weergeven
+## Details weergeven
 
-Een conversie weergeven:
+Details van een conversie weergeven:
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
 
-1. Selecteer ![ Mening ](/help/assets/icons/ViewDetail.svg) **Mening**. In een dialoogvenster ziet u details over de conversie. Zie [ een omzetting ](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
+1. Selecteer ](/help/assets/icons/ViewDetail.svg) de details van de Mening **** van de Mening ![. In een dialoogvenster ziet u details over de conversie. Zie [ een omzetting ](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
 
+## Rapport weergeven
+
+Een omzettingsrapport weergeven:
+
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
+
+1. Selecteer ![ GraphTrend ](/help/assets/icons/GraphTrend.svg) **rapport van de Mening**. Een dialoogvenster toont een rapport van de conversie.
+
+   ![ rapport van de de meningsmening van de Omzetting ](../assets/conversion-view-report.png)
+
+   * Selecteer een waarde in het vervolgkeuzemenu **[!UICONTROL Weekly]** als u de granulariteit wilt wijzigen waarop u wilt rapporteren.
+   * Om de periode te veranderen om op te melden, ga een begin en einddatum in of gebruik ![ Kalender ](/help/assets/icons/Calendar.svg) om een periode in kalenderpopup te bepalen.
+
+1. Selecteer **[!UICONTROL Close]** om het dialoogvenster te sluiten.
 
 ## Een conversie verwijderen
 

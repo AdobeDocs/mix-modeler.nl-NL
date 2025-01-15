@@ -3,9 +3,9 @@ title: Marketing-aanraakpunten
 description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
 feature: Harmonized Data, Marketing Touch Points
 exl-id: 42851107-7568-4bc9-92ca-3cba713a522e
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 665b344dfa94275d71e0ecf198d9bb9b73ea584b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -66,14 +66,29 @@ Om een marketing aanraakpunt toe te voegen, in ![ DataSearch ](/help/assets/icon
 1. Wanneer gecreeerd, wordt touchpoint toegevoegd aan de marketing touchpoints lijst.
 
 
-## Een marketingaanraakpunt weergeven
+## Details weergeven
 
-Een marketingaanraakpunt weergeven:
+Details van een marketingaanraakpunt weergeven:
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een marketing touchpoint naam in de lijst.
 
 1. Selecteer ![ Mening ](/help/assets/icons/ViewDetail.svg) **Mening**. Een dialoogvenster bevat details over het marketingaanraakpunt. Zie [ een marketing touchpoint ](#add-a-marketing-touchpoint) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
 
+
+## Rapport weergeven
+
+Een rapport van een marketingaanraakpunt weergeven:
+
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een marketing touchpoint naam in de lijst.
+
+1. Selecteer ![ GraphTrend ](/help/assets/icons/GraphTrend.svg) **rapport van de Mening**. Een dialoog toont een rapport van het marketing aanraakpunt.
+
+   ![ de marketing touchpoint meningsrapport ](../assets/marketingtouchpoint-view-report.png)
+
+   * Selecteer een waarde in het vervolgkeuzemenu **[!UICONTROL Weekly]** als u de granulariteit wilt wijzigen waarop u wilt rapporteren.
+   * Om de periode te veranderen om op te melden, ga een begin en einddatum in of gebruik ![ Kalender ](/help/assets/icons/Calendar.svg) om een periode in kalenderpopup te bepalen.
+
+1. Selecteer **[!UICONTROL Close]** om het dialoogvenster te sluiten.
 
 ## Een marketingaanraakpunt verwijderen
 
