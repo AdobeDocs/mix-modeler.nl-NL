@@ -5,13 +5,13 @@ feature-set: Experience Cloud
 feature: Release Notes
 hide: true
 hidefromtoc: true
-source-git-commit: 72b4d3606316c254a9a3ea5909633d87eb9eada6
+exl-id: 5f832a79-7a0c-43cd-87cf-a5ceceb79032
+source-git-commit: 159a89896f7b463fdc0de663062b7e0088d9ecfc
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '333'
 ht-degree: 1%
 
 ---
-
 
 # Testen
 
@@ -25,10 +25,22 @@ Een tabel met Unicode-tekens testen
 
 
 
+## Formulas
 
-En wij steunen ook formules?
+En wij steunen formules?
 
 **de ongelijkheid knap-Schwarz**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
 
 
+
+
+## SVG gebruiken in venster met schaduw
+
+We lijken SVG in een gearceerde doos niet goed te ondersteunen. Zie verschillende indelingen voor de voorvertoning (corp.adobe.com) en de gepubliceerde site (adobe.com).
+
+>[!BEGINSHADEBOX]
+
+*Dit artikel documenteert het paneel van de Attributie in ![ AdobeAnalytics ](/help/assets/icons/AdobeAnalytics.svg)**Adobe Analytics**.<br/> zie [ het paneel van de Attributie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution) voor ![ CustomerJourneyAnalytics ](/help/assets/icons/CustomerJourneyAnalytics.svg)**Customer Journey Analytics**versie van dit artikel.*
+
+>[!ENDSHADEBOX]
