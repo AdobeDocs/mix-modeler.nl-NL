@@ -4,7 +4,7 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: a4fdfa97e9d548533a22b1b667cf336f37b83395
+source-git-commit: 0d6afcf18d7dcf909ae2c22ffa588c425a7148d3
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 8%
@@ -22,7 +22,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. De v
 | Functie | Beschrijving | Algemene beschikbaarheid |
 |---|---|---|
 | **Geneste voorwaarden** | U kunt genestelde voorwaarden tot stand brengen gebruikend EN EN OF wanneer u een in aanmerking komende gegevenspopulatie als deel van de [ configuratie van een model ](/help/models/create.md#configure) bepaalt. | donderdag 15 januari 2025 |
-| **rapporten van de Mening** | U kunt een rapport weergeven over de conversie van een marketingaanraakpunt dat u hebt gedefinieerd als onderdeel van het harmoniseren van gegevens. | donderdag 15 januari 2025 |
+| **rapporten van de Mening** | U kunt een rapport over a [ omzetting ](/help/harmonize-data/conversions.md#view-report) bekijken of a [ marketing touchpoint ](/help/harmonize-data/marketing-touchpoints.md#view-report) u als deel van het harmoniseren van gegevens hebt bepaald. | donderdag 15 januari 2025 |
 | **bevestiging van de Schrapping** | U wordt ertoe aangezet om de schrapping van a [ plan ](/help/plans/overview.md#delete-plans) of a [ model ](/help/models/overview.md#delete-models) te bevestigen. | donderdag 15 januari 2025 |
 | **de verbetering van Factoren UI** | U kunt selecteren welke [ factoren ](/help/models/insights.md#factors-beta) u in Modelinzichten wilt tonen. | donderdag 15 januari 2025 |
 
