@@ -1,16 +1,16 @@
 ---
-title: Modellen
-description: Leer hoe te om modellen in Mix Modeler te vormen en te gebruiken.
+title: Overzicht van modellen
+description: Leer hoe u modellen maakt en gebruikt in de Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
+source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
 
 ---
 
-# Modellen
+# Overzicht van modellen
 
 De modelfunctionaliteit in Mix Modeler staat u toe om, modellen te vormen op te leiden en te behalen specifiek voor uw bedrijfsdoelstellingen. De training en scoring ondersteunen het leren van overdracht via AI tussen multitouch-attributie en marketingmixmodellering.
 
@@ -33,9 +33,9 @@ Een model kan eventueel het volgende omvatten:
 * Het aandeel van de uitgaven, dat relatieve uitgavenaandeel als volmacht gebruikt wanneer de marketing gegevens schaars is.
 
 
-## Een model maken
+## Modellen maken
 
-Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Open model canvas]** selecteert. Zie [ een model ](create.md) voor meer details creëren.
+Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Open model canvas]** selecteert. Zie [ modellen bouwen ](build.md) voor meer details.
 
 ## Modellen beheren
 

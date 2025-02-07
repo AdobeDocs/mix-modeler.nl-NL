@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: fccdd908bbe6b5a2cf9182fc61cb4bbe392f92ec
+source-git-commit: 25eb18443d0bdecdb02c026aec363271618441f5
 workflow-type: tm+mt
-source-wordcount: '1553'
+source-wordcount: '1552'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te download
 >Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
 
 
-Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ een model ](create.md) creëren.
+Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ model ](build.md) bouwen.
 
 De volgende attribuutmodellen worden ondersteund:
 

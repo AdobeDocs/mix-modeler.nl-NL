@@ -1,16 +1,16 @@
 ---
-title: Samenvattingsgegevens
+title: Overzicht van samenvattingsgegevens
 description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: 2402874518001c1ae78de6a64a06a9fefa1bbc27
+source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '465'
 ht-degree: 6%
 
 ---
 
-# Samenvattingsgegevens
+# Overzicht van samenvattingsgegevens
 
 Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, geaggregeerde of samenvattende marketinggegevens van verschillende tuinen, en geaggregeerde of samenvattende gegevens van een andere bron, zoals offlinereclame, interne factoren of externe factoren.
 
@@ -19,7 +19,7 @@ De klanten kunnen om het even welk soort gegevens gebruiken die in Experience Pl
 Bijvoorbeeld:
 
 * gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
-* gegevens die worden verzameld gebruikend het Web SDK van het Experience Platform, Mobiele SDK, of de Server API van de Edge Network voor het verzamelen van klanteninteractie op Web, mobiel, of een ander type van apparaat;
+* gegevens die worden verzameld met de Experience Platform Web SDK, Mobile SDK of Edge Network Server-API voor het verzamelen van klantinteracties op het web, mobiele apparaten of andere apparaattypen;
 * geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
 * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 

@@ -1,21 +1,21 @@
 ---
-title: Gegevens harmoniseren
+title: Overzicht van gegevenssets harmoniseren
 description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
 workflow-type: tm+mt
-source-wordcount: '893'
+source-wordcount: '895'
 ht-degree: 5%
 
 ---
 
-# Gegevens harmoniseren
+# Overzicht van gegevenssets harmoniseren
 
 De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
 
 * geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
-* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld door de Adobe Analytics-bronconnector van Adobe Analytics, of via het Experience Platform Web of de Mobile SDK of Edge Network-API, of gegevens die via bronconnectors worden ingevoerd.
+* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, via het Experience Platform Web of Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
 
 De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensweergave, in combinatie met interne en externe gegevens over factoren, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
 
@@ -67,7 +67,7 @@ Een omzettingsdataset, met een granulariteit van de samengevoegde gegevensreeks 
 
 **Dataset 4**
 
-Een dataset van de steekproefervaringsgebeurtenis (de gebeurtenissen van SDK van het Web) van de klant.
+Een steekproefervaring gebeurtenisdataset (de gebeurtenissen van SDK van het Web) van de klant.
 
 | Tijdstempel | Naamruimte van identiteit | Identiteitskaart | Kanaal | Klikken |
 |--- |--- |--- |--- |---:|

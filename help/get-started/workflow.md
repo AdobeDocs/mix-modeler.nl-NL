@@ -3,9 +3,9 @@ title: Workflow voor Mixxen Modeler
 description: Begrijp het typische werkschema voor Mix Modeler.
 feature: Ingest Data, Plans, Harmonized Data, Models
 exl-id: 200ff846-5d78-4b25-a425-bfd558b88c88
-source-git-commit: da92298bbd5b2fc14b54121f0c43dc3763f9a0a3
+source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,9 @@ Een typisch werkschema in Mix Modeler bestaat uit de volgende activiteiten:
 |---|---|---|
 | ![ Gegevens ](/help/assets/icons/Data.svg){width="100"} | [**Ingest gegevens**](../ingest-data/overview.md) | Gegevens over gebeurtenissen uit Experience Platform (bijvoorbeeld Adobe Analytics, Web SDK, andere bronnen), samengevoegde gegevens uit marketingkanalen (bijvoorbeeld tv, tuinen, e-mail, eigendom en activiteiten), gegevens over externe factoren van klanten (bijvoorbeeld prijswijzigingen in abonnementsdiensten) en gegevens over interne factoren (bijvoorbeeld vakantieplannen). |
 | ![ DataCheck ](/help/assets/icons/DataCheck.svg){width="100"} | [**harmoniseer gegevens**](../harmonize-data/overview.md) | Vorm toewijzingsregels en de regels van de conflictoplossing om de diverse marketing datasets te verenigen nodig om campagneprestaties in Mix Modeler te meten en te plannen. |
-| ![ FileConfig ](/help/assets/icons/FileGear.svg){width="100"} | [**vorm modellen**](../models/create.md) | Configureer modelinstanties met marketingaanraakpunten (bijvoorbeeld kanalen), conversiedefinities en interne en externe factoren. |
+| ![ FileConfig ](/help/assets/icons/FileGear.svg){width="100"} | [**bouwt modellen**](../models/overview.md) | Buid-modelexemplaren met marketingaanraakpunten (bijvoorbeeld kanalen), conversiedefinities en interne en externe factoren. |
 | ![ FileData ](/help/assets/icons/FileData.svg){width="100"} | [**Lijn en scoremodellen**](../models/overview.md) | Samengevoegde scores en scores op gebeurtenisniveau maken met behulp van training en scoring in computers. |
-| ![ FileChart ](/help/assets/icons/FileChart.svg){width="100"} | [**creeer plannen**](../plans/overview.md) | Bepaal de beste toewijzing van marketingfondsen om een bedrijfsdoelstelling te bereiken aan de hand van de resultaten van de modellen van de Mix Modeler. |
+| ![ FileChart ](/help/assets/icons/FileChart.svg){width="100"} | [**bouwt plannen**](../plans/overview.md) | Maak en maak plannen. Bepaal de beste toewijzing van marketingfondsen om een bedrijfsdoelstelling te bereiken aan de hand van de resultaten van de modellen van de Mix Modeler. |
 | ![ Dashboard ](/help/assets/icons/Dashboard.svg){width="100"} | [**het dashboard van het Overzicht**](../dashboard/overview.md) | Krijg inzicht in geharmoniseerde gegevens, modellen, en plannen, gebruikend diverse configureerbare visualisaties. |
 
 {style="table-layout:auto"}

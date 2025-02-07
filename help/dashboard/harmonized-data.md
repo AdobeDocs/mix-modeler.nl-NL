@@ -1,18 +1,18 @@
 ---
-title: Geharmoniseerd gegevensoverzicht dashboard
+title: Geharmoniseerd gegevensdashboard
 description: Leer hoe u het dashboard met geharmoniseerde gegevensoverzichten in Mix Modeler gebruikt.
 feature: Dashboard, Harmonized Data
 exl-id: fbb01613-d648-4db1-a782-a7720b7a03ad
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Overzicht van geharmoniseerde gegevens
+# Geharmoniseerde gegevens
 
-Het Geharmoniseerde lusje van Gegevens in het Overzicht van de Mix Modeler verstrekt inzichten in de geharmoniseerde gegevens u om als deel van de opgenomen gegevens en geharmoniseerde gegevensopstelling hebt gevormd te worden gebruikt.
+Het **[!UICONTROL Harmonized data]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt inzichten in de geharmoniseerde gegevens u hebt gevormd om als deel van de opgenomen gegevens en de geharmoniseerde gegevensopstelling te worden gebruikt.
 
 Het overzicht toont vier KPI statuskaartvisualisaties (hoogste rij) en zes andere configureerbare visualisaties.
 

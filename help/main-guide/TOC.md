@@ -2,10 +2,10 @@
 user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
 user-guide-description: Leer hoe u Mix Modeler gebruikt.
-source-git-commit: 0d6afcf18d7dcf909ae2c22ffa588c425a7148d3
+source-git-commit: 25eb18443d0bdecdb02c026aec363271618441f5
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 38%
+source-wordcount: '85'
+ht-degree: 37%
 
 ---
 
@@ -18,24 +18,24 @@ ht-degree: 38%
    + [Wat is Mix Modeler?](/help/get-started/about.md)
    + [Toepassingsworkflow](/help/get-started/workflow.md)
 
-+ Dashboard {#dashboard}
-   + [Overzicht](/help/dashboard/overview.md)
++ Home {#dashboard}
+   + [Overzicht van homepage](/help/dashboard/overview.md)
    + [Geharmoniseerde gegevens](/help/dashboard/harmonized-data.md)
    + [Abonnementen](/help/dashboard/plans.md)
 
 + Modellen {#models}
    + [Overzicht](/help/models/overview.md)
-   + [Een model maken](/help/models/create.md)
+   + [Modellen maken](/help/models/build.md)
    + [Modelinzichten](/help/models/insights.md)
-   + [Scoregegevens](/help/models/scoring-data.md)
+   + [Schermindelingsgegevens gebruiken](/help/models/scoring-data.md)
 
 + Abonnementen {#plans}
    + [Overzicht](/help/plans/overview.md)
-   + [Een abonnement maken](/help/plans/create.md)
-   + [Een abonnement bewerken](/help/plans/edit.md)
+   + [Abonnementen maken](/help/plans/build.md)
+   + [Abonnementen](/help/plans/insights.md)
    + [Abonnementen vergelijken](/help/plans/compare.md)
 
-+ Gegevens harmoniseren {#harmonize-data}
++ Gegevenssets harmoniseren {#harmonize-data}
    + [Overzicht](/help/harmonize-data/overview.md)
    + [Velden](/help/harmonize-data/fields.md)
    + [Gegevensregels](/help/harmonize-data/dataset-rules.md)

@@ -1,16 +1,16 @@
 ---
-title: Abonnementen
+title: Overzicht van plannen
 description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
+source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-# Abonnementen
+# Overzicht van plannen
 
 De plannen in Mix Modeler staan u toe om begrotingen door bedrijfseenheid en kanaal toe te wijzen. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
 
@@ -28,6 +28,10 @@ Een plan kan eventueel omvatten:
 - meerdere vluchtdata met elk een doelbudget;
 - minimum- en maximumbegrotingsbeperkingen per kanaal en vluchtdatum.
 
+
+## Abonnementen maken
+
+Om een plan te bouwen, gebruik de tovenaar van de de creatie van het plan van de Mix Modeler. Zie [ bouwt plannen ](build.md) voor meer details.
 
 ## Abonnementen beheren
 
@@ -57,50 +61,39 @@ Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekij
 
 1. Het gebruik ![ Onderzoek ](/help/assets/icons/Search.svg) om de lijst voor één of meerdere specifieke plannen te zoeken en te filtreren.
 
-## Een abonnement maken
+### Abonnementen
 
-Om een plan tot stand te brengen, gebruik de tovenaar van de de creatie van het plan van de Mix Modeler. Zie [ een plan ](create.md) voor meer details creëren.
+Om de inzichten van een plan te bekijken en een plan uit te geven:
 
+1. Selecteer ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** van het linkerspoor.
 
-## Een abonnement bewerken
+1. Selecteer de naam van het abonnement.
 
-Als u een abonnement wilt bewerken, selecteert u de naam van het plan in de tabel. Zie [ een plan ](edit.md) voor meer informatie uitgeven.
+U wordt opnieuw gericht aan [ Inzichten van het Plan ](insights.md).
 
-
-## Selecteren en actie ondernemen met betrekking tot plannen
-
-U kunt een of meer plannen selecteren, die de actiebalk Plannen onthullen. Met de actiebalk kunt u plannen verwijderen, vergelijken of dupliceren.
-
-Om alle selecties in de lijst van Abonnees te verwijderen, selecteer ![ Sluiten ](/help/assets/icons/Close.svg) in de actiebar
-
-![ de actiebar van plannen ](/help/assets/plans-action-bar.png)
 
 ### Een abonnement dupliceren
 
 Een abonnement dupliceren:
 
-1. Selecteer één enkel plan van de lijst.
-1. Selecteer ![ Exemplaar ](/help/assets/icons/Copy.svg) **[!UICONTROL Duplicate]** van de actiebar. Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
+- Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan. Selecteer **[!UICONTROL Duplicate]** in het contextmenu.
+- Alternatief, selecteer een plan in de lijst ![ SelectBox ](/help/assets/icons/SelectBox.svg) en selecteer ![ Exemplaar ](/help/assets/icons/Copy.svg) **[!UICONTROL Duplicate]** van de blauwe actiebar.
 
-Alternatief:
-
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan in de lijst.
-1. Selecteer **[!UICONTROL Duplicate]** in het contextmenu. Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
+Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
 
 ### Abonnementen vergelijken
 
 Plannen vergelijken:
 
 1. Selecteer twee plannen in de tabel.
-1. Selecteer ![ vergelijken ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare]** van de actiebar. U ziet de gebruikersinterface van **[!UICONTROL Compare plans]** .
+1. Selecteer ![ vergelijken ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare]** van de blauwe actiebar. U ziet de gebruikersinterface van **[!UICONTROL Compare plans]** .
 
 
 ### Abonnementen verwijderen
 
 Een abonnement verwijderen:
 
-1. Selecteer ![](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** in het linkerspoor.
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan, en van het contextmenu uitgezocht **[!UICONTROL Delete]**. Alternatief, selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de blauwe actiebar.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan. Selecteer **[!UICONTROL Delete]** in het contextmenu. <br/> Alternatief, selecteer een plan in de lijst ![ SelectBox ](/help/assets/icons/SelectBox.svg) en selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de blauwe actiebar.
 1. Selecteer **[!UICONTROL Delete]** in het bevestigingsdialoogvenster van **[!UICONTROL Delete plan]** om het abonnement te verwijderen. Selecteer **[!UICONTROL Cancel]** om te annuleren.
 
 Meerdere plannen verwijderen:

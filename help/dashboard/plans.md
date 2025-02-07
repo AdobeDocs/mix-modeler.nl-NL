@@ -1,23 +1,23 @@
 ---
-title: Overzicht van plannen
+title: Abonnementen
 description: Leer hoe u het overzicht van de abonnementen in de Mix Modeler gebruikt.
 feature: Dashboard, Plans, Models
 exl-id: 930fc1d5-8e28-4610-af7b-c4ec91f86a8a
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: 0bdb80fb19118ab4e15c36c1a43e2d4f0c528041
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Overzicht van plannen
+# Abonnementen
 
 >[!NOTE]
 >
->[!BADGE  Alpha ]{type=Informative}
+>[!BADGE  Alpha ]{type=Informative}**[!UICONTROL Plans]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
 
-Het tabblad Abonnementen in Overzicht van Mixxen Modeler toont visualisaties voor [!UICONTROL Budget] , [!UICONTROL Revenue] , [!UICONTROL ROI] en [!UICONTROL KPI] .
+Het **[!UICONTROL Plans]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** toont visualisaties voor [!UICONTROL Budget], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL KPI].
 
 De gegevens die voor de visualisaties worden weergegeven, worden bepaald door:
 
