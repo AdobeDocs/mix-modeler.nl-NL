@@ -1,27 +1,37 @@
 ---
 title: Overzicht van gegevenssets harmoniseren
-description: Leer hoe u gegevens in de Mix Modeler kunt harmoniseren.
+description: Leer hoe u gegevens in Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
+source-git-commit: beee5fe52188f133b71ed3ef53e40c3aea06ab9c
 workflow-type: tm+mt
-source-wordcount: '895'
-ht-degree: 5%
+source-wordcount: '966'
+ht-degree: 4%
 
 ---
 
 # Overzicht van gegevenssets harmoniseren
 
-De gegevens in Mix Modeler zijn van verschillende aard afhankelijk van de gegevensbron. De gegevens kunnen zijn:
+De gegevens in Mix Modeler zijn van verschillende aard, afhankelijk van de gegevensbron. De gegevens kunnen zijn:
 
 * geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
-* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, via het Experience Platform Web of Mobile SDK of Edge Network API, of via gegevens die via bronconnectors worden ingevoerd.
+* gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via de Experience Platform Web-, Mobile SDK- of Edge Network-API, of via gegevens die via bronconnectors worden ingevoerd.
 
-De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensweergave, in combinatie met interne en externe gegevens over factoren, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
+De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensmening, die met [ interne en externe factorgegevens ](#factors) wordt gecombineerd, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
+
+## Factoren
+
+Factoren zijn essentieel voor het maken van modellen en u wilt begrijpen welke invloed het bedrijf holistisch heeft. Factoren zijn mogelijk niet gerelateerd aan marketinggegevens.
+
+* De interne factoren zijn specifiek voor uw organisatie en kunnen uw omzettingen beïnvloeden. Bijvoorbeeld het verkoopseizoen, de promoties en nog veel meer.
+
+* Externe factoren zijn factoren buiten de controle van uw organisatie maar die nog steeds van invloed kunnen zijn op de omzettingen die u bereikt. Voorbeelden zijn CPI, S&amp;P 500, en meer.
+
+
 
 ## Een voorbeeld van geharmoniseerde gegevens
 
-Stel dat u de volgende datasets beschikbaar hebt voor Mix Modeler.
+Stel dat de volgende datasets beschikbaar zijn voor Mix Modeler.
 
 **Dataset 1**
 
@@ -39,7 +49,7 @@ Bevat een gegevensset van de marketinginspanning van YouTube, met een granularit
 
 **Dataset 2**
 
-Bevat een gegevensset van de marketinginspanning van Facebook, met een granulariteit van de geaggregeerde gegevensset tot wekelijks.
+Bevat gegevensset over marketinginspanningen van Facebook, met een granulariteit van de geaggregeerde gegevensset tot wekelijks.
 
 | Datum | Datumtype | Kanaal | Campaign | Geo | Klikken | Draaien |
 |--- |:---:|--- |---|---|---:|---:|
@@ -114,7 +124,7 @@ Om een geharmoniseerde dataset, als in het vereenvoudigde [ voorbeeld ](#an-exam
 
 ## Geharmoniseerde gegevens weergeven
 
-Om uw geharmoniseerde gegevens te zien, in de interface van de Mix Modeler:
+Om uw geharmoniseerde gegevens te zien, in de interface van Mix Modeler:
 
 1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van het linkerspoor.
 

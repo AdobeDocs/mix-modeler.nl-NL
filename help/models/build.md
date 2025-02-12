@@ -1,11 +1,11 @@
 ---
 title: Modellen maken
-description: Leer hoe u modellen maakt in de Mix Modeler.
+description: Leer hoe u modellen maakt in Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: 3b6b127bfaf79cee99a869b21ff0c1a911b3ad6c
 workflow-type: tm+mt
-source-wordcount: '893'
+source-wordcount: '910'
 ht-degree: 0%
 
 ---
@@ -93,7 +93,7 @@ U configureert uw model in de stap **[!UICONTROL Configure]** . De configuratie 
 
       1. Selecteer een gegevensset in het vervolgkeuzemenu **[!UICONTROL Dataset]** . U kunt ![ Gegevens ](/help/assets/icons/Data.svg) selecteren om datasets te beheren. Zie [ Datasets ](../ingest-data/datasets.md) voor meer informatie.
 
-      1. Selecteer een optie in het vervolgkeuzemenu **[!UICONTROL Impact on conversion]** : **[!UICONTROL Auto select]** , **[!UICONTROL Positive]** of **[!UICONTROL Negative]** .
+      1. Selecteer een optie in het vervolgkeuzemenu **[!UICONTROL Impact on conversion]** : **[!UICONTROL Auto select]** , **[!UICONTROL Positive]** of **[!UICONTROL Negative]** . De standaardoptie is **[!UICONTROL Auto select]** , waarmee het model de impact kan bepalen. U kunt de standaardinstelling overschrijven.
 
    * Om een extra externe container van de factordataset toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) toe **[!UICONTROL Add external factor]**.
 

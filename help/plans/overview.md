@@ -1,18 +1,18 @@
 ---
 title: Overzicht van plannen
-description: Leer hoe u in de Mix Modeler plannen kunt weergeven, selecteren en uitvoeren.
+description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: 3b6b127bfaf79cee99a869b21ff0c1a911b3ad6c
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
 
 # Overzicht van plannen
 
-De plannen in Mix Modeler staan u toe om begrotingen door bedrijfseenheid en kanaal toe te wijzen. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
+Met de plannen in Mix Modeler kunt u budgetten toewijzen per bedrijfseenheid en kanaal. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
 
 In een plan worden de discretionaire investeringen (bijvoorbeeld begrotingen) beschreven die een bedrijf voornemens is te besteden aan marketinggerelateerde projecten gedurende een bepaald tijdsbestek in dienst van gemeenschappelijke KPI (bijvoorbeeld orders, inkomsten). De plannen kunnen uitgaven van kanalen zoals betaalde reclame, gesponsorde Web-inhoud, gebeurtenissen omvatten.
 
@@ -28,14 +28,16 @@ Een plan kan eventueel omvatten:
 - meerdere vluchtdata met elk een doelbudget;
 - minimum- en maximumbegrotingsbeperkingen per kanaal en vluchtdatum.
 
+Als een model dat u voor uw plan hebt gebruikt op nieuwe gegevens wordt gescoord moet u een nieuw plan tot stand brengen om rekening met de opnieuw geschetste gegevens te houden.
+
 
 ## Abonnementen maken
 
-Om een plan te bouwen, gebruik de tovenaar van de de creatie van het plan van de Mix Modeler. Zie [ bouwt plannen ](build.md) voor meer details.
+Als u een plan wilt maken, gebruikt u de wizard voor het maken van een Mix Modeler-abonnement. Zie [ bouwt plannen ](build.md) voor meer details.
 
 ## Abonnementen beheren
 
-Om een lijst van uw huidige plannen, in de interface van de Mix Modeler te bekijken:
+Als u een tabel met uw huidige plannen wilt weergeven, gaat u naar de interface van Mix Modeler:
 
 1. Selecteer ![](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** in het linkerspoor.
 
