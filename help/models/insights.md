@@ -1,11 +1,11 @@
 ---
 title: Modelinzichten
-description: Leer hoe u meer details over uw model krijgt, zoals historisch overzicht, modelinzichten en modelkwaliteit in de Mix Modeler.
+description: Leer hoe u details over uw model kunt opvragen, zoals historisch overzicht, modelinzichten en modelkwaliteit in Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: 25eb18443d0bdecdb02c026aec363271618441f5
+source-git-commit: 0ee212a626986e4c721d0e58f2528d0ca1a9fdbf
 workflow-type: tm+mt
-source-wordcount: '1552'
+source-wordcount: '1549'
 ht-degree: 0%
 
 ---
@@ -82,12 +82,27 @@ Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kan
 
 Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
+## **[!UICONTROL Factors]** [!BADGE  bèta ]
+
+Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
+
+![ Factoren ](/help/assets/factors.png)
+
+Deze visualisatie helpt u om het stijgende effect te begrijpen dat diverse interne en externe factoren op de basislijn van omzettingen hebben. Bijvoorbeeld economische voorwaarden of promotieactiviteiten.
+
+Selecteer in het vervolgkeuzemenu **[!UICONTROL Factors]** welke factoren u wilt weergeven.
+
+<!-- need to update the image when we do have a proper example -->
+
+Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+
+Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/assets/icons/TableAndChart.svg) **[!UICONTROL No data is available, you may need to retrain your model, or change the date range to view insights]**.
 
 ## [!UICONTROL Attribution]
 
 >[!NOTE]
 >
->Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
+Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
 
 
 Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ model ](build.md) bouwen.
@@ -110,7 +125,7 @@ Selecteer een of meer toewijzingsmodellen in het vervolgkeuzemenu **[!UICONTROL 
 
 ![ Attributie ](/help/assets/model-insights-attribution.png)
 
-De Mix Modeler multi-touch attributie granulaire gebeurtenisscores richten zich op de algemene scores van de Mix Modeler en ROIs. Deze scores worden ook beschikbaar gesteld als datasets in Experience Platform.
+De granulaire gebeurtenisscores voor Mix Modeler-multitouch-kenmerk worden uitgelijnd op de algemene Mix Modeler-scores en -rendement. Deze scores worden ook beschikbaar gesteld als datasets in Experience Platform.
 
 Het tabblad Kenmerken bestaat uit de volgende visualisaties:
 
@@ -132,15 +147,15 @@ Als u details wilt zien, houdt u de muisaanwijzer boven de gegevensregel van een
 
 De [!UICONTROL Breakdown] visualisatie is een uitsplitsing per kanaal of aanraakpunt van de conversies voor elk van de geselecteerde attributiemodellen. Deze visualisatie kan nuttig zijn om besluiten over de doeltreffendheid van elk kanaal of touchpoint te nemen.
 
-Om het verdelingstype te kiezen, selecteer **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![ Meer ](/help/assets/icons/More.svg).
+Om het type uitsplitsing te kiezen, select **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![ Meer ](/help/assets/icons/More.svg).
 
 Houd de muisaanwijzer boven de diagramelementen om de details weer te geven.
 
 ### [!UICONTROL Top campaigns]
 
-In de visualisatie van de bovenste campagnes wordt een tabel met de bovenste campagnes weergegeven met kolommen voor Campagnenaam, Kanaal, Mediatype en Incrementele conversies. Deze visualisatie kan uw team helpen de doeltreffendheid van een specifieke campagne voor een bepaald kanaal te informeren en inzichten te verstrekken in welke campagnes u verder in zou moeten investeren.
+De bovenste campagnes visualiseren toont een lijst van de bovenste campagnes met kolommen voor de naam van de Campagne, het Kanaal, het type van Media and Incrementele omzettingen. Deze visualisatie kan uw team helpen de doeltreffendheid van een specifieke campagne voor een bepaald kanaal te informeren en inzichten te verstrekken in welke campagnes u verder in zou moeten investeren.
 
-Als u de tabel in oplopende ↑ of aflopende volgorde ↓ wilt sorteren voor Kanaal, Mediatype of Incrementele conversies, selecteert u de kolomkop en schakelt u de sortering in of uit.
+De tabel in oplopende ↑ of aflopende volgorde ↓ sorteren voor Channel, mediatype or Incrementele omzettingen, selecteer de kolomkop en schakel de sortering in of uit.
 
 Om de lijst in een afzonderlijke dialoog uit te breiden, selecteer **[!UICONTROL Expand]** van ![ Meer ](/help/assets/icons/More.svg).
 
@@ -151,7 +166,7 @@ Het uitgevouwen dialoogvenster Boven bevat dezelfde tabel met optelde kolommen v
 * Eerste aanraakconversies
 * Laatste aanraakconversies
 
-  U kunt elk van de extra kolomkoppen selecteren om de tabel in oplopende of aflopende volgorde te sorteren.
+U kunt elk van de extra kolomkoppen selecteren om de tabel in oplopende of aflopende volgorde te sorteren.
 
 Selecteer **[!UICONTROL Close]** om het uitgevouwen dialoogvenster Bovenste campagnes te sluiten.
 
@@ -162,7 +177,7 @@ De visualisatie van [!UICONTROL Breakdown by touchpoint position] is een uitspli
 
 >[!NOTE]
 >
->De som van de procentuele bijdrage voor een toewijzingsmodel voor alle aanraakpunten en posities moet gelijk zijn aan 100.
+De som van de procentuele bijdrage voor een toewijzingsmodel voor alle aanraakpunten en posities moet gelijk zijn aan 100.
 
 
 De posities [!UICONTROL Starter], [!UICONTROL Player] en [!UICONTROL Closer] worden als volgt gedefinieerd:
@@ -186,21 +201,6 @@ Voor elk conversiepad ziet u:
 * voor elk kanaal, het bijdragepercentage van het toewijzingsmodel, en
 * de som van deze bijdragepercentages van het kanaaltoewijzingsmodel.
 
-## **[!UICONTROL Factors]** [!BADGE  bèta ]
-
-Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
-
-![ Factoren ](/help/assets/factors.png)
-
-Deze visualisatie helpt u om het stijgende effect te begrijpen dat diverse interne en externe factoren op de basislijn van omzettingen hebben. Bijvoorbeeld economische voorwaarden of promotieactiviteiten.
-
-Selecteer in het vervolgkeuzemenu **[!UICONTROL Factors]** welke factoren u wilt weergeven.
-
-<!-- need to update the image when we do have a proper example -->
-
-Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
-
-Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/assets/icons/TableAndChart.svg) **[!UICONTROL No data is available, you may need to retrain your model, or change the date range to view insights]**.
 
 ## [!UICONTROL Diagnostics]
 
@@ -228,7 +228,7 @@ Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in
 
 Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
 
-* [!UICONTROL Touchpoint effectiveness] , die het resultaat van het algoritmische model van de Attribution AI vertegenwoordigt. De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
+* [!UICONTROL Touchpoint effectiveness] , die het resultaat van het algoritmische model van Attribution AI vertegenwoordigt. De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
 
 De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
