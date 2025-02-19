@@ -3,9 +3,9 @@ title: Overzicht van plannen
 description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 3b6b127bfaf79cee99a869b21ff0c1a911b3ad6c
+source-git-commit: 8e1c748f3e4e267038dcac5bce82f90157e88c32
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Een abonnement dupliceren:
 - Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan. Selecteer **[!UICONTROL Duplicate]** in het contextmenu.
 - Alternatief, selecteer een plan in de lijst ![ SelectBox ](/help/assets/icons/SelectBox.svg) en selecteer ![ Exemplaar ](/help/assets/icons/Copy.svg) **[!UICONTROL Duplicate]** van de blauwe actiebar.
 
-Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
+Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)](_n_)** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
 
 ### Abonnementen vergelijken
 

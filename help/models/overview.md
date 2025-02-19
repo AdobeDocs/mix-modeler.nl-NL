@@ -1,22 +1,22 @@
 ---
 title: Overzicht van modellen
-description: Leer hoe u modellen maakt en gebruikt in de Mix Modeler.
+description: Leer hoe u modellen maakt en gebruikt in Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: 39ea5ed145678d6ac7e5263b38255e725e488f8d
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
 
 # Overzicht van modellen
 
-De modelfunctionaliteit in Mix Modeler staat u toe om, modellen te vormen op te leiden en te behalen specifiek voor uw bedrijfsdoelstellingen. De training en scoring ondersteunen het leren van overdracht via AI tussen multitouch-attributie en marketingmixmodellering.
+Met de modelfunctionaliteit in Mix Modeler kunt u modellen configureren, trainen en behalen die specifiek zijn voor uw bedrijfsdoelstellingen. De training en scoring ondersteunen het leren van overdracht via AI tussen multitouch-attributie en marketingmixmodellering.
 
-De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de workflow van de Mix Modeler-toepassing.
+De modellen zijn gebaseerd op de geharmoniseerde gegevens die u maakt als onderdeel van de Mix Modeler-toepassingsworkflow.
 
-Een model in de Mix Modeler is een machinaal leermodel dat wordt gebruikt om een bepaald resultaat te meten en te voorspellen op basis van de investeringen van een marketeter. Marketing-aanraakpunten en gegevens op overzichtsniveau kunnen als invoer worden gebruikt. Met Mix Modeler kunt u varianten van modellen maken op basis van verschillende sets variabelen, dimensies en resultaten, zoals inkomsten, verkochte eenheden en leads.
+Een model in Mix Modeler is een model voor machinaal leren dat wordt gebruikt om een bepaald resultaat te meten en te voorspellen op basis van de investeringen van een marketeer. Marketing-aanraakpunten en gegevens op overzichtsniveau kunnen als invoer worden gebruikt. Met Mix Modeler kunt u varianten van modellen maken op basis van verschillende sets variabelen, dimensies en resultaten, zoals inkomsten, verkochte eenheden en leads.
 
 Een model vereist:
 
@@ -35,11 +35,11 @@ Een model kan eventueel het volgende omvatten:
 
 ## Modellen maken
 
-Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom met instructies van de Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Open model canvas]** selecteert. Zie [ modellen bouwen ](build.md) voor meer details.
+Als u een model wilt maken, gebruikt u de stapsgewijze configuratiestroom van het model met instructies van Mix Modeler die beschikbaar is wanneer u **[!UICONTROL Open model canvas]** selecteert. Zie [ modellen bouwen ](build.md) voor meer details.
 
 ## Modellen beheren
 
-Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te bekijken:
+Als u een tabel met uw huidige modellen wilt weergeven, gaat u naar de Mix Modeler-interface:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
@@ -54,9 +54,33 @@ Om een lijst van uw huidige modellen, in de interface van de Mix Modeler te beki
    | Conversion-gebeurtenis | De conversie die u voor het model hebt geselecteerd. |
    | Uitvoerfrequentie | De lopende frequentie van opleiding het model. |
    | Laatste uitvoering | De datum en het tijdstip van de laatste training voor het model. |
-   | Status | De status van de laatste run van de training van het model. <br/>![ StatusGreen ](/help/assets/icons/StatusGreen.svg) De kwestie van de Opleiding <br/>![ StatusOrange ](/help/assets/icons/StatusOrange.svg) <br/> ![ StatusOrange ](/help/assets/icons/StatusOrange.svg) wachtend opleiding <br/>![ StatusRed ](/help/assets/icons/StatusRed.svg) Mislukte <br/>![ StatusGreen ](/help/assets/icons/StatusGray.svg) _ (wanneer laatste looppas lopend is) |
+   | Status | De status van het model. |
 
    {style="table-layout:auto"}
+
+   De gerapporteerde status van het model is afhankelijk van de plaats waar een model zich in de levenscyclus bevindt. Of een model bijvoorbeeld is gemaakt, (opnieuw) is opgeleid of niet, of (opnieuw) met succes of niet.
+
+   In de onderstaande tabel:
+
+   * ![ Vinkje ](/help/assets/icons/Checkmark.svg) - wijst op een succesvolle uitvoering van een stap in de modellevenscyclus.
+   * ![ Klok ](/help/assets/icons/Clock.svg) - wijst op een huidige aan de gang zijnde uitvoering van een stap in de modellevenscyclus.
+   * ![ dicht ](/help/assets/icons/Close.svg) - wijst op een ontbroken uitvoering van een stap in de modellevenscyclus.
+
+   | Status | Maken | Trein | Score | Nieuwe treinen | Opnieuw score |
+   |---|:---:|:---:|:---:|:---:|:---:|
+   | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | | | |
+   | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) | | | |
+   | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) | | |
+   | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) | |
+   | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) |
+   | Training mislukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ dicht ](/help/assets/icons/Close.svg) | | | |
+   | Training mislukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ dicht ](/help/assets/icons/Close.svg) | |
+   | Training voltooid | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | | |
+   | Training voltooid | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | |
+   | Scores mislukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ dicht ](/help/assets/icons/Close.svg) | | |
+   | Scores mislukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ dicht ](/help/assets/icons/Close.svg) |
+   | Scores gelukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | |
+   | Scores gelukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) |
 
 1. Om de kolommen te veranderen die voor de lijst worden getoond, selecteer ![ montages van de Kolom ](/help/assets/icons/ColumnSetting.svg) en knevel kolommen op ![ Controle ](/help/assets/icons/Checkmark.svg) of weg.
 
@@ -92,6 +116,7 @@ U kunt snel een model dupliceren.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
 
+U wordt opnieuw gericht aan de stappen om een nieuw model, met een voorgestelde naam tot stand te brengen die uit de originele die naam van het model wordt samengesteld met **[!UICONTROL (Copy)](_n_)** wordt toegevoegd.
 
 ### Bewerken
 
