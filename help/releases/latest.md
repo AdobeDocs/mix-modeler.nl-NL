@@ -4,10 +4,10 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 13b748337ca9bfc3b4ffdb0b345bfc291c36525a
+source-git-commit: 622e61b2e354bd428d6c084f29bfec9666c1a09d
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 6%
+source-wordcount: '303'
+ht-degree: 5%
 
 ---
 
@@ -21,12 +21,12 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **Geneste voorwaarden** | U kunt genestelde voorwaarden tot stand brengen gebruikend EN EN OF wanneer u een in aanmerking komende gegevenspopulatie als deel van de [ configuratie van een model ](/help/models/build.md#configure) bepaalt. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
+| **Geneste voorwaarden** | U kunt genestelde voorwaarden tot stand brengen gebruikend EN EN OF wanneer u een in aanmerking komende gegevenspopulatie als deel van de [ configuratie van een model ](/help/models/build.md#configure) bepaalt. | donderdag 15 januari 2025 | t.b.d |
 | **rapporten van de Mening** | U kunt een rapport over a [ omzetting ](/help/harmonize-data/conversions.md#view-report) bekijken of a [ marketing touchpoint ](/help/harmonize-data/marketing-touchpoints.md#view-report) u als deel van het harmoniseren van gegevens hebt bepaald. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
-| **bevestiging van de Schrapping** | U wordt ertoe aangezet om de schrapping van a [ plan ](/help/plans/overview.md#delete-plans) of a [ model ](/help/models/overview.md#delete-models) te bevestigen. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
+| **Bevestigingen van de Schrapping** | U wordt ertoe aangezet om de schrapping van a [ plan ](/help/plans/overview.md#delete-plans) of a [ model ](/help/models/overview.md#delete-models) te bevestigen. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
 | **de verbetering van Factoren UI** | U kunt selecteren welke [ factoren ](/help/models/insights.md#factors-beta) u in Modelinzichten wilt tonen. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
-| **[!UICONTROL Error handling]** | Gebruikersvriendelijke foutberichten en verbeterde gebruikerservaring voor foutscenario&#39;s in gegevensharmonisatie en -plannen. | woensdag 18 februari 2025 | woensdag 18 februari 2025 |
-| **[!UICONTROL Model status]** | Herdefiniëring van [ modelstatussen ](/help/models/overview.md#manage-models) over de modellevenscyclus. | woensdag 18 februari 2025 | woensdag 18 februari 2025 |
+| **Fout die** behandelt | Gebruikersvriendelijke foutberichten en verbeterde gebruikerservaring voor foutscenario&#39;s in gegevensharmonisatie en -plannen. | woensdag 18 februari 2025 | woensdag 18 februari 2025 |
+| **Modelstatus** | Herdefiniëring van [ modelstatussen ](/help/models/overview.md#manage-models) over de modellevenscyclus. | woensdag 18 februari 2025 | t.b.d. |
 
 
 ## Releasestrategie
