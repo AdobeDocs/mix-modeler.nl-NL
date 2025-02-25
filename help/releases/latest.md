@@ -4,7 +4,7 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 622e61b2e354bd428d6c084f29bfec9666c1a09d
+source-git-commit: 96d56adc0a24a45797fd8a837b405a3f5329c886
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 5%
@@ -26,7 +26,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 | **Bevestigingen van de Schrapping** | U wordt ertoe aangezet om de schrapping van a [ plan ](/help/plans/overview.md#delete-plans) of a [ model ](/help/models/overview.md#delete-models) te bevestigen. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
 | **de verbetering van Factoren UI** | U kunt selecteren welke [ factoren ](/help/models/insights.md#factors-beta) u in Modelinzichten wilt tonen. | donderdag 15 januari 2025 | woensdag 18 februari 2025 |
 | **Fout die** behandelt | Gebruikersvriendelijke foutberichten en verbeterde gebruikerservaring voor foutscenario&#39;s in gegevensharmonisatie en -plannen. | woensdag 18 februari 2025 | woensdag 18 februari 2025 |
-| **Modelstatus** | Herdefiniëring van [ modelstatussen ](/help/models/overview.md#manage-models) over de modellevenscyclus. | woensdag 18 februari 2025 | t.b.d. |
+| **Modelstatus** | Herdefiniëring van [ modelstatussen ](/help/models/overview.md#manage-models) over de modellevenscyclus. | woensdag 18 februari 2025 | woensdag 18 februari 2025 |
 
 
 ## Releasestrategie

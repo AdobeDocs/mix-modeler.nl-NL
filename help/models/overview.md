@@ -3,9 +3,9 @@ title: Overzicht van modellen
 description: Leer hoe u modellen maakt en gebruikt in Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 39ea5ed145678d6ac7e5263b38255e725e488f8d
+source-git-commit: 4a154ec4c81cb6b2361a05440c56b7946f748d8c
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1175'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,8 @@ Een model kan eventueel het volgende omvatten:
 * Interne factoren.
 * Eerdere kennis van marketingbijdragen uit andere bronnen, zoals ervaring van belanghebbenden in het verleden, incrementele tests en andere modellen.
 * Het aandeel van de uitgaven, dat relatieve uitgavenaandeel als volmacht gebruikt wanneer de marketing gegevens schaars is.
+
+Wanneer een model voor de eerste keer wordt gemaakt, wordt het maken onmiddellijk afgebroken tijdens het training- en scoring-proces. Nadat de initiële training en scoring zijn voltooid, zullen modelinzichten beschikbaar zijn voor evaluatie. Een model kan vervolgens opnieuw worden opgeleid. Ook, kunnen de gegevens aan het model worden toegevoegd dat u vereist om het model manueel opnieuw te scoren. Herscholing en herscholing zijn een herhalend proces, aangezien nieuwe bevindingen en informatie zich voordoen en aanpassingen nodig zijn om een model te verkrijgen dat het meest geschikt is voor uw bedrijfsdoelstellingen.
 
 
 ## Modellen maken
