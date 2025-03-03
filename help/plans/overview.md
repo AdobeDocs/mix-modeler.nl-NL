@@ -3,7 +3,7 @@ title: Overzicht van plannen
 description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 8e1c748f3e4e267038dcac5bce82f90157e88c32
+source-git-commit: df0faeb2682381ec8d13d594d52c0b7cf22a679d
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Met de plannen in Mix Modeler kunt u budgetten toewijzen per bedrijfseenheid en kanaal. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
 
-In een plan worden de discretionaire investeringen (bijvoorbeeld begrotingen) beschreven die een bedrijf voornemens is te besteden aan marketinggerelateerde projecten gedurende een bepaald tijdsbestek in dienst van gemeenschappelijke KPI (bijvoorbeeld orders, inkomsten). De plannen kunnen uitgaven van kanalen zoals betaalde reclame, gesponsorde Web-inhoud, gebeurtenissen omvatten.
+Een plan beschrijft de discretionaire investeringen (bijvoorbeeld begrotingen) die een bedrijf voornemens is te besteden aan marketinggerelateerde projecten gedurende een bepaald tijdsbestek in dienst van gemeenschappelijke KPI (bijvoorbeeld orders, inkomsten). De plannen kunnen uitgaven van kanalen zoals betaalde reclame, gesponsorde Web-inhoud, gebeurtenissen omvatten.
 
 Een plan vereist:
 
