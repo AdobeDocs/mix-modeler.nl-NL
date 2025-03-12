@@ -3,9 +3,9 @@ title: Overzicht van plannen
 description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: df0faeb2682381ec8d13d594d52c0b7cf22a679d
+source-git-commit: c62cba4dc7c703cf33859a925369383d45ad0606
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,7 @@ Als een model dat u voor uw plan hebt gebruikt op nieuwe gegevens wordt gescoord
 ## Abonnementen maken
 
 Als u een plan wilt maken, gebruikt u de wizard voor het maken van een Mix Modeler-abonnement. Zie [ bouwt plannen ](build.md) voor meer details.
+
 
 ## Abonnementen beheren
 
@@ -81,7 +82,15 @@ Een abonnement dupliceren:
 - Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een plan. Selecteer **[!UICONTROL Duplicate]** in het contextmenu.
 - Alternatief, selecteer een plan in de lijst ![ SelectBox ](/help/assets/icons/SelectBox.svg) en selecteer ![ Exemplaar ](/help/assets/icons/Copy.svg) **[!UICONTROL Duplicate]** van de blauwe actiebar.
 
-Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)](_n_)** wordt toegevoegd, wordt toegevoegd aan de bovenkant van de lijst.
+Een nieuw plan, met een naam die uit de originele die naam van het plan wordt samengesteld met **[!UICONTROL (Copy)]wordt toegevoegd (_n_)**, wordt gecreeerd. U wordt automatisch opnieuw gericht aan [ de verwezenlijking van het Plan ](build.md) om bijgewerkte details voor het gekopieerde plan te verstrekken.
+
+- De details (zoals Beschrijving, Begroting, en meer) van het originele plan worden gekopieerd over.
+- Begrotingsbeperkingen van het oorspronkelijke plan worden naar het nieuwe gemaakte plan gekopieerd.
+- U hebt de optie om een ander model als basis voor het gekopieerde plan te selecteren.
+   - Voor aanraakpunten of kanalen die wel in het gekopieerde plan bestaan maar niet in het nieuw geselecteerde model bestaan, worden alle beperkingen voor deze aanraakpunten of kanalen uit het plan verwijderd.
+   - Voor aanraakpunten of kanalen die niet in het gekopieerde plan bestaan maar wel in het nieuw geselecteerde model, worden de beperkingen ingesteld op een minimumwaarde `0` en een maximumwaarde in overeenstemming met het budget voor het vliegbereik van het plan.
+
+
 
 ### Abonnementen vergelijken
 

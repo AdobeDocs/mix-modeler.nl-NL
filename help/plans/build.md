@@ -1,11 +1,11 @@
 ---
 title: Abonnementen maken
-description: Leer hoe u plannen maakt in de Mix Modeler.
+description: Leer hoe u plannen maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: d05eccef370598ce64363ca6ae20886b0e5dccd0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Abonnementen maken
 
-In Mix Modeler, creeert u een plan gebruikend het plancanvas. In het plancanvas, kunt u opstelling de details en de begrotingen van uw plan en het onderliggende model voor uw plan gebruiken. Nadat u details, budget en model hebt opgegeven, kunt u doorgaan met een door AI aanbevolen plan of de uitgave via het kanaal bewerken.
+In Mix Modeler maakt u een abonnement met behulp van het plancanvas. In het plancanvas, kunt u opstelling de details en de begrotingen van uw plan en het onderliggende model voor uw plan gebruiken. Nadat u details, budget en model hebt opgegeven, kunt u doorgaan met een door AI aanbevolen plan of de uitgave via het kanaal bewerken.
 
 Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in Mix Modeler tot stand te brengen, selecteer **[!UICONTROL Create plan]**.
 
-1. In het scherm Plan maken:
+1. In het **[!UICONTROL Plan creation]** -scherm:
 
-   1. In de sectie **[!UICONTROL Setup]**
+   1. In de sectie **[!UICONTROL Setup]** :
 
       1. Voer een **[!UICONTROL Plan name]** in, bijvoorbeeld `Demo plan` . Voer een **[!UICONTROL Description]** in, bijvoorbeeld `Demo plan for Luma company` .
-      1. Selecteer a **[!UICONTROL Model]** van **[!UICONTROL _Uitgezocht een optie._.]**.
+      1. Selecteer a **[!UICONTROL Model]** van **[!UICONTROL _Uitgezocht een optie._.]**
       1. U kunt ![ LinkOut ](/help/assets/icons/LinkOut.svg) selecteren **[!UICONTROL Create model]** om een model van binnen de planverwezenlijking direct tot stand te brengen. Dit zal een nieuw lusje in uw browser openen en zal de [ Modellen ](../models/overview.md) interface tonen.
 
          ![ Opstelling van het Plan ](/help/assets/plan-setup.png)
