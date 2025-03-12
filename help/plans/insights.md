@@ -1,11 +1,11 @@
 ---
 title: Abonnementen
-description: Leer hoe u inzichten van uw abonnement kunt bekijken en een abonnement in Mix Modeler kunt bewerken.
+description: Leer hoe u inzichten van uw abonnement kunt bekijken en een abonnement kunt bewerken in Mix Modeler.
 feature: Plans
 exl-id: 91385595-284f-4fcb-b54b-9539905e552b
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: fbed53a1c394d6d110db6a8a181ca815056377de
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,8 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 - [!UICONTROL Forecasted paid channel ROI] visualisatie
 - [!UICONTROL Forecasted revenue] visualisatie
+- [!UICONTROL Forecasted conversion] visualisatie
+- [!UICONTROL Marginal channel return] visualisatie
 - [!UICONTROL Data range breakdown] tabel van het plan, met kolommen voor
 
    - Kanaal
@@ -28,11 +30,45 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
    - Conversiedoel
    - Draaien
 
-![ Overzicht van een plan ](/help/assets/overview-plan.png)
+Selecteer **[!UICONTROL Close]** om de interface te sluiten.
 
-1. Selecteer **[!UICONTROL Close]** om naar de interface van Abonnementen terug te keren.
+Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL  %]** at **[!UICONTROL View ROI]** .
 
-1. Selecteer **[!UICONTROL X]** of **[!UICONTROL  %]** op **[!UICONTROL View ROI]** hoe.
+## Voorspelde betaalde kanaaluitgaven en ROI
+
+Deze visualisatie toont een scatterplot voor de voorgeprogrammeerde uitgaven en het rendement van investeringen op uw betaalde kanalen, gebaseerd op het model, de datumwaaier en het budget.
+
+![ Geforceerde betaalde kanaaluitgaven en de visualisatie van het ROI ](../assets/overview-plan-forecasted-paid-channel-send-roi.png)
+
+
+## Geraamde ontvangsten
+
+Deze visualisatie van het staafdiagram toont de voorspelde opbrengst voor uw kanalen die op het model, de datumwaaier en het budget wordt gebaseerd.
+
+![ Verwachte opbrengstvisualisatie ](../assets/overview-plan-forecasted-revenue.png)
+
+
+## Voorspelde omzettingen
+
+Deze visualisatie van het staafdiagram toont de voorspelde omzettingen voor uw kanalen die op het model, de datumwaaier en het budget worden gebaseerd.
+
+![ Geforceerde omzetvisualisatie ](../assets/overview-plan-forecasted-conversions.png)
+
+
+## Marginale kanaal return
+
+Deze visualisatie van het lijndiagram toont een marginale terugkeerkromme voor het geselecteerde kanaal met indicatoren voor **[!UICONTROL Marginal break-even]** en **[!UICONTROL Return point]**. Deze visualisatie helpt u te begrijpen hoe het uitgeven voor een kanaal van het bereiken van een marginale break-even punt is en of u ruimte hebt om uitgaven in een kanaal te verhogen of minder aan een kanaal zou moeten uitgeven om het kanaal te verbeteren besteedt efficiency.
+
+![ Marginale het terugkeervisualisatie van het kanaal ](../assets/overview-plan-marginal-channel-return.png)
+
+Als u een specifiek kanaal voor de visualisatie wilt selecteren, selecteert u een kanaal in het vervolgkeuzemenu **[!UICONTROL View]** .
+
+
+## Uitsplitsing naar datumbereik
+
+In de tabel [!UICONTROL Date range breakdown] worden gedetailleerde gegevens per kanaal weergegeven voor [!UICONTROL ROI] , [!UICONTROL Revenue] , [!UICONTROL CPA] , [!UICONTROL Conversions] en [!UICONTROL Spend] .
+
+![ de lijst van de de waaierverdeling van de Datum ](../assets/overview-plan-date-range-breakdown.png)
 
 1. Om een Csv- dossier te downloaden dat de gegevens van de de waaierverdeling van de Datum bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**. Vanuit het contextmenu:
 
@@ -42,6 +78,9 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
    Gedetailleerde gegevens zijn korrelgegevens die per week worden vastgelegd. De summiere gegevens worden gehouden door de model-verstrekte datumwaaier.
 
 1. Selecteer **[!UICONTROL All channels]**, **[!UICONTROL Paid channels]** of **[!UICONTROL Non-paid channels]** in de **[!UICONTROL View]** -selectie om de indeling van het datumbereik op categorie kanalen weer te geven.
+
+
+## Plan bewerken
 
 1. Om uw plan uit te geven, uitgezocht ![ geef ](/help/assets/icons/Edit.svg) **[!UICONTROL Edit plan]** uit:
 

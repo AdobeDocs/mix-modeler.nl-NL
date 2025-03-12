@@ -3,9 +3,9 @@ title: Overzicht van modellen
 description: Leer hoe u modellen maakt en gebruikt in Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 4a154ec4c81cb6b2361a05440c56b7946f748d8c
+source-git-commit: f4333d3686d3173452f4e8ca43ccf07c269f4365
 workflow-type: tm+mt
-source-wordcount: '1175'
+source-wordcount: '1174'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Een model kan eventueel het volgende omvatten:
 * Eerdere kennis van marketingbijdragen uit andere bronnen, zoals ervaring van belanghebbenden in het verleden, incrementele tests en andere modellen.
 * Het aandeel van de uitgaven, dat relatieve uitgavenaandeel als volmacht gebruikt wanneer de marketing gegevens schaars is.
 
-Wanneer een model voor de eerste keer wordt gemaakt, wordt het maken onmiddellijk afgebroken tijdens het training- en scoring-proces. Nadat de initiële training en scoring zijn voltooid, zullen modelinzichten beschikbaar zijn voor evaluatie. Een model kan vervolgens opnieuw worden opgeleid. Ook, kunnen de gegevens aan het model worden toegevoegd dat u vereist om het model manueel opnieuw te scoren. Herscholing en herscholing zijn een herhalend proces, aangezien nieuwe bevindingen en informatie zich voordoen en aanpassingen nodig zijn om een model te verkrijgen dat het meest geschikt is voor uw bedrijfsdoelstellingen.
+Wanneer een model voor de eerste keer wordt gemaakt, wordt het maken onmiddellijk afgebroken tijdens het training- en scoring-proces. Nadat de initiële training en scoring zijn voltooid, zijn modelinzichten beschikbaar voor evaluatie. Een model kan vervolgens opnieuw worden opgeleid. Ook, kunnen de gegevens aan het model worden toegevoegd dat u vereist om het model manueel opnieuw te scoren. Herscholing en herscholing zijn een herhalend proces, aangezien nieuwe bevindingen en informatie zich voordoen en aanpassingen nodig zijn om een model te verkrijgen dat het meest geschikt is voor uw bedrijfsdoelstellingen.
 
 
 ## Modellen maken
@@ -83,6 +83,8 @@ Als u een tabel met uw huidige modellen wilt weergeven, gaat u naar de Mix Model
    | Scores mislukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ dicht ](/help/assets/icons/Close.svg) |
    | Scores gelukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | |
    | Scores gelukt | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Vinkje ](/help/assets/icons/Checkmark.svg) |
+
+   {style="table-layout:fixed"}
 
 1. Om de kolommen te veranderen die voor de lijst worden getoond, selecteer ![ montages van de Kolom ](/help/assets/icons/ColumnSetting.svg) en knevel kolommen op ![ Controle ](/help/assets/icons/Checkmark.svg) of weg.
 
