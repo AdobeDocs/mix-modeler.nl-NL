@@ -3,14 +3,22 @@ title: Modelinzichten
 description: Leer hoe u details over uw model kunt opvragen, zoals historisch overzicht, modelinzichten en modelkwaliteit in Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: 0ee212a626986e4c721d0e58f2528d0ca1a9fdbf
+source-git-commit: bc48dc564042890856072a07c3a9715ba9dcdb87
 workflow-type: tm+mt
-source-wordcount: '1549'
+source-wordcount: '1914'
 ht-degree: 0%
 
 ---
 
 # Modelinzichten
+
+Elke visualisatie in modelinzichten wordt ontworpen om u te helpen:
+
+* De impact van de marketingactiviteiten van uw organisatie visualiseren en kwantificeren.
+* Identificeer welke kanalen hoog presteren.
+* Bepaal welke kanalen eventueel moeten worden geoptimaliseerd.
+
+Deze inzichten helpen u dan om middelprioriteiten en toewijzing te steunen.
 
 Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler te bekijken:
 
@@ -39,15 +47,21 @@ Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en b
 
 ### Bijdrage op datum en basismedia.
 
-De gestapelde grafiek is geordend: Basis bij de bodem, niet-bestede kanalen in het midden, en de kanalen van de Besteed op de bovenkant.
+Deze gestapelde grafiekvisualisatie wordt als volgt geordend:
+
+* Baseer aan de onderkant.
+* Niet-bestede kanalen in het midden.
+* Geef kanalen bovenaan.
+
+Deze visualisatie vertegenwoordigt het bijdragepercentage dat wordt bereikt door basis, door uitgavenkanalen en door niet-bestede kanalen over een datumbereik. Deze visualisatie is handig om incrementele beelden te laten zien. De basis vertegenwoordigt wat zonder enige marketing überhaupt zou zijn gebeurd, en de niet-bestede kanalen plus uitgavenkanalen (bovenop de basis) attribuut aan uw marketing effect. Kortom, niet-bestede plus-uitgaven staan gelijk aan de incrementele impact van uw marketingactiviteiten en de visualisatie zorgt ervoor dat insight de waarde die marketing genereert, kan waarmaken.
 
 ### Bijdrage per kanaal
 
-De donutvisualisatie laat een verdeling van de bijdrage per kanaal zien.
+Een donutvisualisatie die laat zien dat de bijdrage via verschillende kanalen wordt verdeeld. Deze visualisatie toont incrementele kwesties door de lens van top drie uitvoerend kanalen (exclusief basis en *Alle andere* categorieën). De visualisatie helpt bij het ondersteunen van prioriteiten en begrotingstoewijzing.
 
 ### Overzicht van de marketingprestaties.
 
-Een horizontale staafgrafiek die de prestaties van het rendement van investeringen per kanaal toont.
+Een horizontale visualisatie van de staafgrafiek die de prestaties van ROI of CPA door elk van de kanalen toont. Deze visualisatie benadrukt het ROI/CPA van uw marketing investeringen. De kanalen worden gerangschikt in dalende orde die op ROI/CPA wordt gebaseerd. De visualisatie helpt om te identificeren welke kanalen het meest effectief zijn en die optimalisering zouden kunnen vereisen.
 
 ### Marginale responscurven.
 
@@ -62,7 +76,7 @@ Het kanaal wijzigen:
 
 ### Uitsplitsing naar aanraakpunt
 
-In de tabel met uitsplitsingen naar aanraakpunt worden wekelijks de uitsplitsingen naar aanraakpunt voor alle of geselecteerde kanalen weergegeven.
+De lijst van de touchpoint onderbreking toont wekelijkse touchpoint onderverdelingen voor alle of geselecteerde kanalen op een wekelijkse basis, tonend zeer belangrijke metriek verbonden aan elk. De tabel maakt een eenvoudige vergelijking, identificatie van trends en het bijhouden van prestaties mogelijk op een korter kanaalniveau. Deze lijst vult uitdrukkelijk de [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media) visualisatie en de [ Bijdrage door kanaal ](#contribution-by-channel) visualisatie aan.
 
 ![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
 
@@ -102,7 +116,7 @@ Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/a
 
 >[!NOTE]
 >
-Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
+>Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
 
 
 Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ model ](build.md) bouwen.
@@ -147,15 +161,15 @@ Als u details wilt zien, houdt u de muisaanwijzer boven de gegevensregel van een
 
 De [!UICONTROL Breakdown] visualisatie is een uitsplitsing per kanaal of aanraakpunt van de conversies voor elk van de geselecteerde attributiemodellen. Deze visualisatie kan nuttig zijn om besluiten over de doeltreffendheid van elk kanaal of touchpoint te nemen.
 
-Om het type uitsplitsing te kiezen, select **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![ Meer ](/help/assets/icons/More.svg).
+Om het verdelingstype te kiezen, selecteer **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![ Meer ](/help/assets/icons/More.svg).
 
 Houd de muisaanwijzer boven de diagramelementen om de details weer te geven.
 
 ### [!UICONTROL Top campaigns]
 
-De bovenste campagnes visualiseren toont een lijst van de bovenste campagnes met kolommen voor de naam van de Campagne, het Kanaal, het type van Media and Incrementele omzettingen. Deze visualisatie kan uw team helpen de doeltreffendheid van een specifieke campagne voor een bepaald kanaal te informeren en inzichten te verstrekken in welke campagnes u verder in zou moeten investeren.
+In de visualisatie van de bovenste campagnes wordt een tabel met de bovenste campagnes weergegeven met kolommen voor Campagnenaam, Kanaal, Mediatype en Incrementele conversies. Deze visualisatie kan uw team helpen de doeltreffendheid van een specifieke campagne voor een bepaald kanaal te informeren en inzichten te verstrekken in welke campagnes u verder in zou moeten investeren.
 
-De tabel in oplopende ↑ of aflopende volgorde ↓ sorteren voor Channel, mediatype or Incrementele omzettingen, selecteer de kolomkop en schakel de sortering in of uit.
+Als u de tabel in oplopende ↑ of aflopende volgorde ↓ wilt sorteren voor Kanaal, Mediatype of Incrementele conversies, selecteert u de kolomkop en schakelt u de sortering in of uit.
 
 Om de lijst in een afzonderlijke dialoog uit te breiden, selecteer **[!UICONTROL Expand]** van ![ Meer ](/help/assets/icons/More.svg).
 
@@ -166,7 +180,7 @@ Het uitgevouwen dialoogvenster Boven bevat dezelfde tabel met optelde kolommen v
 * Eerste aanraakconversies
 * Laatste aanraakconversies
 
-U kunt elk van de extra kolomkoppen selecteren om de tabel in oplopende of aflopende volgorde te sorteren.
+  U kunt elk van de extra kolomkoppen selecteren om de tabel in oplopende of aflopende volgorde te sorteren.
 
 Selecteer **[!UICONTROL Close]** om het uitgevouwen dialoogvenster Bovenste campagnes te sluiten.
 
@@ -177,7 +191,7 @@ De visualisatie van [!UICONTROL Breakdown by touchpoint position] is een uitspli
 
 >[!NOTE]
 >
-De som van de procentuele bijdrage voor een toewijzingsmodel voor alle aanraakpunten en posities moet gelijk zijn aan 100.
+>De som van de procentuele bijdrage voor een toewijzingsmodel voor alle aanraakpunten en posities moet gelijk zijn aan 100.
 
 
 De posities [!UICONTROL Starter], [!UICONTROL Player] en [!UICONTROL Closer] worden als volgt gedefinieerd:
@@ -208,7 +222,7 @@ Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
 
 * [!UICONTROL Model Assessment] visualisatie, die u kunt onderverdelen op Ware versus Voorspelde of Resterende omzettingen.
 
-Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in de lijst **[!UICONTROL Breakdown]** om de visualisatie te onderbreken.
+  Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in de lijst **[!UICONTROL Breakdown]** om de visualisatie te onderbreken.
 
 * [!UICONTROL Model fitting metrics] tabel met de volgende kolommen voor elke metrische conversie:
 
@@ -226,11 +240,11 @@ Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in
 
       * RMSE (Root Mean Square Error): geeft de gemiddelde fout aan, gewogen volgens het vierkant van de fout.
 
-Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+  Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
 
 * [!UICONTROL Touchpoint effectiveness] , die het resultaat van het algoritmische model van Attribution AI vertegenwoordigt. De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
 
-De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
+  De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
    * [!UICONTROL Paths touched]: visualiseert het percentage paden dat omgezet en het percentage paden dat geen omzetting bereikt. Voor een aanraakpunt ziet u meer toegeschreven omzettingen wanneer de hoogte van de conversieverhouding van de eigenschap is. Deze verhouding vergelijkt het percentage wegen die tot omzetting tegenover het percentage wegen leiden die *niet* tot omzetting leiden.
    * [!UICONTROL Efficiency measure]: wordt gegenereerd door het algoritmische toewijzingsmodel. De efficiëntiemaatstaf geeft het relatieve belang aan van een aanraakpunt voor conversie, onafhankelijk van het aanraakpuntvolume. De efficiëntie wordt gemeten op een schaal van 1 tot 5. Het hogere aanraakpuntvolume garandeert geen hogere efficiëntiemaatstaf.
@@ -243,19 +257,36 @@ De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Af
 
 Op het tabblad Historisch overzicht ziet u visualisaties voor:
 
-* Omzetting en besteding per fiscaal Qtr en product.
-
-* Besteed via kanaal.
-
-* Besteed aanraakpunt.
-
-U kunt een alternatief op uitgaven-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
-
-* Volume aanraakpunt.
-
-U kunt een alternatief op volume-gebaseerd kanaal selecteren om voor deze visualisatie te tonen. Selecteer een kanaal in **[!UICONTROL Channels]** .
-
 ![ Model - Historisch overzicht ](/help/assets/model-insights-historical-overview.png)
+
+
+### Omzetting en besteding per fiscaal kwartaal en per product
+
+Deze visualisatie vertegenwoordigt de conversie en bestede distributie over verschillende kwartalen binnen het gegeven datumbereik. De visualisatie helpt hoogpresterende kwarten te identificeren waar het uitgeven omzettingen drijft.
+
+
+### Per kanaal
+
+Deze visualisatie vertegenwoordigt de uitgavendistributie over diverse kanalen binnen de bepaalde datumwaaier. De visualisatie ondersteunt een snelle identificatie van de kanalen die het meest worden uitgegeven.
+
+
+### Aanraakpuntdoorsnede
+
+Deze visualisatie vertegenwoordigt de uitgavendistributie over betaalde aanraakpunten voor elk kwartaal binnen de bepaalde datumwaaier. De visualisatie maakt het mogelijk te begrijpen welke aanraakpunten binnen specifieke kanalen en kwarten prioriteit hebben. De visualisatie helpt kanaalbestedingspatronen en trends te identificeren, met name kanalen met lage en weinig uitgaven in de loop van de tijd.
+
+Om een alternatief op uitgaven-gebaseerd kanaal te selecteren om voor deze visualisatie te tonen:
+
+* Selecteer een kanaal in **[!UICONTROL Channels]** .
+
+
+### Volume aanraakpunt
+
+Deze visualisatie vertegenwoordigt de volumeverdeling over alle aanraakpunten voor elk kwartaal binnen het gegeven datumbereik.
+
+U kunt als volgt een alternatief op volume gebaseerd kanaal selecteren dat voor deze visualisatie moet worden weergegeven:
+
+* Selecteer een kanaal in **[!UICONTROL Channels]** .
+
 
 ## **[!UICONTROL Edit]**
 
