@@ -3,9 +3,9 @@ title: Overzicht van plannen
 description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: c62cba4dc7c703cf33859a925369383d45ad0606
+source-git-commit: 09b0868cc6f631188b2609b1da81d1a6b6f0aa9f
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Met de plannen in Mix Modeler kunt u budgetten toewijzen per bedrijfseenheid en kanaal. De planningsfunctionaliteit is geïntegreerd met de resultaten van de getrainde modellen op basis van uw geharmoniseerde gegevens.
 
-Een plan beschrijft de discretionaire investeringen (bijvoorbeeld begrotingen) die een bedrijf voornemens is te besteden aan marketinggerelateerde projecten gedurende een bepaald tijdsbestek in dienst van gemeenschappelijke KPI (bijvoorbeeld orders, inkomsten). De plannen kunnen uitgaven van kanalen zoals betaalde reclame, gesponsorde Web-inhoud, gebeurtenissen omvatten.
+In een plan worden de discretionaire investeringen (bijvoorbeeld budgetten) beschreven die een bedrijf in de loop van een bepaald tijdsbestek aan marketinggerelateerde projecten wil besteden. Deze investeringen zijn in dienst van gemeenschappelijke KPI&#39;s (bijvoorbeeld orders, inkomsten). De plannen kunnen uitgaven van kanalen zoals betaalde reclame, gesponsorde Web-inhoud, gebeurtenissen omvatten.
 
 Een plan vereist:
 
@@ -28,7 +28,7 @@ Een plan kan eventueel omvatten:
 - meerdere vluchtdata met elk een doelbudget;
 - minimum- en maximumbegrotingsbeperkingen per kanaal en vluchtdatum.
 
-Als een model dat u voor uw plan hebt gebruikt op nieuwe gegevens wordt gescoord moet u een nieuw plan tot stand brengen om rekening met de opnieuw geschetste gegevens te houden.
+Als een model dat u voor uw plan hebt gebruikt op nieuwe gegevens wordt gescoord, moet u een nieuw plan tot stand brengen om rekening met de opnieuw geschetste gegevens te houden.
 
 
 ## Abonnementen maken
@@ -52,10 +52,10 @@ Als u een tabel met uw huidige plannen wilt weergeven, gaat u naar de interface 
    | Model | Het model dat als basis voor het plan wordt gebruikt. |
    | Datumbereik | Het volledige datumbereik voor een abonnement. |
    | Begroting | De totale begroting voor een plan. |
-   | Voorspelde terugkeer | Het verwachte rendement van een plan |
-   | voorspelde ROI | Het verwachte investeringsrendement voor een plan. |
-   | Voorspelde conversie | De verwachte conversie voor een plan |
-   | Voorspelde CPA | De verwachte CPA voor een plan |
+   | Voorspelde terugkeer | De [ voorspelde terugkeer ](/help/main-guide/glossary.md) voor een plan |
+   | voorspelde ROI | Het [ voorspelde ROI ](/help/main-guide/glossary.md) voor een plan. |
+   | Voorspelde conversie | De [ voorspelde omzetting ](/help/main-guide/glossary.md) voor een plan |
+   | Voorspelde CPA | [ voorspelde CPA ](/help/main-guide/glossary.md) voor een plan |
    | Status | De status van een plan: <p><span style="color:red"> ・</span> Mislukt, <p><span style="color:blue"> ・</span> Verwerking, of <p><span style="color:green"> ・</span> Voltooid. |
 
    {style="table-layout:auto"}
@@ -87,8 +87,10 @@ Een nieuw plan, met een naam die uit de originele die naam van het plan wordt sa
 - De details (zoals Beschrijving, Begroting, en meer) van het originele plan worden gekopieerd over.
 - Begrotingsbeperkingen van het oorspronkelijke plan worden naar het nieuwe gemaakte plan gekopieerd.
 - U hebt de optie om een ander model als basis voor het gekopieerde plan te selecteren.
-   - Voor aanraakpunten of kanalen die wel in het gekopieerde plan bestaan maar niet in het nieuw geselecteerde model bestaan, worden alle beperkingen voor deze aanraakpunten of kanalen uit het plan verwijderd.
-   - Voor aanraakpunten of kanalen die niet in het gekopieerde plan bestaan maar wel in het nieuw geselecteerde model, worden de beperkingen ingesteld op een minimumwaarde `0` en een maximumwaarde in overeenstemming met het budget voor het vliegbereik van het plan.
+   - Voor aanraakpunten of kanalen die wel in het gekopieerde plan bestaan, maar niet in het nieuw geselecteerde model bestaan, worden eventuele beperkingen voor deze aanraakpunten of kanalen uit het plan verwijderd.
+   - Voor aanraakpunten of kanalen die niet in het gekopieerde plan bestaan, maar wel in het nieuw geselecteerde model, worden de beperkingen ingesteld op:
+      - een minimumwaarde van `0`,
+      - een maximumwaarde die in overeenstemming is met de begroting voor het vliegbereik van het plan.
 
 
 
