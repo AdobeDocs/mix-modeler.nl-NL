@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u details over uw model kunt opvragen, zoals historisch overzicht, modelinzichten en modelkwaliteit in Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: bc48dc564042890856072a07c3a9715ba9dcdb87
+source-git-commit: d7386eb44b01fa42c2f0c501e09472af4458c4b1
 workflow-type: tm+mt
-source-wordcount: '1914'
+source-wordcount: '2040'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,14 @@ Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICO
 U ziet wanneer het gespecificeerde model laatste verfrist is en de visualisaties gebruikend vier lusjes worden getoond: [ Modelinzichten ](#model-insights), [ Attributie ](#attribution), [ Factoren ](#factors), [ Diagnose ](#diagnostics), en [ Historisch overzicht ](#historical-overview).
 
 U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn gebaseerd. Ga een datumperiode in of selecteer ![ Kalender ](/help/assets/icons/Calendar.svg) om een datumperiode te selecteren.
+
+## Modelverloop
+
+{{release-limited-testing-section}}
+
+Als het model zakt, wordt er een dialoogvenster **[!UICONTROL Model drift detected]** weergegeven met opties die later of direct [**[!UICONTROL Retrain]**](overview.md#retrain) aan het model moeten worden herinnerd. Als u **[!UICONTROL Remind me later]** selecteert, wordt u herinnerd de volgende dag of bij volgende login.
+
+![ Model drift ontdekte dialoog ](/help/assets/model-drift-dialog.png)
 
 ## [!UICONTROL Model insights]
 
@@ -251,6 +259,19 @@ Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
    * [!UICONTROL Total volume]: Het totale aantal keren dat een gebruiker een aanraakpunt aanraakt. Het aantal is inclusief van aanraakpunten die op een weg verschijnen die omzetting evenals wegen *bereiken niet* resulterend in omzetting.
 
 ![ Diagnose ](/help/assets/model-insights-diagnostics.png)
+
+### Modeldriftdetectie
+
+>[!AVAILABILITY]
+>
+>De in deze sectie beschreven functionaliteit bevindt zich in de beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [ de eigenschapversies van Mix Modeler ](/help/releases/latest.md).
+>
+
+Als het model zakt, ziet u bovenaan een **[!UICONTROL Model drift detected]** -melding.
+
+![ Model drift bericht ](/help/assets/model-drift-notification.png)
+
+Selecteer **[!UICONTROL Hide]** om de melding te verbergen. Het bericht wordt de volgende dag of bij de volgende aanmelding opnieuw weergegeven.
 
 
 ## [!UICONTROL Historical overview]

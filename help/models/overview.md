@@ -3,7 +3,7 @@ title: Overzicht van modellen
 description: Leer hoe u modellen maakt en gebruikt in Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: f4333d3686d3173452f4e8ca43ccf07c269f4365
+source-git-commit: 85f9b42a775006cd3566447b2bb9d0a806fa3e73
 workflow-type: tm+mt
 source-wordcount: '1174'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Een model kan eventueel het volgende omvatten:
 * Eerdere kennis van marketingbijdragen uit andere bronnen, zoals ervaring van belanghebbenden in het verleden, incrementele tests en andere modellen.
 * Het aandeel van de uitgaven, dat relatieve uitgavenaandeel als volmacht gebruikt wanneer de marketing gegevens schaars is.
 
-Wanneer een model voor de eerste keer wordt gemaakt, wordt het maken onmiddellijk afgebroken tijdens het training- en scoring-proces. Nadat de initiële training en scoring zijn voltooid, zijn modelinzichten beschikbaar voor evaluatie. Een model kan vervolgens opnieuw worden opgeleid. Ook, kunnen de gegevens aan het model worden toegevoegd dat u vereist om het model manueel opnieuw te scoren. Herscholing en herscholing zijn een herhalend proces, aangezien nieuwe bevindingen en informatie zich voordoen en aanpassingen nodig zijn om een model te verkrijgen dat het meest geschikt is voor uw bedrijfsdoelstellingen.
+Wanneer een model voor de eerste keer wordt gemaakt, wordt het maken onmiddellijk afgebroken tijdens het training- en scoring-proces. Nadat de initiële training en scoring zijn voltooid, zijn modelinzichten beschikbaar voor evaluatie. Een model kan vervolgens opnieuw worden opgeleid. Ook, kunnen de gegevens aan het model worden toegevoegd dat u vereist om het model manueel opnieuw te centreren. Herscholing en herscholing zijn een herhalend proces, aangezien nieuwe bevindingen en informatie zich voordoen en aanpassingen nodig zijn om een model te verkrijgen dat het meest geschikt is voor uw bedrijfsdoelstellingen.
 
 
 ## Modellen maken
@@ -68,7 +68,7 @@ Als u een tabel met uw huidige modellen wilt weergeven, gaat u naar de Mix Model
    * ![ Klok ](/help/assets/icons/Clock.svg) - wijst op een huidige aan de gang zijnde uitvoering van een stap in de modellevenscyclus.
    * ![ dicht ](/help/assets/icons/Close.svg) - wijst op een ontbroken uitvoering van een stap in de modellevenscyclus.
 
-   | Status | Maken | Trein | Score | Nieuwe treinen | Opnieuw score |
+   | Status | Maken | Trein | Score | Opnieuw | Rescore |
    |---|:---:|:---:|:---:|:---:|:---:|
    | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | | | |
    | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) | | | |
@@ -150,16 +150,15 @@ U kunt de naam, beschrijving en het plannen van opleiding en het noteren van een
 
 
 
-### Nieuwe treinen
+### Opnieuw
 
-
-Een model opnieuw trainen is alleen beschikbaar voor goed opgeleide modellen.
+Een model behouden is alleen beschikbaar voor goed opgeleide modellen.
 
 Overweeg een model opnieuw op te leiden wanneer u wilt:
 
 * Nieuwe incrementele marketing en factorgegevens opnemen. In het laatste kwartaal is bijvoorbeeld de marktdynamiek veranderd of is de verspreiding van uw marketinggegevens aanzienlijk veranderd.
 
-Een model opnieuw trainen:
+Een model omscholen:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
@@ -171,22 +170,22 @@ Een model opnieuw trainen:
    * **[!UICONTROL Train model using specific date range of data]**.
 Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
 
-   ![ re-train een model ](../assets/re-train-model.png)
+   ![ keert een model ](../assets/retrain-model.png) terug
 
 1. Selecteer **[!UICONTROL Train]** om het model opnieuw te trainen.
 
 
-### Score of re-score
+### Score of rescore
 
 
-U kunt een model stapsgewijs score behalen op basis van nieuwe marketinggegevens of een model opnieuw scoren voor een specifieke datumreeks.
+U kunt een model incrementeel score behalen op basis van nieuwe marketinggegevens of een model opnieuw ordenen voor een specifieke datumreeks.
 
-U kunt overwegen een model opnieuw te scoren als u wilt:
+Denk na opnieuw te scoren een model wanneer u wilt:
 
 * Corrigeer onjuiste marketinggegevens. Zo hebben de recente betaalde zoekgegevens die u hebt opgenomen in de training en scoring van het model een week aan gegevens gemist.
 * Gebruik nieuwe stijgende marketing gegevens die door updates in de datasets beschikbaar zijn geworden u als deel van uw geharmoniseerde gegevens hebt gevormd.
 
-Een model scoren of opnieuw scoren:
+Een model scoren of opnieuw centreren:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
@@ -195,10 +194,10 @@ Een model scoren of opnieuw scoren:
    Selecteer in het dialoogvenster **[!UICONTROL Score marketing data]** de optie die u wilt:
 
    * **[!UICONTROL Score new marketing data from *mm/dd/yyyy *]**, om uw model incrementeel te behalen gebruikend nieuwe marketing gegevens, of
-   * **[!UICONTROL Score specific date range of marketing data]** om opnieuw te scoren voor een bepaald datumbereik.
+   * **[!UICONTROL Score specific date range of marketing data]** om opnieuw te centreren voor een specifiek datumbereik.
 Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
 
-   ![ re-train een model ](../assets/re-score-model.png)
+   ![ Rescore a model ](../assets/rescore-model.png)
 
 1. Selecteer **[!UICONTROL Score]** . Wanneer u een model opnieuw scant met een specifiek gegevensbereik, wordt een dialoogvenster **[!UICONTROL Existing model is replaced]** weergegeven waarin u wordt gevraagd te bevestigen dat u het model wilt vervangen door nieuwe scores voor het geselecteerde datumbereik. Selecteer **[!UICONTROL Replace model]** om te bevestigen.
 
