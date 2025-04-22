@@ -3,9 +3,9 @@ title: Modellen maken
 description: Leer hoe u modellen maakt in Mix Modeler.
 feature: Models
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: 3b6b127bfaf79cee99a869b21ff0c1a911b3ad6c
+source-git-commit: b08a24856e28a1377728bc2c511f6ea483cbd0fd
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -131,7 +131,15 @@ U kunt geavanceerde instellingen opgeven in de stap **[!UICONTROL Advanced]** . 
 
 1. In de sectie **[!UICONTROL Spend share]** :
 
-   * Activeer **[!UICONTROL Allow spend share]** als u historische investeringsverhoudingen voor marketing wilt gebruiken om het model op de hoogte te brengen wanneer er weinig marketinggegevens beschikbaar zijn.
+   * Activeer **[!UICONTROL Allow spend share]** als u historische investeringsverhoudingen voor marketing wilt gebruiken om het model op de hoogte te brengen wanneer er weinig marketinggegevens beschikbaar zijn. Deze instelling wordt aanbevolen, vooral in de volgende scenario&#39;s:
+      * Een kanaal heeft niet genoeg observaties (bijvoorbeeld lage bestedingsfrequentie, indrukken of klikken).
+      * U modelleert de pieken, maar regelmatig, en potentieel hoge bestedende media (zoals TV voor sommige merken), waar de gegevens kunnen gering zijn.
+
+     >[!NOTE]
+     >
+     >Voor eenmalige investeringen (bijvoorbeeld een Super Bowl-advertentie) is het wellicht beter om die gegevens als factor in te voeren in plaats van te vertrouwen op het aandeel in de uitgaven.
+     >
+
 
 1. In de sectie **[!UICONTROL MTA enabled]** :
 
