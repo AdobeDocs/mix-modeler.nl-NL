@@ -1,11 +1,11 @@
 ---
 title: Schema's
-description: Leer hoe te om de schema's te beheren die worden vereist om gegevens in Mix Modeler in te voeren.
+description: Leer hoe u de schema's beheert die nodig zijn om gegevens in Mix Modeler in te voeren.
 feature: Schemas
 exl-id: 08289581-5af9-4422-b049-8c24105e2a8e
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: b0306ad6fad8966822ed14c67f159a4aefb4e3f8
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '378'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform en gebruik in Mix Modeler wilt opnemen:
 
-1. Ga naar de interface van de Mix Modeler.
+1. Ga naar de Mix Modeler interface.
 
 1. Selecteer ![ Schema&#39;s ](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
@@ -22,11 +22,11 @@ Zie het [ overzicht van Schema&#39;s UI ](https://experienceleague.adobe.com/doc
 
 ## Samengevoegde of samenvattingsgegevens
 
-Het wordt ten zeerste aanbevolen de klasse XDM Summary Metrics als basis van het schema te gebruiken dat ten grondslag ligt aan geaggregeerde of samenvattingsgegevens die u in Experience Platform wilt opnemen en in Mix Modeler wilt gebruiken.
+Het wordt ten zeerste aanbevolen de klasse XDM Summary Metrics als basis van het schema te gebruiken dat ten grondslag ligt aan geaggregeerde of samenvattingsgegevens die u in Experience Platform wilt opnemen en die u in Mix Modeler wilt gebruiken.
 
 Gebruik de klasse XDM Summary Metrics voor:
 
-- tuingegevens, bijvoorbeeld gegevens uit Facebook of YouTube.
+- tuingegevens, bijvoorbeeld gegevens van Facebook of YouTube.
 
 - gegevens over externe factoren, zoals gegevens uit SPX (S&amp;P 500 aandelenindexen), weergegevens;
 
@@ -72,7 +72,7 @@ Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggreg
 
 ## Ondersteunde gegevenstypen
 
-Mix Modeler ondersteunt momenteel geen subset van gegevenstypen voor Experience Platforms. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
+Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
 
 - String
 - Geheel
@@ -83,3 +83,8 @@ Mix Modeler ondersteunt momenteel geen subset van gegevenstypen voor Experience 
 - Byte
 - Datum
 - Datum/tijd
+
+
+>[!MORELIKETHIS]
+>
+>- [ Schemas ](schemas.md)

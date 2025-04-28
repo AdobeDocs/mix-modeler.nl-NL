@@ -1,12 +1,12 @@
 ---
 title: Overzicht van samenvattingsgegevens
-description: Leer hoe u gegevens in de Mix Modeler kunt opnemen.
+description: Leer hoe u gegevens in Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
+source-git-commit: 857641f6c1db749f79056ce2a2ea35fc4d3e3a3c
 workflow-type: tm+mt
-source-wordcount: '465'
-ht-degree: 6%
+source-wordcount: '520'
+ht-degree: 5%
 
 ---
 
@@ -19,16 +19,16 @@ De klanten kunnen om het even welk soort gegevens gebruiken die in Experience Pl
 Bijvoorbeeld:
 
 * gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
-* gegevens die worden verzameld met de Experience Platform Web SDK, Mobile SDK of Edge Network Server-API voor het verzamelen van klantinteracties op het web, mobiele apparaten of andere apparaattypen;
+* gegevens die zijn verzameld met de Experience Platform Web SDK, Mobile SDK of Edge Network Server-API voor het verzamelen van klantinteracties op internet, mobiel of een ander type apparaat;
 * geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
 * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
-U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Bijvoorbeeld de Experience Platform-SDK&#39;s, API&#39;s, bronconnectors, streaming en batch-opname.
+U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname.
 
 
 ## Richtsnoeren
 
-Volg deze richtlijnen om gegevens in Experience Platform in te voeren voor gebruik met Mix Modeler:
+Volg de onderstaande richtlijnen om gegevens in te voeren in Experience Platform voor gebruik met Mix Modeler:
 
 * De incrementele gegevens die aan de gegevenssets worden toegevoegd, mogen elkaar niet overlappen.
 * Alle gegevens van één bron moeten dezelfde korreligheid hebben.
@@ -38,7 +38,7 @@ Volg deze richtlijnen om gegevens in Experience Platform in te voeren voor gebru
 
 ## Voorbeelden
 
-Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Modeler worden gebruikt en die verder gaan dan de meer standaard ervaringsgebeurtenisgegevens.
+Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in Mix Modeler worden gebruikt, die verder gaan dan de meer standaard ervaringsgebeurtenisgegevens.
 
 +++ Geaggregeerde gegevens over de marketinginspanning
 
@@ -80,7 +80,17 @@ Hieronder vindt u enkele voorbeelden van gegevens die gewoonlijk in de Mix Model
 
 +++
 
-Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Experience Platform worden gemodelleerd. De interface van de Mix Modeler verleent gemakkelijke toegang tot zowel de Schema&#39;s van het Experience Platform als Datasets UI.
+Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets worden verzameld en na schema&#39;s in Experience Platform worden gemodelleerd. De interface van Mix Modeler biedt eenvoudige toegang tot zowel de Experience Platform-schema&#39;s als de Datasets-interface.
+
+
+## Valideren
+
+Als u wilt controleren of uw gegevens correct beschikbaar zijn in Mix Modeler, kunt u het volgende doen:
+
+* De visualisaties van het gebruik in [ Overzicht ](/help/overview.md).
+* De download en inspecteert gegevens van [ Geharmoniseerde gegevens ](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
+
+Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [ SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/query/home).
 
 
 >[!MORELIKETHIS]
