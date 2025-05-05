@@ -18,7 +18,7 @@ Met Experience Platform Data Governance hebt u de mogelijkheid om uw gegevens te
 
 De etiketten en het beleid van het gegevensgebruik die op datasets worden gecreeerd die door het oppervlak van Experience Platform in Mix Modeler waar nodig worden verbruikt. Bijvoorbeeld, stoppen deze etiketten of waarschuwen gebruikers wanneer het schrappen van datasets die deel van een datasetregel in de geharmoniseerde gegevens uitmaken. Of verberg schemagebieden die voor gebruikers wanneer het creëren van een datasetregel worden beperkt.
 
-Dankzij de integratie van gegevensbeheer kunt u de naleving efficiënter beheren. Gegevensstewards in uw organisatie kunnen beleid plaatsen om gebruik te beperken. Dientengevolge, kunt u gegevens gebruiken die met beleid in plaats van gegevens worden bepaald in overeenstemming zijn. Lees de documentatie over [ Etiketten en Beleid ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/data-governance) om meer te leren.
+Dankzij de integratie van gegevensbeheer kunt u de naleving efficiënter beheren. Gegevensstewards in uw organisatie kunnen beleid plaatsen om gebruik te beperken. Dientengevolge, kunt u gegevens gebruiken die met beleid in plaats van gegevens worden bepaald in overeenstemming zijn. Lees de documentatie over [ Etiketten en Beleid ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/data-governance) om meer te leren.
 
 De volgende functies voor gegevensbeheer zijn beschikbaar:
 

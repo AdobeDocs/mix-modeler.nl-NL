@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Beleid
 
-Zodra u door het werkschema gaat om een model tot stand te brengen en de configuratie van het model voor te leggen, [ beleidshandhaving ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/enforcement/overview#automatic-enforcement) controles om te zien of zijn er om het even welke schendingen. Als een beleidsovertreding optreedt, wordt een pop-up weergegeven die aangeeft dat een of meer beleidsregels zijn overtreden. Deze controle moet ervoor zorgen dat uw gegevensverrichtingen en marketing acties binnen Experience Platform met het beleid van het gegevensgebruik verenigbaar zijn.
+Zodra u door het werkschema gaat om een model tot stand te brengen en de configuratie van het model voor te leggen, [ beleidshandhaving ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/enforcement/overview#automatic-enforcement) controles om te zien of zijn er om het even welke schendingen. Als een beleidsovertreding optreedt, wordt een pop-up weergegeven die aangeeft dat een of meer beleidsregels zijn overtreden. Deze controle moet ervoor zorgen dat uw gegevensverrichtingen en marketing acties binnen Experience Platform met het beleid van het gegevensgebruik verenigbaar zijn.
 
 Standaard controleert de Mix Modeler op overtredingen van door de Adobe gedefinieerd beleid die zijn gekoppeld aan de volgende labels en marketingacties:
 
@@ -61,7 +61,7 @@ Currently,  Mix Modeler does not support all of the data governance functionalit
 
 >[!MORELIKETHIS]
 >
->[ Overzicht van het het gebruiksbeleid van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/data-governance/policies/overview)
+>[ Overzicht van het het gebruiksbeleid van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/policies/overview)
 >
 >
 

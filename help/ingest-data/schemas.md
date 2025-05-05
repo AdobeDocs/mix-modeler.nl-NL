@@ -18,7 +18,7 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Selecteer ![ Schema&#39;s ](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
-Zie het [ overzicht van Schema&#39;s UI ](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie.
+Zie het [ overzicht van Schema&#39;s UI ](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=nl-NL) voor meer informatie.
 
 ## Samengevoegde of samenvattingsgegevens
 
@@ -72,7 +72,7 @@ Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggreg
 
 ## Ondersteunde gegevenstypen
 
-Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
+Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=nl-NL#data-type) worden vermeld, worden gesteund:
 
 - String
 - Geheel

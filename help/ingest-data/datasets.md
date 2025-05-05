@@ -18,9 +18,9 @@ Om datasets te beheren, die de gegevens bevatten u in Experience Platform en geb
 
 1. Selecteer ![ Gegevens ](/help/assets/icons/Data.svg) **[!UICONTROL Datasets]**, onder **[!UICONTROL SETUP]**.
 
-Zie de [ gids UI van Datasets ](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=en) voor meer informatie.
+Zie de [ gids UI van Datasets ](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=nl-NL) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [ Ingest gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home)
+>* [ Ingest gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home)
 >* [ Schemas ](schemas.md)

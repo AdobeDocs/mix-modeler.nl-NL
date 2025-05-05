@@ -67,4 +67,4 @@ Om het controlelogboek te inspecteren, in de interface van Mix Modeler:
 
 Wanneer de eigenschap voor uw organisatie wordt toegelaten, worden de controlelogboeken automatisch verzameld aangezien de activiteit voorkomt. U te hoeven niet om de inzameling van het controlelogboek manueel toe te laten.
 
-Om controlelogboeken te bekijken en uit te voeren, moet u de de toegangsbeheertoestemming van de Toegang van Logboeken van de Controle hebben gekregen. Leren hoe te om individuele toestemmingen voor de eigenschappen van Mix Modeler te beheren, zie de [ documentatie van de toegangscontrole ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home).
+Om controlelogboeken te bekijken en uit te voeren, moet u de de toegangsbeheertoestemming van de Toegang van Logboeken van de Controle hebben gekregen. Leren hoe te om individuele toestemmingen voor de eigenschappen van Mix Modeler te beheren, zie de [ documentatie van de toegangscontrole ](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home).
