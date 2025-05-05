@@ -21,4 +21,4 @@ Hier kun je meer informatie vinden op:
 
 * [Geharmoniseerde gegevens](harmonized-data.md)
 
-* [ Plannen ](plans.md) [!BADGE  Alpha ]{type=Informative}
+* [ Plannen ](plans.md) [!BADGE &#x200B; Alpha &#x200B;]{type=Informative}

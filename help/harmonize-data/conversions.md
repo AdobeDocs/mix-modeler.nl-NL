@@ -52,7 +52,7 @@ Om een omzetting toe te voegen, in ![ DataSearch ](/help/assets/icons/DataCheck.
 
       1. Selecteer een waarde voor de exploitant ![ Slag ](/help/assets/icons/ChevronDown.svg), bijvoorbeeld **[!UICONTROL is]**.
 
-      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**of ga een waarde in, bijvoorbeeld **[!UICONTROL Store]**.
+      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**&#x200B;of ga een waarde in, bijvoorbeeld **[!UICONTROL Store]**.
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Conversion metric for analysis]**, bijvoorbeeld **[!UICONTROL Orders]** .
 
@@ -71,7 +71,7 @@ Details van een conversie weergeven:
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
 
-1. Selecteer ](/help/assets/icons/ViewDetail.svg) de details van de Mening **** van de Mening ![. In een dialoogvenster ziet u details over de conversie. Zie [ een omzetting ](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
+1. Selecteer ![&#128279;](/help/assets/icons/ViewDetail.svg) de details van de Mening **&#x200B;**&#x200B;van de Mening . In een dialoogvenster ziet u details over de conversie. Zie [ een omzetting ](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
 
 ## Rapport weergeven
 

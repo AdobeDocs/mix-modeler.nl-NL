@@ -53,7 +53,7 @@ Wanneer u de schema-update wilt opslaan, ziet u een **[!UICONTROL Data governanc
 
 De geconstateerde overtreding van het gegevensbeheerbeleid geeft specifieke informatie over de schending. U kunt deze schendingen door beleidsmontages en andere maatregelen oplossen die niet direct met het configuratiewerkschema verwant zijn. U kunt bijvoorbeeld de labels wijzigen, zodat bepaalde velden mogen worden gebruikt voor wetenschappelijke doeleinden. Alternatief, kon u de modelconfiguratie zelf ook wijzigen, zodat het model geen voorwerp met een etiket van het gegevensgebruik gebruikt.
 
-De ![ 2} selectie van de Privacy ](/help/assets/icons/Privacy.svg) {in het linkerspoor verleent toegang tot de [!UICONTROL Policies] interface van Experience Platform, die uw beleid, etiketten en marketing acties toestaat te beheren.**[!UICONTROL Policies]**
+De ![ 2&rbrace; selectie van de Privacy ](/help/assets/icons/Privacy.svg) &lbrace;in het linkerspoor verleent toegang tot de [!UICONTROL Policies] interface van Experience Platform, die uw beleid, etiketten en marketing acties toestaat te beheren.**[!UICONTROL Policies]**
 
 <!--
 Currently,  Mix Modeler does not support all of the data governance functionality offered by Experience Platform. Field level access control is supported. See [Field level access control](../harmonize-data/dataset-rules.md#field-level-access-control)

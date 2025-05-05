@@ -148,7 +148,7 @@ Om uw geharmoniseerde gegevens te zien, in de interface van Mix Modeler:
 
 1. U kunt de geharmoniseerde gegevens desgewenst downloaden.
 
-   1. Selecteer ![ Download ](/help/assets/icons/Download.svg) [!BADGE  bèta ].
+   1. Selecteer ![ Download ](/help/assets/icons/Download.svg) [!BADGE &#x200B; bèta &#x200B;].
    1. In popup, uitgezochte ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Create]**.
    1. Voer een **[!UICONTROL Report name]** in, bijvoorbeeld `Test Report` .
    1. Selecteer ![ FileCSV ](/help/assets/icons/FileCSV.svg) **[!UICONTROL Report]**.

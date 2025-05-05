@@ -56,7 +56,7 @@ U kunt elke visualisatie configureren.
       1. Selecteer een metrische waarde in **[!UICONTROL Select a metric]**, bijvoorbeeld **[!UICONTROL Impressions]** .
       1. Selecteer een categorie in **[!UICONTROL Select category]** , bijvoorbeeld **[!UICONTROL Media types]** .
       1. (optioneel) Selecteer een tweede categorie in **[!UICONTROL Select second category (optional)]** , bijvoorbeeld **[!UICONTROL Traffic sources]** .
-      1. Selecteer ](/help/assets/icons/Clock.svg) Klok **[!UICONTROL Time]** of ![ Rekenmachine ](/help/assets/icons/Calculator.svg) **[!UICONTROL Total]** als analysetype bij **[!UICONTROL Select analysis type]**.![
+      1. Selecteer ![&#128279;](/help/assets/icons/Clock.svg) Klok **[!UICONTROL Time]** of ![ Rekenmachine ](/help/assets/icons/Calculator.svg) **[!UICONTROL Total]** als analysetype bij **[!UICONTROL Select analysis type]**.
 
          Als u ![ Klok ](/help/assets/icons/Clock.svg) **[!UICONTROL Time]** selecteert, kunt u de tijdfrequentie specificeren. Selecteer **[!UICONTROL Daily]** , **[!UICONTROL Weekly]** , **[!UICONTROL Monthly]** of **[!UICONTROL Quarterly]** from **[!UICONTROL Select time frequency]** .
 

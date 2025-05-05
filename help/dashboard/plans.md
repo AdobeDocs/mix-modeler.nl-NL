@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!BADGE  Alpha ]{type=Informative}**[!UICONTROL Plans]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
+>[!BADGE &#x200B; Alpha &#x200B;]{type=Informative}**[!UICONTROL Plans]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
 
 Het **[!UICONTROL Plans]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** toont visualisaties voor [!UICONTROL Budget], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL KPI].

@@ -32,7 +32,7 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 Selecteer **[!UICONTROL Close]** om de interface te sluiten.
 
-Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL  %]** at **[!UICONTROL View ROI]** .
+Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL &#x200B; %]** at **[!UICONTROL View ROI]** .
 
 ## Voorspelde betaalde kanaaluitgaven en ROI
 
