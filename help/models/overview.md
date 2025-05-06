@@ -120,7 +120,7 @@ U kunt snel een model dupliceren.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
 
-U wordt opnieuw gericht aan de stappen om een nieuw model, met een voorgestelde naam tot stand te brengen die uit de originele die naam van het model wordt samengesteld met **[!UICONTROL (Copy)](_n_)** wordt toegevoegd.
+U wordt opnieuw gericht aan de stappen om een nieuw model, met een voorgestelde naam tot stand te brengen die uit de originele die naam van het model wordt samengesteld met **[!UICONTROL (Copy)] (_n_)** wordt toegevoegd.
 
 ### Bewerken
 
@@ -219,5 +219,5 @@ Meerdere modellen verwijderen:
 
 1. Selecteer meerdere modellen.
 1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de modellen te schrappen.
-1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *modellen]**bevestigingsdialoog om de modellen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
+1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *modellen]**&#x200B;bevestigingsdialoog om de modellen te schrappen. Selecteer **[!UICONTROL Cancel]**&#x200B;om te annuleren.
 
