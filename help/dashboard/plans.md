@@ -14,12 +14,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het **[!UICONTROL Plans]** [!BADGE  Alpha ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
+>Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
 
 
 
-Het **[!UICONTROL Plans]** [!BADGE  Alpha ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert.
+Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert.
 
 Om te selecteren welke gegevens voor de KPI statuskaarten en visualisaties worden getoond:
 
@@ -27,7 +27,7 @@ Om te selecteren welke gegevens voor de KPI statuskaarten en visualisaties worde
 
 * Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
 
-Het **[!UICONTROL Plans]** [!BADGE  Alpha ]{type=Informative} lusje toont:
+Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje toont:
 
 * KPI-statuskaarten
 
