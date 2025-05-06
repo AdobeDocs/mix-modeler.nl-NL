@@ -3,9 +3,9 @@ title: Overzicht van samenvattingsgegevens
 description: Leer hoe u gegevens in Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: 857641f6c1db749f79056ce2a2ea35fc4d3e3a3c
+source-git-commit: bb05cee1d4e2245cf665e5dcea17a30c5c0cf203
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '541'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,7 @@ Bijvoorbeeld:
 * geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
 * niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
-U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname.
-
+U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Ingestiemechanismen omvatten de SDK&#39;s, API&#39;s, bronconnectors, streaming en batch-opname van Experience Platform. Meer leren over het opnemen van uw gegevens in Experience Platform voor gebruik in Adobe Mix Modeler, zie [ Overzicht van de Ingestie van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home).
 
 ## Richtsnoeren
 
@@ -90,7 +89,7 @@ Als u wilt controleren of uw gegevens correct beschikbaar zijn in Mix Modeler, k
 * De visualisaties van het gebruik in [ Overzicht ](/help/overview.md).
 * De download en inspecteert gegevens van [ Geharmoniseerde gegevens ](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
 
-Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [ SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform ](https://experienceleague.adobe.com/nl/docs/experience-platform/query/home).
+Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [ SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/query/home).
 
 
 >[!MORELIKETHIS]
