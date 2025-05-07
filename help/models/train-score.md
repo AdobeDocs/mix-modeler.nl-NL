@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Train- en scoremodellen
 
-Nadat u [ ](/help/models/build.md) een model hebt gebouwd, wordt het model automatisch getraind en gescoord. U kunt een model handmatig opnieuw trainen of opnieuw centreren.
+Nadat u [&#128279;](/help/models/build.md) een model hebt gebouwd, wordt het model automatisch getraind en gescoord. U kunt een model handmatig opnieuw trainen of opnieuw centreren.
 
 ## Trein
 
