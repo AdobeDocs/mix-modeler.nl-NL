@@ -3,9 +3,9 @@ title: Overzicht van modellen
 description: Leer hoe u modellen maakt en gebruikt in Mix Modeler.
 feature: Models
 exl-id: c43d9bc9-4429-45c2-9247-bd24510a24be
-source-git-commit: 8b0dfbe136986bc97c6793538518679b64d7801c
+source-git-commit: 6855d19347b7f6f1477a6265310df5950b8463c9
 workflow-type: tm+mt
-source-wordcount: '1208'
+source-wordcount: '924'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Als u een tabel met uw huidige modellen wilt weergeven, gaat u naar de Mix Model
    * ![ Klok ](/help/assets/icons/Clock.svg) - wijst op een huidige aan de gang zijnde uitvoering van een stap in de modellevenscyclus.
    * ![ dicht ](/help/assets/icons/Close.svg) - wijst op een ontbroken uitvoering van een stap in de modellevenscyclus.
 
-   | Status | Maken | Trein | Score | Opnieuw | Rescore |
+   | Status | [ bouwt ](/help/models/build.md) | [ Lijn ](/help/models/train-score.md#train) | [ Score ](/help/models/train-score.md#score) | [ gaat terug ](/help/models/train-score.md#train) | [ Rescore ](/help/models/train-score.md#score) |
    |---|:---:|:---:|:---:|:---:|:---:|
    | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | | | | |
    | In uitvoering | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | ![ Klok ](/help/assets/icons/Clock.svg) | | | |
@@ -120,7 +120,7 @@ U kunt snel een model dupliceren.
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Duplicate]**.
 
-U wordt opnieuw gericht aan de stappen om een nieuw model, met een voorgestelde naam tot stand te brengen die uit de originele die naam van het model wordt samengesteld met **[!UICONTROL (Copy)] (_n_)** wordt toegevoegd.
+U wordt opnieuw gericht aan de stappen om een nieuw model, met een voorgestelde naam tot stand te brengen die uit de originele die naam van het model wordt samengesteld met **[!UICONTROL (Copy)](_n_)** wordt toegevoegd.
 
 ### Bewerken
 
@@ -150,61 +150,14 @@ U kunt de naam, beschrijving en het plannen van opleiding en het noteren van een
 
 
 
-### Opnieuw
+### Trein
 
-Een model behouden is alleen beschikbaar voor goed opgeleide modellen.
-
-Overweeg een model opnieuw op te leiden wanneer u wilt:
-
-* Nieuwe incrementele marketing en factorgegevens opnemen. In het laatste kwartaal is bijvoorbeeld de marktdynamiek veranderd of is de verspreiding van uw marketinggegevens aanzienlijk veranderd.
-
-Een model omscholen:
-
-1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
-
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
-
-   Selecteer in het dialoogvenster **[!UICONTROL Train model]** de optie die u wilt:
-
-   * **[!UICONTROL Train model with last 2 years of marketing data]** , of
-   * **[!UICONTROL Train model using specific date range of data]**.
-Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
-
-   ![ keert een model ](../assets/retrain-model.png) terug
-
-1. Selecteer **[!UICONTROL Train]** om het model opnieuw te trainen.
+Overweeg een model opnieuw op te leiden wanneer u nieuwe incrementele marketing en factorgegevens wilt opnemen. Zie [ Lijn en scoremodellen ](train-score.md#train) voor meer informatie.
 
 
-### Score of rescore
+### Score
 
-
-U kunt een model incrementeel score behalen op basis van nieuwe marketinggegevens of een model opnieuw ordenen voor een specifieke datumreeks.
-
-Denk na opnieuw te scoren een model wanneer u wilt:
-
-* Corrigeer onjuiste marketinggegevens. Zo hebben de recente betaalde zoekgegevens die u hebt opgenomen in de training en scoring van het model een week aan gegevens gemist.
-* Gebruik nieuwe stijgende marketing gegevens die door updates in de datasets beschikbaar zijn geworden u als deel van uw geharmoniseerde gegevens hebt gevormd.
-
-Een model scoren of opnieuw centreren:
-
-1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
-
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
-
-   Selecteer in het dialoogvenster **[!UICONTROL Score marketing data]** de optie die u wilt:
-
-   * **[!UICONTROL Score new marketing data from *mm/dd/yyyy *]**, om uw model incrementeel te behalen gebruikend nieuwe marketing gegevens, of
-   * **[!UICONTROL Score specific date range of marketing data]** om opnieuw te centreren voor een specifiek datumbereik.
-Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
-
-   ![ Rescore a model ](../assets/rescore-model.png)
-
-1. Selecteer **[!UICONTROL Score]** . Wanneer u een model opnieuw scant met een specifiek gegevensbereik, wordt een dialoogvenster **[!UICONTROL Existing model is replaced]** weergegeven waarin u wordt gevraagd te bevestigen dat u het model wilt vervangen door nieuwe scores voor het geselecteerde datumbereik. Selecteer **[!UICONTROL Replace model]** om te bevestigen.
-
->[!IMPORTANT]
->
->De recore van een model verandert geen Abonnementen die reeds gebaseerd op het opnieuw bestelde model worden gecreeerd. Om het nieuwe opnieuw begeleide model in een plan te gebruiken, moet u een nieuw plan tot stand brengen.
-
+U kunt een model incrementeel score behalen op basis van nieuwe marketinggegevens of een model opnieuw ordenen voor een specifieke datumreeks. Zie [ Lijn en scoremodellen ](train-score.md#score) voor meer informatie.
 
 
 ### Modellen verwijderen
@@ -219,5 +172,5 @@ Meerdere modellen verwijderen:
 
 1. Selecteer meerdere modellen.
 1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de modellen te schrappen.
-1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *modellen]**&#x200B;bevestigingsdialoog om de modellen te schrappen. Selecteer **[!UICONTROL Cancel]**&#x200B;om te annuleren.
+1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *modellen]**bevestigingsdialoog om de modellen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
 

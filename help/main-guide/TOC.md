@@ -2,10 +2,10 @@
 user-guide-title: Handleiding voor Mix Modeler
 breadcrumb-title: Handleiding voor Mix Modeler
 user-guide-description: Leer hoe u Mix Modeler gebruikt.
-source-git-commit: 0ee212a626986e4c721d0e58f2528d0ca1a9fdbf
+source-git-commit: 1e2a6d1bc32060d6de02b7ac7c879da3046f69e7
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 39%
+source-wordcount: '88'
+ht-degree: 42%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 39%
 + Modellen {#models}
    + [Overzicht](/help/models/overview.md)
    + [Modellen maken](/help/models/build.md)
+   + [Train- en scoremodellen](/help/models/train-score.md)
    + [Modelinzichten](/help/models/insights.md)
    + [Schermindelingsgegevens gebruiken](/help/models/scoring-data.md)
 
@@ -42,12 +43,12 @@ ht-degree: 39%
    + [conversies](/help/harmonize-data/conversions.md)
    + [Gebruiksrapport](/help/harmonize-data/usage-report.md)
 
-+ Ingest-gegevens {#ingest-data}
++ Samenvattingsgegevens {#ingest-data}
    + [Overzicht](/help/ingest-data/overview.md)
    + [Schema&#39;s](/help/ingest-data/schemas.md)
    + [Gegevenssets](/help/ingest-data/datasets.md)
 
-+ Gegevensbeheer {#data-governance}
++ Datagovernance {#data-governance}
    + [Overzicht](/help/data-governance/overview.md)
    + [Toegangsbeheer](/help/data-governance/access-controls.md)
    + [Controlelogboeken](/help/data-governance/audit-logs.md)
@@ -57,7 +58,7 @@ ht-degree: 39%
 
 + [Beheer](/help/main-guide/administration.md)
 
-+ Versies {#releases}
++ Uitstoot {#releases}
    + [Meest recente release](/help/releases/latest.md)
    + [2024 releases](/help/releases/2024.md)
    + [2023 releases](/help/releases/2023.md)
