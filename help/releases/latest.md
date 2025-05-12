@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 85f9b42a775006cd3566447b2bb9d0a806fa3e73
+source-git-commit: 9b400aeac26a3b02a8dfaf1faad435e0d3ac6cd8
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '365'
 ht-degree: 6%
 
 ---
@@ -21,7 +21,8 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **Model driftopsporing** | Wanneer het openen van een model, wordt u [ ertoe aangezet om het model opnieuw te trainen wanneer de modelverschuiving wordt ontdekt ](/help/models/insights.md#model-drift). | vrijdag 3 april 2025 | t.b.d. |
+| **Model driftopsporing** | Wanneer u een model opent, wordt u [ ertoe aangezet om het model opnieuw te trainen wanneer de modeldrijfveer ](/help/models/insights.md#model-drift) wordt ontdekt. | vrijdag 3 april 2025 | donderdag 7 mei 2025 |
+| **Marginale kanaalterugkeer in planinzichten** | A [ de marginale kanaalterugkeer ](/help/plans/insights.md#marginal-channel-return) visualisatie wordt toegevoegd aan de inzichten van het Plan, die de marginale onderbrekingsgelijkmatigheid en de planterugkeer voor alle of geselecteerde kanalen tonen. | vrijdag 3 april 2025 | vrijdag 24 april 2025 |
 
 
 ## Januari - februari 2025
