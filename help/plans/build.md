@@ -84,6 +84,7 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
    1. Als u wilt schakelen tussen valuta- of percentageinvoer, selecteert u **[!UICONTROL $]** of **[!UICONTROL %]** for **[!UICONTROL View spend by]** .
 
    1. Selecteer **[!UICONTROL Create]** als u klaar bent.
+
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
    1. Selecteer **[!UICONTROL Next]** .
