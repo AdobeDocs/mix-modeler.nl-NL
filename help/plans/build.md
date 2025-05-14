@@ -3,7 +3,7 @@ title: Abonnementen maken
 description: Leer hoe u plannen maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: 1d017960409e5433ac6b4950a5cf7a5b3174840a
+source-git-commit: 3650135ee3ed5c435593aeed94bee8952bbe6df4
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -84,10 +84,10 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
    1. Als u wilt schakelen tussen valuta- of percentageinvoer, selecteert u **[!UICONTROL $]** of **[!UICONTROL %]** for **[!UICONTROL View spend by]** .
 
    1. Selecteer **[!UICONTROL Create]** als u klaar bent.
-
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
    1. Selecteer **[!UICONTROL Next]** .
+
 
 
 1. In de sectie **[!UICONTROL Advanced configurations]** kunt u optionele geavanceerde configuraties invoeren.
