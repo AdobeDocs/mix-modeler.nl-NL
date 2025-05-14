@@ -3,9 +3,9 @@ title: Abonnementen
 description: Leer hoe u inzichten van uw abonnement kunt bekijken en een abonnement kunt bewerken in Mix Modeler.
 feature: Plans
 exl-id: 91385595-284f-4fcb-b54b-9539905e552b
-source-git-commit: fbed53a1c394d6d110db6a8a181ca815056377de
+source-git-commit: 3545a7045478108db4d9f6bb87df679bfede5a45
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Wanneer het terugwinnen, ziet u een overzicht van uw plan, dat uit bestaat:
 
 Selecteer **[!UICONTROL Close]** om de interface te sluiten.
 
-Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL &#x200B; %]** at **[!UICONTROL View ROI]** .
+Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL  %]** at **[!UICONTROL View ROI]** .
 
 ## Voorspelde betaalde kanaaluitgaven en ROI
 
@@ -114,6 +114,39 @@ In de tabel [!UICONTROL Date range breakdown] worden gedetailleerde gegevens per
       1. Selecteer **[!UICONTROL Next]** om terug te keren naar de sectie **[!UICONTROL Spend]** . Selecteer **[!UICONTROL Cancel]** om terug te keren naar het overzicht van uw plannen.
 
          ![ Details van het Plan ](/help/assets/plan-details.png)
+
+   1. Selecteer **[!UICONTROL Next]** als u geavanceerde configuraties voor uw abonnement hebt gedefinieerd.
+
+      ![ geeft geavanceerde configuratie uit ](../assets/edit-plan-advanced-configuration.png)
+
+      - De naam, het model, het datumbereik en het totale budget van uw abonnement worden samengevat.
+
+      - Mix Modeler berekent standaard automatisch de gemiddelde omzet per conversie aan de hand van de meest recente seizoensgebonden gegevens. In **[!UICONTROL Average Revenue per conversion]** kunt u specifieke gemiddelde omzet per omzetting bepalen.
+
+         1. Voor elk datumbereik in uw budget:
+            1. Selecteer een datumbereik in het vervolgkeuzemenu **[!UICONTROL Date range]** .
+            1. Voer een **[!UICONTROL Average revenue]** -waarde in.
+
+         1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) voeg douanegemiddelde opbrengst per omzettingseenheid toe om een datumwaaier toe te voegen.
+         1. Selecteer ![ RemoveCircle ](/help/assets/icons/RemoveCircle.svg) om een datumwaaier te verwijderen.
+
+        >[!NOTE]
+        >
+        >Als uw model geen historische opbrengstgegevens omvat, moet u een gemiddelde opbrengst per omzetting voor elke datumwaaier bepalen u voor uw begroting specificeerde.
+        >
+
+      - Standaard berekent Mix Modeler automatisch kanaalkosten aan de hand van de meest recente seizoensgebonden gegevens. In **[!UICONTROL Channel costs]** kunt u aangepaste kanaalkosten definiëren.
+
+         1. Voor elk kanaal in uw model, bepaal de kosten van het douanekanaal.
+            1. Selecteer een kanaal in het vervolgkeuzemenu **[!UICONTROL Channel]** .
+            1. Voor elk datumbereik in uw budget:
+               1. Selecteer een datumbereik in het vervolgkeuzemenu **[!UICONTROL Date range]** .
+               1. Voer een **[!UICONTROL Average revenue]** -waarde in.
+            1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add custom average revenue per conversion unit]** om een datumwaaier toe te voegen.
+            1. Selecteer ![ RemoveCircle ](/help/assets/icons/RemoveCircle.svg) om een datumwaaier te verwijderen.
+
+         1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add custom channel cost]** om een kanaal toe te voegen.
+         1. Selecteer ![ CrossSize400 ](/help/assets/icons/CrossSize400.svg) om een douanekanaal te verwijderen.
 
 
 1. Selecteer **[!UICONTROL Edit]** wanneer u klaar bent met het bewerken van uw abonnement.

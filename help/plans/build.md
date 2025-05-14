@@ -3,9 +3,9 @@ title: Abonnementen maken
 description: Leer hoe u plannen maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: d05eccef370598ce64363ca6ae20886b0e5dccd0
+source-git-commit: 3545a7045478108db4d9f6bb87df679bfede5a45
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 0%
 In Mix Modeler maakt u een abonnement met behulp van het plancanvas. In het plancanvas, kunt u opstelling de details en de begrotingen van uw plan en het onderliggende model voor uw plan gebruiken. Nadat u details, budget en model hebt opgegeven, kunt u doorgaan met een door AI aanbevolen plan of de uitgave via het kanaal bewerken.
 
 Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Plans]** interface in Mix Modeler tot stand te brengen, selecteer **[!UICONTROL Create plan]**.
+
 
 1. In het **[!UICONTROL Plan creation]** -scherm:
 
@@ -49,12 +50,12 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
 
    ![ Plan Gereed ](/help/assets/plan-done-required-fields.png)
 
-   * Selecteren <img src="/help/assets/icons/NewPlan.svg" width="25" /> **[!UICONTROL Create plan now]** als u een door AI aanbevolen abonnement met een voorspeld investeringsrendement wilt genereren.
+   * Selecteer ![ NewPlan ](../assets/icons/NewPlan.svg) **[!UICONTROL Create plan now]** als u een AI geadviseerd plan met voorspelde ROI wilt produceren.
 
      Selecteer **[!UICONTROL OK]** . Uw abonnement is gemaakt.
 
 
-   * Selecteer ![ TableEdit ](/help/assets/icons/TableEdit.svg) **[!UICONTROL Edit channel budgets first]** als u kanaalbegroting wilt uitgeven alvorens een plan met voorspelde ROI te creëren.
+   * Selecteer ![ TableEdit ](/help/assets/icons/TableEdit.svg) **[!UICONTROL Edit channel budgets first]** als u kanaalbegroting wilt uitgeven en geavanceerde configuraties bepalen alvorens een plan met voorspelde ROI wordt gecreeerd.
 
      Selecteer **[!UICONTROL OK]** , zodat u in de volgende stap het kanaal kunt definiëren dat u in **[!UICONTROL Spend selection]** uitgeeft.
 
@@ -68,6 +69,46 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
 
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
+   1. Selecteer **[!UICONTROL Next]** .
+
+
+1. In de sectie **[!UICONTROL Advanced configurations]** kunt u optionele geavanceerde configuraties invoeren.
+
+   ![ Overzicht van het Plan ](../assets/plan-advanced-configurations.png)
+
+   * De naam, het model, het datumbereik en het totale budget van uw abonnement worden samengevat.
+
+   * Mix Modeler berekent standaard automatisch de gemiddelde omzet per conversie aan de hand van de meest recente seizoensgebonden gegevens. In **[!UICONTROL Average Revenue per conversion]** kunt u specifieke gemiddelde omzet per omzetting bepalen.
+
+      1. Voor elk datumbereik in uw budget:
+
+         1. Selecteer een datumbereik in het vervolgkeuzemenu **[!UICONTROL Date range]** .
+         1. Voer een **[!UICONTROL Average revenue]** -waarde in.
+
+      1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) voeg douanegemiddelde opbrengst per omzettingseenheid toe om een datumwaaier toe te voegen.
+      1. Selecteer ![ RemoveCircle ](/help/assets/icons/RemoveCircle.svg) om een datumwaaier te verwijderen.
+
+     >[!NOTE]
+     >
+     >Als uw model geen historische opbrengstgegevens omvat, moet u een gemiddelde opbrengst per omzetting voor elke datumwaaier bepalen u voor uw begroting specificeerde.
+     >
+
+   * Standaard berekent Mix Modeler automatisch kanaalkosten aan de hand van de meest recente seizoensgebonden gegevens. In **[!UICONTROL Channel costs]** kunt u aangepaste kanaalkosten definiëren.
+
+      1. Voor elk kanaal in uw model, bepaal de kosten van het douanekanaal.
+
+         1. Selecteer een kanaal in het vervolgkeuzemenu **[!UICONTROL Channel]** .
+         1. Voor elk datumbereik in uw budget:
+            1. Selecteer een datumbereik in het vervolgkeuzemenu **[!UICONTROL Date range]** .
+            1. Voer een **[!UICONTROL Average revenue]** -waarde in.
+         1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add custom average revenue per conversion unit]** om een datumwaaier toe te voegen.
+         1. Selecteer ![ RemoveCircle ](/help/assets/icons/RemoveCircle.svg) om een datumwaaier te verwijderen.
+
+      1. Selecteer ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add custom channel cost]** om een kanaal toe te voegen.
+      1. Selecteer ![ CrossSize400 ](/help/assets/icons/CrossSize400.svg) om een douanekanaal te verwijderen.
+
+
    1. Selecteer **[!UICONTROL Create]** als u klaar bent.
 
    1. Selecteer **[!UICONTROL Create plan]** in het dialoogvenster **[!UICONTROL Create plan]** om uw abonnement te maken. Selecteer **[!UICONTROL Cancel]** om het maken van uw abonnement te annuleren. Er wordt een dialoogvenster **[!UICONTROL No work is saved]** weergegeven ter bevestiging.
+
