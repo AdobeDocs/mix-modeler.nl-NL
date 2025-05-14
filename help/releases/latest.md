@@ -4,18 +4,26 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 9b400aeac26a3b02a8dfaf1faad435e0d3ac6cd8
+source-git-commit: 58f8745a224407cfb8ce3912bde9f0f85b5d8b46
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 6%
+source-wordcount: '433'
+ht-degree: 7%
 
 ---
 
 # Opmerkingen bij de release van Mix Modeler
 
-**Laatste update**: Februari, 2025.
+**Laatste update**: 14 mei, 2025.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix Modeler-releases werken op een doorlopend leveringsmodel, dat een gemiddelde maandelijkse release mogelijk maakt. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+
+
+## Mei - juni 2025
+
+| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
+|---|---|---|---|
+| **het patroonconfig van de uitgaven** | Wanneer u een plan bouwt, hebt u nu de optie om [ historische verwijzings ](/help/plans/build.md) gegevens (als het verleden marketing uitgeeft gegevens en inzichten) te gebruiken wanneer het bepalen van het uitgavenpatroon voor elke waaier van de begrotingsdatum. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
+| **Geavanceerde planconfiguraties** | U kunt [ geavanceerde configuraties ](/help/plans/build.md) voor uw plan, als gemiddelde opbrengst per omzetting en kanaalkosten bepalen. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 
 ## Maart - april 2025
 

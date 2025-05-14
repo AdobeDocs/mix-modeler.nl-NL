@@ -3,9 +3,9 @@ title: Abonnementen maken
 description: Leer hoe u plannen maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: 3545a7045478108db4d9f6bb87df679bfede5a45
+source-git-commit: 1d017960409e5433ac6b4950a5cf7a5b3174840a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,8 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
 
    ![ Plan Gereed ](/help/assets/plan-done-required-fields.png)
 
-   * Selecteer ![ NewPlan ](../assets/icons/NewPlan.svg) **[!UICONTROL Create plan now]** als u een AI geadviseerd plan met voorspelde ROI wilt produceren.
+   * Selecteer ![ NewPlan ](/help/assets/icons/NewPlan.svg) **[!UICONTROL Create plan now]** als u een AI geadviseerd plan met voorspelde ROI wilt produceren.
+
 
      Selecteer **[!UICONTROL OK]** . Uw abonnement is gemaakt.
 
@@ -61,12 +62,28 @@ Om een plan, in de ![ PLan ](/help/assets/icons/FileChart.svg) **[!UICONTROL Pla
 
 
 
-1. In de **[!UICONTROL Spend selection]** sectie, voor elke waaier van de begrotingsdatum, gebruik ![ Chevron ](/help/assets/icons/ChevronRight.svg) bovenkant open de mening van de kanaaldistributie voor die gegevenswaaier.
+1. In de **[!UICONTROL Spend selection]** sectie, voor elke waaier van de begrotingsdatum, gebruik ![ Chevron ](/help/assets/icons/ChevronRight.svg) om de mening van de kanaaldistributie voor die gegevenswaaier te openen.
+
+   U kunt historische referentiegegevens gebruiken als u gegevens en inzichten van marketinguitgaven wilt gebruiken. U moet rekening houden met historische referentiegegevens voor:
+
+   * Verbeter de begrotingstoewijzing door de nadruk te leggen op goed presterende kanalen en slecht presterende kanalen.
+   * Ondersteuning van trendanalyse.
+   * Identificeer efficiënte strategieën en vermijd fouten terwijl het vormen van plannen.
+
+   Als u een historische referentieperiode selecteert, kunt u zich richten aan vorige voorkeuren van het uitgavenpatroon en de planningsfunctionaliteit van Mix Modeler kan plannen produceren die binnen uw verwachtingen zijn. Deze plannen moeten uiteindelijk het vertrouwen van de belanghebbenden vergroten, ervoor zorgen dat marketingplannen strategisch en efficiënt zijn en dat deze plannen gebaseerd zijn op bewezen prestatiegegevens en bedrijfsbehoeften.
+
+   ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
+
+   1. Selecteer de **[!UICONTROL Spend pattern]** .
+
+      * Standaard is dit **[!UICONTROL Automatic]** .
+      * Selecteer **[!UICONTROL Historical reference]** en voer een **[!UICONTROL Start date]** in om te verwijzen naar gegevens voor marketinguitgaven die al beschikbaar zijn voor Mix Modeler. **[!UICONTROL End date]** wordt automatisch bepaald gebaseerd op de gegevenswaaier waarvoor u het uitgavenpatroon bepaalt. De voorgestelde begindatum is de eerste beschikbare uitgavengegevens uit het verleden voor marketing. Om erop te wijzen hebt u een niet bestaande of ongeldige historische verwijzingsperiode geselecteerd, ziet u a ![ AlertRed ](/help/assets/icons/AlertRed.svg).
 
    1. Als u budgetten voor elk kanaal wilt definiëren, voert u een waarde in voor **[!UICONTROL Min]** en **[!UICONTROL Max]** of gebruikt u de schuifregelaars.
 
    1. Als u wilt schakelen tussen valuta- of percentageinvoer, selecteert u **[!UICONTROL $]** of **[!UICONTROL %]** for **[!UICONTROL View spend by]** .
 
+   1. Selecteer **[!UICONTROL Create]** als u klaar bent.
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
    1. Selecteer **[!UICONTROL Next]** .
