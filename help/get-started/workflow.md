@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Bekijk deze video voor een inleiding op de gebruikersworkflow in Mix Modeler.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424854/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440209/?learn=on&captions=dut)
 
 
 Een typische workflow in Mix Modeler bestaat uit de volgende activiteiten:
