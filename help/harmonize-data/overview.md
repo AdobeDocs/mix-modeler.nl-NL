@@ -3,9 +3,9 @@ title: Overzicht van gegevenssets harmoniseren
 description: Leer hoe u gegevens in Mix Modeler kunt harmoniseren.
 feature: Harmonized Data
 exl-id: 6cb70762-e3b2-46a0-b028-1d6daf3edae5
-source-git-commit: 857641f6c1db749f79056ce2a2ea35fc4d3e3a3c
+source-git-commit: 80fbb8aea3e66342a7887f1660af0f4bf05ffcdb
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1192'
 ht-degree: 4%
 
 ---
@@ -148,10 +148,34 @@ Om uw geharmoniseerde gegevens te zien, in de interface van Mix Modeler:
 
 1. U kunt de geharmoniseerde gegevens desgewenst downloaden.
 
-   1. Selecteer ![ Download ](/help/assets/icons/Download.svg) [!BADGE &#x200B; bèta &#x200B;].
+   1. Selecteer ![ Download ](/help/assets/icons/Download.svg) [!BADGE  bèta ].
    1. In popup, uitgezochte ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Create]**.
    1. Voer een **[!UICONTROL Report name]** in, bijvoorbeeld `Test Report` .
    1. Selecteer ![ FileCSV ](/help/assets/icons/FileCSV.svg) **[!UICONTROL Report]**.
 
    Een CSV-rapport met een titel die is gebaseerd op de door u opgegeven rapportnaam en huidige datum en tijd (bijvoorbeeld `Test Report_2025_04_23_9-5-18.csv`) wordt gedownload naar de standaarddownloadmap.
+
+
+## Aanbevolen procedures
+
+Wanneer u uw geharmoniseerde dataset bouwt, gelieve de volgende beste praktijken toe te passen.
+
+### Schema
+
+* Vermijd afwijkende gegevenstypen. De verschillen komen voor wanneer het gegevenstype van een gebied in verslagen van uw ingebedde datasets niet met het gegevenstype in overeenstemming is u voor dat gebied in het onderliggende schema vormde.
+* Vermijd onjuiste schematypen. Onjuiste schematypen komen voor wanneer u probeert om specifiek type van gegevens in te voeren gebruikend een dataset die niet het schema voor die gegevens aanpast. Bijvoorbeeld, probeert u om summiere gegevens in te voeren gebruikend een externe factordataset.
+
+### Gegevenstoewijzing
+
+* Zorg ervoor dat u de identiteiten correct hebt ingesteld voor elk van de gegevenssets voor gebeurtenissen.
+
+### Gegevenskwaliteit
+
+* Zorg ervoor dat u de datum- en tijdnotatie consistent gebruikt voor alle records in gegevenssets waarvoor gegevens met tijdstempel zijn vereist.
+* Zorg ervoor dat u dezelfde granulariteit (dag of week) gebruikt voor records in geaggregeerde gegevenssets of samenvattingsgegevenssets.
+
+### Berekening van de gegevens
+
+* Vermijd dubbele rijen in een dataset.
+* Zorg ervoor dat elke gegevensset die u uploadt specifiek is voor een uniek kanaal en conversietype. De dubbele aanraakpunten of omzettingen over veelvoudige datasets beïnvloeden modeloutput en kwaliteit.
 
