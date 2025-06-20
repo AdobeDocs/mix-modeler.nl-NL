@@ -49,7 +49,7 @@ Om een datumwaaier en een bijbehorend budget te schrappen, uitgezochte ![ Sluite
             1. Geef het bedrag van de maximumbegroting op. Het bedrag moet gelijk zijn aan of hoger zijn dan het totale bedrag van de voor de datumbereiken gespecificeerde begrotingen.
 
 
-      * **[!UICONTROL I have a target to achieve]** [!BADGE  Beta ]
+      * **[!UICONTROL I have a target to achieve]** [!BADGE &#x200B; Beta &#x200B;]
 
         ![ doel van het Plan ](../assets/plan-target.png)
 
@@ -108,6 +108,7 @@ Om een datumwaaier en bijbehorende doel metrisch te schrappen, uitgezochte ![ di
    1. Als u wilt schakelen tussen valuta- of percentageinvoer, selecteert u **[!UICONTROL $]** of **[!UICONTROL %]** for **[!UICONTROL View spend by]** . Deze schakeloptie is uitgeschakeld als u doelmeetgegevens hebt geselecteerd die niet op valuta zijn gebaseerd.
 
    1. Selecteer **[!UICONTROL Create]** als u klaar bent.
+
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
    1. Selecteer **[!UICONTROL Next]** .

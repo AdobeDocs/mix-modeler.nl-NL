@@ -114,6 +114,6 @@ Meerdere plannen verwijderen:
 
 1. Selecteer meerdere plannen.
 1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de plannen te schrappen.
-1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *plannen]**bevestigingsdialoog om de plannen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
+1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *plannen]**&#x200B;bevestigingsdialoog om de plannen te schrappen. Selecteer **[!UICONTROL Cancel]**&#x200B;om te annuleren.
 
 

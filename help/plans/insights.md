@@ -21,10 +21,10 @@ Wanneer de inzichten worden gecreeerd, ziet u een overzicht van uw plan, dat bes
 - Een header die de [!UICONTROL Model] , de [!UICONTROL Data range] en de [!UICONTROL Plan target] weergeeft waarop het abonnement is gebaseerd.
    - Voor het geval u een doel gebaseerd plan hebt bepaald, wijst een badge op de status van uw doel Mogelijke opties zijn:
 
-      - [!BADGE  Doel haalbaar ]{type=Positive}
-      - [!BADGE  Doel onuitvoerbaar ]{type=Negative}
+      - [!BADGE &#x200B; Doel haalbaar &#x200B;]{type=Positive}
+      - [!BADGE &#x200B; Doel onuitvoerbaar &#x200B;]{type=Negative}
 
-   - Selecteer ](/help/assets/icons/ChevronDown.svg) ChevronDown **[!UICONTROL Show more]** om meer details te tonen.![
+   - Selecteer ![&#128279;](/help/assets/icons/ChevronDown.svg) ChevronDown **[!UICONTROL Show more]** om meer details te tonen.
 
 - [[!UICONTROL Forecasted paid channel ROI] visualisatie](#forecasted-paid-channel-spend-and-roi)
 - [[!UICONTROL Forecasted revenue] visualisatie](#forecasted-revenue)
@@ -41,7 +41,7 @@ Wanneer de inzichten worden gecreeerd, ziet u een overzicht van uw plan, dat bes
 
 Selecteer **[!UICONTROL Close]** om de interface te sluiten.
 
-Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL  %]** at **[!UICONTROL View ROI]** .
+Als u wilt wijzigen hoe de ROI van uw abonnement wordt weergegeven, selecteert u **[!UICONTROL X]** of **[!UICONTROL &#x200B; %]** at **[!UICONTROL View ROI]** .
 
 ## Voorspelde betaalde kanaaluitgaven en ROI
 
@@ -143,7 +143,7 @@ Om een datumwaaier en een bijbehorend budget te schrappen, uitgezochte ![ Sluite
                1. Geef het bedrag van de maximumbegroting op. Het bedrag moet gelijk zijn aan of hoger zijn dan het totale bedrag van de voor de datumbereiken gespecificeerde begrotingen.
 
 
-         - **[!UICONTROL I have a target to achieve]** [!BADGE  Beta ]
+         - **[!UICONTROL I have a target to achieve]** [!BADGE &#x200B; Beta &#x200B;]
 
            ![ doel van het Plan ](../assets/plan-target.png)
 
