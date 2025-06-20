@@ -3,9 +3,9 @@ title: Overzicht van plannen
 description: Leer hoe u plannen in Mix Modeler kunt weergeven, selecteren en uitvoeren.
 feature: Plans
 exl-id: 45a8dc30-3259-493d-8ea5-1899903733a6
-source-git-commit: 09b0868cc6f631188b2609b1da81d1a6b6f0aa9f
+source-git-commit: f0871834ec665c907caf0af3edeeed4fb2549a58
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,12 @@ Als u een tabel met uw huidige plannen wilt weergeven, gaat u naar de interface 
    | Model | Het model dat als basis voor het plan wordt gebruikt. |
    | Datumbereik | Het volledige datumbereik voor een abonnement. |
    | Begroting | De totale begroting voor een plan. |
+   | Plan-doel | Het doel metrisch bepaalde voor een doel gebaseerd plan. |
    | Voorspelde terugkeer | De [ voorspelde terugkeer ](/help/main-guide/glossary.md) voor een plan |
    | voorspelde ROI | Het [ voorspelde ROI ](/help/main-guide/glossary.md) voor een plan. |
    | Voorspelde conversie | De [ voorspelde omzetting ](/help/main-guide/glossary.md) voor een plan |
    | Voorspelde CPA | [ voorspelde CPA ](/help/main-guide/glossary.md) voor een plan |
-   | Status | De status van een plan: <p><span style="color:red"> ・</span> Mislukt, <p><span style="color:blue"> ・</span> Verwerking, of <p><span style="color:green"> ・</span> Voltooid. |
+   | Status | De status van een plan: <p><span style="color:red">●</span> Mislukt, <p><span style="color:blue">●</span> Verwerken, of <p><span style="color:green">●</span> Voltooid. |
 
    {style="table-layout:auto"}
 
@@ -113,6 +114,6 @@ Meerdere plannen verwijderen:
 
 1. Selecteer meerdere plannen.
 1. Van de blauwe actiebar, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de plannen te schrappen.
-1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *plannen]**&#x200B;bevestigingsdialoog om de plannen te schrappen. Selecteer **[!UICONTROL Cancel]**&#x200B;om te annuleren.
+1. Selecteer **[!UICONTROL Delete]** in de **[!UICONTROL Delete *x *plannen]**bevestigingsdialoog om de plannen te schrappen. Selecteer **[!UICONTROL Cancel]**om te annuleren.
 
 

@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 58f8745a224407cfb8ce3912bde9f0f85b5d8b46
+source-git-commit: 498f50e4d1568e58d0ac2833022822340a5f6337
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '464'
 ht-degree: 7%
 
 ---
@@ -22,6 +22,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
+| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [ ](/help/plans/build.md) creeert of [ ](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
 | **het patroonconfig van de uitgaven** | Wanneer u een plan bouwt, hebt u nu de optie om [ historische verwijzings ](/help/plans/build.md) gegevens (als het verleden marketing uitgeeft gegevens en inzichten) te gebruiken wanneer het bepalen van het uitgavenpatroon voor elke waaier van de begrotingsdatum. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 | **Geavanceerde planconfiguraties** | U kunt [ geavanceerde configuraties ](/help/plans/build.md) voor uw plan, als gemiddelde opbrengst per omzetting en kanaalkosten bepalen. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 

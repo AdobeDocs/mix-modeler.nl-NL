@@ -1,9 +1,9 @@
 ---
 title: Geharmoniseerd gegevensdashboard
-description: Leer hoe u het dashboard met geharmoniseerde gegevensoverzichten in Mix Modeler gebruikt.
+description: Leer hoe u het dashboard voor een geharmoniseerd gegevensoverzicht in Mix Modeler kunt gebruiken.
 feature: Dashboard, Harmonized Data
 exl-id: fbb01613-d648-4db1-a782-a7720b7a03ad
-source-git-commit: f073e8f44fc2aa731a69725ebdb99700d1f91a91
+source-git-commit: 9776b79cfc4a8eaebecd4bce85cfc9d85329c910
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Geharmoniseerde gegevens
 
-Het **[!UICONTROL Harmonized data]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt inzichten in de geharmoniseerde gegevens u hebt gevormd om als deel van de opgenomen gegevens en de geharmoniseerde gegevensopstelling te worden gebruikt.
+Het **[!UICONTROL Harmonized data]** lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt inzichten in de geharmoniseerde gegevens u hebt gevormd om als deel van de ingebedde gegevens en de geharmoniseerde gegevensopstelling te worden gebruikt.
 
 Het overzicht toont vier KPI statuskaartvisualisaties (hoogste rij) en zes andere configureerbare visualisaties.
 
@@ -22,7 +22,7 @@ Om de datumperiode voor gegevens te veranderen die in de visualisaties moeten wo
 
 U kunt de gegevens filtreren die voor alle visualisaties worden getoond gebruikend de ![ ruit van de Filter ](/help/assets/icons/Filter.svg) **[!UICONTROL Category Filters]**.
 
-Selecteer een of meer filters voor elke categorie (**[!UICONTROL Brands]**, **[!UICONTROL Campaigns]**, **[!UICONTROL Cannels Type]**, **[!UICONTROL Conversion types]**, **[!UICONTROL Datasets]**, **[!UICONTROL Media types]**, **[!UICONTROL Source types]** en **[!UICONTROL Traffic Source]**).
+Selecteer een of meer filters voor elke categorie (**[!UICONTROL Brands]**, **[!UICONTROL Campaigns]**, **[!UICONTROL Channels Type]**, **[!UICONTROL Conversion types]**, **[!UICONTROL Datasets]**, **[!UICONTROL Media types]**, **[!UICONTROL Source types]** en **[!UICONTROL Traffic Source]**).
 
 Geselecteerde filters worden boven op de visualisaties bij **[!UICONTROL FILTERING BY:]** weergegeven.
 
@@ -56,7 +56,7 @@ U kunt elke visualisatie configureren.
       1. Selecteer een metrische waarde in **[!UICONTROL Select a metric]**, bijvoorbeeld **[!UICONTROL Impressions]** .
       1. Selecteer een categorie in **[!UICONTROL Select category]** , bijvoorbeeld **[!UICONTROL Media types]** .
       1. (optioneel) Selecteer een tweede categorie in **[!UICONTROL Select second category (optional)]** , bijvoorbeeld **[!UICONTROL Traffic sources]** .
-      1. Selecteer ![&#128279;](/help/assets/icons/Clock.svg) Klok **[!UICONTROL Time]** of ![ Rekenmachine ](/help/assets/icons/Calculator.svg) **[!UICONTROL Total]** als analysetype bij **[!UICONTROL Select analysis type]**.
+      1. Selecteer ](/help/assets/icons/Clock.svg) Klok **[!UICONTROL Time]** of ![ Rekenmachine ](/help/assets/icons/Calculator.svg) **[!UICONTROL Total]** als analysetype bij **[!UICONTROL Select analysis type]**.![
 
          Als u ![ Klok ](/help/assets/icons/Clock.svg) **[!UICONTROL Time]** selecteert, kunt u de tijdfrequentie specificeren. Selecteer **[!UICONTROL Daily]** , **[!UICONTROL Weekly]** , **[!UICONTROL Monthly]** of **[!UICONTROL Quarterly]** from **[!UICONTROL Select time frequency]** .
 

@@ -1,18 +1,18 @@
 ---
 title: Abonnementen vergelijken
-description: Leer hoe u plannen in de Mix Modeler kunt vergelijken.
+description: Leer hoe je plannen kunt vergelijken in Mix Modeler.
 feature: Plans
 exl-id: 40f6ade5-77eb-4ef7-ba60-4a2d2fcf1a60
-source-git-commit: 9a6c1f1c12ab29da80a1997cfd31ca07b38eaa22
+source-git-commit: f0871834ec665c907caf0af3edeeed4fb2549a58
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Abonnementen vergelijken
 
-Om plannen in de interface van de Abonnementen van de Mix Modeler te vergelijken:
+Plannen vergelijken in de interface voor Mix Modeler-plannen:
 
 * Selecteer ![ vergelijken ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare Plans]**. In Compare plannen, selecteer een plan voor elk **[!UICONTROL _Uitgezochte plan_]**.
 
@@ -20,15 +20,15 @@ Om plannen in de interface van de Abonnementen van de Mix Modeler te vergelijken
 
 De Compare planinterface toont informatie en visualisaties over:
 
-* Plan
-* Datumbereik
-* Model
-* Totale begroting
-* Kanaalbudgettering: **[!UICONTROL AI automated]** of **[!UICONTROL Custom + AI]**
-* Geplande uitgaven
-* Geraamde ROI (rendement van investeringen) of CPA (kosten per actie)
-* Uitsplitsing naar rendement van investeringen (rendement van investeringen) of CPA (kosten per actie)
-* Voorspelde terugkeer
+* **[!UICONTROL Plan]**. Als het plan een doel gebaseerd plan is, ziet u een badge die de status van het doel toont.
+* **[!UICONTROL Date range]**
+* **[!UICONTROL Model]**
+* **[!UICONTROL Total budget]**
+* **[!UICONTROL Channel budgeting]**: **[!UICONTROL AI automated]** of **[!UICONTROL Custom + AI]**
+* **[!UICONTROL Planned spend]**
+* **[!UICONTROL Forecasted ROI]** (return on investment) of **[!UICONTROL CPA]** (cost per action)
+* Uitsplitsing naar **[!UICONTROL ROI]** (rendement van investeringen) of **[!UICONTROL CPA]** (kosten per actie)
+* **[!UICONTROL Forecasted return]**
 
 Waarbij:
 
