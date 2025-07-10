@@ -31,7 +31,7 @@ Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICO
 De volgende tabbladen zijn beschikbaar:
 
 * [Modelinzichten](#model-insights)
-* [ Factoren ](#factors-beta) [!BADGE  bèta ]
+* [ Factoren ](#factors-beta) [!BADGE &#x200B; bèta &#x200B;]
 * [ Attributie ](#attribution) (slechts voor MTA toegelaten modellen)
 * [ Diagnose ](#diagnostics)
 * [ Historisch overzicht ](#historical-overview).
@@ -110,9 +110,9 @@ Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kan
 
 Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
-## **[!UICONTROL Factors]** [!BADGE  bèta ]
+## **[!UICONTROL Factors]** [!BADGE &#x200B; bèta &#x200B;]
 
-Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
+Het lusje van de Factoren [!BADGE &#x200B; bèta &#x200B;] toont externe factor verwante inzichten.
 
 ![ Factoren ](/help/assets/factors.png)
 
