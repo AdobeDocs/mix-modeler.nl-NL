@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u details over uw model kunt opvragen, zoals historisch overzicht, modelinzichten en modelkwaliteit in Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: d7386eb44b01fa42c2f0c501e09472af4458c4b1
+source-git-commit: e5fa52cee1725ddfe4d75c50857a1e5ef4daf5b2
 workflow-type: tm+mt
-source-wordcount: '2040'
+source-wordcount: '2255'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,19 @@ Deze inzichten helpen u dan om middelprioriteiten en toewijzing te steunen.
 
 Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler te bekijken:
 
-1. Van de **[!UICONTROL Models]** lijst, selecteer de naam van een model dat a **[!UICONTROL Last run status]** van <span style="color:green"> heeft </span> **[!UICONTROL Success]**.
+1. Selecteer in de tabel **[!UICONTROL Models]** de naam van een model met de waarde **[!UICONTROL Last run status]** of <span style="color:green">●</span> . **[!UICONTROL Success]**.
 
 1. Selecteer **[!UICONTROL Model Insights]** in het contextmenu.
 
-![ Model inzichten lusjebar ](/help/assets/model-insights-tabbar.png)
 
-U ziet wanneer het gespecificeerde model laatste verfrist is en de visualisaties gebruikend vier lusjes worden getoond: [ Modelinzichten ](#model-insights), [ Attributie ](#attribution), [ Factoren ](#factors), [ Diagnose ](#diagnostics), en [ Historisch overzicht ](#historical-overview).
+
+De volgende tabbladen zijn beschikbaar:
+
+* [Modelinzichten](#model-insights)
+* [ Factoren ](#factors-beta) [!BADGE  bèta ]
+* [ Attributie ](#attribution) (slechts voor MTA toegelaten modellen)
+* [ Diagnose ](#diagnostics)
+* [ Historisch overzicht ](#historical-overview).
 
 U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn gebaseerd. Ga een datumperiode in of selecteer ![ Kalender ](/help/assets/icons/Calendar.svg) om een datumperiode te selecteren.
 
@@ -36,7 +42,7 @@ U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn geba
 
 {{release-limited-testing-section}}
 
-Als het model zakt, wordt er een dialoogvenster **[!UICONTROL Model drift detected]** weergegeven met opties die later of direct [**[!UICONTROL Retrain]**](overview.md#retrain) aan het model moeten worden herinnerd. Als u **[!UICONTROL Remind me later]** selecteert, wordt u herinnerd de volgende dag of bij volgende login.
+Als het model zakt, wordt er een dialoogvenster **[!UICONTROL Model drift detected]** weergegeven met opties die later of direct aan [**[!UICONTROL Retrain]**](overview.md#retrain) het model moeten worden herinnerd. Als u **[!UICONTROL Remind me later]** selecteert, wordt u herinnerd de volgende dag of bij volgende login.
 
 ![ Model drift ontdekte dialoog ](/help/assets/model-drift-dialog.png)
 
@@ -57,9 +63,9 @@ Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en b
 
 Deze gestapelde grafiekvisualisatie wordt als volgt geordend:
 
-* Baseer aan de onderkant.
-* Niet-bestede kanalen in het midden.
-* Geef kanalen bovenaan.
+* De basis wordt onderaan weergegeven.
+* Kanalen die niet worden uitgegeven, worden in het midden weergegeven.
+* De steunkleurkanalen worden bovenaan weergegeven.
 
 Deze visualisatie vertegenwoordigt het bijdragepercentage dat wordt bereikt door basis, door uitgavenkanalen en door niet-bestede kanalen over een datumbereik. Deze visualisatie is handig om incrementele beelden te laten zien. De basis vertegenwoordigt wat zonder enige marketing überhaupt zou zijn gebeurd, en de niet-bestede kanalen plus uitgavenkanalen (bovenop de basis) attribuut aan uw marketing effect. Kortom, niet-bestede plus-uitgaven staan gelijk aan de incrementele impact van uw marketingactiviteiten en de visualisatie zorgt ervoor dat insight de waarde die marketing genereert, kan waarmaken.
 
@@ -84,7 +90,7 @@ Het kanaal wijzigen:
 
 ### Uitsplitsing naar aanraakpunt
 
-De lijst van de touchpoint onderbreking toont wekelijkse touchpoint onderverdelingen voor alle of geselecteerde kanalen op een wekelijkse basis, tonend zeer belangrijke metriek verbonden aan elk. De tabel maakt een eenvoudige vergelijking, identificatie van trends en het bijhouden van prestaties mogelijk op een korter kanaalniveau. Deze lijst vult uitdrukkelijk de [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media) visualisatie en de [ Bijdrage door kanaal ](#contribution-by-channel) visualisatie aan.
+De lijst van de touchpoint onderbreking toont wekelijkse touchpoint onderverdelingen voor alle of geselecteerde kanalen, op een wekelijkse basis, tonend zeer belangrijke metriek verbonden aan elk. De tabel maakt een eenvoudige vergelijking, identificatie van trends en het bijhouden van prestaties mogelijk op een korter kanaalniveau. Deze lijst vult uitdrukkelijk de [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media) visualisatie en de [ Bijdrage door kanaal ](#contribution-by-channel) visualisatie aan.
 
 ![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
 
@@ -104,9 +110,9 @@ Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kan
 
 Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
-## **[!UICONTROL Factors]** [!BADGE &#x200B; bèta &#x200B;]
+## **[!UICONTROL Factors]** [!BADGE  bèta ]
 
-Het lusje van de Factoren [!BADGE &#x200B; bèta &#x200B;] toont externe factor verwante inzichten.
+Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
 
 ![ Factoren ](/help/assets/factors.png)
 
@@ -228,37 +234,51 @@ Voor elk conversiepad ziet u:
 
 Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
 
-* [!UICONTROL Model Assessment] visualisatie, die u kunt onderverdelen op Ware versus Voorspelde of Resterende omzettingen.
+* **[!UICONTROL Model Assessment]** visualisaties, die bestaan uit:
 
-  Selecteer **[!UICONTROL Actual vs. Predicted]** of **[!UICONTROL Residuals]** in de lijst **[!UICONTROL Breakdown]** om de visualisatie te onderbreken.
+  ![ Modelbeoordeling ](../assets/model-assessment.png)
 
-* [!UICONTROL Model fitting metrics] tabel met de volgende kolommen voor elke metrische conversie:
+   * Een grafiek die u kunt afsplitsen op werkelijke versus voorspelde of restomzettingen.
+Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties in de lijst **[!UICONTROL Breakdown]** .
 
-   * Werkelijke omzetting
+      * **[!UICONTROL Actual vs Predicted]**: met deze optie worden echte waarden vergeleken met modelvoorspellingen. In het ideale geval zouden de voorspelde waarden strak moeten worden uitgelijnd met de werkelijke waarden, hoewel enige afwijking wordt verwacht. Grote of systematische afwijkingen of patronen kunnen wijzen op ontbrekende relaties en gegevens of potentiële vooroordelen.
 
-   * Modelomzetting
+      * **[!UICONTROL Residuals]**: met deze optie wordt het verschil getoond tussen werkelijke en voorspelde waarden. Een goed presterend model heeft residuen die willekeurig worden verdeeld, zonder duidelijke patronen of stijgende spreiding. Gestructureerde trends of het verbreden van residuen kunnen wijzen op ontbrekende relaties en gegevens of variantiekwesties.
 
-   * Restomzetting (verschil tussen werkelijke en gemodelleerde omzetting)
+   * Een tabel met de volgende kolommen voor elke metrische omzetting:
 
-   * Waarden voor modelkwaliteitsscore:
-
-      * R2 (R-kwadraat), dat vertelt hoe goed de gegevens in het regressiemodel passen (de goedheid van fit).
-
-      * MAPE (gemiddelde absolute percentagefout), een van de meest gebruikte PKI&#39;s om de nauwkeurigheid van de voorspelling te meten en geeft de voorspelde fout weer als percentage van de werkelijke waarde.
-
-      * RMSE (Root Mean Square Error): geeft de gemiddelde fout aan, gewogen volgens het vierkant van de fout.
+      * **[!UICONTROL Actual Conversion]**
+      * **[!UICONTROL Predicted Conversion]**
+      * **[!UICONTROL Residual Conversion]**
+      * **[!UICONTROL R<sup>2</sup>]**, een score die vertelt hoe goed de gegevens het regressiemodel (de goodness van passen) passen.
+      * **[!UICONTROL MAPE]** (Gemiddelde Absolute Percentagefout), een van de meest gebruikte PKI&#39;s om de nauwkeurigheid van de voorspelling te meten en geeft de voorspelde fout weer als een percentage van de werkelijke waarde.
+      * **[!UICONTROL RMSE]** (Basisgemiddelde vierkante fout): hiermee wordt de gemiddelde fout weergegeven, gewogen op basis van het vierkant van de fout.
 
   Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
 
-* [!UICONTROL Touchpoint effectiveness] , die het resultaat van het algoritmische model van Attribution AI vertegenwoordigt. De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
+* **[!UICONTROL Model training fit metrics]** die voor elke metrische conversie wordt weergegeven:
+
+  ![ Model de opleiding past metrieke lijst ](../assets/model-training-fit-metrics.png)
+
+   * **[!UICONTROL Training R<sup>2</sup>]**: Wijst op het aandeel van variatie in de daadwerkelijke waarden die door de voorspellingen van het model worden verklaard, die zich van 0 tot 1 uitstrekken.
+   * **[!UICONTROL Training sMAPE]** (symmetrisch gemiddelde absolute percentagefout): hiermee wordt het gemiddelde percentage van de fout in de trainingsgegevens gemeten. Lagere waarden geven een betere nauwkeurigheid aan.
+   * **[!UICONTROL Training RMSE]** (basisgemiddelde kwadraatfout): hiermee wordt het gemiddelde percentage van de fout in de trainingsgegevens gemeten. Past grotere fouten meer dan MAPE. Lagere RMSE suggereert betere voorspellende nauwkeurigheid maar is gevoelig voor uitschieters.
+   * **[!UICONTROL Out-of-sample sMAPE]**: evalueert percentagefout op onzichtbare gegevens, in evenwicht brengend over en ondervoorspelt. Helpt de generalisatie te beoordelen. Momenteel evalueert Mix Modeler het percentage van de fout met behulp van het laatste kwartaal van de trainingsgegevens als een holdout-set.
+   * **[!UICONTROL Out-of-sample RMSE]**: evalueert percentagefout op onzichtbare gegevens, in evenwicht brengend over en ondervoorspelt. Helpt de generalisatie te beoordelen. Momenteel evalueert Mix Modeler het percentage van de fout met behulp van het laatste kwartaal van de trainingsgegevens als een holdout-set. RMSE penalizes grotere fouten meer dan MAPE.
+
+
+* **[!UICONTROL Touchpoint effectiveness]** , die het resultaat van het algoritmische model van Attribution AI vertegenwoordigt.
+
+  ![ lijst van de PuntDoeltreffendheid ](../assets/touchpoint-effectiveness.png)
+
+  De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
 
   De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
-   * [!UICONTROL Paths touched]: visualiseert het percentage paden dat omgezet en het percentage paden dat geen omzetting bereikt. Voor een aanraakpunt ziet u meer toegeschreven omzettingen wanneer de hoogte van de conversieverhouding van de eigenschap is. Deze verhouding vergelijkt het percentage wegen die tot omzetting tegenover het percentage wegen leiden die *niet* tot omzetting leiden.
-   * [!UICONTROL Efficiency measure]: wordt gegenereerd door het algoritmische toewijzingsmodel. De efficiëntiemaatstaf geeft het relatieve belang aan van een aanraakpunt voor conversie, onafhankelijk van het aanraakpuntvolume. De efficiëntie wordt gemeten op een schaal van 1 tot 5. Het hogere aanraakpuntvolume garandeert geen hogere efficiëntiemaatstaf.
-   * [!UICONTROL Total volume]: Het totale aantal keren dat een gebruiker een aanraakpunt aanraakt. Het aantal is inclusief van aanraakpunten die op een weg verschijnen die omzetting evenals wegen *bereiken niet* resulterend in omzetting.
+   * **[!UICONTROL Paths touched]**: visualiseert het percentage paden dat omgezet en het percentage paden dat geen omzetting bereikt. Voor een aanraakpunt ziet u meer toegeschreven omzettingen wanneer de hoogte van de conversieverhouding van de eigenschap is. Deze verhouding vergelijkt het percentage wegen die tot omzetting tegenover het percentage wegen leiden die *niet* tot omzetting leiden.
+   * **[!UICONTROL Efficiency measure]**: wordt gegenereerd door het algoritmische toewijzingsmodel. De efficiëntiemaatstaf geeft het relatieve belang aan van een aanraakpunt voor conversie, onafhankelijk van het aanraakpuntvolume. De efficiëntie wordt gemeten op een schaal van 1 tot 5. Het hogere aanraakpuntvolume garandeert geen hogere efficiëntiemaatstaf.
+   * **[!UICONTROL Total volume]**: Het totale aantal keren dat een gebruiker een aanraakpunt aanraakt. Het aantal is inclusief van aanraakpunten die op een weg verschijnen die omzetting evenals wegen *bereiken niet* resulterend in omzetting.
 
-![ Diagnose ](/help/assets/model-insights-diagnostics.png)
 
 ### Modeldriftdetectie
 
