@@ -1,16 +1,22 @@
 ---
 title: Marketing-aanraakpunten
-description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
+description: Leer hoe u marketingaanraakpunten maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Mix Modeler.
 feature: Harmonized Data, Marketing Touch Points
 exl-id: 42851107-7568-4bc9-92ca-3cba713a522e
-source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
+source-git-commit: b3e52a34f26574961823c08859f17e2e6f1fdcd3
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-# Marketing-aanraakpunten
+# Marketing-aanraakpunten {#marketing-touchpoints}
+
+>[!CONTEXTUALHELP]
+>id="harmonizeddata_marketingtouchpoint"
+>title="Marketing-aanspreekpunt"
+>abstract="Marketing-aanraakpunten zijn marketinggebeurtenissen op het niveau van ontvangers, individuen en cookies die worden gebruikt om het effect van marketinginvesteringen op numerieke of op inkomsten gebaseerde conversies te evalueren."
+
 
 Marketing-aanraakpunten zijn marketinggebeurtenissen op het niveau van ontvangers, individuen en cookies die worden gebruikt om het effect van marketinginvesteringen op numerieke of op inkomsten gebaseerde conversies te evalueren.
 
@@ -18,7 +24,7 @@ U bepaalt marketing aanraakpunten om u bij attributieanalyse te helpen.
 
 ## Marketing-aanraakpunten beheren
 
-Om een lijst van de beschikbare marketing touchpoints in de interface van de Mix Modeler te zien:
+Een tabel weergeven met de beschikbare marketingaanraakpunten in de Mix Modeler-interface:
 
 1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
@@ -52,7 +58,7 @@ Om een marketing aanraakpunt toe te voegen, in ![ DataSearch ](/help/assets/icon
 
       1. Selecteer een waarde voor exploitant ![ Chevron ](/help/assets/icons/ChevronDown.svg), bijvoorbeeld **[!UICONTROL is]**.
 
-      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**&#x200B;of ga een waarde in, bijvoorbeeld **[!DNL Luma]**.
+      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**of ga een waarde in, bijvoorbeeld **[!DNL Luma]**.
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Touchpoint volume]**, bijvoorbeeld **[!UICONTROL Impressions]** .
 
@@ -94,5 +100,5 @@ Een rapport van een marketingaanraakpunt weergeven:
 Een marketingaanraakpunt verwijderen:
 
 1. Selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **Schrapping** wanneer het hangen over een marketing touchpoint naam in de lijst.
-1. Selecteer **[!UICONTROL Delete]** in het dialoogvenster voor bevestiging van het dialoogvenster **[!UICONTROL Delete touchpoint]** om het marketingaanraakpunt permanent te verwijderen.
+1. Selecteer **[!UICONTROL Delete touchpoint]** in het dialoogvenster voor bevestiging van het dialoogvenster **[!UICONTROL Delete]** om het marketingaanraakpunt permanent te verwijderen.
 

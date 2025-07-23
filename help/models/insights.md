@@ -3,9 +3,9 @@ title: Modelinzichten
 description: Leer hoe u details over uw model kunt opvragen, zoals historisch overzicht, modelinzichten en modelkwaliteit in Mix Modeler.
 feature: Models
 exl-id: d99852f9-ba0d-4a2e-b5f3-ca0efe6002fd
-source-git-commit: e5fa52cee1725ddfe4d75c50857a1e5ef4daf5b2
+source-git-commit: b3e52a34f26574961823c08859f17e2e6f1fdcd3
 workflow-type: tm+mt
-source-wordcount: '2255'
+source-wordcount: '2333'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICO
 De volgende tabbladen zijn beschikbaar:
 
 * [Modelinzichten](#model-insights)
-* [ Factoren ](#factors-beta) [!BADGE &#x200B; bèta &#x200B;]
+* [ Factoren ](#factors-beta) [!BADGE  bèta ]
 * [ Attributie ](#attribution) (slechts voor MTA toegelaten modellen)
 * [ Diagnose ](#diagnostics)
 * [ Historisch overzicht ](#historical-overview).
@@ -110,9 +110,9 @@ Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kan
 
 Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
-## **[!UICONTROL Factors]** [!BADGE &#x200B; bèta &#x200B;]
+## **[!UICONTROL Factors]** [!BADGE  bèta ]
 
-Het lusje van de Factoren [!BADGE &#x200B; bèta &#x200B;] toont externe factor verwante inzichten.
+Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
 
 ![ Factoren ](/help/assets/factors.png)
 
@@ -230,9 +230,30 @@ Voor elk conversiepad ziet u:
 * de som van deze bijdragepercentages van het kanaaltoewijzingsmodel.
 
 
-## [!UICONTROL Diagnostics]
+## [!UICONTROL Diagnostics] {#diagnostics}
 
-Op het tabblad Diagnostiek worden visualisaties weergegeven voor:
+
+>[!CONTEXTUALHELP]
+>id="models_diagnostics_modelassessment"
+>title="Modelbeoordelingsgrafieken"
+>abstract="Modelbeoordelingsvisualisaties worden afgebroken op feitelijke versus voorspelde of residuele omzettingen."
+>additional-url="https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview" text="Mix Modeler-overzicht"
+>additional-url="https://video.tv.adobe.com/v/3440794/?learn=on&amp;enablevpops" text="Mix Modeler demo"
+
+
+>[!CONTEXTUALHELP]
+>id="models_diagnostics_pathstouched"
+>title="Paden aangeraakt"
+>abstract="Paden die worden aangeraakt, zijn het percentage paden dat wordt omgezet en het percentage paden dat niet voor elk aanraakpunt wordt omgezet."
+
+
+>[!CONTEXTUALHELP]
+>id="models_diagnostics_modeldateinfo"
+>title="Modeldatum vanaf"
+>abstract="De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd.  De **[!UICONTROL As of]** -datum geeft aan wanneer de gegevens zijn gegenereerd en is gebaseerd op gegevens van startDate tot endDate."
+
+
+Op het tabblad **[!UICONTROL Diagnostics]** worden visualisaties weergegeven voor:
 
 * **[!UICONTROL Model Assessment]** visualisaties, die bestaan uit:
 
@@ -271,7 +292,7 @@ Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties 
 
   ![ lijst van de PuntDoeltreffendheid ](../assets/touchpoint-effectiveness.png)
 
-  De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx:xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
+  De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx :xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
 
   De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
