@@ -58,7 +58,7 @@ Om een marketing aanraakpunt toe te voegen, in ![ DataSearch ](/help/assets/icon
 
       1. Selecteer een waarde voor exploitant ![ Chevron ](/help/assets/icons/ChevronDown.svg), bijvoorbeeld **[!UICONTROL is]**.
 
-      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**of ga een waarde in, bijvoorbeeld **[!DNL Luma]**.
+      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**&#x200B;of ga een waarde in, bijvoorbeeld **[!DNL Luma]**.
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Touchpoint volume]**, bijvoorbeeld **[!UICONTROL Impressions]** .
 
