@@ -1,18 +1,18 @@
 ---
 title: Gegevensregels
-description: Leer hoe te om datasetregels te bepalen als deel van het harmoniseren van uw gegevens in Mix Modeler te gebruiken.
+description: Leer hoe u gegevenssetregels definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Mix Modeler.
 feature: Harmonized Data, Dataset Rules
 exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
-source-git-commit: a8590d604f79268bc8d1f012f2c19271a3b38668
+source-git-commit: 6fb23f4c970b7491730342a6a5a03f4e04c26bd1
 workflow-type: tm+mt
-source-wordcount: '1407'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
 
 # Gegevensregels
 
-De gegevenssetregels helpen u bij het in kaart brengen van uw geharmoniseerde gebieden met gebieden van de gegevens u in Mix Modeler hebt opgenomen.
+Met de gegevenssetregels kunt u geharmoniseerde velden toewijzen aan velden uit de gegevens die u hebt ingevoerd in Mix Modeler.
 
 * Voor geaggregeerde gegevens die u in Adobe Experience Platform hebt ingevoerd, wijst u een of meer van de beschikbare gegevenssetvelden toe aan de juiste geharmoniseerde velden.
 * Voor gebeurtenisgegevens kunt u een of meer geharmoniseerde velden afzonderlijk toewijzen aan velden uit de gegevensset, rechtstreeks of met behulp van voorwaarden.
@@ -20,7 +20,7 @@ De gegevenssetregels helpen u bij het in kaart brengen van uw geharmoniseerde ge
 
 ## Gegevenssetregels beheren
 
-Om een lijst van de beschikbare datasetregels, in de interface van de Mix Modeler te zien:
+Een lijst van de beschikbare datasetregels, in de interface van Mix Modeler zien:
 
 1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
@@ -32,10 +32,10 @@ De tabelkolommen geven details over de gegevenssetregels op:
 | ---------------------- | ----------|
 | Gegevensset | De naam van de gegevensset. |
 | Source | De bron van de gegevensset: Adobe Analytics, Experience Events, Summary (aggregaat) of Consumer Experience Events. |
-| Schema | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in ![&#128279;](/help/assets/icons/Schemas.svg) Schema [ Schema&#39;s ](../ingest-data/schemas.md) te openen. |
+| Schema | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in ![ Schema ](/help/assets/icons/Schemas.svg) Schema&#39;s [ te openen.](../ingest-data/schemas.md) |
 | Korreligheid | De granulariteit van gegevens in de dataset. Mogelijke waarden zijn Dagelijks, Wekelijks, Maandelijks of Jaarlijks. |
 | Begin van de week | Geeft aan welke dag van de week wordt beschouwd als het begin van een nieuwe week voor de specifieke gegevensset. |
-| Status | De status van het veld: <p><span style="color:gray"> ・</span> Concept of <p><span style="color:green"> ・</span> Actief |
+| Status | De status van het veld: <p><span style="color:gray">●</span> Concept of <p><span style="color:green">●</span> Actief |
 | Laatst gewijzigd | Gegevens en tijd van de laatste wijziging van de gegevenssetregel. |
 
 {style="table-layout:auto"}
@@ -52,19 +52,7 @@ In het **[!UICONTROL Create]** -scherm
 
 1. Selecteer **[!UICONTROL Daily]** , **[!UICONTROL Weekly]** , **[!UICONTROL Monthly]** of **[!UICONTROL Yearly]** for **[!UICONTROL Granularity]** .
 
-1. Wanneer u een dataset van de **[!UICONTROL Summary]** categorie hebt geselecteerd:
-
-   1. Selecteer **[!UICONTROL Aggregation]** of **[!UICONTROL Replacement]** for **[!UICONTROL Data restatement is by]** om te bepalen of gegevens voor de gegevensset bestaande gegevens aggregeren of vervangen.
-
-   1. Wijs elk van de **[!UICONTROL Available dataset fields]** toe aan de overeenkomende **[!UICONTROL Standard harmonized fields]** in **[!UICONTROL Map to harmonized fields]** . Als u een gegevenssetveld niet wilt toewijzen aan een geharmoniseerd veld, selecteert u expliciet **[!UICONTROL -- None --]** .
-
-   1. Als u een nieuw geharmoniseerd veld nodig hebt dat niet in de lijst beschikbaar is, selecteert u **[!UICONTROL Create New]** om een nieuw geharmoniseerd veld te maken. U ziet de dialoog zoals geschetst in [ een nieuw geharmoniseerd gebied ](fields.md#add-a-harmonized-field) toevoegen.
-
-   1. Wanneer de toewijzing voor alle gebieden voor de regel wordt voltooid, uitgezocht **[!UICONTROL Save as draft]** om een ontwerp versie van de regel te bewaren of **[!UICONTROL Save]** om de regel te bewaren en te activeren. Selecteer **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
-
-      ![ creeer datasetregels ](/help/assets/dataset-create-summary.png)
-
-1. Wanneer u een gegevensset met gebeurteniscategorieën (**[!UICONTROL Experience Events]**, **[!UICONTROL Adobe Analytics]**, **[!UICONTROL Consumer Experience Events]**) hebt geselecteerd in het vak onder **[!UICONTROL Map to harmonized fields]** :
+1. In de sectie **[!UICONTROL Map to harmonized fields]** :
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Standard harmonized field]** .
 
@@ -72,17 +60,17 @@ In het **[!UICONTROL Create]** -scherm
 
       1. Selecteer **[!UICONTROL Count]** of **[!UICONTROL Sum]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Selecteer een **[!UICONTROL *gebied van de dataset van AEP *]**&#x200B;dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
+      1. Selecteer een **[!UICONTROL *datasetgebied van AEP *]**dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
 
    1. Wanneer het geselecteerde veld van het type afmeting is:
 
       1. Selecteer **[!UICONTROL Map Into]** of **[!UICONTROL Case]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *AEP datasetgebied *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
+      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *de datasetgebied van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
 
-      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *AEP datasetgebied *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
+      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *gebied van de dataset van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
 
-         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *AEP datasetgebied *]**&#x200B;controleren of het **[!UICONTROL Exists]**&#x200B;of **[!UICONTROL Not Exists]**&#x200B;of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**&#x200B;een waarde ingegaan bij&#x200B;**[!UICONTROL * gaat inputwaarde *]** in.
+         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *gebied van de dataset van AEP *]**controleren of het **[!UICONTROL Exists]**of **[!UICONTROL Not Exists]**of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**een waarde ingegaan bij**[!UICONTROL * gaat inputwaarde *]** in.
 
          1. Om een ander geval toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add case]** toe, om een andere voorwaarde toe te voegen, ![ toe ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add condition]**.
 
@@ -103,9 +91,24 @@ In het **[!UICONTROL Create]** -scherm
 
         ![ gebeurtenis van de de regelregel van de Dataset ](/help/assets/dataset-create-event.png)
 
+      Wanneer u een standaard geharmoniseerd gebied van een summiere dataset in kaart brengt, probeert Mix Modeler om het overeenkomstige de datasetgebied van Experience Platform af te trekken. Wanneer gelukt:
+
+      * Als het veld een dimensie heeft, wordt **[!UICONTROL Map into]** geselecteerd als **[!UICONTROL Mapping type]** .
+      * Als het veld metrisch is, wordt **[!UICONTROL Sum]** geselecteerd als **[!UICONTROL Mapping type]** .
+      * **[!UICONTROL Field]** wordt geselecteerd als het **[!UICONTROL Default]** toewijzingstype.
+      * Het overeenkomstige de datasetgebied van Experience Platform wordt automatisch opgenomen voor *het Gebied van de Dataset van AEP*.
+
+      U kunt de voorgestelde waarden wijzigen als deze onjuist zijn of als dit uw specifieke gebruiksscenario niet ondersteunt.
+
 1. Selecteer ![ toevoegen ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add field]** om extra gebieden te bepalen.
 
 Als u klaar bent, selecteert u **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren. Selecteer **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
+
+>[!NOTE]
+>
+>De toegewezen **[!UICONTROL Map to harmonized fields]** ervaring voor samenvattingsregels voor gegevenssets is afgekeurd. Alle gegevenssets gebruiken nu dezelfde algemene **[!UICONTROL Map to harmonized fields]** ervaring. Voor summiere datasets waarvoor u regels gebruikend verouderde **[!UICONTROL Map to harmonized fields]** ervaring hebt bepaald, zou u deze regels tegen de generische **[!UICONTROL Map to harmonized field]** ervaring kunnen willen verifiëren.
+>
+
 
 
 ### Een gegevenssetregel bewerken
@@ -122,6 +125,7 @@ Om een datasetregel te schrappen, in ![ DataSearch ](/help/assets/icons/DataChec
 
 1. Selecteer ![ Meer ](/help/assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt schrappen.
 1. Van het contextmenu, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetregel te schrappen. U wordt om bevestiging gevraagd. Selecteer **[!UICONTROL Delete]** om de geselecteerde gegevenssetregel permanent te verwijderen.
+
 
 
 ## Gegevens synchroniseren
@@ -144,7 +148,7 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 
 >[!NOTE]
 >
->[!BADGE &#x200B; bèta &#x200B;]{type=Informative}
+>[!BADGE  bèta ]{type=Informative} De voorkeur van de fusie van Gegevens is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering.
 
 Voor nauwkeurige modelvoorspellingen kunt u voorkeuren voor gegevenssamenvoeging definiëren. Met deze functionaliteit kunnen gebruikers eventuele conflicten oplossen na het samenvoegen van gegevens op overzichtsniveau en op gebeurtenisniveau.
 
@@ -168,9 +172,9 @@ De meest voorkomende gebruiksgevallen zijn:
 Voorkeuren voor gegevenssamenvoeging configureren:
 
 
-1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE &#x200B; bèta &#x200B;].
+1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE  bèta ].
 
-1. In **[!UICONTROL Data merge preferences]** [!BADGE &#x200B; bèta &#x200B;]{type=Informative}
+1. In de **[!UICONTROL Data merge preferences]** [!BADGE  bèta ]{type=Informative} dialoog:
 
    ![ de fusievoorkeur van Gegevens ](/help/assets/data-merge-preferences.png)
 
@@ -179,7 +183,7 @@ Voorkeuren voor gegevenssamenvoeging configureren:
    * Specifieke op metrische basis gebaseerde voorkeuren toevoegen:
 
       1. Selecteer ![ plus ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a metric]**.
-         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**&#x200B;lijst.
+         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**lijst.
          1. Selecteer **[!UICONTROL CHANNELS]** of **[!UICONTROL CONVERSION TYPES]** . Selecteer in de lijst **[!UICONTROL All]** of een specifiek kanaal of conversietype.
          1. Selecteer **[!UICONTROL Summary]** of **[!UICONTROL Event]** om op te geven of summiere gegevens of gebeurtenisgegevens bij het samenvoegen van gegevens de voorkeur hebben voor de metrische gegevens (en voor alle gegevens of voor het geselecteerde kanaal).
 
