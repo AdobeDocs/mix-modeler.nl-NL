@@ -3,9 +3,9 @@ title: Gegevensregels
 description: Leer hoe u gegevenssetregels definieert die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in Mix Modeler.
 feature: Harmonized Data, Dataset Rules
 exl-id: 57d7940a-2900-4814-a30d-bb02bff7615d
-source-git-commit: 6fb23f4c970b7491730342a6a5a03f4e04c26bd1
+source-git-commit: 6862d9a49718fe9d1ee1d5bec75b0dc83e14a090
 workflow-type: tm+mt
-source-wordcount: '1421'
+source-wordcount: '1625'
 ht-degree: 0%
 
 ---
@@ -52,6 +52,14 @@ In het **[!UICONTROL Create]** -scherm
 
 1. Selecteer **[!UICONTROL Daily]** , **[!UICONTROL Weekly]** , **[!UICONTROL Monthly]** of **[!UICONTROL Yearly]** for **[!UICONTROL Granularity]** .
 
+1. Wanneer u een gegevensset van de categorie **[!UICONTROL Summary]** hebt geselecteerd, selecteert u **[!UICONTROL Aggregation]** of **[!UICONTROL Replacement]** voor **[!UICONTROL Data restatement is by]** .
+
+   Het rapporteren van gegevens van uitgevers is zeer belangrijk voor marketinganalisten, aangezien het werken met uitgevers vaak aanzienlijke uitgaven met zich meebrengt, en wijzigingen in de rapportagegegevens kunnen leiden tot zeer verschillende inzichten en investeringsplannen. Daarnaast hebben marketinganalisten nauwkeurige gegevens nodig om de juiste inzichten te verkrijgen en overtuigende voorstellen te doen om het vertrouwen van de belanghebbenden te winnen. Deze uitgevers, zoals Google en Facebook, hernoemen of verwijderen echter vaak de rapportgegevens omdat ze hun gegevens met elkaar in overeenstemming brengen. Het tijdsbestek voor de meeste wijzigingen ligt binnen 7 dagen na de mediaprestaties. Extra wijzigingen in de gegevens zijn mogelijk binnen 30 dagen. Over het algemeen worden boeken na 30 dagen als gesloten beschouwd en zijn de gegevens volledig.
+
+   Mix Modeler ondersteunt gegevensherschikking. Om ervoor te zorgen dat de gegevens die voor rapportering, modellering, en planning worden gebruikt nauwkeurig zijn. En dat de gegevens in staat zijn om de verwachtingen en behoeften van de merk- en marketinganalist te ondersteunen.
+
+   U kunt opnieuw vermelde rijen van summiere gegevens als stijgende rijen in een dataset van Experience Platform verzenden en de harmonisatiedienst werkt de geharmoniseerde dataset met die aangepaste gegevens bij. Op dezelfde manier kunt u rijen samenvattingsgegevens ook verwijderen die in de harmonisatiedienst moeten worden weerspiegeld.
+
 1. In de sectie **[!UICONTROL Map to harmonized fields]** :
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Standard harmonized field]** .
@@ -60,17 +68,17 @@ In het **[!UICONTROL Create]** -scherm
 
       1. Selecteer **[!UICONTROL Count]** of **[!UICONTROL Sum]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Selecteer een **[!UICONTROL *datasetgebied van AEP *]**&#x200B;dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
+      1. Selecteer een **[!UICONTROL *datasetgebied van AEP *]**dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
 
    1. Wanneer het geselecteerde veld van het type afmeting is:
 
       1. Selecteer **[!UICONTROL Map Into]** of **[!UICONTROL Case]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *de datasetgebied van AEP *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
+      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *de datasetgebied van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
 
-      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *gebied van de dataset van AEP *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
+      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *gebied van de dataset van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
 
-         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *gebied van de dataset van AEP *]**&#x200B;controleren of het **[!UICONTROL Exists]**&#x200B;of **[!UICONTROL Not Exists]**&#x200B;of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**&#x200B;een waarde ingegaan bij&#x200B;**[!UICONTROL * gaat inputwaarde *]** in.
+         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *gebied van de dataset van AEP *]**controleren of het **[!UICONTROL Exists]**of **[!UICONTROL Not Exists]**of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**een waarde ingegaan bij**[!UICONTROL * gaat inputwaarde *]** in.
 
          1. Om een ander geval toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add case]** toe, om een andere voorwaarde toe te voegen, ![ toe ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add condition]**.
 
@@ -148,7 +156,7 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 
 >[!NOTE]
 >
->[!BADGE &#x200B; bèta &#x200B;]{type=Informative} De voorkeur van de fusie van Gegevens is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering.
+>[!BADGE  bèta ]{type=Informative} De voorkeur van de fusie van Gegevens is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering.
 
 Voor nauwkeurige modelvoorspellingen kunt u voorkeuren voor gegevenssamenvoeging definiëren. Met deze functionaliteit kunnen gebruikers eventuele conflicten oplossen na het samenvoegen van gegevens op overzichtsniveau en op gebeurtenisniveau.
 
@@ -172,9 +180,9 @@ De meest voorkomende gebruiksgevallen zijn:
 Voorkeuren voor gegevenssamenvoeging configureren:
 
 
-1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE &#x200B; bèta &#x200B;].
+1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE  bèta ].
 
-1. In de **[!UICONTROL Data merge preferences]** [!BADGE &#x200B; bèta &#x200B;]{type=Informative} dialoog:
+1. In de **[!UICONTROL Data merge preferences]** [!BADGE  bèta ]{type=Informative} dialoog:
 
    ![ de fusievoorkeur van Gegevens ](/help/assets/data-merge-preferences.png)
 
@@ -183,7 +191,7 @@ Voorkeuren voor gegevenssamenvoeging configureren:
    * Specifieke op metrische basis gebaseerde voorkeuren toevoegen:
 
       1. Selecteer ![ plus ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a metric]**.
-         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**&#x200B;lijst.
+         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**lijst.
          1. Selecteer **[!UICONTROL CHANNELS]** of **[!UICONTROL CONVERSION TYPES]** . Selecteer in de lijst **[!UICONTROL All]** of een specifiek kanaal of conversietype.
          1. Selecteer **[!UICONTROL Summary]** of **[!UICONTROL Event]** om op te geven of summiere gegevens of gebeurtenisgegevens bij het samenvoegen van gegevens de voorkeur hebben voor de metrische gegevens (en voor alle gegevens of voor het geselecteerde kanaal).
 
