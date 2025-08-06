@@ -4,25 +4,33 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 498f50e4d1568e58d0ac2833022822340a5f6337
+source-git-commit: d22bb8c9526821c28c9a59967e1be399957d3051
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '518'
 ht-degree: 7%
 
 ---
 
 # Opmerkingen bij de release van Mix Modeler
 
-**Laatste update**: 14 mei, 2025.
+**Laatste update**: 6 augustus 2025.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix Modeler-releases werken op een doorlopend leveringsmodel, dat een gemiddelde maandelijkse release mogelijk maakt. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+
+
+
+## Juli - augustus 2025
+
+| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
+|---|---|---|---|
+| **de updates van de Harmonisatie** | Alle datasetregels gebruiken nu een gelijkaardige [ generische Kaart aan geharmoniseerde gebiedservaring ](/help/harmonize-data/dataset-rules.md), ongeacht het datasettype. Wanneer u een standaard geharmoniseerd gebied van een summiere dataset in kaart brengt, probeert Mix Modeler om het overeenkomstige de datasetgebied van Experience Platform automatisch af te trekken. | woensdag 29 juli 2025 | woensdag 29 juli 2025 |
 
 
 ## Mei - juni 2025
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [&#128279;](/help/plans/build.md) creeert of [&#128279;](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
+| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [ ](/help/plans/build.md) creeert of [ ](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
 | **het patroonconfig van de uitgaven** | Wanneer u een plan bouwt, hebt u nu de optie om [ historische verwijzings ](/help/plans/build.md) gegevens (als het verleden marketing uitgeeft gegevens en inzichten) te gebruiken wanneer het bepalen van het uitgavenpatroon voor elke waaier van de begrotingsdatum. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 | **Geavanceerde planconfiguraties** | U kunt [ geavanceerde configuraties ](/help/plans/build.md) voor uw plan, als gemiddelde opbrengst per omzetting en kanaalkosten bepalen. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 
