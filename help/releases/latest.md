@@ -4,7 +4,7 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: d22bb8c9526821c28c9a59967e1be399957d3051
+source-git-commit: be13e5c45603963b994b751c589901238e09d2dc
 workflow-type: tm+mt
 source-wordcount: '518'
 ht-degree: 7%
@@ -30,7 +30,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [&#128279;](/help/plans/build.md) creeert of [&#128279;](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
+| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [ ](/help/plans/build.md) creeert of [ ](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
 | **het patroonconfig van de uitgaven** | Wanneer u een plan bouwt, hebt u nu de optie om [ historische verwijzings ](/help/plans/build.md) gegevens (als het verleden marketing uitgeeft gegevens en inzichten) te gebruiken wanneer het bepalen van het uitgavenpatroon voor elke waaier van de begrotingsdatum. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 | **Geavanceerde planconfiguraties** | U kunt [ geavanceerde configuraties ](/help/plans/build.md) voor uw plan, als gemiddelde opbrengst per omzetting en kanaalkosten bepalen. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 
@@ -56,7 +56,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 ## Releasestrategie
 
-[!UICONTROL Mixx Modeler] gebruikt functiemarkeringen (ook wel &#39;schakelmarkeringen&#39; genoemd) om de zichtbaarheid van nieuwe functies te bepalen, zodat u de functionaliteit op gecontroleerde schaal kunt testen voordat de volledige versie wordt uitgebracht. Deze releasestrategie omvat de volgende fasen:
+[!UICONTROL Mix Modeler] gebruikt functiemarkeringen (ook wel &#39;schakelmarkeringen&#39; genoemd) om de zichtbaarheid van nieuwe functies te bepalen, zodat u de functionaliteit op gecontroleerde schaal kunt testen voordat de volledige versie wordt uitgebracht. Deze releasestrategie omvat de volgende fasen:
 
 * **Beperkte het Testen**: Een gefaseerde versie begint met het testen door interne gebruikers van Adobe. Het wordt dan ter beschikking gesteld aan een kleine groep klantenrekeningen om ervoor te zorgen dat de eigenschap aan klantenbehoeften en verwachtingen voldoet.
 
