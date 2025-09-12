@@ -3,7 +3,7 @@ title: Abonnementen maken
 description: Leer hoe u plannen maakt in Mix Modeler.
 feature: Plans
 exl-id: 6d61d0b2-5871-4d00-9a35-73fff0a1c3e5
-source-git-commit: 498f50e4d1568e58d0ac2833022822340a5f6337
+source-git-commit: 20985d0f9e9d2990b881ab448f6475e4bb8244d1
 workflow-type: tm+mt
 source-wordcount: '948'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Om een datumwaaier en een bijbehorend budget te schrappen, uitgezochte ![ Sluite
             1. Geef het bedrag van de maximumbegroting op. Het bedrag moet gelijk zijn aan of hoger zijn dan het totale bedrag van de voor de datumbereiken gespecificeerde begrotingen.
 
 
-      * **[!UICONTROL I have a target to achieve]** [!BADGE &#x200B; Beta &#x200B;]
+      * **[!UICONTROL I have a target to achieve]** [!BADGE  Beta ]
 
         ![ doel van het Plan ](../assets/plan-target.png)
 
@@ -58,7 +58,7 @@ Om een datumwaaier en een bijbehorend budget te schrappen, uitgezochte ![ Sluite
             1. Selecteer een doel-metrische waarde in het vervolgkeuzemenu **[!UICONTROL Select target metric]** . U kunt kiezen tussen **[!UICONTROL Conversion]** , **[!UICONTROL CPA]** , **[!UICONTROL Revenue]** of **[!UICONTROL ROI]** .
             1. Selecteer een model in het vervolgkeuzemenu **[!UICONTROL Select model]** .
          1. Specificeer een waaier van de Datum, of door data te typen of een datumwaaier te selecteren gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
-         1. Voer een waarde in voor de geselecteerde doelmetrische waarde. Bijvoorbeeld een getal voor **[!UICONTROL Conversion]**, een percentage voor **[!UICONTROL ROI]** of valutawaarden voor **[!UICONTROL CPA]** en **[!UICONTROL Revenue]** .
+         1. Voer een waarde in voor de geselecteerde doelmetrische waarde. Bijvoorbeeld een getal voor **[!UICONTROL Total Conversions]**, een percentage voor **[!UICONTROL Paid Marketing ROI]** of valutawaarden voor **[!UICONTROL Paid Marketing CPA]** en **[!UICONTROL Total Revenue]** .
 Om extra datumwaaiers toe te voegen, elk met hun doel metrisch, uitgezochte ![ CalendarAdd ](/help/assets/icons/CalendarAdd.svg) **[!UICONTROL Add row]**.
 Om een datumwaaier en bijbehorende doel metrisch te schrappen, uitgezochte ![ dicht ](/help/assets/icons/Close.svg).
          1. Een optioneel maximumbudget definiëren dat u wilt beperken tot:
@@ -66,7 +66,7 @@ Om een datumwaaier en bijbehorende doel metrisch te schrappen, uitgezochte ![ di
             1. Geef het bedrag van de maximumbegroting op.
 
 
-   1. Selecteer **[!UICONTROL Next]** .
+   1. Selecteer **[!UICONTROL Next]**.
 
 1. In het dialoogvenster **[!UICONTROL Done with all required fields]** :
 
@@ -108,10 +108,9 @@ Om een datumwaaier en bijbehorende doel metrisch te schrappen, uitgezochte ![ di
    1. Als u wilt schakelen tussen valuta- of percentageinvoer, selecteert u **[!UICONTROL $]** of **[!UICONTROL %]** for **[!UICONTROL View spend by]** . Deze schakeloptie is uitgeschakeld als u doelmeetgegevens hebt geselecteerd die niet op valuta zijn gebaseerd.
 
    1. Selecteer **[!UICONTROL Create]** als u klaar bent.
-
       ![ besteedt selectie ](/help/assets/plan-spend-selection.png)
 
-   1. Selecteer **[!UICONTROL Next]** .
+   1. Selecteer **[!UICONTROL Next]**.
 
 
 
