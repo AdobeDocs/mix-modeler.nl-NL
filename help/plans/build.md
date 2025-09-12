@@ -49,7 +49,7 @@ Om een datumwaaier en een bijbehorend budget te schrappen, uitgezochte ![ Sluite
             1. Geef het bedrag van de maximumbegroting op. Het bedrag moet gelijk zijn aan of hoger zijn dan het totale bedrag van de voor de datumbereiken gespecificeerde begrotingen.
 
 
-      * **[!UICONTROL I have a target to achieve]** [!BADGE  Beta ]
+      * **[!UICONTROL I have a target to achieve]** [!BADGE &#x200B; Beta &#x200B;]
 
         ![ doel van het Plan ](../assets/plan-target.png)
 
