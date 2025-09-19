@@ -3,9 +3,9 @@ title: Abonnementen vergelijken
 description: Leer hoe je plannen kunt vergelijken in Mix Modeler.
 feature: Plans
 exl-id: 40f6ade5-77eb-4ef7-ba60-4a2d2fcf1a60
-source-git-commit: 05d9ccc11c8b4e1a5b537bba66dd4e4b162c1fcb
+source-git-commit: c66d4bd23aa6cf8e0be5bac179072ae562a97770
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,11 @@ De Compare planinterface toont informatie en visualisaties over:
 * **[!UICONTROL Channel budgeting]**: **[!UICONTROL AI automated]** of **[!UICONTROL Custom + AI]**
 * **[!UICONTROL Planned spend]**
 * **[!UICONTROL Forecasted ROI]** (return on investment) of **[!UICONTROL CPA]** (cost per action)
+   * Voorspelde ROI is het totale investeringsrendement van het plan (inclusief incrementele inkomsten uit basis- en niet-bestede kanalen).
+   * Voorspelde CPA is de algemene CPA van het plan.
 * **[!UICONTROL Paid marketing ROI]** (return on investment) of **[!UICONTROL CPA]** (cost per action)
+   * Betaalde marketing ROI is het ROI van slechts de betaalde kanalen in het plan.
+   * Betaalde marketing is de CPA van alleen de betaalde kanalen in het plan.
 * **[!UICONTROL ROI]** (return on investment) of **[!UICONTROL CPA]** (cost per action) **[!UICONTROL breakdown]**
 * **[!UICONTROL Forecasted return]**
 * **[!UICONTROL Paid marketing revenue]**
@@ -36,8 +40,6 @@ Waarbij:
 
 * ROI wordt gedefinieerd als (incrementele inkomsten - uitgaven) / uitgaven.
 * CPA wordt gedefinieerd als uitgaven/Incrementele omzetting.
-* Voorspelde kanalen worden gedefinieerd als inclusief basis- en niet-bestede kanalen.
-* Betaalde marketing wordt alleen gedefinieerd als specifiek voor betaalde afzetkanalen.
 
 
 ![ vergelijk plannen ](/help/assets/compare-plans.png)
