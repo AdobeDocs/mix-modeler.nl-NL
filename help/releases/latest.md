@@ -4,9 +4,9 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 9ac6acec2faa57a771386fc9df9cce655d711f3a
+source-git-commit: 6fe334458e8d7fabbd7cbaa027e13eadbf703325
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '701'
 ht-degree: 7%
 
 ---
@@ -25,6 +25,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 | **[!UICONTROL Dataset mapping validations]** | Toegevoegde validaties aan Experience Platform-gegevenstoewijzingen voor geharmoniseerde velden. | woensdag 9 september 2025 | woensdag 9 september 2025 |
 | **[!UICONTROL Context menu on links to model and plans]** | Browsercontextmenu ingeschakeld voor koppelingen naar modellen en plannen. U kunt dat contextmenu van browser nu gebruiken om een specifiek plan of een model in een nieuw lusje of een venster te openen. | woensdag 9 september 2025 | woensdag 9 september 2025 |
 | **Oplossingen** | Oplossingen voor de volgende tickets: <ul><li>AMM-3101: Correctie van het maken van onjuiste toewijzingen voor regels: `event_date` werd doorgegeven als veldnaam in plaats van `timestamp` .</li><li>AMM-3092: Fixed unable to change the channel max constraint value on a duplicated budget based plan.</li><li>AM3130: onjuiste **[!UICONTROL Run frequency]** informatie over een detailpop-upvenster van een model gecorrigeerd.</li><li>AMM3158: De bijgewerkte etiketten voor **[!UICONTROL Select target metric]** opties als deel van de **[!UICONTROL Optimize]** ruit in de [ Abonnementen creëren ](/help/plans/build.md) interface.</li><li>AMM 3176: Vaste onbekwaam om [ Uitsplitsing door kanaal ](/help/models/insights.md#breakdown) visualisatie in **[!UICONTROL Attribution]** lusje in **[!UICONTROL Model Insights]** te bekijken.</li></ul> | woensdag 9 september 2025 | woensdag 9 september 2025 |
+| **Oplossingen** | Oplossingen voor de volgende tickets: <ul><li>AMM-3174: Verbeterde ervaring wanneer er geen bestaande plannen beschikbaar zijn.</li><li>AMM-3216: verbeterde validatie voor aangepaste datumbereiken.</li><li>AMM-3240: Vast uitgevoerde model frequentiescherm.</ul> | woensdag 23 september 2025 | woensdag 23 september 2025 |
 
 
 ## Juli - augustus 2025
@@ -39,7 +40,7 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 | Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [&#128279;](/help/plans/build.md) creeert of [&#128279;](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
+| **op doel gebaseerde plannen** | Naast begrotingen, kunt u een doel (doel) bepalen wanneer u [ ](/help/plans/build.md) creeert of [ ](/help/plans/insights.md#edit-plan) een plan uitgeeft. Voorbeelden van doelmetriek zijn opbrengst, omzetting, CPA, of ROI. | donderdag 18 juni 2025 | woensdag 8 juli 2025 |
 | **het patroonconfig van de uitgaven** | Wanneer u een plan bouwt, hebt u nu de optie om [ historische verwijzings ](/help/plans/build.md) gegevens (als het verleden marketing uitgeeft gegevens en inzichten) te gebruiken wanneer het bepalen van het uitgavenpatroon voor elke waaier van de begrotingsdatum. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 | **Geavanceerde planconfiguraties** | U kunt [ geavanceerde configuraties ](/help/plans/build.md) voor uw plan, als gemiddelde opbrengst per omzetting en kanaalkosten bepalen. | donderdag 14 mei 2025 | donderdag 14 mei 2025 |
 
