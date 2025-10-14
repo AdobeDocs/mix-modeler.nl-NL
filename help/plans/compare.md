@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Plannen vergelijken in de interface voor Mix Modeler-plannen:
 
-* Selecteer ![ vergelijken ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare Plans]**. In Compare plannen, selecteer een plan voor elk **[!UICONTROL _Uitgezochte plan_]**.
+* Selecteer ![&#x200B; vergelijken &#x200B;](/help/assets/icons/Compare.svg) **[!UICONTROL Compare Plans]**. In Compare plannen, selecteer een plan voor elk **[!UICONTROL _Uitgezochte plan_]**.
 
-* Alternatief, kunt u twee plannen van de lijst van Abonnees selecteren, en van de actiebar selecteren ![ ](/help/assets/icons/Compare.svg) **[!UICONTROL Compare]** vergelijkt.
+* Alternatief, kunt u twee plannen van de lijst van Abonnees selecteren, en van de actiebar selecteren ![&#x200B; &#x200B;](/help/assets/icons/Compare.svg) **[!UICONTROL Compare]** vergelijkt.
 
 De Compare planinterface toont informatie en visualisaties over:
 
@@ -38,7 +38,7 @@ De Compare planinterface toont informatie en visualisaties over:
 
 
 
-![ vergelijk plannen ](/help/assets/compare-plans.png)
+![&#x200B; vergelijk plannen &#x200B;](/help/assets/compare-plans.png)
 
 U kunt de muis boven afzonderlijke diagramelementen in elke visualisatie houden om een popover met meer details te zien.
 
