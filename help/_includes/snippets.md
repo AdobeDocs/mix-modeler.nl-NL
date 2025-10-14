@@ -11,12 +11,12 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->De functionaliteit die in dit artikel wordt beschreven, bevindt zich in de Beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [ de eigenschapversies van Mix Modeler ](/help/releases/latest.md).
+>De functionaliteit die in dit artikel wordt beschreven, bevindt zich in de Beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [&#x200B; de eigenschapversies van Mix Modeler &#x200B;](/help/releases/latest.md).
 >
 
 ## Beperkte testsectie voor releasefase {#release-limited-testing-section}
 
 >[!AVAILABILITY]
 >
->De in deze sectie beschreven functionaliteit bevindt zich in de beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [ de eigenschapversies van Mix Modeler ](/help/releases/latest.md).
+>De in deze sectie beschreven functionaliteit bevindt zich in de beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [&#x200B; de eigenschapversies van Mix Modeler &#x200B;](/help/releases/latest.md).
 >

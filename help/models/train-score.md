@@ -21,15 +21,15 @@ Een model omscholen:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
+1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![&#x200B; DataRefresh &#x200B;](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
 
    Selecteer in het dialoogvenster **[!UICONTROL Train model]** de optie die u wilt:
 
    * **[!UICONTROL Train model with last 2 years of marketing data]** , of
    * **[!UICONTROL Train model using specific date range of data]**.
-Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
+Geef het datumbereik op. U kunt de ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
 
-   ![ keert een model ](../assets/retrain-model.png) terug
+   ![&#x200B; keert een model &#x200B;](../assets/retrain-model.png) terug
 
 1. Selecteer **[!UICONTROL Train]** om het model opnieuw te trainen.
 
@@ -51,15 +51,15 @@ Een model scoren of opnieuw centreren:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
+1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![&#x200B; DataRefresh &#x200B;](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
 
    Selecteer in het dialoogvenster **[!UICONTROL Score marketing data]** de optie die u wilt:
 
    * **[!UICONTROL Score new marketing data from *mm/dd/yyyy *]**, om uw model incrementeel te behalen gebruikend nieuwe marketing gegevens, of
    * **[!UICONTROL Score specific date range of marketing data]** om opnieuw te centreren voor een specifiek datumbereik.
-Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
+Geef het datumbereik op. U kunt de ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
 
-   ![ Rescore a model ](../assets/rescore-model.png)
+   ![&#x200B; Rescore a model &#x200B;](../assets/rescore-model.png)
 
 1. Selecteer **[!UICONTROL Score]** . Wanneer u een model opnieuw scant met een specifiek gegevensbereik, wordt een dialoogvenster **[!UICONTROL Existing model is replaced]** weergegeven waarin u wordt gevraagd te bevestigen dat u het model wilt vervangen door nieuwe scores voor het geselecteerde datumbereik. Selecteer **[!UICONTROL Replace model]** om te bevestigen.
 

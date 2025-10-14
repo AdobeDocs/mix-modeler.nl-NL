@@ -14,18 +14,18 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
+>Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
 
 
 
-Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert.
+Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert.
 
 Om te selecteren welke gegevens voor de KPI statuskaarten en visualisaties worden getoond:
 
 * Selecteer een plan van het **[!UICONTROL Plan name]** dropdown menu, gebruikend **[!UICONTROL _Uitgezocht een optie..._]**.
 
-* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
+* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg).
 
 Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje toont:
 
@@ -48,7 +48,7 @@ Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lu
 
 ## KPI-statuskaarten
 
-![ KPI statuskaarten ](../assets/performance-to-plan-kpi-cards.png)
+![&#x200B; KPI statuskaarten &#x200B;](../assets/performance-to-plan-kpi-cards.png)
 
 
 ### Begroting
@@ -71,13 +71,13 @@ Een lijnvisualisatie die de orden voor de datumperiode toont.
 
 Om een andere KPI te selecteren:
 
-1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg).
+1. Selecteer ![&#x200B; uitgeven &#x200B;](/help/assets/icons/Edit.svg).
 1. Selecteer in het dialoogvenster **[!UICONTROL KPI status card]** een KPI in het vervolgkeuzemenu **[!UICONTROL KPI]** .
 
 
 ## Visualisaties
 
-![ Visualisatie ](../assets/performance-to-plan-visualizations.png)
+![&#x200B; Visualisatie &#x200B;](../assets/performance-to-plan-visualizations.png)
 
 ### ROI: Werkelijk vs. voorspeld
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Een gebruiksrapport van uw geharmoniseerde gegevens bekijken:
 
-1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
+1. Selecteer ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
 1. Selecteer **[!UICONTROL Usage report]** in de bovenste balk.
 

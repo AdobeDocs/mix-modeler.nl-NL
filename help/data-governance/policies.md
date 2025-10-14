@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Beleid
 
-Zodra u door het werkschema gaat om een model tot stand te brengen en de configuratie van het model voor te leggen, [ beleidshandhaving ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/enforcement/overview#automatic-enforcement) controles om te zien of zijn er om het even welke schendingen. Als een beleidsovertreding optreedt, wordt een pop-up weergegeven die aangeeft dat een of meer beleidsregels zijn overtreden. Deze controle moet ervoor zorgen dat uw gegevensverrichtingen en marketing acties binnen Experience Platform met het beleid van het gegevensgebruik verenigbaar zijn.
+Zodra u door het werkschema gaat om een model tot stand te brengen en de configuratie van het model voor te leggen, [&#x200B; beleidshandhaving &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/enforcement/overview#automatic-enforcement) controles om te zien of zijn er om het even welke schendingen. Als een beleidsovertreding optreedt, wordt een pop-up weergegeven die aangeeft dat een of meer beleidsregels zijn overtreden. Deze controle moet ervoor zorgen dat uw gegevensverrichtingen en marketing acties binnen Experience Platform met het beleid van het gegevensgebruik verenigbaar zijn.
 
 Standaard controleert de Mix Modeler op overtredingen van door de Adobe gedefinieerd beleid die zijn gekoppeld aan de volgende labels en marketingacties:
 
@@ -41,7 +41,7 @@ Wanneer het toepassen van een etiket van het gegevensgebruik op een schemagebied
 Bijvoorbeeld:
 
 - u hebt een gegevenssetregel ingesteld die, onder andere, het `totalCost` -veld van uw Conversiegegevensschema koppelt aan het geharmoniseerde veld met de naam `spend` (en weergavenaam `Spend` ).
-- u hebt met succes de geharmoniseerde gegevens met succes minstens eens gesynchroniseerd (zie [ regels Dataset - de gegevens van de Synchronisatie ](/help/harmonize-data/dataset-rules.md#sync-data)).
+- u hebt met succes de geharmoniseerde gegevens met succes minstens eens gesynchroniseerd (zie [&#x200B; regels Dataset - de gegevens van de Synchronisatie &#x200B;](/help/harmonize-data/dataset-rules.md#sync-data)).
 - u schakelt het [!UICONTROL Restrict data science] beleid met het bijbehorende label [!UICONTROL C9] en de bijbehorende marketingactie [!UICONTROL Data Science] in.
 - u wilt het label [!UICONTROL C9] - [!UICONTROL No data science] toepassen op het veld `totalCost` in het schema Conversiegegevens.
 
@@ -53,7 +53,7 @@ Wanneer u de schema-update wilt opslaan, ziet u een **[!UICONTROL Data governanc
 
 De geconstateerde overtreding van het gegevensbeheerbeleid geeft specifieke informatie over de schending. U kunt deze schendingen door beleidsmontages en andere maatregelen oplossen die niet direct met het configuratiewerkschema verwant zijn. U kunt bijvoorbeeld de labels wijzigen, zodat bepaalde velden mogen worden gebruikt voor wetenschappelijke doeleinden. Alternatief, kon u de modelconfiguratie zelf ook wijzigen, zodat het model geen voorwerp met een etiket van het gegevensgebruik gebruikt.
 
-De ![ 2&rbrace; selectie van de Privacy ](/help/assets/icons/Privacy.svg) &lbrace;in het linkerspoor verleent toegang tot de [!UICONTROL Policies] interface van Experience Platform, die uw beleid, etiketten en marketing acties toestaat te beheren.**[!UICONTROL Policies]**
+De ![&#x200B; 2&rbrace; selectie van de Privacy &#x200B;](/help/assets/icons/Privacy.svg) &lbrace;in het linkerspoor verleent toegang tot de [!UICONTROL Policies] interface van Experience Platform, die uw beleid, etiketten en marketing acties toestaat te beheren.**[!UICONTROL Policies]**
 
 <!--
 Currently,  Mix Modeler does not support all of the data governance functionality offered by Experience Platform. Field level access control is supported. See [Field level access control](../harmonize-data/dataset-rules.md#field-level-access-control)
@@ -61,7 +61,7 @@ Currently,  Mix Modeler does not support all of the data governance functionalit
 
 >[!MORELIKETHIS]
 >
->[ Overzicht van het het gebruiksbeleid van Gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/policies/overview)
+>[&#x200B; Overzicht van het het gebruiksbeleid van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/data-governance/policies/overview)
 >
 >
 

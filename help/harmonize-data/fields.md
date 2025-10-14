@@ -55,9 +55,9 @@ U kunt uw eigen geharmoniseerde velden toevoegen, bewerken of verwijderen boven 
 
 Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mix Modeler zien:
 
-1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
+1. Selecteer ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
-1. Selecteer **[!UICONTROL Fields]** in de bovenste balk. U ziet een tabel met de geharmoniseerde velden. Als meer pagina&#39;s beschikbaar zijn, gebruik ![ Pijl links ](/help/assets/icons/ChevronLeft.svg) of ![ Pijl rechts ](/help/assets/icons/ChevronRight.svg) bij **[!UICONTROL Page _x _van_ x_]** om tussen pagina&#39;s van de lijst te bewegen.
+1. Selecteer **[!UICONTROL Fields]** in de bovenste balk. U ziet een tabel met de geharmoniseerde velden. Als meer pagina&#39;s beschikbaar zijn, gebruik ![&#x200B; Pijl links &#x200B;](/help/assets/icons/ChevronLeft.svg) of ![&#x200B; Pijl rechts &#x200B;](/help/assets/icons/ChevronRight.svg) bij **[!UICONTROL Page _x _van_ x_]** om tussen pagina&#39;s van de lijst te bewegen.
 
    De tabelkolommen geven details over de geharmoniseerde velden
 
@@ -74,14 +74,14 @@ Een lijst van de beschikbare geharmoniseerde gebieden, in de interface van de Mi
 
    {style="table-layout:auto"}
 
-1. Om naar een specifiek geharmoniseerd gebied te zoeken, gebruik ![ Onderzoek ](/help/assets/icons/Search.svg) **[!UICONTROL *Geharmoniseerd gebied van het Onderzoek *]**.
+1. Om naar een specifiek geharmoniseerd gebied te zoeken, gebruik ![&#x200B; Onderzoek &#x200B;](/help/assets/icons/Search.svg) **[!UICONTROL *Geharmoniseerd gebied van het Onderzoek *]**.
 
 
 ### Een geharmoniseerd veld toevoegen
 
-Om een geharmoniseerd gebied toe te voegen, op ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Om een geharmoniseerd gebied toe te voegen, op ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
-1. Selecteer ![ toevoegen ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add field]**.
+1. Selecteer ![&#x200B; toevoegen &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add field]**.
 
 1. In het dialoogvenster **[!UICONTROL Create]** :
 
@@ -98,32 +98,32 @@ Om een geharmoniseerd gebied toe te voegen, op ![ DataSearch ](/help/assets/icon
 
    1. Selecteer **[!UICONTROL Submit]** om het geharmoniseerde veld toe te voegen. Selecteer **[!UICONTROL Close]** om het dialoogvenster te sluiten zonder het geharmoniseerde veld toe te voegen.
 
-      ![ creeer een gebied ](/help/assets/create-field.png)
+      ![&#x200B; creeer een gebied &#x200B;](/help/assets/create-field.png)
 
 
 ### Een geharmoniseerd veld bewerken
 
 U kunt alleen geharmoniseerde velden bewerken die u eerder hebt gemaakt (eigenaar is client). U kunt een geharmoniseerd veld niet bewerken.
 
-Om een geharmoniseerd gebied uit te geven, op ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Om een geharmoniseerd gebied uit te geven, op ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer het geharmoniseerde veld dat u wilt bewerken. Bijvoorbeeld **[!UICONTROL Region]** .
 
-1. Wijzig in het deelvenster **[!UICONTROL Edit harmonization values]** de waarden voor **[!UICONTROL Display name]** , **[!UICONTROL Category]** en **[!UICONTROL Data type]** . Zie [ een geharmoniseerd gebied ](#add-a-harmonized-field) voor meer informatie toevoegen.
+1. Wijzig in het deelvenster **[!UICONTROL Edit harmonization values]** de waarden voor **[!UICONTROL Display name]** , **[!UICONTROL Category]** en **[!UICONTROL Data type]** . Zie [&#x200B; een geharmoniseerd gebied &#x200B;](#add-a-harmonized-field) voor meer informatie toevoegen.
 
 1. Selecteer **[!UICONTROL Submit]** om de wijzigingen toe te passen op het geharmoniseerde veld.
 
-   ![ geef een gebied ](/help/assets/edit-field.png) uit
+   ![&#x200B; geef een gebied &#x200B;](/help/assets/edit-field.png) uit
 
 ### Een geharmoniseerd veld verwijderen
 
 U kunt alleen geharmoniseerde velden verwijderen die u eerder hebt gemaakt (eigenaar is client). U kunt een geharmoniseerd veld niet verwijderen.
 
-Om een geharmoniseerd gebied te schrappen, op ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
+Om een geharmoniseerd gebied te schrappen, op ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Fields]** interface in de Mix Modeler:
 
 1. Selecteer het geharmoniseerde veld dat u wilt verwijderen, bijvoorbeeld **[!UICONTROL Region]** .
 
-1. Selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de **[!UICONTROL Edit harmonization values]** linkerruit.
+1. Selecteer ![&#x200B; Schrapping &#x200B;](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** van de **[!UICONTROL Edit harmonization values]** linkerruit.
 
    >[!WARNING]
    >

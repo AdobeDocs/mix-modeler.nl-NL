@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Het overzichtsscherm van het Huis in Mix Modeler toont een overzicht van uw geharmoniseerde gegevens en uw plannen door diverse configureerbare visualisaties.
 
-Om tot het overzicht toegang te hebben, selecteer ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** van het linkerspoor in de interface van de Mix Modeler.
+Om tot het overzicht toegang te hebben, selecteer ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** van het linkerspoor in de interface van de Mix Modeler.
 
 Hier kun je meer informatie vinden op:
 
 * [Geharmoniseerde gegevens](harmonized-data.md)
 
-* [ Plannen ](plans.md) [!BADGE &#x200B; Alpha &#x200B;]{type=Informative}
+* [&#x200B; Plannen &#x200B;](plans.md) [!BADGE &#x200B; Alpha &#x200B;]{type=Informative}

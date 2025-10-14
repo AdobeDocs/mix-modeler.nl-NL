@@ -111,4 +111,4 @@ De veldgroep bevat de volgende velden.
 
 
 
-Zie [ Schema&#39;s ](../ingest-data/schemas.md) voor meer informatie.
+Zie [&#x200B; Schema&#39;s &#x200B;](../ingest-data/schemas.md) voor meer informatie.

@@ -16,13 +16,13 @@ Om datasets te beheren, die de gegevens bevatten u in Experience Platform en geb
 
 1. Ga naar de Mix Modeler interface.
 
-1. Selecteer ![ Gegevens ](/help/assets/icons/Data.svg) **[!UICONTROL Datasets]**, onder **[!UICONTROL SETUP]**.
+1. Selecteer ![&#x200B; Gegevens &#x200B;](/help/assets/icons/Data.svg) **[!UICONTROL Datasets]**, onder **[!UICONTROL SETUP]**.
 
-Zie de [ gids UI van Datasets ](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=nl-NL) voor meer informatie.
+Zie de [&#x200B; gids UI van Datasets &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/catalog/datasets/user-guide.html?lang=nl-NL) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [ Ingest gegevens ](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home)
->* [ Schemas ](schemas.md)
->* [ Overzicht van de Inname van Gegevens (Experience Platform) ](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home)
->* [ de schakelaars van Source (Experience Platform) ](https://experienceleague.adobe.com/nl/docs/experience-platform/sources/home)
+>* [&#x200B; Ingest gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home)
+>* [&#x200B; Schemas &#x200B;](schemas.md)
+>* [&#x200B; Overzicht van de Inname van Gegevens (Experience Platform) &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home)
+>* [&#x200B; de schakelaars van Source (Experience Platform) &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/sources/home)

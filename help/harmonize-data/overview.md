@@ -17,7 +17,7 @@ De gegevens in Mix Modeler zijn van verschillende aard, afhankelijk van de gegev
 * geaggregeerde of samenvattende gegevens, bijvoorbeeld verzameld uit zogenaamde tuingegevensbronnen of offline advertentiegegevens die (zoals het uitgeven) zijn verzameld uit het voeren van een billboardcampagne, een evenement of een fysieke advertentiecampagne;
 * gebeurtenisgegevens, bijvoorbeeld uit gegevensbronnen van de eerste partij. Deze gebeurtenisgegevens kunnen worden verzameld via de Adobe Analytics-bronconnector van Adobe Analytics, of via de Experience Platform Web-, Mobile SDK- of Edge Network-API, of via gegevens die via bronconnectors worden ingevoerd.
 
-De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensmening, die met [ interne en externe factorgegevens ](#factors) wordt gecombineerd, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
+De harmonisatiedienst van Mix Modeler vergelijkt de geaggregeerde gegevens en de gebeurtenisgegevens in een consistent gegevensoverzicht. Deze gegevensmening, die met [&#x200B; interne en externe factorgegevens &#x200B;](#factors) wordt gecombineerd, is de bron voor de modellen in Mix Modeler. De dienst gebruikt de hoogste granulariteit over de verschillende datasets. Bijvoorbeeld, als één dataset een granulariteit van maandelijkse en resterende datasets wekelijkse en dagelijkse granulariteit heeft, leidt de harmonisatiedienst tot een gegevensmening gebruikend maandelijkse granulariteit.
 
 ## Factoren
 
@@ -114,29 +114,29 @@ U wilt een geharmoniseerde dataset bouwen, met een granulariteit die aan wekelij
 
 ## geharmoniseerde gegevens instellen
 
-Om een geharmoniseerde dataset, als in het vereenvoudigde [ voorbeeld ](#an-example-of-harmonized-data) te bouwen, moet u deze stappen volgen:
+Om een geharmoniseerde dataset, als in het vereenvoudigde [&#x200B; voorbeeld &#x200B;](#an-example-of-harmonized-data) te bouwen, moet u deze stappen volgen:
 
-1. Bepaal extra [ geharmoniseerde gebieden ](fields.md) die u voorbij de globale geharmoniseerde gebieden wilt gebruiken reeds beschikbaar.
-1. De regels van de opstelling [ dataset ](dataset-rules.md) om gebieden van uw aggregaat of ervaringsgebeurtenisdatasets aan geharmoniseerde gebieden in kaart te brengen.
-1. Bepaal [ marketing touchpoints ](marketing-touchpoints.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
-1. Bepaal [ omzettingen ](conversions.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
+1. Bepaal extra [&#x200B; geharmoniseerde gebieden &#x200B;](fields.md) die u voorbij de globale geharmoniseerde gebieden wilt gebruiken reeds beschikbaar.
+1. De regels van de opstelling [&#x200B; dataset &#x200B;](dataset-rules.md) om gebieden van uw aggregaat of ervaringsgebeurtenisdatasets aan geharmoniseerde gebieden in kaart te brengen.
+1. Bepaal [&#x200B; marketing touchpoints &#x200B;](marketing-touchpoints.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
+1. Bepaal [&#x200B; omzettingen &#x200B;](conversions.md) gebruikend de standaard en extra geharmoniseerde gebieden die u bepaalde.
 
 
 ## Geharmoniseerde gegevens weergeven
 
 Om uw geharmoniseerde gegevens te zien, in de interface van Mix Modeler:
 
-1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van het linkerspoor.
+1. Selecteer ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized datasets]** van het linkerspoor.
 
 1. Selecteer **[!UICONTROL Harmonized data]** in de bovenste balk. Een overzicht van uw geharmoniseerde gegevens wordt getoond gebaseerd op de gebieden, datasetregels, marketing touchpoints en omzettingen u hebt bepaald.
 
-   1. Om de periode opnieuw te bepalen waarop de rechthoek van geharmoniseerde gegevens gebaseerd is, ga een datumwaaier voor **[!UICONTROL Date range]** in of gebruik ![ Kalender ](/help/assets/icons/Calendar.svg) om een gegevenswaaier te selecteren.
+   1. Om de periode opnieuw te bepalen waarop de rechthoek van geharmoniseerde gegevens gebaseerd is, ga een datumwaaier voor **[!UICONTROL Date range]** in of gebruik ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) om een gegevenswaaier te selecteren.
 
-   1. Om de geharmoniseerde gebiedskolommen te wijzigen die voor de Geharmoniseerde gegevenslijst worden getoond, gebruik ![ Montages ](/help/assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** dialoog te openen.
+   1. Om de geharmoniseerde gebiedskolommen te wijzigen die voor de Geharmoniseerde gegevenslijst worden getoond, gebruik ![&#x200B; Montages &#x200B;](/help/assets/icons/Setting.svg) om de **[!UICONTROL Column settings]** dialoog te openen.
 
-      1. Selecteer ![ SelectBox ](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![ Schrap recht ](/help/assets/icons/ChevronRight.svg) om deze kolommen aan **[!UICONTROL SELECTED COLUMNS]** toe te voegen.
+      1. Selecteer ![&#x200B; SelectBox &#x200B;](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL AVAILABLE COLUMNS]** en gebruik ![&#x200B; Schrap recht &#x200B;](/help/assets/icons/ChevronRight.svg) om deze kolommen aan **[!UICONTROL SELECTED COLUMNS]** toe te voegen.
 
-      1. Selecteer ![ SelectBox ](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![ Verduisteren verlaten ](/help/assets/icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug naar **[!UICONTROL AVAILABLE COLUMNS]** terug te keren.
+      1. Selecteer ![&#x200B; SelectBox &#x200B;](/help/assets/icons/SelectBox.svg) één of meerdere kolommen van **[!UICONTROL SELECTED COLUMNS]** en gebruik ![&#x200B; Verduisteren verlaten &#x200B;](/help/assets/icons/ChevronLeft.svg) om de geselecteerde kolommen te verwijderen en deze kolommen terug naar **[!UICONTROL AVAILABLE COLUMNS]** terug te keren.
 
       1. Selecteer een kolom in **[!UICONTROL DEFAULT SORT]** en schakel tussen **[!UICONTROL Ascending]** of **[!UICONTROL Descending]** .
 
@@ -144,14 +144,14 @@ Om uw geharmoniseerde gegevens te zien, in de interface van Mix Modeler:
 
    1. Selecteer **[!UICONTROL Submit]** om de wijzigingen in de kolominstelling te verzenden. Selecteer **[!UICONTROL Close]** om de aangebrachte wijzigingen te annuleren.
 
-1. Als meer pagina&#39;s beschikbaar zijn, gebruik ![ Pijl links ](/help/assets/icons/ChevronLeft.svg) of ![ Pijl rechts ](/help/assets/icons/ChevronRight.svg) bij **[!UICONTROL Page _x _van_ x_]** om zich tussen pagina&#39;s te bewegen.
+1. Als meer pagina&#39;s beschikbaar zijn, gebruik ![&#x200B; Pijl links &#x200B;](/help/assets/icons/ChevronLeft.svg) of ![&#x200B; Pijl rechts &#x200B;](/help/assets/icons/ChevronRight.svg) bij **[!UICONTROL Page _x _van_ x_]** om zich tussen pagina&#39;s te bewegen.
 
 1. U kunt de geharmoniseerde gegevens desgewenst downloaden.
 
-   1. Selecteer ![ Download ](/help/assets/icons/Download.svg) [!BADGE &#x200B; bèta &#x200B;].
-   1. In popup, uitgezochte ![ AddCircle ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Create]**.
+   1. Selecteer ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg) [!BADGE &#x200B; bèta &#x200B;].
+   1. In popup, uitgezochte ![&#x200B; AddCircle &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Create]**.
    1. Voer een **[!UICONTROL Report name]** in, bijvoorbeeld `Test Report` .
-   1. Selecteer ![ FileCSV ](/help/assets/icons/FileCSV.svg) **[!UICONTROL Report]**.
+   1. Selecteer ![&#x200B; FileCSV &#x200B;](/help/assets/icons/FileCSV.svg) **[!UICONTROL Report]**.
 
    Een CSV-rapport met een titel die is gebaseerd op de door u opgegeven rapportnaam en huidige datum en tijd (bijvoorbeeld `Test Report_2025_04_23_9-5-18.csv`) wordt gedownload naar de standaarddownloadmap.
 
