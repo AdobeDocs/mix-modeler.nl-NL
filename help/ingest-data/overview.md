@@ -3,27 +3,27 @@ title: Overzicht van samenvattingsgegevens
 description: Leer hoe u gegevens in Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: bb05cee1d4e2245cf665e5dcea17a30c5c0cf203
+source-git-commit: f86454dd262a0a11a20d58e380b5d2b7c90fd2b9
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '542'
 ht-degree: 5%
 
 ---
 
 # Overzicht van samenvattingsgegevens
 
-Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, geaggregeerde of samenvattende marketinggegevens van verschillende tuinen, en geaggregeerde of samenvattende gegevens van een andere bron, zoals offlinereclame, interne factoren of externe factoren.
+Mix Modeler werkt met gegevens op het niveau van de gebeurtenis, gegevens over de totale of samenvattende marketinginspanning van verschillende woon-werktuinen. En met geaggregeerde of samenvattende gegevens van een andere bron, zoals offlinereclame, interne factoren of externe factoren.
 
 De klanten kunnen om het even welk soort gegevens gebruiken die in Experience Platform als datasets worden opgenomen en die op schema&#39;s gebruikend XDM ExperienceEvent of XDM Summiere Metrics als basisklasse gebaseerd is.
 
 Bijvoorbeeld:
 
-* gegevens die zijn verzameld via de Adobe Analytics-bronaansluiting en zijn omgezet in gegevenssets die overeenkomen met de standaardversie of een aangepaste versie van het Adobe Analytics-schema, of anders
-* gegevens die zijn verzameld met de Experience Platform Web SDK, Mobile SDK of Edge Network Server-API voor het verzamelen van klantinteracties op internet, mobiel of een ander type apparaat;
-* geaggregeerde of samenvattende gegevens van gedraaide tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame;
-* niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
+* Gegevens verzameld via de Adobe Analytics-bronaansluiting. En getransformeerd in datasets die aan het gebrek of een douaneversie van het schema van Adobe Analytics in overeenstemming zijn.
+* Gegevens die zijn verzameld met de Experience Platform Web SDK, Mobile SDK of Edge Network Server-API voor het verzamelen van klantinteracties op internet, mobiel of een ander type apparaat.
+* Samengevoegde of samenvattingsgegevens van afgemeerde tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame.
+* Niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
-U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Ingestiemechanismen omvatten de SDK&#39;s, API&#39;s, bronconnectors, streaming en batch-opname van Experience Platform. Meer leren over het opnemen van uw gegevens in Experience Platform voor gebruik in Adobe Mix Modeler, zie [&#x200B; Overzicht van de Ingestie van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home).
+U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname. Meer leren over het opnemen van uw gegevens in Experience Platform voor gebruik in Adobe Mix Modeler, zie het [ Overzicht van de Ingestie van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home).
 
 ## Richtsnoeren
 
@@ -86,15 +86,15 @@ Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets 
 
 Als u wilt controleren of uw gegevens correct beschikbaar zijn in Mix Modeler, kunt u het volgende doen:
 
-* De visualisaties van het gebruik in [&#x200B; Overzicht &#x200B;](/help/overview.md).
-* De download en inspecteert gegevens van [&#x200B; Geharmoniseerde gegevens &#x200B;](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
+* De visualisaties van het gebruik in het [ Overzicht ](/help/overview.md).
+* De download en inspecteert gegevens van [ Geharmoniseerde gegevens ](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
 
-Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [&#x200B; SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/query/home).
+Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [ SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/query/home).
 
 
 >[!MORELIKETHIS]
 >
 >Zie voor meer details over hoe te om schema&#39;s en datasets te beheren:
 >
->* [&#x200B; Schemas &#x200B;](schemas.md)
->* [&#x200B; Datasets &#x200B;](datasets.md)
+>* [ Schemas ](schemas.md)
+>* [ Datasets ](datasets.md)
