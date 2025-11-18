@@ -30,7 +30,7 @@ SVG&#39;s in een gearceerde box worden niet correct ondersteund. Zie verschillen
 
 >[!BEGINSHADEBOX]
 
-Dit artikel documenteert het paneel van de Attributie in ![&#x200B; AdobeAnalytics &#x200B;](/help/assets/icons/AdobeAnalytics.svg) **Adobe Analytics**.<br/> zie [&#x200B; het paneel van de Attributie &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution) voor ![&#x200B; CustomerJourneyAnalytics &#x200B;](/help/assets/icons/CustomerJourneyAnalytics.svg) **Customer Journey Analytics** versie van dit artikel.
+Dit artikel documenteert het paneel van de Attributie in ![&#x200B; AdobeAnalytics &#x200B;](/help/assets/icons/AdobeAnalytics.svg) **Adobe Analytics**.<br/> zie [&#x200B; het paneel van de Attributie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/panels/attribution) voor ![&#x200B; CustomerJourneyAnalytics &#x200B;](/help/assets/icons/CustomerJourneyAnalytics.svg) **Customer Journey Analytics** versie van dit artikel.
 
 >[!ENDSHADEBOX]
 
