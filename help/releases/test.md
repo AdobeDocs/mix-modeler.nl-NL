@@ -6,9 +6,9 @@ feature: Release Notes
 hide: true
 hidefromtoc: true
 exl-id: 5f832a79-7a0c-43cd-87cf-a5ceceb79032
-source-git-commit: 6eb0e0aa28aa965c17f002b9b08fcbc8ae993b0b
+source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
@@ -19,18 +19,18 @@ Een tabel met Unicode-tekens testen
 
 | Tags | Gegevens, weergave | Eigenaars | Overige filters |
 |---|---|---|---|
-| You can ![Search](/help/assets/icons/Search.svg) *Search Tags* to limit the list of tags. <br/><br/>When you select one or more tags the list is automatically limited to show other possible remaining tags. <br/><br/>The number in **[!UICONTROL Tags]** **2︎⃣** refers to the number of available tags. <br/><br/>The number in  **[!UICONTROL *tag*]** 7︎⃣ refers to the number of filters that are taghed with the spefici tag. | You can ![Search](/help/assets/icons/Search.svg) *Search Data views* to limit the list of data views. <br/>You can select more than one data view to filter the filter list. <br/><br/>The number in  **[!UICONTROL Tags]** **2︎⃣** refers to the number of available tags. <br/><br/>The number in **[!UICONTROL *tag*]** 7︎⃣ refers to the number of filters that are taghed with the spefici tag. | You can ![Search](/help/assets/icons/Search.svg) *Search Data views* to limit the list of data views. <br/>You can select more than one data view to filter the filter list. <br/><br/>The number in  **[!UICONTROL Tags]** **2︎⃣** refers to the number of available tags. <br/><br/>The number in **[!UICONTROL *tag*]** 7︎⃣ refers to the number of filters that are taghed with the spefici tag. | You can ![Search](/help/assets/icons/Search.svg) *Search Data views* to limit the list of data views. <br/>You can select more than one data view to filter the filter list. <br/><br/>The number in  **[!UICONTROL Tags]** **2︎⃣** refers to the number of available tags. <br/><br/>The number in **[!UICONTROL *tag*]** 7︎⃣ refers to the number of filters that are taghed with the spefici tag. 🅐 🅔 | 
+| U kunt ![ ](/help/assets/icons/Search.svg) Codes van het Onderzoek *zoeken* {om de lijst van markeringen te beperken. <br/><br/> wanneer u één of meerdere markeringen selecteert is de lijst automatisch beperkt om andere mogelijke resterende markeringen te tonen. <br/><br/> het aantal in **[!UICONTROL Tags]** **2︎⃣** verwijst naar het aantal beschikbare markeringen. <br/><br/> het aantal in **[!UICONTROL *markering *]**7︎⃣ verwijst naar het aantal filters die met de spefici markering worden geëtiketteerd. | U kunt ![ ](/help/assets/icons/Search.svg) de meningen van Gegevens van het 1} Onderzoek *{zoeken om de lijst van gegevensmeningen te beperken.* <br/> u kunt meer dan één gegevensmening selecteren om de filterlijst te filtreren. <br/><br/> het aantal in **[!UICONTROL Tags]** **2︎⃣** verwijst naar het aantal beschikbare markeringen. <br/><br/> het aantal in **[!UICONTROL *markering *]**7︎⃣ verwijst naar het aantal filters die met de spefici markering worden geëtiketteerd. | U kunt ![ ](/help/assets/icons/Search.svg) de meningen van Gegevens van het 1} Onderzoek *{zoeken om de lijst van gegevensmeningen te beperken.* <br/> u kunt meer dan één gegevensmening selecteren om de filterlijst te filtreren. <br/><br/> het aantal in **[!UICONTROL Tags]** **2︎⃣** verwijst naar het aantal beschikbare markeringen. <br/><br/> het aantal in **[!UICONTROL *markering *]**7︎⃣ verwijst naar het aantal filters die met de spefici markering worden geëtiketteerd. | U kunt ![ ](/help/assets/icons/Search.svg) de meningen van Gegevens van het 1} Onderzoek *{zoeken om de lijst van gegevensmeningen te beperken.* <br/> u kunt meer dan één gegevensmening selecteren om de filterlijst te filtreren. <br/><br/> het aantal in **[!UICONTROL Tags]** **2︎⃣** verwijst naar het aantal beschikbare markeringen. <br/><br/> het aantal in **[!UICONTROL *markering *]**7︎⃣ verwijst naar het aantal filters die met de spefici markering worden geëtiketteerd. 🅐 🅔 |
 
 {style="table-layout:fixed"}
 
 
-## SVG gebruiken in venster met schaduw
+## SVG&#39;s gebruiken in het venster met schaduw
 
-We lijken SVG in een gearceerde doos niet goed te ondersteunen. Zie verschillende indelingen voor de voorvertoning (corp.adobe.com) en de gepubliceerde site (adobe.com).
+SVG&#39;s in een gearceerde box worden niet correct ondersteund. Zie verschillende indelingen voor de voorvertoning (corp.adobe.com) en de gepubliceerde site (adobe.com).
 
 >[!BEGINSHADEBOX]
 
-Dit artikel documenteert het paneel van de Attributie in ![&#x200B; AdobeAnalytics &#x200B;](/help/assets/icons/AdobeAnalytics.svg) **Adobe Analytics**.<br/> zie [&#x200B; het paneel van de Attributie &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/panels/attribution) voor ![&#x200B; CustomerJourneyAnalytics &#x200B;](/help/assets/icons/CustomerJourneyAnalytics.svg) **Customer Journey Analytics** versie van dit artikel.
+Dit artikel documenteert het paneel van de Attributie in ![ AdobeAnalytics ](/help/assets/icons/AdobeAnalytics.svg) **Adobe Analytics**.<br/> zie [ het paneel van de Attributie ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/attribution) voor ![ CustomerJourneyAnalytics ](/help/assets/icons/CustomerJourneyAnalytics.svg) **Customer Journey Analytics** versie van dit artikel.
 
 >[!ENDSHADEBOX]
 
@@ -40,7 +40,7 @@ Dit artikel documenteert het paneel van de Attributie in ![&#x200B; AdobeAnalyti
 En wij steunen formules?
 
 **de ongelijkheid knap-Schwarz**
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
 
 

@@ -3,7 +3,7 @@ title: Controlelogboeken
 description: Leer hoe u controlelogboeken kunt openen vanuit Mix Modeler.
 feature: Administration
 exl-id: aa65aac5-bea4-43ff-b0d0-9e8a6a97d3ca
-source-git-commit: 85f9b42a775006cd3566447b2bb9d0a806fa3e73
+source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Een controlelogboek deelt wie welke actie, en wanneer uitvoerde. Elke actie die 
 
 Om het controlelogboek te inspecteren, in de interface van Mix Modeler:
 
-1. Selecteer ![&#x200B; Lijst van de Taak &#x200B;](/help/assets/icons/TaskList.svg) **[!UICONTROL Audits]** van **[!UICONTROL PRIVACY]**.
+1. Selecteer ![ Lijst van de Taak ](/help/assets/icons/TaskList.svg) **[!UICONTROL Audits]** van **[!UICONTROL PRIVACY]**.
 
 1. In **[!UICONTROL Audits]** vindt u de **[!UICONTROL Activity log]** . In het Activiteitenlogboek worden vermeldingen weergegeven voor de volgende categorieën, handelingen en status van Mix Modeler.
 
@@ -55,16 +55,16 @@ Om het controlelogboek te inspecteren, in de interface van Mix Modeler:
 
 1. Selecteer een item in het activiteitenlog om een deelvenster voor meer informatie te openen.
 
-   ![&#x200B; de Controle van Mix Modeler &#x200B;](/help/assets/mix-modeler-audit.png)
+   ![ de Controle van Mix Modeler ](/help/assets/mix-modeler-audit.png)
 
-1. Om op **[!UICONTROL Category]**, **[!UICONTROL Action]**, **[!UICONTROL Request ID]**, **[!UICONTROL User]**, **[!UICONTROL Status]** of **[!UICONTROL Date]** waaier te filtreren, selecteer ![&#x200B; Filter &#x200B;](/help/assets/icons/Filter.svg).
+1. Om op **[!UICONTROL Category]**, **[!UICONTROL Action]**, **[!UICONTROL Request ID]**, **[!UICONTROL User]**, **[!UICONTROL Status]** of **[!UICONTROL Date]** waaier te filtreren, selecteer ![ Filter ](/help/assets/icons/Filter.svg).
 
-1. Om de kolommen te wijzigen die in het logboek van de Activiteit worden getoond, selecteer ![&#x200B; Kolommen &#x200B;](/help/assets/icons/ColumnSetting.svg) en in de **[!UICONTROL Customize table]** dialoog selecteer de kolommen om te tonen. Selecteer **[!UICONTROL Apply]** om de selectie toe te passen, **[!UICONTROL Cancel]** om de selectie te annuleren.
+1. Om de kolommen te wijzigen die in het logboek van de Activiteit worden getoond, selecteer ![ Kolommen ](/help/assets/icons/ColumnSetting.svg) en in de **[!UICONTROL Customize table]** dialoog selecteer de kolommen om te tonen. Selecteer **[!UICONTROL Apply]** om de selectie toe te passen, **[!UICONTROL Cancel]** om de selectie te annuleren.
 
-1. Om het controlelogboek te downloaden, uitgezochte ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg) **[!UICONTROL Download log]**. Selecteer in het dialoogvenster **[!UICONTROL Download log]** de indeling **[!UICONTROL CSV]** of **[!UICONTROL JSON]** en selecteer **[!UICONTROL Download]** .
+1. Om het controlelogboek te downloaden, uitgezochte ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download log]**. Selecteer in het dialoogvenster **[!UICONTROL Download log]** de indeling **[!UICONTROL CSV]** of **[!UICONTROL JSON]** en selecteer **[!UICONTROL Download]** .
 
 ## Toegang tot auditlogboeken
 
 Wanneer de eigenschap voor uw organisatie wordt toegelaten, worden de controlelogboeken automatisch verzameld aangezien de activiteit voorkomt. U te hoeven niet om de inzameling van het controlelogboek manueel toe te laten.
 
-Om controlelogboeken te bekijken en uit te voeren, moet u de de toegangsbeheertoestemming van de Toegang van Logboeken van de Controle hebben gekregen. Leren hoe te om individuele toestemmingen voor de eigenschappen van Mix Modeler te beheren, zie de [&#x200B; documentatie van de toegangscontrole &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/access-control/home).
+Om controlelogboeken te bekijken en uit te voeren, moet u de de toegangsbeheertoestemming van de Toegang van Logboeken van de Controle hebben gekregen. Leren hoe te om individuele toestemmingen voor de eigenschappen van Mix Modeler te beheren, zie de [ documentatie van de toegangscontrole ](https://experienceleague.adobe.com/en/docs/experience-platform/access-control/home).

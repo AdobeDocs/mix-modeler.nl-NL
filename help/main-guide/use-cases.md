@@ -1,18 +1,18 @@
 ---
-title: Gebruiksgevallen Mix Modeler
-description: Mix Modeler gebruikgevallen.
+title: Mix Modeler-gebruikskwesties
+description: Mix Modeler-gebruik.
 feature: Schemas, Datasets, Conversions, Harmonized Data, Marketing Touch Points, Models, Plans
 exl-id: cc82abec-d0ce-44bf-ad7e-fc379a394185
-source-git-commit: c0bae17b21322cafb50370dcd787bb86b8e3e471
+source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 0%
 
 ---
 
-# Gebruiksgevallen Mix Modeler
+# Mix Modeler-gebruikskwesties
 
-Mix Modeler laat de volgende zeer belangrijke gebruiksgevallen toe.
+Mix Modeler schakelt de volgende hoofdgebruikscenario&#39;s in.
 
 ## Indrukwekkende prestaties in alle kanalen begrijpen
 
@@ -34,9 +34,9 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/>Pas bestaande investeringen in Adobe Analytics of Customer Journey Analytics toe op snelle implementatie. |
-| Configureren | Vorm flexibele modellen gebruikend een AI-as-a-Dienst kader voor uw specifieke bedrijfsdoelstellingen<br/>Zorg automatisch voor consistentie tussen aanraakpunt en overzichtsniveau met bidirectionele overdrachtstraining. |
-| Analyseren | Duidelijk begrijpen de ROI van algemene marketing en individuele kanalen/subkanalen.<br/>Begrijp duidelijk welke aanraakpunten de beste aandrijvingsstijgende omzettingen zijn. |
+| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/> pas bestaande investeringen in Adobe Analytics of Customer Journey Analytics op snelle plaatsing toe. |
+| Configureren | Vorm flexibele modellen gebruikend een AI-as-a-Dienst kader voor uw specifieke bedrijfsdoelstellingen <br/> automatisch verzekeren consistentie tussen touchpoint &amp; samenvatting-niveau met bidirectioneel overdrachtleren. |
+| Analyseren | Duidelijk begrijpen de ROI van algemene marketing en individuele kanalen/subkanalen.<br/> begrijpt duidelijk welke aanraakpunten beste aandrijving stijgende omzettingen drijven. |
 
 {style="table-layout:auto"}
 
@@ -73,9 +73,9 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Configureren | Pas uw maatmodellen eenvoudig aan uw bedrijfsdoelstellingen aan.<br/>Definieer parameters met een paar klikken, zonder codering vereist: bijvoorbeeld kanalen, geografische gebieden, verkoopcycli, vertragingen, interne en externe bedrijfsfactoren en nog veel meer. |
+| Configureren | Pas uw maatmodellen eenvoudig aan uw bedrijfsdoelstellingen aan.<br/> bepaalt parameters in een paar kliks, geen vereiste codering: bijvoorbeeld kanalen, geographies, verkoopcycli, vertragingen, interne &amp; externe bedrijfsfactoren, en meer. |
 | Trein | Lijn gevormde modellen AI/ML op om het beste te leren past op inputgegevens, die de nauwkeurigste resultaten verstrekken. |
-| Optimaliseren | Geniet van geautomatiseerde geoptimaliseerde begrotingstoewijzingen op basis van modelprognoses.<br/>Ontwikkel en vergelijk veelvoudige begrotingsscenario&#39;s in een paar klikken gebruikend een intuïtieve UI. |
+| Optimaliseren | Geniet van geautomatiseerde geoptimaliseerde begrotingstoewijzingen op basis van modelprognoses.<br/> ontwikkelt en vergelijkt veelvoudige begrotingsscenario&#39;s in een paar klikken gebruikend intuïtieve UI. |
 
 {style="table-layout:auto"}
 
@@ -132,7 +132,7 @@ Successful implementation of this use can have the following impact:
 
 -->
 
-## Tactische inzichten in Adobe toepassingen activeren
+## Tactische inzichten in Adobe-toepassingen activeren
 
 Met dit gebruiksgeval krijgt u strategische incrementele inzichten van klantsegmenten en reizen door toegang te krijgen tot aanraakpuntscores.
 
@@ -154,8 +154,8 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 | Stap | Details |
 |---|---|
 | Model | Configureer en trainen een AI/ML-model om consistente MTA-aanraakpuntscores en MMM-aggregaatresultaten te verkrijgen. |
-| Analyseren | Exporteer incrementele aanraakpuntscores naar Customer Journey Analytics- of externe BI-gereedschappen.<br/>Voer korrelige analyse uit en bouw geavanceerde dashboards gebruikend touchpoint scores. |
-| Handeling | Maak en activeer lookalikes naar de meest gebruikte consumentensegmenten met Real-time Customer Data Platform.<br/>Ontwikkelen van gegevensgestuurde marketingstrategieën door klantsegmenten voor toekomstige campagnes. |
+| Analyseren | Exporteer incrementele aanraakpuntscores naar Customer Journey Analytics- of externe BI-gereedschappen.<br/> voert korrelige analyse uit en bouwt geavanceerde dashboards gebruikend touchpoint scores. |
+| Handeling | Maak en activeer lookalikes naar de meest gebruikte consumentensegmenten met Real-Time Customer Data Platform.<br/> ontwikkelt gegeven-gedreven marketing strategieën door klantensegmenten voor toekomstige campagnes. |
 
 {style="table-layout:auto"}
 

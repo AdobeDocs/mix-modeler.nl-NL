@@ -3,7 +3,7 @@ title: Overzicht van samenvattingsgegevens
 description: Leer hoe u gegevens in Mix Modeler kunt opnemen.
 feature: Datasets, Event Datasets, Summary Datasets, Aggregate Datasets
 exl-id: dc16a601-bbd9-467b-8a7e-c32654d4069a
-source-git-commit: f86454dd262a0a11a20d58e380b5d2b7c90fd2b9
+source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 5%
@@ -23,7 +23,7 @@ Bijvoorbeeld:
 * Samengevoegde of samenvattingsgegevens van afgemeerde tuinen (zoals Facebook, YouTube), verkeersbronnen of gegevens over offlinereclame.
 * Niet-marketingaggregaat of samenvattende gegevens die interne of externe factoren bevatten die nuttig zijn voor het samenstellen van modellen.
 
-U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname. Meer leren over het opnemen van uw gegevens in Experience Platform voor gebruik in Adobe Mix Modeler, zie het [&#x200B; Overzicht van de Ingestie van Gegevens &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/ingestion/home).
+U kunt om het even welk soort mechanisme gebruiken, gesteund door Experience Platform, om uw ervaring gebeurtenis-niveau, samengevoegde marketing inspanningsgegevens, en gegevens uit andere bronnen op te nemen. Zoals de SDK&#39;s van Experience Platform, API&#39;s, bronconnectors, streaming en batch-opname. Meer leren over het opnemen van uw gegevens in Experience Platform voor gebruik in Adobe Mix Modeler, zie het [ Overzicht van de Ingestie van Gegevens ](https://experienceleague.adobe.com/en/docs/experience-platform/ingestion/home).
 
 ## Richtsnoeren
 
@@ -86,15 +86,15 @@ Om met gegevens in Mix Modeler te werken, hebt u gegevens nodig die in datasets 
 
 Als u wilt controleren of uw gegevens correct beschikbaar zijn in Mix Modeler, kunt u het volgende doen:
 
-* De visualisaties van het gebruik in het [&#x200B; Overzicht &#x200B;](/help/overview.md).
-* De download en inspecteert gegevens van [&#x200B; Geharmoniseerde gegevens &#x200B;](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
+* De visualisaties van het gebruik in het [ Overzicht ](/help/overview.md).
+* De download en inspecteert gegevens van [ Geharmoniseerde gegevens ](/help/harmonize-data/overview.md) in Geharmoniseerde datasets.
 
-Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [&#x200B; SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/query/home).
+Om te bevestigen of uw gegevens behoorlijk in Experience Platform worden opgenomen, kunt u [ SQL vragen schrijven en uitvoeren gebruikend de Dienst van de Vraag van Experience Platform ](https://experienceleague.adobe.com/en/docs/experience-platform/query/home).
 
 
 >[!MORELIKETHIS]
 >
 >Zie voor meer details over hoe te om schema&#39;s en datasets te beheren:
 >
->* [&#x200B; Schemas &#x200B;](schemas.md)
->* [&#x200B; Datasets &#x200B;](datasets.md)
+>* [ Schemas ](schemas.md)
+>* [ Datasets ](datasets.md)

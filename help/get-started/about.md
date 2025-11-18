@@ -4,7 +4,7 @@ description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix
 short-description: Krijg een overzicht van de functionaliteit en mogelijkheden van Mix Modeler.
 feature: Plans, Harmonized Data, Models
 exl-id: aa1018d5-b073-4dfb-b40c-ca16a8970b2f
-source-git-commit: 325bc55076467a8cab5a884ea5137249913d2350
+source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 3%
@@ -31,7 +31,7 @@ Voor deze functionaliteit combineert Mix Modeler:
 
 Het bidirectionele overdrachtleren van AI/ML verenigt marketing mixmodellering (MMM) en multi-touch attributie (MTA) resultaten om verenigbare resultaten over meting en planning in een koekjeswereld te verzekeren.
 
-![&#x200B; Bidirectional transfer learning &#x200B;](/help/assets/birdirectional-transfer-learning.png){width="500" align="center"}
+![ Bidirectional transfer learning ](/help/assets/birdirectional-transfer-learning.png){width="500" align="center"}
 
 
 ## Mogelijkheden
@@ -49,7 +49,7 @@ Mix Modeler biedt de volgende mogelijkheden:
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Begrijp het werkschema van Mix Modeler &#x200B;](workflow.md)
+>[ Begrijp het werkschema van Mix Modeler ](workflow.md)
 
 
 ### Marketing Mix Modeling (MMM)
@@ -86,9 +86,9 @@ U kunt de multi-touchattributie-functie van Mix Modeler in de volgende gebruiksg
 
 * Toewijzing van de campagnebegroting: de beslissingen over de toewijzing van de begroting via het marketingkanaal inlichten.
 * Optimalisatie van campagnes: binnen elk kanaal, begrijp welke campagnes, creatieve producten, en sleutelwoorden beter werken waarvoor SKU&#39;s of Geos. Op deze manier kunt u naar elk kanaal kijken, zodat het marketingteam hun tactiek kan optimaliseren.
-* Toekenning op het niveau van de gebeurtenissen op het volledige-kanaalniveau: begrijp de invloed van marketing over de volledige klantenreis. Bijvoorbeeld gratis account voor betaalde conversie en hoger.
+* Toekenning op volledig funnel-niveau: begrijp de invloed van marketing op de hele reis van de klant. Bijvoorbeeld gratis account voor betaalde conversie en hoger.
 * De evaluaties van de partner: Evalueer de doeltreffendheid van agentschappen en partners, die op attributieresultaten worden gebaseerd.
 
-Zie [&#x200B; ModelInzichten - Attributie &#x200B;](../models/insights.md#attribution) op hoe te om tot de multi-aanraking attributieinzichten binnen Mix Modeler toegang te hebben.
+Zie [ ModelInzichten - Attributie ](../models/insights.md#attribution) op hoe te om tot de multi-aanraking attributieinzichten binnen Mix Modeler toegang te hebben.
 
 
