@@ -31,7 +31,7 @@ Voor deze functionaliteit combineert Mix Modeler:
 
 Het bidirectionele overdrachtleren van AI/ML verenigt marketing mixmodellering (MMM) en multi-touch attributie (MTA) resultaten om verenigbare resultaten over meting en planning in een koekjeswereld te verzekeren.
 
-![ Bidirectional transfer learning ](/help/assets/birdirectional-transfer-learning.png){width="500" align="center"}
+![&#x200B; Bidirectional transfer learning &#x200B;](/help/assets/birdirectional-transfer-learning.png){width="500" align="center"}
 
 
 ## Mogelijkheden
@@ -49,7 +49,7 @@ Mix Modeler biedt de volgende mogelijkheden:
 
 >[!MORELIKETHIS]
 >
->[ Begrijp het werkschema van Mix Modeler ](workflow.md)
+>[&#x200B; Begrijp het werkschema van Mix Modeler &#x200B;](workflow.md)
 
 
 ### Marketing Mix Modeling (MMM)
@@ -89,6 +89,6 @@ U kunt de multi-touchattributie-functie van Mix Modeler in de volgende gebruiksg
 * Toekenning op volledig funnel-niveau: begrijp de invloed van marketing op de hele reis van de klant. Bijvoorbeeld gratis account voor betaalde conversie en hoger.
 * De evaluaties van de partner: Evalueer de doeltreffendheid van agentschappen en partners, die op attributieresultaten worden gebaseerd.
 
-Zie [ ModelInzichten - Attributie ](../models/insights.md#attribution) op hoe te om tot de multi-aanraking attributieinzichten binnen Mix Modeler toegang te hebben.
+Zie [&#x200B; ModelInzichten - Attributie &#x200B;](../models/insights.md#attribution) op hoe te om tot de multi-aanraking attributieinzichten binnen Mix Modeler toegang te hebben.
 
 
