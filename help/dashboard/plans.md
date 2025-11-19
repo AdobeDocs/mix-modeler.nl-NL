@@ -3,9 +3,9 @@ title: Prestaties om te plannen
 description: Leer hoe u de Performance gebruikt om een overzicht in Mix Modeler te plannen.
 feature: Dashboard, Plans, Models
 exl-id: 930fc1d5-8e28-4610-af7b-c4ec91f86a8a
-source-git-commit: 733fc969a780e777eae67042303180707ec4ed8d
+source-git-commit: 7834a0c4a5fd18902b73e7c307f61847bee05bc0
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -14,41 +14,38 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een alpha- eigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
+>Het **[!UICONTROL Performance to pan]** [!BADGE  Beta ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
+Het **[!UICONTROL Plans]** [!BADGE  Beta ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert. U kunt de werkelijke prestaties en de geplande prestaties volgen via statuskaarten en visualisaties.
 
-
-
-Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert.
+Het dashboard helpt u om hiaten, vlekrisico&#39;s of kansen te identificeren, en geschikte aanpassingen aan uw plannen en begrotingen te maken.
 
 Om te selecteren welke gegevens voor de KPI statuskaarten en visualisaties worden getoond:
 
 * Selecteer een plan van het **[!UICONTROL Plan name]** dropdown menu, gebruikend **[!UICONTROL _Uitgezocht een optie..._]**.
 
-* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg).
+* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
 
-Het **[!UICONTROL Plans]** [!BADGE &#x200B; Alpha &#x200B;]{type=Informative} lusje toont:
+Het **[!UICONTROL Plans]** [!BADGE  Beta ]{type=Informative} lusje toont:
 
-* KPI-statuskaarten
+* [ KPI statuskaarten ](#kpi-status-cards):
 
    * [Begroting](#budget)
    * [Ontvangsten](#revenue)
    * [ROI](#roi)
-   * [Orders](#orders)
+   * [KPI](#kpi)
 
-* Visualisaties:
-   * [ROI: Werkelijk vs. voorspeld](#roi-actual-vs-forecasted)
-   * [Uitgaven: Werkelijk vs. gepland](#spend-actual-vs-planned)
-   * [ROI door datumwaaiers](#roi-by-date-ranges)
-   * [Opbrengst: Werkelijk vs. geraamd](#revenue-actual-vs-forecasted)
-   * [Werkelijk vs Voorspeld door datumbereiken](#actual-vs-predicted-spend-by-date-ranges)
-   * [Verdelen op datumbereiken](#spend-by-date-ranges)
-   * [Opbrengsten per datumbereik](#revenue-by-date-ranges)
-   * [Spend door datumwaaiers (en kanalen)](#spend-by-date-ranges-and-channels)
+* [ Visualisaties ](#visualizations):
+   * [*Metrisch*](#metric-actual-vs-planned)
+   * [*Metrisch*](#metric-actual-vs-planned-by-granularity)
+   * [Kanaal ](#channel-metric-by-granularity)
+   * [*Metrisch*](#metric-vs-metric-by-channel)
+   * [*Metrisch*](#metric-by-granularity)
+   * [*Metrisch*](#metric-by-channel)
 
 ## KPI-statuskaarten
 
-![&#x200B; KPI statuskaarten &#x200B;](../assets/performance-to-plan-kpi-cards.png)
+![ KPI statuskaarten ](../assets/performance-to-plan-kpi-cards.png)
 
 
 ### Begroting
@@ -65,54 +62,69 @@ Een circulaire vooruitgangsvisualisatie die toont hoe de daadwerkelijke opbrengs
 Een lijnvisualisatie die ROI voor de datumperiode toont.
 
 
-### Orders
+### KPI
 
-Een lijnvisualisatie die de orden voor de datumperiode toont.
+Een lijnvisualisatie die KPI voor de datumperiode toont.
 
 Om een andere KPI te selecteren:
 
-1. Selecteer ![&#x200B; uitgeven &#x200B;](/help/assets/icons/Edit.svg).
-1. Selecteer in het dialoogvenster **[!UICONTROL KPI status card]** een KPI in het vervolgkeuzemenu **[!UICONTROL KPI]** .
+1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg).
+1. Selecteer in het dialoogvenster **[!UICONTROL KPI status card]** een KPI in het vervolgkeuzemenu **[!UICONTROL KPI]** . Beschikbare opties zijn: [!UICONTROL Conversions], [!UICONTROL CPA], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL Spend] .
 
 
 ## Visualisaties
 
-![&#x200B; Visualisatie &#x200B;](../assets/performance-to-plan-visualizations.png)
+Er zijn zes visualisaties beschikbaar en u kunt elk van de zes visualisaties bewerken.
 
-### ROI: Werkelijk vs. voorspeld
+Als u de grootte van een visualisatie wilt wijzigen, gebruikt u de ┛ -greep in de rechterbenedenhoek. Als u een visualisatie wilt verplaatsen, sleept u de visualisatie naar de gewenste positie.
 
-Een lijnvisualisatie die daadwerkelijke ROI tegenover voorspelde ROI voor de datumperiode vergelijkt.
+U kunt de muisaanwijzer boven een willekeurig regel-, staaf- of spreidingselement in een visualisatie plaatsen om een pop-up met aanvullende informatie weer te geven.
 
+![ Visualisatie ](../assets/performance-to-plan-visualizations.png)
 
-### Uitgaven: Werkelijk vs. gepland
+### *Metrisch*: Ware versus gepland
 
-Een visualisatie van het staafdiagram waarmee de werkelijke uitgaven worden vergeleken met het geplande budget over de kanalen voor de datumperiode.
-
-### ROI door datumwaaiers
-
-Een visualisatie van het staafdiagram die ROI door datumwaaier voor de datumperiode toont.
+Een gestapelde staafvisualisatie die de geselecteerde metrische waarden voor huidige, geplande en getogen waarden vergelijkt.
 
 
-### Opbrengst: Werkelijk vs. geraamd
+### *Metrisch*: Ware vs. gepland door *granularity*
 
-Een lijnvisualisatie die de daadwerkelijke opbrengst tegenover de voorspelde inkomsten voor de datumperiode vergelijkt.
-
-
-### Werkelijke versus verwachte uitgaven per datumbereik
-
-Een visualisatie van het staafdiagram waarin de werkelijke versus verwachte uitgaven per datumbereik voor de datumperiode worden weergegeven.
+Een lijnvisualisatie die daadwerkelijke en geplande waarden voor geselecteerde metrisch en geselecteerde korreligheid toont.
 
 
-### Verdelen op datumbereiken
+### Het kanaal *metrisch* door *granularity*
 
-Een visualisatie van het staafdiagram die doorbrengt door datumwaaier voor de datumperiode toont.
-
-
-### Opbrengsten per datumbereik
-
-Een visualisatie van het staafdiagram die opbrengst door datumwaaiers voor de datumperiode toont.
+Een gestapelde staafvisualisatie die gestapelde balken toont die kanalen voor geselecteerde metrisch en geselecteerde korreligheid tonen.
 
 
-### Besteed op datumbereiken en kanalen
+### *Metrisch* vs *Metrisch* door kanaal
 
-Een gestapelde visualisatie van het staafdiagram die door datumwaaiers en kanaal voor de datumperiode toont.
+Een spreidingsvisualisatie die een spreidingsplot voor kanalen over de geselecteerde metriek toont.
+
+
+### *Metrisch* door *granularity*
+
+Een bar visualisatie die daadwerkelijke en geplande waarden voor geselecteerde metrisch toont.
+
+
+### *Metrisch* door kanaal
+
+Een visualisatie met meerdere regels waarbij de geselecteerde metrische waarde wordt weergegeven over de geselecteerde granulariteit.
+
+
+### Een visualisatie bewerken
+
+Een visualisatie bewerken:
+
+1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg) om de **[!UICONTROL Edit data]** dialoog te openen.
+1. Afhankelijk van de visualisatie kunt u het volgende wijzigen:
+
+   * Een of twee metriek: selecteer een metrische waarde in het vervolgkeuzemenu **[!UICONTROL Select metric]** .
+
+      * Voor op rendement gebaseerde plannen zijn de opties: [!UICONTROL Conversions], [!UICONTROL CPA], [!UICONTROL Revenue], [!UICONTROL ROI], [!UICONTROL Spend] en [!UICONTROL Volume].
+      * Voor op CPA gebaseerde plannen, zijn de opties: [!UICONTROL Conversions], [!UICONTROL CPA], [!UICONTROL Spend], en [!UICONTROL Volume].
+   * **[!UICONTROL Granularity]**: Selecteer **[!UICONTROL date ranges]** of **[!UICONTROL week]** in het vervolgkeuzemenu **[!UICONTROL Granularity]** .
+
+   In **[!UICONTROL Preview]** ziet u hoe de wijzigingen afwijken van de **[!UICONTROL Current]** visualisatie.
+
+1. Selecteer **[!UICONTROL Apply]** om de wijzigingen toe te passen. Selecteer **[!UICONTROL Cancel]** om wijzigingen in de visualisatie te annuleren.
