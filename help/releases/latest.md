@@ -4,18 +4,28 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: 8b9f8b6b007f78e9c98e71be56bea48d335fb3c3
+source-git-commit: 6fc734793102533003c731e22dfe0d8c422a1cde
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '834'
 ht-degree: 7%
 
 ---
 
 # Opmerkingen bij de release van Mix Modeler
 
-**Laatste update**: 12 september, 2025.
+**Laatste update**: 12 November, 2025.
 
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix Modeler-releases werken op een doorlopend leveringsmodel, dat een gemiddelde maandelijkse release mogelijk maakt. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
+
+
+
+## november 2025
+
+| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
+|---|---|---|---|
+| **[!UICONTROL Plans tracking]** | Gebruikers toestaan te begrijpen hoe de uitvoering van marketingplannen aansluit bij wat gepland is. Dus je kunt erop vertrouwen hoe marketing functioneert. Of identificeer kansen en risico&#39;s vroeger om cursus te verbeteren en bedrijfsdoelstellingen te bereiken. De [ Prestaties om visualisaties ](/help/dashboard/plans.md#performance-to-plan) te plannen worden bijgewerkt en configuratie voor metriek en granulariteit toestaan. | donderdag 12 november 2025 | donderdag 12 november 2025 |
+| **[!UICONTROL Channel synergy insights]** | Toon hoe de afzetkanalen samenwerken om grotere invloed tot stand te brengen. Met deze inzichten, kunt u in vertrouwen vroegere marketing prestaties verklaren en marketing uitgaven aanpassen overeenkomstig om het algemene rendement van uw marketing portefeuille te maximaliseren. Een matrijs van de synergie van het Kanaal is beschikbaar in [ Modelinzichten ](/help/models/insights.md#channel-synergy) en [ Inzichten van het Plan ](/help/plans/insights.md#channel-synergies). | donderdag 12 november 2025 | donderdag 12 november 2025 |
+| **Oplossingen** | Oplossingen voor de volgende tickets: <ul><li>AMM-2920: plant de aanmaakstroom en migratie.</li><li>AMM-3282: Wetenschappelijke notatie voor kleine getallen in grote rasters.</li></ul> | donderdag 12 november 2025 | donderdag 12 november 2025 |
 
 
 ## September 2025
