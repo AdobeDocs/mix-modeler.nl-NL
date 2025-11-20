@@ -1,5 +1,5 @@
 ---
-title: Hulplijn Mix Modeler
+title: Mix Modeler-gids
 description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
 short-description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
 feature: Harmonized Data, Models, Plans
@@ -11,9 +11,9 @@ ht-degree: 14%
 
 ---
 
-# Hulplijn Adobe Mix Modeler
+# Adobe Mix Modeler-gids
 
-Deze technische documentatiegids verleent zelfhulp voor Adobe **Mix Modeler**. Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning horizontaal optimaliseert op alle kanalen: betaald, verdiend en eigendom. Mix Modeler is gebouwd boven op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
+Deze technische documentatiegids verstrekt zelfhulp voor Adobe **Mix Modeler**. Mix Modeler is een Adobe Experience Cloud-toepassing die campagnes meet en de planning horizontaal optimaliseert op alle kanalen: betaald, verdiend en eigendom. Mix Modeler is gebouwd op Adobe Experience Platform en wordt aangedreven door Adobe Sensei.
 
 ## Beginnen met de basisbeginselen
 
@@ -21,7 +21,7 @@ Deze technische documentatiegids verleent zelfhulp voor Adobe **Mix Modeler**. M
   <tr style="border: 0;">
     <td>
     <a href="/help/get-started/about.md"><img src="assets/whatis-mm.png"></a>
-    <div><strong> Snelle start </strong><br/> krijgt een overzicht van en inzicht in het werkschema van Mix Modeler.</div>
+    <div><strong> Snel begin </strong><br/> krijgt een overzicht van en insight in het werkschema van Mix Modeler.</div>
     </td>
     <td>
     <a href="/help/ingest-data/overview.md"><img src="assets/data-ingestion-mm.png"></a>
@@ -74,7 +74,7 @@ Deze technische documentatiegids verleent zelfhulp voor Adobe **Mix Modeler**. M
     </td>
         <td>
       <img src="assets/Learn.svg" width="35px"><br/>
-      <strong> Tutorials </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=nl-NL"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=nl-NL"> de gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=nl-NL"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=nl-NL"> Reis van het gebruikersinterface </a>
+      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=en"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=en"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=en"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=en"> Reis van het gebruikersinterface </a>
     </td>
   </tr>
 </table>

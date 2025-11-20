@@ -5,7 +5,7 @@ user-guide-description: Leer hoe u Mix Modeler gebruikt.
 source-git-commit: cc6f7810bf60c7b364280139cb1cbb39794595d8
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 44%
+ht-degree: 45%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 44%
    + [Wat is Mix Modeler?](/help/get-started/about.md)
    + [Toepassingsworkflow](/help/get-started/workflow.md)
 
-+ Home {#dashboard}
++ Startpagina {#dashboard}
    + [Overzicht](/help/dashboard/overview.md)
    + [Geharmoniseerde gegevens](/help/dashboard/harmonized-data.md)
    + [Abonnementen](/help/dashboard/plans.md)
