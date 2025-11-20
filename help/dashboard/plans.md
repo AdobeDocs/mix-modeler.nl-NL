@@ -14,9 +14,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Het **[!UICONTROL Performance to plan]** [!BADGE  Beta ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
+>Het **[!UICONTROL Performance to plan]** [!BADGE &#x200B; Beta &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering. De functie is beschikbaar voor een beperkt aantal klanten.
 
-Het **[!UICONTROL Plans]** [!BADGE  Beta ]{type=Informative} lusje in Mix Modeler ![ Huis ](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert. U kunt de werkelijke prestaties en de geplande prestaties volgen via statuskaarten en visualisaties.
+Het **[!UICONTROL Plans]** [!BADGE &#x200B; Beta &#x200B;]{type=Informative} lusje in Mix Modeler ![&#x200B; Huis &#x200B;](/help/assets/icons/Home.svg) **[!UICONTROL Overview]** verstrekt een volgend dashboard om te controleren hoe goed uw marketing tegen het plan presteert. U kunt de werkelijke prestaties en de geplande prestaties volgen via statuskaarten en visualisaties.
 
 Het dashboard helpt u om hiaten, vlekrisico&#39;s of kansen te identificeren, en geschikte aanpassingen aan uw plannen en begrotingen te maken.
 
@@ -24,28 +24,28 @@ Om te selecteren welke gegevens voor de KPI statuskaarten en visualisaties worde
 
 * Selecteer een plan van het **[!UICONTROL Plan name]** dropdown menu, gebruikend **[!UICONTROL _Uitgezocht een optie..._]**.
 
-* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![ Kalender ](/help/assets/icons/Calendar.svg).
+* Geef een datumpunt op. Om de datumperiode te veranderen, ga een begindatum en een einddatum manueel in of selecteer een datumperiode, gebruikend ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg).
 
-Het **[!UICONTROL Plans]** [!BADGE  Beta ]{type=Informative} lusje toont:
+Het **[!UICONTROL Plans]** [!BADGE &#x200B; Beta &#x200B;]{type=Informative} lusje toont:
 
-* [ KPI statuskaarten ](#kpi-status-cards):
+* [&#x200B; KPI statuskaarten &#x200B;](#kpi-status-cards):
 
    * [Begroting](#budget)
    * [Ontvangsten](#revenue)
    * [ROI](#roi)
    * [KPI](#kpi)
 
-* [ Visualisaties ](#visualizations):
+* [&#x200B; Visualisaties &#x200B;](#visualizations):
    * [*Metrisch*](#metric-actual-vs-planned)
    * [*Metrisch*](#metric-actual-vs-planned-by-granularity)
-   * [Kanaal ](#channel-metric-by-granularity)
+   * [Kanaal &#x200B;](#channel-metric-by-granularity)
    * [*Metrisch*](#metric-vs-metric-by-channel)
    * [*Metrisch*](#metric-by-granularity)
    * [*Metrisch*](#metric-by-channel)
 
 ## KPI-statuskaarten
 
-![ KPI statuskaarten ](../assets/performance-to-plan-kpi-cards.png)
+![&#x200B; KPI statuskaarten &#x200B;](../assets/performance-to-plan-kpi-cards.png)
 
 
 ### Begroting
@@ -68,7 +68,7 @@ Een lijnvisualisatie die KPI voor de datumperiode toont.
 
 Om een andere KPI te selecteren:
 
-1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg).
+1. Selecteer ![&#x200B; uitgeven &#x200B;](/help/assets/icons/Edit.svg).
 1. Selecteer in het dialoogvenster **[!UICONTROL KPI status card]** een KPI in het vervolgkeuzemenu **[!UICONTROL KPI]** . Beschikbare opties zijn: [!UICONTROL Conversions], [!UICONTROL CPA], [!UICONTROL Revenue], [!UICONTROL ROI] en [!UICONTROL Spend] .
 
 
@@ -80,7 +80,7 @@ Als u de grootte van een visualisatie wilt wijzigen, gebruikt u de ┛ -greep in
 
 U kunt de muisaanwijzer boven een willekeurig regel-, staaf- of spreidingselement in een visualisatie plaatsen om een pop-up met aanvullende informatie weer te geven.
 
-![ Visualisatie ](../assets/performance-to-plan-visualizations.png)
+![&#x200B; Visualisatie &#x200B;](../assets/performance-to-plan-visualizations.png)
 
 ### *Metrisch*: Ware versus gepland
 
@@ -116,7 +116,7 @@ Een visualisatie met meerdere regels waarbij de geselecteerde metrische waarde w
 
 Een visualisatie bewerken:
 
-1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg) om de **[!UICONTROL Edit data]** dialoog te openen.
+1. Selecteer ![&#x200B; uitgeven &#x200B;](/help/assets/icons/Edit.svg) om de **[!UICONTROL Edit data]** dialoog te openen.
 1. Afhankelijk van de visualisatie kunt u het volgende wijzigen:
 
    * Een of twee metriek: selecteer een metrische waarde in het vervolgkeuzemenu **[!UICONTROL Select metric]** .
