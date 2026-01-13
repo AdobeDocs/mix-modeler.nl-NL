@@ -18,7 +18,7 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Selecteer ![&#x200B; Schema&#39;s &#x200B;](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
-Zie het [&#x200B; overzicht van Schema&#39;s UI &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie.
+Zie het [&#x200B; overzicht van Schema&#39;s UI &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=nl-NL) voor meer informatie.
 
 ## Samengevoegde of samenvattingsgegevens
 
@@ -88,7 +88,7 @@ Een samenvatting, interne factor, of externe factordataset kan op:
 
 ## Ondersteunde gegevenstypen
 
-Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [&#x200B; Grondbeginselen van schemacompositie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
+Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [&#x200B; Grondbeginselen van schemacompositie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=nl-NL#data-type) worden vermeld, worden gesteund:
 
 - String
 - Geheel
