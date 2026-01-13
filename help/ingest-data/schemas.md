@@ -16,9 +16,9 @@ Om schema&#39;s te beheren, ondersteunend de gegevens u in Experience Platform e
 
 1. Ga naar de Mix Modeler interface.
 
-1. Selecteer ![ Schema&#39;s ](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
+1. Selecteer ![&#x200B; Schema&#39;s &#x200B;](/help/assets/icons/Schemas.svg) **[!UICONTROL Schemas]**, onder **[!UICONTROL SETUP]**.
 
-Zie het [ overzicht van Schema&#39;s UI ](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie.
+Zie het [&#x200B; overzicht van Schema&#39;s UI &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/ui/overview.html?lang=en) voor meer informatie.
 
 ## Samengevoegde of samenvattingsgegevens
 
@@ -38,7 +38,7 @@ Gebruik de klasse XDM Summary Metrics voor:
 
 Een schema met de basisklasse **[!DNL XDM Summary Metrics]** kan eenvoudig zijn, zoals in **[!DNL ExternalFactorSummarySchema]** hieronder wordt getoond.
 
-![ Extern het Schema van Factoren ](/help/assets/external-factors-schema.png)
+![&#x200B; Extern het Schema van Factoren &#x200B;](/help/assets/external-factors-schema.png)
 
 Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens bevatten, bijvoorbeeld:
 
@@ -65,7 +65,7 @@ Dit eenvoudige schema kan worden gebruikt om datasets in te voeren die gegevens 
 
 Zie hieronder voor een uitgebreider voorbeeld van een instructie **[!DNL LumaPaidMarketingSchema]** waarbij **[!DNL XDM Summary Metrics]** als basisklasse wordt gebruikt. Het schema gebruikt specifieke gebiedsgroepen (die met kleuren worden geannoteerd) voor metriek (**[!DNL AMMMetrics]**), dimensies (**[!DNL AMMDimensions]**), en andere klant-specifieke informatie (**[!DNL CustomerSpecific]**).
 
-![ Samenvattingsschema ](/help/assets/summary-schema.png)
+![&#x200B; Samenvattingsschema &#x200B;](/help/assets/summary-schema.png)
 
 Gezien de asynchrone aard van profielopname, wanneer het verzamelen van geaggregeerde of summiere gegevens uit externe bronnen, wordt het aangemoedigd om de Externe het gebiedsgroep van de Details van de Controle van het Systeem van Source als deel van een schema te gebruiken. Deze veldgroep definieert een set auditeigenschappen voor externe bronnen.
 
@@ -75,20 +75,20 @@ Voor het gemak, steunt Experience Platform een specifieke het gebiedsgroep van d
 
 | Weergavenaam veld | Veldnaam | Veldtype | Gegevenstype | Vereist | Beschrijving |
 |---|---|---|---|:-:|---|
-| Naam factor | factorName | Dimension | String | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | De naam van de factor |
-| Waarde factor | factorValue | Metrisch | Dubbel | ![ Vinkje ](/help/assets/icons/Checkmark.svg) | De waarde van de factor |
+| Naam factor | factorName | Dimension | String | ![&#x200B; Vinkje &#x200B;](/help/assets/icons/Checkmark.svg) | De naam van de factor |
+| Waarde factor | factorValue | Metrisch | Dubbel | ![&#x200B; Vinkje &#x200B;](/help/assets/icons/Checkmark.svg) | De waarde van de factor |
 | Type factor | factorType | Dimension | String (Enum) | | Het type factor.<br/> Mogelijke waarden zijn: <ul><li>Intern (interne factor)</li><li>Extern (externe factor)</li></ul> |
 | Type waarde | valueType | Dimension | String (Enum) | | Mogelijke waarden zijn:<ul><li>Werkelijk (werkelijke waarde)</li><li>Voorspeld (voorspelde waarde)</li></ul>Als er geen waarde is, is Actueel de standaardwaarde. |
 | Korreligheid | granulariteit | Dimension | String (Enum) | | Mogelijke waarden zijn:<ul><li>Dagelijks</li><li>Wekelijks</li><li>Maandelijks</li></ul> |
 
 Een samenvatting, interne factor, of externe factordataset kan op:
 
-- Een schema dat **** de Groep van de Gebieden van de Factor Standaard gebruikt. Deze dataset wordt getoond als **[!UICONTROL Factors]** dataset wanneer u datasetregels vormt. En de geharmoniseerde gebieden u, als deel van de datasetregels voor de dataset bepaalt, zijn beschikbaar als factoren wanneer u een model creeert.
+- Een schema dat **&#x200B;**&#x200B;de Groep van de Gebieden van de Factor Standaard gebruikt. Deze dataset wordt getoond als **[!UICONTROL Factors]** dataset wanneer u datasetregels vormt. En de geharmoniseerde gebieden u, als deel van de datasetregels voor de dataset bepaalt, zijn beschikbaar als factoren wanneer u een model creeert.
 - Een schema dat **niet** de Groep van de Gebieden van de Factor Standaard gebruikt. Deze dataset wordt getoond als **[!UICONTROL Summary]** dataset wanneer u datasetregels vormt. De dataset wordt gevormd als summiere gegevens en beïnvloedt geharmoniseerde gegevens niet.
 
 ## Ondersteunde gegevenstypen
 
-Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [ Grondbeginselen van schemacompositie ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
+Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Platform-gegevenstypen. De volgende basisgegevenstypes (gebieden), die in [&#x200B; Grondbeginselen van schemacompositie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=en#data-type) worden vermeld, worden gesteund:
 
 - String
 - Geheel
@@ -103,4 +103,4 @@ Mix Modeler biedt momenteel geen ondersteuning voor een subset van Experience Pl
 
 >[!MORELIKETHIS]
 >
->- [ Schemas ](schemas.md)
+>- [&#x200B; Schemas &#x200B;](schemas.md)
