@@ -21,11 +21,11 @@ Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix 
 
 ## Januari 2026
 
-| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
+| Functie | Beschrijving | [&#x200B; Begin van de Uitvoer &#x200B;](#release-strategy) | [&#x200B; Algemene Beschikbaarheid &#x200B;](#release-strategy) |
 |---|---|---|---|
 | **[!UICONTROL Dataset rules]** | Bijgewerkte lijst met gegevenssetregels. U kunt naar één of meerdere datasetregels zoeken en, een datasetregel direct van de lijst bekijken uitgeven of schrappen. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
-| **[!UICONTROL Current spend]** | Voeg een huidig doorvoerpunt in de [ marginale visualisatie van de reactiecurve ](/help/models/insights.md#marginal-response-curves) in Modelinzichten toe. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
-| **[!UICONTROL Sort and resize columns]** | Toegevoegde soort en resize van kolommen in de [ Modellen ](/help/models/overview.md) en [ Punten ](/help/plans/overview.md) lijst. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
+| **[!UICONTROL Current spend]** | Voeg een huidig doorvoerpunt in de [&#x200B; marginale visualisatie van de reactiecurve &#x200B;](/help/models/insights.md#marginal-response-curves) in Modelinzichten toe. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
+| **[!UICONTROL Sort and resize columns]** | Toegevoegde soort en resize van kolommen in de [&#x200B; Modellen &#x200B;](/help/models/overview.md) en [&#x200B; Punten &#x200B;](/help/plans/overview.md) lijst. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
 | **Oplossingen** | Oplossingen voor de volgende tickets: <ul><li>AMM-3328: Veldinvoer uitgeschakeld voor nieuwe operatoren voor Factoren</li><li>AMM-3359: Datumkiezer en keuzelijst met invoervak vergrendelen.</li><li>AMM-3441: Het dupliceren van een abonnement vult niet automatisch het datumbereik en het budget in.</li></ul> | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
 
 
