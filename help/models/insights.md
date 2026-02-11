@@ -276,7 +276,7 @@ Voor elk conversiepad ziet u:
 >id="models_diagnostics_modelassessment"
 >title="Modelbeoordelingsgrafieken"
 >abstract="Modelbeoordelingsvisualisaties worden afgebroken op feitelijke versus voorspelde of residuele omzettingen."
->additional-url="https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview" text="Mix Modeler-overzicht"
+>additional-url="https://experienceleague.adobe.com/nl/docs/mix-modeler/using/overview" text="Mix Modeler-overzicht"
 >additional-url="https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops" text="Mix Modeler demo"
 
 
