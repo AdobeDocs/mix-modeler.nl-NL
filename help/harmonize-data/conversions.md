@@ -1,16 +1,23 @@
 ---
 title: conversies
-description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van het harmoniseren van uw gegevens in de Mix Modeler.
+description: Leer hoe u conversies maakt die u kunt gebruiken als onderdeel van de harmonisatie van uw gegevens in Mix Modeler.
 feature: Harmonized Data, Conversions
 exl-id: a8559426-452a-43e8-9a60-0c0bc97d863c
-source-git-commit: 935b179e31d1b677a8c83b1566c02b7aaa617e8d
+source-git-commit: 5468e0aaf37bf2dca8912199ea26e5f8d9069cb5
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
 
-# conversies
+# conversies {#conversions}
+
+
+>[!CONTEXTUALHELP]
+>id="harmonizeddata_conversions_create"
+>title="Conversie"
+>abstract="Conversieevenementen zijn bedrijfsdoelstellingen die de impact van marketingactiviteiten identificeren. Voorbeelden: e-commerceorders, aankopen in de winkel, websitebezoeken en meer."
+
 
 Conversieevenementen zijn bedrijfsdoelstellingen die de impact van marketingactiviteiten identificeren. Voorbeelden: e-commerceorders, aankopen in de winkel, bezoeken op de website, enzovoort.
 
@@ -18,9 +25,9 @@ U definieert marketingconversies voor toewijzingsanalyse.
 
 ## Conversies beheren
 
-Om een lijst van de beschikbare omzettingen, in de interface van de Mix Modeler te zien:
+Een lijst van de beschikbare omzettingen, in de interface van Mix Modeler zien:
 
-1. Selecteer ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
+1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
 1. Selecteer **[!UICONTROL Conversions]** in de bovenste balk. U ziet een tabel met de conversies.
 
@@ -38,9 +45,9 @@ De tabelkolommen geven details over de conversie op:
 
 ## Conversie toevoegen
 
-Om een omzetting toe te voegen, in ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Conversion]** interface in Mix Modeler:
+Om een omzetting toe te voegen, in ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Conversion]** interface in Mix Modeler:
 
-1. Selecteer ![&#x200B; toevoegen &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion]**.
+1. Selecteer ![ toevoegen ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion]**.
 
 1. In het dialoogvenster **[!UICONTROL Create conversion]** :
 
@@ -50,9 +57,9 @@ Om een omzetting toe te voegen, in ![&#x200B; DataSearch &#x200B;](/help/assets/
 
       1. Selecteer een waarde van **[!UICONTROL *Uitgezocht harmoniseren...*]**, bijvoorbeeld `Conversion types`.
 
-      1. Selecteer een waarde voor de exploitant ![&#x200B; Slag &#x200B;](/help/assets/icons/ChevronDown.svg), bijvoorbeeld **[!UICONTROL is]**.
+      1. Selecteer een waarde voor de exploitant ![ Slag ](/help/assets/icons/ChevronDown.svg), bijvoorbeeld **[!UICONTROL is]**.
 
-      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**&#x200B;of ga een waarde in, bijvoorbeeld **[!UICONTROL Store]**.
+      1. Selecteer een waarde van **[!UICONTROL *Uitgezochte waarde *]**of ga een waarde in, bijvoorbeeld **[!UICONTROL Store]**.
 
    1. Selecteer een geharmoniseerd veld in **[!UICONTROL Conversion metric for analysis]**, bijvoorbeeld **[!UICONTROL Orders]** .
 
@@ -60,7 +67,7 @@ Om een omzetting toe te voegen, in ![&#x200B; DataSearch &#x200B;](/help/assets/
 
    1. Selecteer **[!UICONTROL Create]** om de conversie te maken. Selecteer **[!UICONTROL Cancel]** om het maken van een conversie te annuleren.
 
-      ![&#x200B; de tekst van Alt &#x200B;](/help/assets/create-conversion.png)
+      ![ de tekst van Alt ](/help/assets/create-conversion.png)
 
 1. Wanneer deze conversie wordt gemaakt, wordt deze aan de conversietabel toegevoegd.
 
@@ -69,22 +76,22 @@ Om een omzetting toe te voegen, in ![&#x200B; DataSearch &#x200B;](/help/assets/
 
 Details van een conversie weergeven:
 
-1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
 
-1. Selecteer ![&#128279;](/help/assets/icons/ViewDetail.svg) de details van de Mening **&#x200B;**&#x200B;van de Mening . In een dialoogvenster ziet u details over de conversie. Zie [&#x200B; een omzetting &#x200B;](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
+1. Selecteer ![ de details van de Mening ](/help/assets/icons/ViewDetail.svg) **van de Mening**. In een dialoogvenster ziet u details over de conversie. Zie [ een omzetting ](#add-a-conversion) voor meer informatie toevoegen. Selecteer **[!UICONTROL Cancel]** om het dialoogvenster te sluiten.
 
 ## Rapport weergeven
 
 Een omzettingsrapport weergeven:
 
-1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) wanneer het bedekken over een omzettingsnaam in de lijst.
 
-1. Selecteer ![&#x200B; GraphTrend &#x200B;](/help/assets/icons/GraphTrend.svg) **rapport van de Mening**. Een dialoogvenster toont een rapport van de conversie.
+1. Selecteer ![ GraphTrend ](/help/assets/icons/GraphTrend.svg) **rapport van de Mening**. Een dialoogvenster toont een rapport van de conversie.
 
-   ![&#x200B; rapport van de de meningsmening van de Omzetting &#x200B;](../assets/conversion-view-report.png)
+   ![ rapport van de de meningsmening van de Omzetting ](../assets/conversion-view-report.png)
 
    * Selecteer een waarde in het vervolgkeuzemenu **[!UICONTROL Weekly]** als u de granulariteit wilt wijzigen waarop u wilt rapporteren.
-   * Om de periode te veranderen om op te melden, ga een begin en einddatum in of gebruik ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) om een periode in kalenderpopup te bepalen.
+   * Om de periode te veranderen om op te melden, ga een begin en einddatum in of gebruik ![ Kalender ](/help/assets/icons/Calendar.svg) om een periode in kalenderpopup te bepalen.
 
 1. Selecteer **[!UICONTROL Close]** om het dialoogvenster te sluiten.
 
@@ -92,5 +99,5 @@ Een omzettingsrapport weergeven:
 
 Een conversie verwijderen:
 
-1. Selecteer ![&#x200B; Schrapping &#x200B;](/help/assets/icons/Delete.svg) **Schrapping** wanneer het hangen over een omzetnaam in de lijst.
-1. Selecteer **[!UICONTROL Delete]** in het dialoogvenster voor bevestiging van het dialoogvenster **[!UICONTROL Delete conversion]** om de conversie permanent te verwijderen.
+1. Selecteer ![ Schrapping ](/help/assets/icons/Delete.svg) **Schrapping** wanneer het hangen over een omzetnaam in de lijst.
+1. Selecteer **[!UICONTROL Delete conversion]** in het dialoogvenster voor bevestiging van het dialoogvenster **[!UICONTROL Delete]** om de conversie permanent te verwijderen.
