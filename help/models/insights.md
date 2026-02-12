@@ -20,9 +20,9 @@ Elke visualisatie in modelinzichten wordt ontworpen om u te helpen:
 
 Deze inzichten helpen u dan om middelprioriteiten en toewijzing te steunen.
 
-Om modelinzichten, in de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler te bekijken:
+Om modelinzichten, in de ![&#x200B; Modellen &#x200B;](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** interface in Mix Modeler te bekijken:
 
-1. Van de **[!UICONTROL Models]** lijst, selecteer de naam van een model dat a **[!UICONTROL Last run status]** van ![ StatusGreen ](/help/assets/icons/StatusGreen.svg) **[!UICONTROL Success]** heeft.
+1. Van de **[!UICONTROL Models]** lijst, selecteer de naam van een model dat a **[!UICONTROL Last run status]** van ![&#x200B; StatusGreen &#x200B;](/help/assets/icons/StatusGreen.svg) **[!UICONTROL Success]** heeft.
 
 1. Selecteer **[!UICONTROL Model Insights]** in het contextmenu.
 
@@ -32,12 +32,12 @@ De volgende tabbladen zijn beschikbaar:
 
 * [Modelinzichten](#model-insights)
 * [Kanaalsynergie](#channel-synergy)
-* [ Factoren ](#factors-beta) [!BADGE  bèta ]
-* [ Attributie ](#attribution) (slechts voor MTA toegelaten modellen)
-* [ Diagnose ](#diagnostics)
-* [ Historisch overzicht ](#historical-overview).
+* [&#x200B; Factoren &#x200B;](#factors-beta) [!BADGE &#x200B; bèta &#x200B;]
+* [&#x200B; Attributie &#x200B;](#attribution) (slechts voor MTA toegelaten modellen)
+* [&#x200B; Diagnose &#x200B;](#diagnostics)
+* [&#x200B; Historisch overzicht &#x200B;](#historical-overview).
 
-U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn gebaseerd. Ga een datumperiode in of selecteer ![ Kalender ](/help/assets/icons/Calendar.svg) om een datumperiode te selecteren.
+U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn gebaseerd. Ga een datumperiode in of selecteer ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) om een datumperiode te selecteren.
 
 ## Modelverloop
 
@@ -45,19 +45,19 @@ U kunt de datumperiode wijzigen waarop de visualisaties op elk tabblad zijn geba
 
 Als het model zakt, wordt er een dialoogvenster **[!UICONTROL Model drift detected]** weergegeven met opties die later of direct aan [**[!UICONTROL Retrain]**](overview.md#retrain) het model moeten worden herinnerd. Als u **[!UICONTROL Remind me later]** selecteert, wordt u herinnerd de volgende dag of bij volgende login.
 
-![ Model drift ontdekte dialoog ](/help/assets/model-drift-dialog.png)
+![&#x200B; Model drift ontdekte dialoog &#x200B;](/help/assets/model-drift-dialog.png)
 
 ## Modelinzichten
 
-Het modellusje van Inzichten toont visualisaties voor [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media), [ Bijdrage door kanaal ](#contribution-by-channel), [ de prestatiessamenvatting van de Marketing ](#marketing-performance-summary), en [ Marginale reactiecurven ](#marginal-response-curves). Het lusje verstrekt ook a [ de onderbreking van het aanraakpunt ](#touchppint-breakdown) lijst.
+Het modellusje van Inzichten toont visualisaties voor [&#x200B; Bijdrage door datum en basismedia &#x200B;](#contribution-by-date-and-base-media), [&#x200B; Bijdrage door kanaal &#x200B;](#contribution-by-channel), [&#x200B; de prestatiessamenvatting van de Marketing &#x200B;](#marketing-performance-summary), en [&#x200B; Marginale reactiecurven &#x200B;](#marginal-response-curves). Het lusje verstrekt ook a [&#x200B; de onderbreking van het aanraakpunt &#x200B;](#touchppint-breakdown) lijst.
 
-![ Model - Modelinzichten ](/help/assets/model-insights-insights.png)
+![&#x200B; Model - Modelinzichten &#x200B;](/help/assets/model-insights-insights.png)
 
 * U kunt de muis boven afzonderlijke diagramelementen in elke visualisatie houden om een popover met meer details weer te geven.
 
-* Om een Csv- dossier te downloaden dat de gegevens voor visualisatie bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+* Om een Csv- dossier te downloaden dat de gegevens voor visualisatie bevat, uitgezochte ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg).
 
-* Om de volledige gegevens van modelinzichten in Microsoft® Excel formaat te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download data]**.
+* Om de volledige gegevens van modelinzichten in Microsoft® Excel formaat te downloaden, selecteer ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg) **[!UICONTROL Download data]**.
 
 
 ### Bijdrage op datum en basismedia
@@ -101,9 +101,9 @@ Het kanaal wijzigen:
 
 ### Uitsplitsing naar aanraakpunt
 
-De lijst van de touchpoint onderbreking toont wekelijkse touchpoint onderverdelingen voor alle of geselecteerde kanalen, op een wekelijkse basis, tonend zeer belangrijke metriek verbonden aan elk. De tabel maakt een eenvoudige vergelijking, identificatie van trends en het bijhouden van prestaties mogelijk op een korter kanaalniveau. Deze lijst vult uitdrukkelijk de [ Bijdrage door datum en basismedia ](#contribution-by-date-and-base-media) visualisatie en de [ Bijdrage door kanaal ](#contribution-by-channel) visualisatie aan.
+De lijst van de touchpoint onderbreking toont wekelijkse touchpoint onderverdelingen voor alle of geselecteerde kanalen, op een wekelijkse basis, tonend zeer belangrijke metriek verbonden aan elk. De tabel maakt een eenvoudige vergelijking, identificatie van trends en het bijhouden van prestaties mogelijk op een korter kanaalniveau. Deze lijst vult uitdrukkelijk de [&#x200B; Bijdrage door datum en basismedia &#x200B;](#contribution-by-date-and-base-media) visualisatie en de [&#x200B; Bijdrage door kanaal &#x200B;](#contribution-by-channel) visualisatie aan.
 
-![ Uitsplitsing van het Aanraakpunt ](../assets/touchpoint-breakdown.png)
+![&#x200B; Uitsplitsing van het Aanraakpunt &#x200B;](../assets/touchpoint-breakdown.png)
 
 De volgende kolommen zijn beschikbaar:
 
@@ -119,7 +119,7 @@ De volgende kolommen zijn beschikbaar:
 
 Als u een specifiek kanaal of alle kanalen wilt selecteren, selecteert u een kanaal in het vervolgkeuzemenu **[!UICONTROL View]** .
 
-Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
+Om de inhoud van de lijst van de de onderbreking van het Aanraakpunt te downloaden, selecteer ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg) **[!UICONTROL Download CSV]**.
 
 
 ## Kanaalsynergie
@@ -130,9 +130,9 @@ De heatmap-matrix biedt een visuele weergave van de synergie-waarden tussen pare
 
 Dit kader van de volgende dollar biedt een realistische maatstaf voor relatieve synergie-effecten, aangezien het kader de werkelijke uitgavenomstandigheden in de opleidingsgegevens verwerkt en als zodanig beter geïnformeerde optimalisatiebesluiten mogelijk maakt.
 
-![ het kanaalsynergieën van het Plan ](/help/assets/model-channel-synergies.png)
+![&#x200B; het kanaalsynergieën van het Plan &#x200B;](/help/assets/model-channel-synergies.png)
 
-Om een Csv- dossier te downloaden dat de matrijs vertegenwoordigt, uitgezochte ![ Download ](/help/assets/icons/Download.svg) **[!UICONTROL Download]**.
+Om een Csv- dossier te downloaden dat de matrijs vertegenwoordigt, uitgezochte ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg) **[!UICONTROL Download]**.
 
 >[!NOTE]
 >
@@ -148,9 +148,9 @@ Om een Csv- dossier te downloaden dat de matrijs vertegenwoordigt, uitgezochte !
 >abstract="De uitsplitsing naar factor-bijdrage geeft het aandeel van de basisomzettingen weer dat kan worden toegeschreven aan de verschillende factoren die in het model zijn opgenomen.<br/><br/> de Zuivere basis vertegenwoordigt de onderliggende omzettingen die onafhankelijk van de marketing touchpoints en factoren inbegrepen in het model voorkomen. Hieronder vallen conversies die worden gestuurd door het eigen vermogen van merken, herhaalde aankopen, de biologische vraag en markttendensen op lange termijn en seizoensgebondenheid."
 
 
-Het lusje van de Factoren [!BADGE  bèta ] toont externe factor verwante inzichten.
+Het lusje van de Factoren [!BADGE &#x200B; bèta &#x200B;] toont externe factor verwante inzichten.
 
-![ Factoren ](/help/assets/factors.png)
+![&#x200B; Factoren &#x200B;](/help/assets/factors.png)
 
 Deze visualisatie helpt u om het stijgende effect te begrijpen dat diverse interne en externe factoren op de basislijn van omzettingen hebben. Bijvoorbeeld economische voorwaarden of promotieactiviteiten.
 
@@ -158,9 +158,9 @@ Selecteer in het vervolgkeuzemenu **[!UICONTROL Factors]** welke factoren u wilt
 
 <!-- need to update the image when we do have a proper example -->
 
-Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg).
 
-Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/assets/icons/TableAndChart.svg) **[!UICONTROL No data is available, you may need to retrain your model, or change the date range to view insights]**.
+Als geen gegevens beschikbaar zijn ziet u een bericht ![&#x200B; TableAndChart &#x200B;](/help/assets/icons/TableAndChart.svg) **[!UICONTROL No data is available, you may need to retrain your model, or change the date range to view insights]**.
 
 ## Attributie {#attribution}
 
@@ -168,7 +168,7 @@ Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/a
 >[!CONTEXTUALHELP]
 >id="models_attribution_breakdownbychannel"
 >title="Uitsplitsing naar kanaal"
->abstract="**[!UICONTROL Breakdown by channel]** is een verdeling door het kanaaltype voor de bepaalde aanraakpunten, die op het de gebeurtenisschema van de klantenervaring wordt gebaseerd. Selecteer ![ Meer ](https://spectrum.adobe.com/static/icons/workflow_18/Smock_MoreSmallList_18_N.svg) en **[!UICONTROL Breakdown by touchpoint]** om een onderbreking door touchpoint te tonen."
+>abstract="**[!UICONTROL Breakdown by channel]** is een verdeling door het kanaaltype voor de bepaalde aanraakpunten, die op het de gebeurtenisschema van de klantenervaring wordt gebaseerd. Selecteer ![&#x200B; Meer &#x200B;](https://spectrum.adobe.com/static/icons/workflow_18/Smock_MoreSmallList_18_N.svg) en **[!UICONTROL Breakdown by touchpoint]** om een onderbreking door touchpoint te tonen."
 
 
 >[!CONTEXTUALHELP]
@@ -183,7 +183,7 @@ Als geen gegevens beschikbaar zijn ziet u een bericht ![ TableAndChart ](/help/a
 >Het tabblad Attributie is alleen beschikbaar voor MTA-modellen.
 
 
-Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [ model ](build.md) bouwen.
+Met het tabblad [!UICONTROL Attribution] kunt u de effectiviteit begrijpen van aanraakpunten en marketingcampagnes die gegevens op gebeurtenisniveau bevatten.  Zie [&#x200B; model &#x200B;](build.md) bouwen.
 
 De volgende attribuutmodellen worden ondersteund:
 
@@ -197,11 +197,11 @@ De volgende attribuutmodellen worden ondersteund:
    * Lineair
    * Ushape
 
-Zie [ Multi-aanraking attributie ](../get-started/about.md#multi-touch-attribution) voor een inleiding op het multi-aanraak attributievermogen in Mix Modeler.
+Zie [&#x200B; Multi-aanraking attributie &#x200B;](../get-started/about.md#multi-touch-attribution) voor een inleiding op het multi-aanraak attributievermogen in Mix Modeler.
 
 Selecteer een of meer toewijzingsmodellen in het vervolgkeuzemenu **[!UICONTROL Attribution Model]** . De geselecteerde attributiemodellen zijn van toepassing op alle visualisaties op het tabblad Kenmerken.
 
-![ Attributie ](/help/assets/model-insights-attribution.png)
+![&#x200B; Attributie &#x200B;](/help/assets/model-insights-attribution.png)
 
 De granulaire gebeurtenisscores voor Mix Modeler-multitouch-kenmerk worden uitgelijnd op de algemene Mix Modeler-scores en -rendement. Deze scores worden ook beschikbaar gesteld als datasets in Experience Platform.
 
@@ -217,7 +217,7 @@ Als u een pop-up met details voor een attributiemodel wilt zien, houdt u de muis
 
 De visualisatie [!UICONTROL Daily trends] , [!UICONTROL Weekly trends] of [!UICONTROL Monthly trends] geeft voor de geselecteerde attributiemodellen de dagelijkse, wekelijkse of maandelijkse conversietrends weer.
 
-Om de periode te kiezen, selecteer **[!UICONTROL Daily trends]**, **[!UICONTROL Weekly trends]** of **[!UICONTROL Monthly trends]** van ![ Meer ](/help/assets/icons/More.svg).
+Om de periode te kiezen, selecteer **[!UICONTROL Daily trends]**, **[!UICONTROL Weekly trends]** of **[!UICONTROL Monthly trends]** van ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg).
 
 Als u details wilt zien, houdt u de muisaanwijzer boven de gegevensregel van een specifiek toewijzingsmodel om een pop-up weer te geven met het totale aantal conversies voor die gegevens.
 
@@ -225,7 +225,7 @@ Als u details wilt zien, houdt u de muisaanwijzer boven de gegevensregel van een
 
 De [!UICONTROL Breakdown] visualisatie is een uitsplitsing per kanaal of aanraakpunt van de conversies voor elk van de geselecteerde attributiemodellen. Deze visualisatie kan nuttig zijn om besluiten over de doeltreffendheid van elk kanaal of touchpoint te nemen.
 
-Om het verdelingstype te kiezen, selecteer **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![ Meer ](/help/assets/icons/More.svg).
+Om het verdelingstype te kiezen, selecteer **[!UICONTROL Breakdown by channel]** of **[!UICONTROL Breakdown by touchpoint]** van ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg).
 
 Houd de muisaanwijzer boven de diagramelementen om de details weer te geven.
 
@@ -235,7 +235,7 @@ In de visualisatie van de bovenste campagnes wordt een tabel met de bovenste cam
 
 Als u de tabel in oplopende ↑ of aflopende volgorde ↓ wilt sorteren voor Kanaal, Mediatype of Incrementele conversies, selecteert u de kolomkop en schakelt u de sortering in of uit.
 
-Om de lijst in een afzonderlijke dialoog uit te breiden, selecteer **[!UICONTROL Expand]** van ![ Meer ](/help/assets/icons/More.svg).
+Om de lijst in een afzonderlijke dialoog uit te breiden, selecteer **[!UICONTROL Expand]** van ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg).
 
 Het uitgevouwen dialoogvenster Boven bevat dezelfde tabel met optelde kolommen voor
 
@@ -324,7 +324,7 @@ Op het tabblad **[!UICONTROL Diagnostics]** worden visualisaties weergegeven voo
 
 * **[!UICONTROL Model Assessment]** visualisaties die bestaan uit:
 
-  ![ Modelbeoordeling ](../assets/model-assessment.png)
+  ![&#x200B; Modelbeoordeling &#x200B;](../assets/model-assessment.png)
 
    * Een grafiek die u kunt afsplitsen op werkelijke versus voorspelde of restomzettingen.
 Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties in de lijst **[!UICONTROL Breakdown]** .
@@ -342,11 +342,11 @@ Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties 
       * **[!UICONTROL MAPE]** (Gemiddelde Absolute Percentagefout), een van de meest gebruikte PKI&#39;s om de nauwkeurigheid van de voorspelling te meten en geeft de voorspelde fout weer als een percentage van de werkelijke waarde.
       * **[!UICONTROL RMSE]** (Basisgemiddelde vierkante fout): hiermee wordt de gemiddelde fout weergegeven, gewogen op basis van het vierkant van de fout.
 
-  Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![ Download ](/help/assets/icons/Download.svg).
+  Om een Csv- dossier te downloaden dat de gegevens voor de lijst bevat, uitgezochte ![&#x200B; Download &#x200B;](/help/assets/icons/Download.svg).
 
 * **[!UICONTROL Model training fit metrics]** tabel die voor elke metrische conversie wordt weergegeven:
 
-  ![ Model de opleiding past metrieke lijst ](../assets/model-training-fit-metrics.png)
+  ![&#x200B; Model de opleiding past metrieke lijst &#x200B;](../assets/model-training-fit-metrics.png)
 
    * **[!UICONTROL Training R<sup>2</sup>]**: Wijst op het aandeel van variatie in de daadwerkelijke waarden die door de voorspellingen van het model worden verklaard, die zich van 0 tot 1 uitstrekken.
    * **[!UICONTROL Training sMAPE]** (symmetrisch gemiddelde absolute percentagefout): hiermee wordt het gemiddelde percentage van de fout in de trainingsgegevens gemeten. Lagere waarden geven een betere nauwkeurigheid aan.
@@ -357,11 +357,11 @@ Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties 
 
 * **[!UICONTROL Touchpoint effectiveness]** , die het resultaat van het algoritmische model van Attribution AI vertegenwoordigt.
 
-  ![ lijst van de PuntDoeltreffendheid ](../assets/touchpoint-effectiveness.png)
+  ![&#x200B; lijst van de PuntDoeltreffendheid &#x200B;](../assets/touchpoint-effectiveness.png)
 
-  De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx :xx TZ *]**![ Info ](/help/assets/icons/InfoOutline.svg) voor meer details.
+  De gegevens voor deze tabel worden alleen voor specifieke tijdsperioden gegenereerd. Selecteer **[!UICONTROL As of *xx/xx/xx, xx :xx TZ *]**![&#x200B; Info &#x200B;](/help/assets/icons/InfoOutline.svg) voor meer details.
 
-  De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![ Aflopende Orde ](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
+  De visualisatie toont, in dalende orde van [!UICONTROL Efficiency measure] ![&#x200B; Aflopende Orde &#x200B;](/help/assets/icons/SortOrderDown.svg), voor elk touchpoint:
 
    * **[!UICONTROL Paths touched]**: visualiseert het percentage paden dat omgezet en het percentage paden dat geen omzetting bereikt. Voor een aanraakpunt ziet u meer toegeschreven omzettingen wanneer de hoogte van de conversieverhouding van de eigenschap is. Deze verhouding vergelijkt het percentage wegen die tot omzetting tegenover het percentage wegen leiden die *niet* tot omzetting leiden.
    * **[!UICONTROL Efficiency measure]**: wordt gegenereerd door het algoritmische toewijzingsmodel. De efficiëntiemaatstaf geeft het relatieve belang aan van een aanraakpunt voor conversie, onafhankelijk van het aanraakpuntvolume. De efficiëntie wordt gemeten op een schaal van 1 tot 5. Het hogere aanraakpuntvolume garandeert geen hogere efficiëntiemaatstaf.
@@ -372,12 +372,12 @@ Als u de visualisatie wilt onderbreken, selecteert u een van de volgende opties 
 
 >[!AVAILABILITY]
 >
->De in deze sectie beschreven functionaliteit bevindt zich in de beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit over het algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [ de eigenschapversies van Mix Modeler ](/help/releases/latest.md).
+>De in deze sectie beschreven functionaliteit bevindt zich in de beperkte testfase van de release en is mogelijk nog niet beschikbaar in uw omgeving. Deze notitie wordt verwijderd wanneer de functionaliteit over het algemeen beschikbaar is. Voor informatie over het de versieproces van Mix Modeler, zie [&#x200B; de eigenschapversies van Mix Modeler &#x200B;](/help/releases/latest.md).
 >
 
 Als het model zakt, ziet u bovenaan een **[!UICONTROL Model drift detected]** -melding.
 
-![ Model drift bericht ](/help/assets/model-drift-notification.png)
+![&#x200B; Model drift bericht &#x200B;](/help/assets/model-drift-notification.png)
 
 Selecteer **[!UICONTROL Hide]** om de melding te verbergen. Het bericht wordt de volgende dag of bij de volgende aanmelding opnieuw weergegeven.
 
@@ -386,7 +386,7 @@ Selecteer **[!UICONTROL Hide]** om de melding te verbergen. Het bericht wordt de
 
 Op het tabblad Historisch overzicht ziet u visualisaties voor:
 
-![ Model - Historisch overzicht ](/help/assets/model-insights-historical-overview.png)
+![&#x200B; Model - Historisch overzicht &#x200B;](/help/assets/model-insights-historical-overview.png)
 
 
 ### Omzetting en besteding per fiscaal kwartaal en per product
@@ -421,7 +421,7 @@ U kunt als volgt een alternatief op volume gebaseerd kanaal selecteren dat voor 
 
 U kunt de naam, beschrijving en het plannen van opleiding en het noteren van het model uitgeven.
 
-1. Selecteer ![ uitgeven ](/help/assets/icons/Edit.svg) uitgeven
+1. Selecteer ![&#x200B; uitgeven &#x200B;](/help/assets/icons/Edit.svg) uitgeven
 
 1. In het dialoogvenster **[!UICONTROL Edit model]** :
 
@@ -431,12 +431,12 @@ U kunt de naam, beschrijving en het plannen van opleiding en het noteren van het
 
       1. Selecteer een **[!UICONTROL Scoring frequency]** :
 
-         * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
-         * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
-         * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
+         * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
 
       1. Selecteer een **[!UICONTROL Training frequency]** in de vervolgkeuzelijst: **[!UICONTROL Monthly]** , **[!UICONTROL Quarterly]** , **[!UICONTROL Yearly]** of **[!UICONTROL None]** .
 
-     ![ geef een model ](../assets/model-edit.png) uit
+     ![&#x200B; geef een model &#x200B;](../assets/model-edit.png) uit
 
 1. Selecteer **[!UICONTROL Save]**.
