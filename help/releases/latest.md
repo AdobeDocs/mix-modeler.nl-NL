@@ -4,10 +4,10 @@ description: Aanvullende informatie voor de nieuwste release van Mix Modeler
 feature-set: Experience Cloud
 feature: Release Notes
 exl-id: 38a47672-2af2-437c-b769-4d5febb941f5
-source-git-commit: b19ce70c5ba990b6b720fdf80ef68b5cf7aef07c
+source-git-commit: 011b9b83569925ca9ff4f1ee472288473fbe8502
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 6%
+source-wordcount: '317'
+ht-degree: 7%
 
 ---
 
@@ -18,14 +18,19 @@ ht-degree: 6%
 Deze releaseopmerkingen betreffen de meest recente release van Mix Modeler. Mix Modeler-releases werken op een doorlopend leveringsmodel, dat een gemiddelde maandelijkse release mogelijk maakt. Deze releaseopmerkingen worden daarom regelmatig bijgewerkt.
 
 
+## Februari 2026
+
+| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
+|---|---|---|---|
+| **[!UICONTROL Granular incrementality reporting]** | Bepaal geharmoniseerde gebieden zodat kunt u neer in het melden van uw model boren gebruikend [ korrelige inzichten die gebieden ](/help/models/build.md#granular-insights-reporting-fields) melden, in plaats van het moeten afzonderlijke modellen tot stand brengen. | donderdag 18 februari 2026 | donderdag 18 februari 2026 |
 
 ## Januari 2026
 
-| Functie | Beschrijving | [&#x200B; Begin van de Uitvoer &#x200B;](#release-strategy) | [&#x200B; Algemene Beschikbaarheid &#x200B;](#release-strategy) |
+| Functie | Beschrijving | [ Begin van de Uitvoer ](#release-strategy) | [ Algemene Beschikbaarheid ](#release-strategy) |
 |---|---|---|---|
-| **[!UICONTROL Dataset rules]** | [&#x200B; Bijgewerkte lijst van datasetregels &#x200B;](/help/harmonize-data/dataset-rules.md). U kunt naar één of meerdere datasetregels zoeken en, een datasetregel direct van de lijst bekijken uitgeven of schrappen. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
-| **[!UICONTROL Current spend]** | Voeg een huidig doorvoerpunt in de [&#x200B; marginale visualisatie van de reactiecurve &#x200B;](/help/models/insights.md#marginal-response-curves) in Modelinzichten toe. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
-| **[!UICONTROL Sort and resize columns]** | Toegevoegde soort en resize van kolommen in de [&#x200B; Modellen &#x200B;](/help/models/overview.md) en [&#x200B; Punten &#x200B;](/help/plans/overview.md) lijst. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
+| **[!UICONTROL Dataset rules]** | [ Bijgewerkte lijst van datasetregels ](/help/harmonize-data/dataset-rules.md). U kunt naar één of meerdere datasetregels zoeken en, een datasetregel direct van de lijst bekijken uitgeven of schrappen. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
+| **[!UICONTROL Current spend]** | Voeg een huidig doorvoerpunt in de [ marginale visualisatie van de reactiecurve ](/help/models/insights.md#marginal-response-curves) in Modelinzichten toe. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
+| **[!UICONTROL Sort and resize columns]** | Toegevoegde soort en resize van kolommen in de [ Modellen ](/help/models/overview.md) en [ Punten ](/help/plans/overview.md) lijst. | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
 | **Oplossingen** | Oplossingen voor de volgende tickets: <ul><li>AMM-3328: Veldinvoer uitgeschakeld voor nieuwe operatoren voor Factoren</li><li>AMM-3359: Datumkiezer en keuzelijst met invoervak vergrendelen.</li><li>AMM-3441: Het dupliceren van een abonnement vult niet automatisch het datumbereik en het budget in.</li></ul> | woensdag 13 januari 2026 | woensdag 13 januari 2026 |
 
 
