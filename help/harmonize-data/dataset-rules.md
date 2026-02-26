@@ -22,29 +22,29 @@ Met de gegevenssetregels kunt u geharmoniseerde velden toewijzen aan velden uit 
 
 Een lijst van de beschikbare datasetregels, in de interface van Mix Modeler zien:
 
-1. Selecteer ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
+1. Selecteer ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** van het linkerspoor.
 
 1. Selecteer **[!UICONTROL Dataset rules]** in de bovenste balk. U ziet een lijst van de datasetregels.
 
-U kunt naar een dataset snel zoeken gebruikend ![ Onderzoek ](/help/assets/icons/Search.svg) **[!UICONTROL _ga een datasetnaam_]** in.
+U kunt naar een dataset snel zoeken gebruikend ![&#x200B; Onderzoek &#x200B;](/help/assets/icons/Search.svg) **[!UICONTROL _ga een datasetnaam_]** in.
 
 De tabelkolommen geven details over de gegevenssetregels op:
 
 | Kolomnaam | Details |
 | ---------------------- | ----------|
-| **[!UICONTROL Dataset]** | De naam van de gegevensset.  Gebruik ![ meer ](/help/assets/icons/More.svg) om acties voor een dataset te selecteren. U kunt:<ul><li>![ Voorproef ](/help/assets/icons/Preview.svg) **[!UICONTROL View]** om de configuratie van de datasetregels te bekijken. Alle velden zijn uitgeschakeld.</li><li>![ geef ](/help/assets/icons/Edit.svg) **[!UICONTROL Edit]** uit om de configuratie van de datasetregels uit te geven.</li><li>![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de configuratie van de datasetregels te schrappen. U wordt gevraagd de verwijdering te bevestigen in het dialoogvenster Gegevensset verwijderen. Selecteer **[!UICONTROL Delete]** om de configuratie van de gegevenssetregel permanent te verwijderen.</li><ul> |
+| **[!UICONTROL Dataset]** | De naam van de gegevensset.  Gebruik ![&#x200B; meer &#x200B;](/help/assets/icons/More.svg) om acties voor een dataset te selecteren. U kunt:<ul><li>![&#x200B; Voorproef &#x200B;](/help/assets/icons/Preview.svg) **[!UICONTROL View]** om de configuratie van de datasetregels te bekijken. Alle velden zijn uitgeschakeld.</li><li>![&#x200B; geef &#x200B;](/help/assets/icons/Edit.svg) **[!UICONTROL Edit]** uit om de configuratie van de datasetregels uit te geven.</li><li>![&#x200B; Schrapping &#x200B;](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de configuratie van de datasetregels te schrappen. U wordt gevraagd de verwijdering te bevestigen in het dialoogvenster Gegevensset verwijderen. Selecteer **[!UICONTROL Delete]** om de configuratie van de gegevenssetregel permanent te verwijderen.</li><ul> |
 | **[!UICONTROL Source]** | De bron van de gegevensset: Adobe Analytics, Experience Events, Summary (aggregaat) of Consumer Experience Events. |
-| **[!UICONTROL Schema]** | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in ![ Schema ](/help/assets/icons/Schemas.svg) Schema&#39;s [ te openen.](../ingest-data/schemas.md) |
+| **[!UICONTROL Schema]** | Het schema waaraan de dataset voldoet. U kunt de schemanaam snel selecteren om het schema in een nieuw lusje in de schemaredacteur in ![&#x200B; Schema &#x200B;](/help/assets/icons/Schemas.svg) Schema&#39;s [&#x200B; te openen.](../ingest-data/schemas.md) |
 | **[!UICONTROL Granularity]** | De granulariteit van gegevens in de dataset. Mogelijke waarden zijn Dagelijks, Wekelijks, Maandelijks of Jaarlijks. |
 | **[!UICONTROL Start of the week]** | Geeft aan welke dag van de week wordt beschouwd als het begin van een nieuwe week voor de specifieke gegevensset. |
-| **[!UICONTROL Status]** | De status van het gebied: ![ StatusGray ](/help/assets/icons/StatusGray.svg) Ontwerp of ![ StatusGreen ](/help/assets/icons/StatusGreen.svg) Actief |
+| **[!UICONTROL Status]** | De status van het gebied: ![&#x200B; StatusGray &#x200B;](/help/assets/icons/StatusGray.svg) Ontwerp of ![&#x200B; StatusGreen &#x200B;](/help/assets/icons/StatusGreen.svg) Actief |
 | **[!UICONTROL Last modified]** | Gegevens en tijd van de laatste wijziging van de gegevenssetregel. |
 
 {style="table-layout:auto"}
 
 ### Een gegevenssetregel maken
 
-Om een datasetregel tot stand te brengen, in ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler, selecteer **[!UICONTROL Create a dataset rule]** in de **[!UICONTROL Dataset rules configuration]** tovenaar.
+Om een datasetregel tot stand te brengen, in ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler, selecteer **[!UICONTROL Create a dataset rule]** in de **[!UICONTROL Dataset rules configuration]** tovenaar.
 
 In het **[!UICONTROL Create]** -scherm
 
@@ -62,27 +62,27 @@ In het **[!UICONTROL Create]** -scherm
 
    U kunt opnieuw vermelde rijen van summiere gegevens als stijgende rijen in een dataset van Experience Platform verzenden en de harmonisatiedienst werkt de geharmoniseerde dataset met die aangepaste gegevens bij. Op dezelfde manier kunt u rijen samenvattingsgegevens ook verwijderen die in de harmonisatiedienst moeten worden weerspiegeld.
 
-1. Selecteer in de sectie **[!UICONTROL Map to harmonized fields]** een geharmoniseerd veld in **[!UICONTROL Standard harmonized field]** . Om [ een nieuw geharmoniseerd gebied ](/help/harmonize-data/fields.md#add-a-harmonized-field) snel tot stand te brengen, selecteer **[!UICONTROL Create new]**.
+1. Selecteer in de sectie **[!UICONTROL Map to harmonized fields]** een geharmoniseerd veld in **[!UICONTROL Standard harmonized field]** . Om [&#x200B; een nieuw geharmoniseerd gebied &#x200B;](/help/harmonize-data/fields.md#add-a-harmonized-field) snel tot stand te brengen, selecteer **[!UICONTROL Create new]**.
 
    * Wanneer het geselecteerde geharmoniseerde veld metrisch is:
 
       1. Selecteer **[!UICONTROL Count]** of **[!UICONTROL Sum]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Selecteer een **[!UICONTROL *datasetgebied van AEP *]**dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
+      1. Selecteer een **[!UICONTROL *datasetgebied van AEP *]**&#x200B;dat u het geharmoniseerde gebied aan door gebrek wilt in kaart brengen.
 
    * Wanneer het geselecteerde veld van het type afmeting is:
 
       1. Selecteer **[!UICONTROL Map Into]** of **[!UICONTROL Case]** vanuit **[!UICONTROL Mapping type]** .
 
-      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *de datasetgebied van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
+      1. Wanneer u **[!UICONTROL Map Into]** hebt geselecteerd, selecteer **[!UICONTROL Field]** en **[!UICONTROL *de datasetgebied van AEP *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied in kaart te brengen of waarde ingegaan.
 
-      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *gebied van de dataset van AEP *]**of **[!UICONTROL Value]**en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
+      1. Wanneer u **[!UICONTROL Case]** selecteert, selecteer **[!UICONTROL Field]** en **[!UICONTROL *gebied van de dataset van AEP *]**&#x200B;of **[!UICONTROL Value]**&#x200B;en een standaardwaarde om het geharmoniseerde gebied door gebrek aan het datasetgebied of de ingegaan waarde in kaart te brengen.
 
-         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *gebied van de dataset van AEP *]**controleren of het **[!UICONTROL Exists]**of **[!UICONTROL Not Exists]**of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**een waarde ingegaan bij**[!UICONTROL * gaat inputwaarde *]** in.
+         1. Als u waarden expliciet wilt instellen, definieert u een of meer gevallen, die uit een of meer voorwaarden bestaan. Elke voorwaarde kan voor een specifiek **[!UICONTROL *gebied van de dataset van AEP *]**&#x200B;controleren of het **[!UICONTROL Exists]**&#x200B;of **[!UICONTROL Not Exists]**&#x200B;of het **[!UICONTROL Contains]**,**[!UICONTROL Not Contains]**,**[!UICONTROL Equals]**,**[!UICONTROL Not Equals]**,**[!UICONTROL Starts With]**, of **[!UICONTROL Ends With]**&#x200B;een waarde ingegaan bij&#x200B;**[!UICONTROL * gaat inputwaarde *]** in.
 
-         1. Om een ander geval toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add case]** toe, om een andere voorwaarde toe te voegen, ![ toe ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add condition]**.
+         1. Om een ander geval toe te voegen, voegt de uitgezochte ![&#x200B; &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add case]** toe, om een andere voorwaarde toe te voegen, ![&#x200B; toe &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add condition]**.
 
-         1. Om een geval of een voorwaarde te schrappen, uitgezochte ![ Sluiten ](/help/assets/icons/Close.svg) in de overeenkomstige container.
+         1. Om een geval of een voorwaarde te schrappen, uitgezochte ![&#x200B; Sluiten &#x200B;](/help/assets/icons/Close.svg) in de overeenkomstige container.
 
          1. Selecteer **[!UICONTROL Any of]** of **[!UICONTROL All of]** om te bepalen of een of alle voorwaarden voor een hoofdlettergebruik moeten gelden.
 
@@ -97,9 +97,9 @@ In het **[!UICONTROL Create]** -scherm
          * `Black Friday` wanneer **[!UICONTROL marketing.campaignName]** is `_black_friday` of `BlackFriday`.
          * in alle andere gevallen op de waarde van de **[!UICONTROL marketing.campaignName]** .
 
-        ![ gebeurtenis van de de regelregel van de Dataset ](/help/assets/dataset-create-event.png)
+        ![&#x200B; gebeurtenis van de de regelregel van de Dataset &#x200B;](/help/assets/dataset-create-event.png)
 
-1. Selecteer ![ toevoegen ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add field]** om extra gebieden te bepalen.
+1. Selecteer ![&#x200B; toevoegen &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add field]** om extra gebieden te bepalen.
 
 Als u klaar bent, selecteert u **[!UICONTROL Save as draft]** om een conceptversie van de regel op te slaan of **[!UICONTROL Save]** om de regel op te slaan en te activeren. Selecteer **[!UICONTROL Cancel]** om de regelconfiguratie te annuleren.
 
@@ -122,7 +122,7 @@ U kunt de voorgestelde waarden wijzigen als deze onjuist zijn of als dit uw spec
 
 #### Gegevensbestanden van de factor
 
-U brengt geharmoniseerde gebieden aan gebieden in een factordataset in kaart, zodat kunt u [ factoren als deel van uw modelconfiguratie ](/help/models/build.md) toevoegen.
+U brengt geharmoniseerde gebieden aan gebieden in een factordataset in kaart, zodat kunt u [&#x200B; factoren als deel van uw modelconfiguratie &#x200B;](/help/models/build.md) toevoegen.
 
 Wanneer u geharmoniseerde gebieden aan gebieden in een factordatasets in kaart brengt, is het volgende van toepassing:
 
@@ -130,11 +130,11 @@ Wanneer u geharmoniseerde gebieden aan gebieden in een factordatasets in kaart b
 
 Wanneer u een standaard geharmoniseerd factorgebied van een factordataset in kaart brengt en de factordataset één enkele factor bevat, gebruik **[!UICONTROL Map into]** als **[!UICONTROL Mapping type]** en ga een standaardwaarde voor het **[!UICONTROL Factor Name]** geharmoniseerde gebied in.
 
-![ regel van de Dataset - kaart enige factordataset ](../assets/dataset-create-rule-factor-single.png)
+![&#x200B; regel van de Dataset - kaart enige factordataset &#x200B;](../assets/dataset-create-rule-factor-single.png)
 
 Als de factordataset veelvoudige factoren bevat, gebruik **[!UICONTROL Case As]** als **[!UICONTROL Mapping Type]** om een afbeelding tussen het geharmoniseerde gebied van de Naam van de Factor en elke afzonderlijke factornaam te bepalen.
 
-![ regel van de Dataset - kaart enige factordataset ](../assets/dataset-create-rule-factor-multiple.png)
+![&#x200B; regel van de Dataset - kaart enige factordataset &#x200B;](../assets/dataset-create-rule-factor-multiple.png)
 
 
 ##### Type factor
@@ -174,7 +174,7 @@ Gebruik voor het geharmoniseerde veld van **[!UICONTROL Factor value]** een van 
 
 * En u definieert de volgende gegevenssetregels voor **[!UICONTROL Factor Name]** , **[!UICONTROL Factor Value]** en **[!UICONTROL Granularity]** :
 
-  ![ de regels van de Dataset - factor voorbeeld ](../assets/dataset-create-rule-factor-example.png)
+  ![&#x200B; de regels van de Dataset - factor voorbeeld &#x200B;](../assets/dataset-create-rule-factor-example.png)
 
 * Dit resulteert vervolgens in de volgende geharmoniseerde gegevens:
 
@@ -187,18 +187,18 @@ Gebruik voor het geharmoniseerde veld van **[!UICONTROL Factor value]** een van 
 
 ### Een gegevenssetregel bewerken
 
-Om een datasetregel uit te geven, in ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
+Om een datasetregel uit te geven, in ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
 
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt uitgeven.
-1. Van het contextmenu, uitgezocht ![ geef ](/help/assets/icons/Edit.svg) **[!UICONTROL Edit]** uit beginnen de datasetregel uit te geven. Verwijs naar [ creeer een datasetregel ](#create-a-dataset-rule) voor meer details.
+1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt uitgeven.
+1. Van het contextmenu, uitgezocht ![&#x200B; geef &#x200B;](/help/assets/icons/Edit.svg) **[!UICONTROL Edit]** uit beginnen de datasetregel uit te geven. Verwijs naar [&#x200B; creeer een datasetregel &#x200B;](#create-a-dataset-rule) voor meer details.
 
 
 ### Een gegevenssetregel verwijderen
 
-Om een datasetregel te schrappen, in ![ DataSearch ](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
+Om een datasetregel te schrappen, in ![&#x200B; DataSearch &#x200B;](/help/assets/icons/DataCheck.svg) **[!UICONTROL Harmonized data]** > **[!UICONTROL Dataset rules]** interface in Mix Modeler:
 
-1. Selecteer ![ Meer ](/help/assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt schrappen.
-1. Van het contextmenu, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetregel te schrappen. U wordt om bevestiging gevraagd. Selecteer **[!UICONTROL Delete]** om de geselecteerde gegevenssetregel permanent te verwijderen.
+1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) in de **[!UICONTROL Dataset]** kolom voor de datasetregel die u wilt schrappen.
+1. Van het contextmenu, uitgezochte ![&#x200B; Schrapping &#x200B;](/help/assets/icons/Delete.svg) **[!UICONTROL Delete]** om de datasetregel te schrappen. U wordt om bevestiging gevraagd. Selecteer **[!UICONTROL Delete]** om de geselecteerde gegevenssetregel permanent te verwijderen.
 
 
 
@@ -215,7 +215,7 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 
 1. Selecteer **[!UICONTROL Sync]** om de synchronisatie te starten op basis van de gedefinieerde gegevenssetregels tussen geharmoniseerde gegevens en gegevens in gegevenssets. Selecteer **[!UICONTROL Cancel]** om de synchronisatie te annuleren.
 
-   ![ gegevens van de Synchronisatie ](/help/assets/sync-data.png)
+   ![&#x200B; gegevens van de Synchronisatie &#x200B;](/help/assets/sync-data.png)
 
 
 ## Voorkeuren voor gegevenssamenvoeging {#data-merge-preferences}
@@ -229,7 +229,7 @@ Om gegevens tussen uw geharmoniseerde gegevens en samenvatting en/of gebeurtenis
 
 >[!NOTE]
 >
->[!BADGE  bèta ]{type=Informative} De voorkeur van de fusie van Gegevens is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering.
+>[!BADGE &#x200B; bèta &#x200B;]{type=Informative} De voorkeur van de fusie van Gegevens is een bètaeigenschap en zijn functionaliteit is onderworpen aan verandering.
 
 Voor nauwkeurige modelvoorspellingen kunt u voorkeuren voor gegevenssamenvoeging definiëren. Met deze functionaliteit kunnen gebruikers eventuele conflicten oplossen na het samenvoegen van gegevens op overzichtsniveau en op gebeurtenisniveau.
 
@@ -253,39 +253,39 @@ De meest voorkomende gebruiksgevallen zijn:
 Voorkeuren voor gegevenssamenvoeging configureren:
 
 
-1. Selecteer ![ de voorkeur van de Fusie van Gegevens ](/help/assets/icons/Merge.svg) [!BADGE  bèta ].
+1. Selecteer ![&#x200B; de voorkeur van de Fusie van Gegevens &#x200B;](/help/assets/icons/Merge.svg) [!BADGE &#x200B; bèta &#x200B;].
 
-1. In de **[!UICONTROL Data merge preferences]** [!BADGE  bèta ]{type=Informative} dialoog:
+1. In de **[!UICONTROL Data merge preferences]** [!BADGE &#x200B; bèta &#x200B;]{type=Informative} dialoog:
 
-   ![ de fusievoorkeur van Gegevens ](/help/assets/data-merge-preferences.png)
+   ![&#x200B; de fusievoorkeur van Gegevens &#x200B;](/help/assets/data-merge-preferences.png)
 
    * Selecteer een **[!UICONTROL Default metric preference]** . De geselecteerde standaard metrische voorkeur wordt toegepast wanneer, tijdens harmonisatie, de veelvoudige bronnen van gegevens een metrisch gebied voor een bepaald kanaal bijwerken. De voorkeur wordt toegepast op het niveau van de zandbak, tenzij met voeten getreden voor specifieke metrische gebaseerde voorkeur. U kunt kiezen tussen **[!UICONTROL Summary data]** , **[!UICONTROL Event data]** en **[!UICONTROL Sum of summary and event data]** .
 
    * Specifieke op metrische basis gebaseerde voorkeuren toevoegen:
 
-      1. Selecteer ![ plus ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a metric]**.
-         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**lijst.
+      1. Selecteer ![&#x200B; plus &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a metric]**.
+         1. Selecteer metrisch van de **[!UICONTROL *Metrische selectie *]**&#x200B;lijst.
          1. Selecteer **[!UICONTROL CHANNELS]** of **[!UICONTROL CONVERSION TYPES]** . Selecteer in de lijst **[!UICONTROL All]** of een specifiek kanaal of conversietype.
          1. Selecteer **[!UICONTROL Summary]** of **[!UICONTROL Event]** om op te geven of summiere gegevens of gebeurtenisgegevens bij het samenvoegen van gegevens de voorkeur hebben voor de metrische gegevens (en voor alle gegevens of voor het geselecteerde kanaal).
 
          Een of meer extra kanaal- of conversietypen toevoegen:
 
-         1. Selecteer ![ plus ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a channel]** of ![ plus ](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion type]**.
+         1. Selecteer ![&#x200B; plus &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a channel]** of ![&#x200B; plus &#x200B;](/help/assets/icons/AddCircle.svg) **[!UICONTROL Add a conversion type]**.
          1. Selecteer **[!UICONTROL Summary]** of **[!UICONTROL Event]** .
 
-         Om een kanaal of omzettingstype te schrappen, uitgezochte ![ Kruis ](/help/assets/icons/Close.svg).
+         Om een kanaal of omzettingstype te schrappen, uitgezochte ![&#x200B; Kruis &#x200B;](/help/assets/icons/Close.svg).
 
       1. Herhaal de vorige stap als u meer specifieke, op metrische basis gebaseerde voorkeuren wilt toevoegen.
 
-   * Om een bestaande specifieke metrische gebaseerde voorkeur te schrappen, uitgezochte ![ Schrapping ](/help/assets/icons/Delete.svg).
+   * Om een bestaande specifieke metrische gebaseerde voorkeur te schrappen, uitgezochte ![&#x200B; Schrapping &#x200B;](/help/assets/icons/Delete.svg).
 
 1. Selecteer **[!UICONTROL Save]** om de voorkeuren voor gegevenssamenvoeging op te slaan. De gegevens worden opnieuw gesynchroniseerd. <br/> Uitgezocht **[!UICONTROL Cancel]** om te annuleren.
 
 ## Een brongegevensset verwijderen
 
-Wanneer u een brondataset schrapt die in uw geharmoniseerde gegevens wordt gebruikt, worden de onderliggende ingangen op die brondataset verwijderd uit [[!UICONTROL Harmonized data]](/help/harmonize-data/overview.md). Nochtans, blijft de datasetregel met de geschrapte brondataset in de datasetregel config lijst met een pictogram ![ DataRemove ](/help/assets/icons/DataRemove.svg) erop wijzend dat de brondataset is geschrapt. Voor meer details:
+Wanneer u een brondataset schrapt die in uw geharmoniseerde gegevens wordt gebruikt, worden de onderliggende ingangen op die brondataset verwijderd uit [[!UICONTROL Harmonized data]](/help/harmonize-data/overview.md). Nochtans, blijft de datasetregel met de geschrapte brondataset in de datasetregel config lijst met een pictogram ![&#x200B; DataRemove &#x200B;](/help/assets/icons/DataRemove.svg) erop wijzend dat de brondataset is geschrapt. Voor meer details:
 
-* Selecteer ![ Meer ](/help/assets/icons/More.svg) en ![ Voorproef ](/help/assets/icons/Preview.svg) **[!UICONTROL View]** van het contextmenu.
+* Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) en ![&#x200B; Voorproef &#x200B;](/help/assets/icons/Preview.svg) **[!UICONTROL View]** van het contextmenu.
 In het dialoogvenster **[!UICONTROL Dataset rule mapping - Fields]** wordt informatie weergegeven over de verwijderde brongegevensset en de velden die worden gebruikt in de configuratie van de gegevenssetregel.
 
 Wanneer u terugkeert naar uw **[!UICONTROL Dataset rules]** configuratie, ziet u een dialoog verklarend dat één of meerdere brondatasets zijn geschrapt. De geharmoniseerde gegevens worden beïnvloed bij een volgende ad-hoc of geplande synchronisatie. Controleer de configuratie van de gegevenssetregel.
