@@ -1,13 +1,13 @@
 ---
 title: Mix Modeler-gids
-description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
-short-description: Leer hoe u campagnes kunt meten en de planning holistisch kunt optimaliseren voor alle kanalen met Mix Modeler.
+description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Mix Modeler.
+short-description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Mix Modeler.
 feature: Harmonized Data, Models, Plans
 exl-id: 3427c338-f2a0-416b-bb4c-d8fef929c38a
-source-git-commit: f12eea7454d1c81b347dc4960f5c491d81725f7d
+source-git-commit: 7581053507bd1a6a07b2f3853f454631ecee8cec
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 14%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -74,7 +74,8 @@ Deze technische documentatiegids verstrekt zelfhulp voor Adobe **Mix Modeler**. 
     </td>
         <td>
       <img src="assets/Learn.svg" width="35px"><br/>
-      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=nl-NL"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=nl-NL"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=nl-NL"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=nl-NL"> Reis van het gebruikersinterface </a>
+      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=en"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=en"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=en"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=en"> Reis van het gebruikersinterface </a>
     </td>
   </tr>
 </table>
+
