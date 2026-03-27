@@ -3,10 +3,10 @@ title: Mix Modeler-gebruikskwesties
 description: Mix Modeler-gebruik.
 feature: Schemas, Datasets, Conversions, Harmonized Data, Marketing Touch Points, Models, Plans
 exl-id: cc82abec-d0ce-44bf-ad7e-fc379a394185
-source-git-commit: 1a9df9f9819d9e0031e58443ec6a9e755a151ba0
+source-git-commit: e6f24c96e873804b37011a1afafb7012d999fc1b
 workflow-type: tm+mt
-source-wordcount: '625'
-ht-degree: 0%
+source-wordcount: '641'
+ht-degree: 1%
 
 ---
 
@@ -34,9 +34,9 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/> pas bestaande investeringen in Adobe Analytics of Customer Journey Analytics op snelle plaatsing toe. |
+| Ingest | Identificeer en neem gegevensbronnen onder gemeenschappelijke schema&#39;s op. <br/>Pas bestaande investeringen in Adobe Analytics of Customer Journey Analytics toe op snelle implementatie. |
 | Configureren | Vorm flexibele modellen gebruikend een AI-as-a-Dienst kader voor uw specifieke bedrijfsdoelstellingen <br/> automatisch verzekeren consistentie tussen touchpoint &amp; samenvatting-niveau met bidirectioneel overdrachtleren. |
-| Analyseren | Duidelijk begrijpen de ROI van algemene marketing en individuele kanalen/subkanalen.<br/> begrijpt duidelijk welke aanraakpunten beste aandrijving stijgende omzettingen drijven. |
+| Analyseren | Begrijp duidelijk ROI van algemene marketing en individuele kanalen/subkanalen.<br/> begrijpt duidelijk welke touchpoints beste aandrijvingsstijgende omzettingen. |
 
 {style="table-layout:auto"}
 
@@ -73,9 +73,9 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 
 | Stap | Details |
 |---|---|
-| Configureren | Pas uw maatmodellen eenvoudig aan uw bedrijfsdoelstellingen aan.<br/> bepaalt parameters in een paar kliks, geen vereiste codering: bijvoorbeeld kanalen, geographies, verkoopcycli, vertragingen, interne &amp; externe bedrijfsfactoren, en meer. |
+| Configureren | Pas gemakkelijk metingsmodellen aan uw bedrijfsdoelstellingen aan.<br/> bepaalt parameters in een paar kliks, geen vereiste codering: bijvoorbeeld kanalen, geographies, verkoopcycli, vertragingen, interne &amp; externe bedrijfsfactoren, en meer. |
 | Trein | Lijn gevormde modellen AI/ML op om het beste te leren past op inputgegevens, die de nauwkeurigste resultaten verstrekken. |
-| Optimaliseren | Geniet van geautomatiseerde geoptimaliseerde begrotingstoewijzingen op basis van modelprognoses.<br/> ontwikkelt en vergelijkt veelvoudige begrotingsscenario&#39;s in een paar klikken gebruikend intuïtieve UI. |
+| Optimaliseren | Krijg geautomatiseerde geoptimaliseerde die begrotingstoewijzingen op modelprognoses worden gebaseerd.<br/> ontwikkelt en vergelijkt veelvoudige begrotingsscenario&#39;s in een paar kliks gebruikend intuïtieve UI. |
 
 {style="table-layout:auto"}
 
@@ -90,7 +90,8 @@ De succesvolle implementatie van dit gebruik kan de volgende gevolgen hebben:
 
 +++
 
-<!-- This use case is not supported with initial release
+<!--
+This use case is not supported with initial release
 
 ## Make data-driven inflight optimizations
 
@@ -154,8 +155,8 @@ De stapsgewijze benadering voor dit gebruiksgeval is:
 | Stap | Details |
 |---|---|
 | Model | Configureer en trainen een AI/ML-model om consistente MTA-aanraakpuntscores en MMM-aggregaatresultaten te verkrijgen. |
-| Analyseren | Exporteer incrementele aanraakpuntscores naar Customer Journey Analytics- of externe BI-gereedschappen.<br/> voert korrelige analyse uit en bouwt geavanceerde dashboards gebruikend touchpoint scores. |
-| Handeling | Maak en activeer lookalikes naar de meest gebruikte consumentensegmenten met Real-Time Customer Data Platform.<br/> ontwikkelt gegeven-gedreven marketing strategieën door klantensegmenten voor toekomstige campagnes. |
+| Analyseren | De stijgende aanraakpuntscores van de uitvoer in Customer Journey Analytics of externe hulpmiddelen van BI.<br/> voert korrelige analyse uit en bouwt geavanceerde dashboards gebruikend aanraakpuntscores. |
+| Actie | Creeer en activeer linksom aan hoogste consumentensegmenten gebruikend Real-Time Customer Data Platform.<br/> ontwikkelt gegeven-gedreven marketing strategieën door klantensegmenten voor toekomstige campagnes. |
 
 {style="table-layout:auto"}
 
