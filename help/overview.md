@@ -74,7 +74,7 @@ Deze technische documentatiegids verstrekt zelfhulp voor Adobe **Mix Modeler**. 
     </td>
         <td>
       <img src="assets/Learn.svg" width="35px"><br/>
-      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=en"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=en"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=en"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=en"> Reis van het gebruikersinterface </a>
+      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=nl-NL"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=nl-NL"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=nl-NL"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=nl-NL"> Reis van het gebruikersinterface </a>
     </td>
   </tr>
 </table>
