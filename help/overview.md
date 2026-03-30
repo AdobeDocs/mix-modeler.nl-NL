@@ -4,7 +4,7 @@ description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt
 short-description: Leer hoe u campagnes kunt meten en de planning op alle kanalen kunt optimaliseren met Mix Modeler.
 feature: Harmonized Data, Models, Plans
 exl-id: 3427c338-f2a0-416b-bb4c-d8fef929c38a
-source-git-commit: 7581053507bd1a6a07b2f3853f454631ecee8cec
+source-git-commit: be8ff78c9f286356e9335b81f11a4efb07e39956
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -74,8 +74,7 @@ Deze technische documentatiegids verstrekt zelfhulp voor Adobe **Mix Modeler**. 
     </td>
         <td>
       <img src="assets/Learn.svg" width="35px"><br/>
-      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=nl-NL"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=nl-NL"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=nl-NL"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=nl-NL"> Reis van het gebruikersinterface </a>
+      <strong> Leerprogramma's </strong><br/> <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/overview.html?lang=en"> Overzicht </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/use-cases.html?lang=en"> De gevallen van het Gebruik </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-workflow.html?lang=en"> het werkschema van de Gebruiker </a> - <a href="https://experienceleague.adobe.com/docs/mix-modeler-learn/tutorials/intro/user-interface-tour.html?lang=en"> Reis van het gebruikersinterface </a>
     </td>
   </tr>
 </table>
-
