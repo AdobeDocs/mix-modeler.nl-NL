@@ -1,12 +1,12 @@
 ---
 title: Modellen maken in Mix Modeler
-description: Leer hoe u modellen bouwt in Mix Modeler, inclusief het instellen, configureren en opgeven van geavanceerde opties voor het model.
+description: Leer hoe u modellen bouwt in Mix Modeler, inclusief het instellen, configureren en opgeven van geavanceerde opties voor het model. Zoals omzettingsdoelstellingen, touchpoints, adstock, en het plannen.
 feature: Models
 solution: Mix Modeler
 exl-id: e1093c09-1e23-460b-92de-cfb0061112fd
-source-git-commit: efe31b517c1a6be518101fa8266b020348241b98
+source-git-commit: dd7a7260464b27b8ef257004b1c2a64d70ffe122
 workflow-type: tm+mt
-source-wordcount: '1275'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Om uw douaneAI-aangedreven modellen te bouwen, verstrekt de interface een stap-voor-stap geleide modelconfiguratiestroom.
 
-In de ![&#x200B; interface van Modellen &#x200B;](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in Mix Modeler, uitgezochte **[!UICONTROL Open model canvas]**.
+In de ![ Modellen ](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** interface in [!DNL Mix Modeler], uitgezochte **[!UICONTROL Open model canvas]**.
 
 ## Instellen
 
@@ -23,11 +23,11 @@ U definieert een naam en een beschrijving in de stap **[!UICONTROL Setup]** :
 
 1. Voer uw model in **[!UICONTROL Name]**, bijvoorbeeld `Demo model` . Voer een **[!UICONTROL Description]** in, bijvoorbeeld `Demo model to explore AI features of Mix Modeler` .
 
-   ![&#x200B; Modelnaam en beschrijving &#x200B;](/help/assets/model-name-description.png)
+   ![ Modelnaam en beschrijving ](/help/assets/model-name-description.png)
 
 1. Selecteer **[!UICONTROL Next]** om door te gaan naar de volgende stap. Selecteer **[!UICONTROL Cancel]** om de modelconfiguratie te annuleren.
 
-## Configureren{#configure}
+## Configureren {#configure}
 
 >[!CONTEXTUALHELP]
 >id="model_marketingtouchpoints_select"
@@ -39,25 +39,25 @@ U configureert uw model in de stap **[!UICONTROL Configure]** . De configuratie 
 
 1. In de sectie **[!UICONTROL Conversion goal]** :
 
-   ![&#x200B; Model - omzettingsstap &#x200B;](/help/assets/model-conversion-step.png)
+   ![ Model - omzettingsstap ](/help/assets/model-conversion-step.png)
 
-   1. Selecteer een conversie in het vervolgkeuzemenu **[!UICONTROL Conversion]** . De beschikbare omzettingen zijn de omzetting die u als deel van [&#x200B; Conversies &#x200B;](../harmonize-data/conversions.md) in [!UICONTROL Harmonized datasets] bepaalde. Bijvoorbeeld **[!UICONTROL Online Conversion]** .
+   1. Selecteer een conversie in het vervolgkeuzemenu **[!UICONTROL Conversion]** . De beschikbare omzettingen zijn de omzettingen die u als deel van [ Conversies ](../harmonize-data/conversions.md) in [!UICONTROL Harmonized datasets] bepaalde. Bijvoorbeeld **[!UICONTROL Online Conversion]** .
 
-   1. U kunt ![&#x200B; LinkOutLight &#x200B;](/help/assets/icons/LinkOutLight.svg) selecteren **[!UICONTROL Create a conversion]** om een omzetting van binnen de modelconfiguratie direct tot stand te brengen.
-
-
-
-1. In de **[!UICONTROL Marketing touchpoints]** sectie, kunt u één of meerdere marketing aanraakpunten selecteren, die aan de marketing aanraakpunten beantwoorden u als deel van [&#x200B; de Aanbiedingspunten van de Marketing &#x200B;](../harmonize-data/marketing-touchpoints.md) in [!UICONTROL Harmonized datasets] bepaalde.
+   1. U kunt ![ LinkOutLight ](/help/assets/icons/LinkOutLight.svg) selecteren **[!UICONTROL Create a conversion]** om een omzetting van binnen de modelconfiguratie direct tot stand te brengen.
 
 
-   ![&#x200B; Model - marketing touchpoint stap &#x200B;](/help/assets/model-marketing-touchpoint-step.png)
+
+1. In de **[!UICONTROL Marketing touchpoints]** sectie, kunt u één of meerdere marketing aanraakpunten selecteren, die aan de marketing aanraakpunten beantwoorden u als deel van [ de Aanbiedingspunten van de Marketing ](../harmonize-data/marketing-touchpoints.md) in [!UICONTROL Harmonized datasets] bepaalde.
+
+
+   ![ Model - marketing touchpoint stap ](/help/assets/model-marketing-touchpoint-step.png)
 
    1. Selecteer een of meer marketingaanraakpunten in het vervolgkeuzemenu **[!UICONTROL Touchpoint include]** .
 
-      * U kunt ![&#x200B; gebruiken CrossSize75 &#x200B;](/help/assets/icons/CrossSize75.svg) om een touchpoint te verwijderen.
+      * U kunt ![ gebruiken CrossSize75 ](/help/assets/icons/CrossSize75.svg) om een touchpoint te verwijderen.
       * Met **[!UICONTROL Clear all]** kunt u alle aanraakpunten verwijderen.
 
-   1. U kunt ![&#x200B; LinkOutLight &#x200B;](/help/assets/icons/LinkOutLight.svg) selecteren **[!UICONTROL Create a touchpoint]** om een marketing contactpunt van binnen de modelconfiguratie direct tot stand te brengen.
+   1. U kunt ![ LinkOutLight ](/help/assets/icons/LinkOutLight.svg) selecteren **[!UICONTROL Create a touchpoint]** om een marketing contactpunt van binnen de modelconfiguratie direct tot stand te brengen.
 
    >[!NOTE]
    >
@@ -65,7 +65,7 @@ U configureert uw model in de stap **[!UICONTROL Configure]** . De configuratie 
 
 1. Standaard wordt een score gegenereerd voor alle gegevens in de geharmoniseerde weergave. Als u alleen een subset van de populatie wilt scoren, definieert u een of meer filters met behulp van containers in de sectie **[!UICONTROL Eligible data population]** .
 
-   ![&#x200B; Model - In aanmerking komende gegevenspopulatie &#x200B;](/help/assets/model-eligible-data-population-step.png)
+   ![ Model - In aanmerking komende gegevenspopulatie ](/help/assets/model-eligible-data-population-step.png)
 
    * Definieer voor elke container een of meer gebeurtenissen.
 
@@ -77,135 +77,159 @@ U configureert uw model in de stap **[!UICONTROL Configure]** . De configuratie 
 
          1. Ga of selecteer een waarde bij **[!UICONTROL _binnen of selecteer waarde_]**.
 
-      1. Om een extra gebeurtenis in de container toe te voegen, voegt de uitgezochte ![&#x200B; &#x200B;](/help/assets/icons/AddCircle.svg) toe **[!UICONTROL Add event]**.
+      1. Om een extra gebeurtenis in de container toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) toe **[!UICONTROL Add event]**.
 
-      1. Om een gebeurtenis uit de container te verwijderen, uitgezochte ![&#x200B; Sluiten &#x200B;](/help/assets/icons/CrossSize75.svg).
+      1. Om een gebeurtenis uit de container te verwijderen, uitgezochte ![ Sluiten ](/help/assets/icons/CrossSize75.svg).
 
       1. Selecteer **[!UICONTROL Any of]** of **[!UICONTROL All of]** als u wilt filteren met alle of een van de meerdere gebeurtenissen die in de container zijn gedefinieerd. Het label verandert dienovereenkomstig van **[!UICONTROL Include ... Or ...]** in **[!UICONTROL Include ... And ...]** .
 
-   * Om een in aanmerking komende container van de gegevenspopulatie toe te voegen, voegt de uitgezochte ![&#x200B; &#x200B;](/help/assets/icons/AddCircle.svg) toe **[!UICONTROL Add eligible population]**.
+   * Om een in aanmerking komende container van de gegevenspopulatie toe te voegen, voegt de uitgezochte ![ ](/help/assets/icons/AddCircle.svg) toe **[!UICONTROL Add eligible population]**.
 
-   * Om een in aanmerking komende container van de gegevenspopulatie, binnen de container te verwijderen, selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg), en selecteer **[!UICONTROL Remove container]** van het contextmenu.
+   * Om een in aanmerking komende container van de gegevenspopulatie, binnen de container te verwijderen, selecteer ![ Meer ](/help/assets/icons/More.svg), en selecteer **[!UICONTROL Remove container]** van het contextmenu.
 
    * Selecteer **en** en **of** tussen containers om complexere definities voor uw in aanmerking komende gegevenspopulatie te bouwen.
 
 1. U kunt gegevenssets met interne of externe factoren beheren in de sectie **[!UICONTROL Factor dataset]** .
 
-   ![&#x200B; Model - de stap van de dataset van de Factor &#x200B;](../assets/model-factors-dataset-step.png)
+   ![ Model - de stap van de dataset van de Factor ](../assets/model-factors-dataset-step.png)
 
    * Selecteer **[!UICONTROL Add Factor]** als u een factorgegevensset wilt toevoegen. U kunt maximaal 30 factoren aan een model toevoegen.
 
-      1. Selecteer een **[!UICONTROL Factor dataset]** in de keuzelijst. De beschikbare factoren zijn de factoren waarvoor u een geharmoniseerd gebied in [&#x200B; datasetregels &#x200B;](/help/harmonize-data/dataset-rules.md#create-a-dataset-rule) hebt bepaald.
-Gebaseerd op de geselecteerde dataset, is **&#x200B; [!UICONTROL Factor type**] of **[!UICONTROL Internal]** of **[!UICONTROL External]**.
+      1. Selecteer een **[!UICONTROL Factor dataset]** in de keuzelijst. De beschikbare factoren zijn de factoren waarvoor u een geharmoniseerd gebied in [ datasetregels ](/help/harmonize-data/dataset-rules.md#create-a-dataset-rule) hebt bepaald.
+Op basis van de geselecteerde dataset is **[!UICONTROL Factor type]** ofwel **[!UICONTROL Internal]** ofwel **[!UICONTROL External]** .
 
       1. Selecteer **[!UICONTROL Impact on conversion]** van het drop-down menu. Beschikbare opties zijn: **[!UICONTROL Auto]**, **[!UICONTROL Positive]** of **[!UICONTROL Negative]** . De standaardoptie is **[!UICONTROL Auto]**, wat het model toestaat om het effect van de factordataset te bepalen.
 
-   * Om een factordataset te schrappen, uitgezochte ![&#x200B; CrossSize200 &#x200B;](/help/assets/icons/CrossSize400.svg).
-
-
+   * Om een factordataset te schrappen, uitgezochte ![ CrossSize200 ](/help/assets/icons/CrossSize400.svg).
 
 
 1. Voer een waarde in tussen `1` en `52` in **[!UICONTROL Give contribution credit to touchpoints occurring within]** ... **[!UICONTROL weeks prior to the conversion]** in de sectie **[!UICONTROL Define lookback window]** om het terugzoekvenster voor het model te definiëren.
 
+1. Als u het trainingsvenster voor een model wilt definiëren, kiest u in **[!UICONTROL Define training window]** waar u de conversies wilt scoren.
+
+   ![ Model - bepaal opleidingsvenster ](/help/assets/model-define-training-window.png)
+
+   U kunt kiezen tussen:
+
+   * **[!UICONTROL Have Mix Modeler select a helpful training window]** en
+
+   * **[!UICONTROL Manually input a training window]**. Wanneer deze optie is geselecteerd, definieert u het aantal jaren in **[!UICONTROL Include events the following years prior to a conversion]** .
+
+   Deze invoer is vereist voor een model. Het aantal jaren bepaalt hoe het kanaaladstock, dat u in de **[!UICONTROL Advanced]** stap kunt vormen, beperkt is.
+
 1. Selecteer **[!UICONTROL Next]** om door te gaan naar de volgende stap. Als er meer configuratie nodig is, wordt met een rode omtrek en tekst uitgelegd welke aanvullende configuratie vereist is. <br/>Selecteer **[!UICONTROL Back]** om terug te gaan naar de vorige stap. <br/>Selecteer **[!UICONTROL Cancel]** om de modelconfiguratie te annuleren.
 
 
-## Geavanceerd
+## Geavanceerd {#advanced}
 
 >[!CONTEXTUALHELP]
 >id="model_advanced_channeladstock"
 >title="Kanaalpapier"
->abstract="Neem domeindeskundigheid, experimentatieresultaten, of vorige kanaalanalyses direct in modelopstelling op. De hulp van de configuratiehulp van het personeel begeleidt het model om zich aan real-world verwachtingen te richten en verbetert interpretabiliteit en vertrouwen in de output. Het totaal van terugkijkweken plus vertragingsweken per kanaal wordt beperkt tot achtste van het gevormde trainingsvenster. Met deze uiteinden beschikt u over voldoende gegevens om het model de effecten van de advertentie-voorraad te laten zien."
+>abstract="Neem domeindeskundigheid, experimentatieresultaten, of vorige kanaalanalyses direct in modelopstelling op. De hulp van de configuratiehulp van het personeel begeleidt het model om zich aan real-world verwachtingen te richten en verbetert interpretabiliteit en vertrouwen in de output. Het totaal van terugkijkweken plus vertragingsweken per kanaal wordt beperkt tot achtste van het gevormde trainingsvenster. Met dit uiteinde beschikt u over voldoende gegevens om het model de kleureffecten te laten zien."
 
-U kunt geavanceerde instellingen opgeven in de stap **[!UICONTROL Advanced]** . In deze stap kunt u uw model inschakelen voor multitouch-kenmerk (MTA).
+U kunt geavanceerde instellingen opgeven in de stap **[!UICONTROL Advanced]** . In deze stap, kunt u [ uitgeven aandeel ](#spend-share), uw model voor [ multi-aanrakingsattributie (MTA) ](#mta) toelaten, [ vroegere kennis ](#prior-knowledge) bepalen en [ kanaaladstock ](#channel-adstock) bepalen.
 
-1. In de sectie **[!UICONTROL Spend share]** :
+### Delen van uitgaven
 
-   * Activeer **[!UICONTROL Allow spend share]** als u historische investeringsverhoudingen voor marketing wilt gebruiken om het model op de hoogte te brengen wanneer er weinig marketinggegevens beschikbaar zijn. Deze instelling wordt aanbevolen, vooral in de volgende scenario&#39;s:
-      * Een kanaal heeft niet genoeg observaties (bijvoorbeeld lage bestedingsfrequentie, indrukken of klikken).
-      * U modelleert de pieken, maar regelmatig, en potentieel hoge bestedende media (zoals TV voor sommige merken), waar de gegevens kunnen gering zijn.
+In de sectie **[!UICONTROL Spend share]** :
 
-     >[!NOTE]
-     >
-     >Voor eenmalige investeringen (bijvoorbeeld een Super Bowl-advertentie) is het wellicht beter om die gegevens als factor in te voeren in plaats van te vertrouwen op het aandeel in de uitgaven.
-     >
+* Activeer **[!UICONTROL Allow spend share]** als u historische investeringsverhoudingen voor marketing wilt gebruiken om het model op de hoogte te brengen wanneer er weinig marketinggegevens beschikbaar zijn. Deze instelling wordt aanbevolen, vooral in de volgende scenario&#39;s:
+   * Een kanaal heeft niet genoeg observaties (bijvoorbeeld lage bestedingsfrequentie, indrukken of klikken).
+   * U modelleert de pieken, maar regelmatig, en potentieel hoge bestedende media (zoals TV voor sommige merken), waar de gegevens kunnen gering zijn.
+
+  >[!NOTE]
+  >
+  >Voor eenmalige investeringen (bijvoorbeeld een Super Bowl-advertentie), neemt u die gegevens op als factor in plaats van te vertrouwen op een aandeel in de uitgaven.
+  >
+
+### MTA
+
+In de sectie **[!UICONTROL MTA enabled]** :
+
+* Activeer **[!UICONTROL MTA enabled]** als u MTA-functies voor het model wilt inschakelen. Als u MTA hebt ingeschakeld, zijn de multi-touchkenmerkinzichten beschikbaar nadat u uw model hebt getraind en gescoord. Zie het [ lusje van de Attributie ](insights.md#attribution) in [ Modelinzichten ](insights.md).
 
 
-1. In de sectie **[!UICONTROL MTA enabled]** :
+### Voorafgaande kennis
 
-   * Activeer **[!UICONTROL MTA enabled]** als u MTA-functies voor het model wilt inschakelen. Als u MTA hebt ingeschakeld, zijn de multi-touchkenmerkinzichten beschikbaar nadat u uw model hebt getraind en gescoord. Zie het [&#x200B; lusje van de Attributie &#x200B;](insights.md#attribution) in [&#x200B; Modelinzichten &#x200B;](insights.md).
+In de sectie **[!UICONTROL Prior knowledge]** :
 
-1. In de sectie **[!UICONTROL Prior knowledge]** :
+![ Model - Voorafgaande kennis ](/help/assets/model-prior-knowledge-step.png)
 
-   ![&#x200B; Model - Voorafgaande kennis &#x200B;](/help/assets/model-prior-knowledge-step.png)
+1. Selecteer de **[!UICONTROL Rule type]** , die standaard is **[!UICONTROL Absolute values]** .
 
-   1. Selecteer de **[!UICONTROL Rule type]** , die standaard is **[!UICONTROL Absolute values]** .
+1. Geef met de kolom **[!UICONTROL Contribution proportion]** bijdragepercentages op voor elk van de kanalen die onder **[!UICONTROL Name]** worden vermeld.
 
-   1. Geef met de kolom **[!UICONTROL Contribution proportion]** bijdragepercentages op voor elk van de kanalen die onder **[!UICONTROL Name]** worden vermeld.
+1. Indien van toepassing, kunt u voor elk kanaal een **[!UICONTROL Level of confidence]** percentage toevoegen.
 
-   1. Indien van toepassing, kunt u voor elk kanaal een **[!UICONTROL Level of confidence]** percentage toevoegen.
+1. Gebruik indien nodig **[!UICONTROL Clear all]** om alle invoerwaarden voor de kolommen **[!UICONTROL Contribution proportion]** en **[!UICONTROL Level of confidence]** te wissen.
 
-   1. Gebruik indien nodig **[!UICONTROL Clear all]** om alle invoerwaarden voor de kolommen **[!UICONTROL Contribution proportion]** en **[!UICONTROL Level of confidence]** te wissen.
+
+### Kanaalpapier
+
+In de sectie **[!UICONTROL Channel adstock]** kunt u afzonderlijke adstock lookbacks (overdrachts- of verval-effecten) en vertraging (vertraagde responstijd) definiëren voor elk kanaal (marketingkanaal) dat u in het model hebt gedefinieerd.
+
+Deze kanaalvoorraadconfiguratie staat voor fijnkorrelige controle op toe hoe de verschillende marketing kanalen bedrijfsresultaten in tijd beïnvloeden. Alternatief, kunt u systeemgebreken en een one-size-pasvorm-al configuratie gebruiken.
+
+Met de configuratie van het kanaalprofiel kunt u kanaalspecifieke nuances vastleggen. Bijvoorbeeld de langdurige impact van televisiecampagnes, de kortstondige impact van betaalde zoekopdrachten, of de achterstand tussen invloedrijke uitgaven en waarneembare omzettingen. Experimenteer met parameters voor het terugzoeken en achterlaten van bestanden om nauwkeuriger, op maat gesneden en betrouwbaardere inzichten te genereren. Uiteindelijk, kan een kanaalvoorraadconfiguratie tot preciezere begrotingstoewijzingen en betere bedrijfsbesluiten leiden.
+
+![ Adstock van het Kanaal ](/help/assets/channel-ad-stock.png)
+
+Kanaalgegevens configureren:
+
+* Definieer voor elk kanaal (**[!UICONTROL Name]**) een waarde **[!UICONTROL Lag (weeks)]** , a **[!UICONTROL Min Lookback (weeks)]** en **[!UICONTROL Max Lookback (weeks)]** . Voor elke waarde:
+
+   * Het gebruik ![ voegt ](/help/assets/icons/Add.svg) toe om een waarde te verhogen, ![ trekt ](/help/assets/icons/Subtract.svg) af om een waarde te verminderen, of gaat manueel een waarde in.
+
+  Het totaal van achterloopweken plus maximum terugkijkweken per kanaal wordt beperkt tot achtste van het gevormde trainingsvenster. Met dit uiteinde beschikt u over voldoende gegevens om het model de kleureffecten te laten zien. Als voorbeeld geldt dat voor een trainingsvenster van twee jaar het maximum van **[!UICONTROL Lag (weeks)]** en **[!UICONTROL Lookback (weeks)]** voor een kanaal 13 weken is. Deze limiet wordt toegepast wanneer u de waarden definieert.
 
 
 ## Opties instellen
 
-U kunt [&#x200B; opleiding en het scoren &#x200B;](#schedule) plannen, [&#x200B; opleidingsvenster &#x200B;](#training-window) bepalen, en [&#x200B; granulaire inzichten specificeren die gebieden &#x200B;](#granular-insights-reporting-fields) voor uw model in de **[!UICONTROL Set options]** stap melden.
+U kunt [ opleiding en het scoren ](#schedule) plannen, en [ granulaire inzichten specificeren die gebieden ](#granular-insights-reporting-fields) voor uw model in de **[!UICONTROL Set options]** stap melden.
 
 
 ### Schema
 
 In de sectie **[!UICONTROL Schedule]** kunt u modeltraining en -scoring plannen.
 
-![&#x200B; model van het Programma &#x200B;](../assets/model-schedule.png)
+![ model van het Programma ](../assets/model-schedule.png)
 
-Aan geplande modelscore en opleiding:
+U kunt als volgt de modelscore en -training plannen:
 
 1. Schakel **[!UICONTROL Enable scheduled model scoring and training]** in.
 1. Selecteer een **[!UICONTROL Scoring frequency]** :
 
-   * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
-   * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
-   * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![&#x200B; Klok &#x200B;](/help/assets/icons/Clock.svg).
+   * **[!UICONTROL Daily]**: Ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+   * **[!UICONTROL Weekly]**: Selecteer een dag van de week en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
+   * **[!UICONTROL Monthly]**: Selecteer een dag van de maand van de Looppas op elk dropdown menu en ga een geldige tijd (bijvoorbeeld `05:22 pm`) in of gebruik ![ Klok ](/help/assets/icons/Clock.svg).
 
 1. Selecteer een **[!UICONTROL Training frequency]** in de vervolgkeuzelijst: **[!UICONTROL Monthly]** , **[!UICONTROL Quarterly]** , **[!UICONTROL Yearly]** of **[!UICONTROL None]** .
 
 
-### Trainingsvenster
-
-Selecteer in de sectie **[!UICONTROL Define training window]** tussen:
-
-![&#x200B; Model - bepaal opleidingsvenster &#x200B;](/help/assets/model-define-training-window.png)
-
-* **[!UICONTROL Have Mix Modeler select a helpful training window]** en
-
-* **[!UICONTROL Manually input a training window]**. Wanneer deze optie is geselecteerd, definieert u het aantal jaren in **[!UICONTROL Include events the following years prior to a conversion]** .
-
-
 ### Rapportvelden voor korrelinzichten
 
-De sectie **[!UICONTROL Granular insights reporting fields]** gebruikt de rapportfunctionaliteit voor granulaire incrementele getallen. Met deze functionaliteit kunt u geharmoniseerde velden selecteren voor het uitsplitsen van conversie- en aanraakpuntincrementele scores.
+De sectie **[!UICONTROL Granular insights reporting fields]** gebruikt de rapportfunctionaliteit voor granulaire incrementele getallen. Met deze functionaliteit kunt u geharmoniseerde velden selecteren om conversie- en aanraakpuntincrementele scores op te splitsen.
 
-![&#x200B; bepaalt korrelige inzichten die gebieden &#x200B;](/help/assets/granular-insights-reporting-fields.png) melden
+![ bepaalt korrelige inzichten die gebieden ](/help/assets/granular-insights-reporting-fields.png) melden
 
 U definieert deze geharmoniseerde velden, zodat u in de rapportage van uw model verder kunt gaan met behulp van granulaire rapportkolommen in plaats van afzonderlijke modellen te maken.
 
 Bijvoorbeeld, bouwt u een model dat op opbrengst wordt geconcentreerd, maar u bent ook geinteresseerd in de campagnes, media types, gebieden, en de prestaties van verkeersbronnen. Zonder de korrelige incrementele rapportfunctionaliteit, zou u vier afzonderlijke modellen moeten bouwen. Met de korrelige incrementele rapportfunctionaliteit, kunt u uw opbrengstmodel op campagnes, media types, gebieden, en verkeersbronnen breken.
 
 1. Selecteer één of meerdere geharmoniseerde gebieden van **[!UICONTROL _Uitgezochte geharmoniseerde gebieden_]** onderaan **[!UICONTROL Includes]**. De geselecteerde geharmoniseerde velden worden toegevoegd aan het deelvenster.
-1. Selecteer **[!UICONTROL *Geharmoniseerd gebied *]**![&#x200B; CrossSize100 &#x200B;](/help/assets/icons/CrossSize100.svg) om een geharmoniseerd gebied uit de container met de geselecteerde geharmoniseerde gebieden te verwijderen.
+1. Selecteer **[!UICONTROL *Geharmoniseerd gebied *]**![ CrossSize100 ](/help/assets/icons/CrossSize100.svg) om een geharmoniseerd gebied uit de container met de geselecteerde geharmoniseerde gebieden te verwijderen.
 1. Selecteer **[!UICONTROL Clear all]** om alle geselecteerde geharmoniseerde velden te verwijderen.
 
-De geselecteerde geharmoniseerde gebieden voor granulaire incrementele rapportering zijn beschikbaar als deel van het schema van Experience Platform [&#x200B; &#x200B;](/help/ingest-data/schemas.md) en [&#x200B; dataset &#x200B;](/help/ingest-data/datasets.md) die uit het scoren van het model voortvloeit. U vindt de rapportvelden voor gedetailleerde inzichten in de objecten **[!UICONTROL conversionPassthrough]** en **[!UICONTROL touchpointPassthrough]** .
+De geselecteerde geharmoniseerde gebieden voor granulaire incrementele rapportering zijn beschikbaar als deel van het schema van Experience Platform [ ](/help/ingest-data/schemas.md) en [ dataset ](/help/ingest-data/datasets.md) die uit het scoren van het model voortvloeit. U vindt de rapportvelden voor gedetailleerde inzichten in de objecten **[!UICONTROL conversionPassthrough]** en **[!UICONTROL touchpointPassthrough]** .
 
-![&#x200B; Screenshot van de voorwerpen conversionPassthrough en touchpointPassthrough in een schema voor een model dat voor korrelige incrementele incrementele rapportering wordt toegelaten &#x200B;](/help/assets/schema-granular-insights-reporting.png)
+![ Screenshot van de voorwerpen conversionPassthrough en touchpointPassthrough in een schema voor een model dat voor korrelige incrementele incrementele rapportering wordt toegelaten ](/help/assets/schema-granular-insights-reporting.png)
 
 
 ## Voltooien
 
 * Selecteer **[!UICONTROL Finish]** om de modelconfiguratie te voltooien.
 
-   * Selecteer **[!UICONTROL Ok]** in het dialoogvenster **[!UICONTROL Create instance?]** om de eerste reeks training en scoring direct te starten. Uw model is vermeld met status ![&#x200B; StatusOrange &#x200B;](/help/assets/icons/StatusOrange.svg) **[!UICONTROL Awaiting training]**.
+   * Selecteer **[!UICONTROL Ok]** in het dialoogvenster **[!UICONTROL Create instance?]** om de eerste reeks training en scoring direct te starten. Uw model is vermeld met status ![ StatusOrange ](/help/assets/icons/StatusOrange.svg) **[!UICONTROL Awaiting training]**.
 
      Selecteer **[!UICONTROL Cancel]** om te annuleren.
 
