@@ -2,7 +2,8 @@
 title: Train- en scoremodellen
 description: Leer modellen op te leiden en te scoren.
 feature: Models
-source-git-commit: 6855d19347b7f6f1477a6265310df5950b8463c9
+exl-id: c4fbe13e-4548-421b-ba90-274fc42f4be2
+source-git-commit: 7836e378a0f9068fc868dcede0ab8b3e2803776a
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Train- en scoremodellen
 
-Nadat u [&#128279;](/help/models/build.md) een model hebt gebouwd, wordt het model automatisch getraind en gescoord. U kunt een model handmatig opnieuw trainen of opnieuw centreren.
+Nadat u [ ](/help/models/build.md) een model hebt gebouwd, wordt het model automatisch getraind en gescoord. U kunt een model handmatig opnieuw trainen of opnieuw centreren.
 
 ## Trein
 
@@ -21,15 +22,15 @@ Een model omscholen:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
-1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![&#x200B; DataRefresh &#x200B;](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Train]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Train]** van de blauwe actiebar.
 
    Selecteer in het dialoogvenster **[!UICONTROL Train model]** de optie die u wilt:
 
    * **[!UICONTROL Train model with last 2 years of marketing data]** , of
    * **[!UICONTROL Train model using specific date range of data]**.
-Geef het datumbereik op. U kunt de ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
+Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren. U moet een gegevensbereik selecteren met minimaal één jaar.
 
-   ![&#x200B; keert een model &#x200B;](../assets/retrain-model.png) terug
+   ![ keert een model ](../assets/retrain-model.png) terug
 
 1. Selecteer **[!UICONTROL Train]** om het model opnieuw te trainen.
 
@@ -51,19 +52,18 @@ Een model scoren of opnieuw centreren:
 
 1. Selecteer ![](/help/assets/icons/FileData.svg) **[!UICONTROL Models]** in het linkerspoor.
 
-1. Selecteer ![&#x200B; Meer &#x200B;](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![&#x200B; DataRefresh &#x200B;](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
+1. Selecteer ![ Meer ](/help/assets/icons/More.svg) voor een model, en van het contextmenu uitgezocht **[!UICONTROL Score]**. Alternatief, selecteer ![ DataRefresh ](/help/assets/icons/DataRefresh.svg) **[!UICONTROL Score]** van de blauwe actiebar.
 
    Selecteer in het dialoogvenster **[!UICONTROL Score marketing data]** de optie die u wilt:
 
    * **[!UICONTROL Score new marketing data from *mm/dd/yyyy *]**, om uw model incrementeel te behalen gebruikend nieuwe marketing gegevens, of
    * **[!UICONTROL Score specific date range of marketing data]** om opnieuw te centreren voor een specifiek datumbereik.
-Geef het datumbereik op. U kunt de ![&#x200B; Kalender &#x200B;](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
+Geef het datumbereik op. U kunt de ![ Kalender ](/help/assets/icons/Calendar.svg) gebruiken om een datumwaaier te selecteren.
 
-   ![&#x200B; Rescore a model &#x200B;](../assets/rescore-model.png)
+   ![ Rescore a model ](../assets/rescore-model.png)
 
-1. Selecteer **[!UICONTROL Score]** . Wanneer u een model opnieuw scant met een specifiek gegevensbereik, wordt een dialoogvenster **[!UICONTROL Existing model is replaced]** weergegeven waarin u wordt gevraagd te bevestigen dat u het model wilt vervangen door nieuwe scores voor het geselecteerde datumbereik. Selecteer **[!UICONTROL Replace model]** om te bevestigen.
+1. Selecteer **[!UICONTROL Score]** . Wanneer u een model opnieuw corruleert met een specifiek gegevensbereik, wordt een dialoogvenster **[!UICONTROL Existing model is replaced]** weergegeven waarin u wordt gevraagd te bevestigen dat u het model wilt vervangen door nieuwe scores voor het geselecteerde datumbereik. Selecteer **[!UICONTROL Replace model]** om te bevestigen.
 
 >[!IMPORTANT]
 >
 >De recore van een model verandert geen Abonnementen die reeds gebaseerd op het opnieuw bestelde model worden gecreeerd. Om het nieuwe opnieuw begeleide model in een plan te gebruiken, moet u een nieuw plan tot stand brengen.
-
